@@ -1,0 +1,102 @@
+[
+  {
+    "materia": "informatica",
+    "frente": "Qual atalho bloqueia a sessão do Windows sem fechar os programas?",
+    "verso": "Windows + L."
+  },
+  {
+    "materia": "informatica",
+    "frente": "O que faz Shift + Delete no Explorador de Arquivos?",
+    "verso": "Exclui o item sem enviá-lo à Lixeira."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Arrastar um arquivo com o mouse entre unidades diferentes faz o quê, por padrão? E na mesma unidade?",
+    "verso": "Entre unidades diferentes: copia. Na mesma unidade: move. Ctrl força cópia, Shift força movimento, Alt cria atalho."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Qual atalho abre o histórico da área de transferência no Windows 10/11?",
+    "verso": "Windows + V (o histórico precisa estar ativado)."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Sintaxe do SOMASE no Excel",
+    "verso": "=SOMASE(intervalo_critério; critério; [intervalo_soma]). Ex.: =SOMASE(A2:A7;\"Norte\";B2:B7)."
+  },
+  {
+    "materia": "informatica",
+    "frente": "PROCV com VERDADEIRO x FALSO",
+    "verso": "VERDADEIRO: correspondência aproximada (maior valor menor ou igual; exige 1ª coluna em ordem crescente). FALSO: correspondência exata; se não achar, #N/D."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Ordem dos argumentos do PROCX",
+    "verso": "=PROCX(valor_procurado; matriz_pesquisa; matriz_retorno; [se_não_encontrado]; [modo_correspondência]; [modo_pesquisa])."
+  },
+  {
+    "materia": "informatica",
+    "frente": "O que o cifrão faz em =$A2+B$1?",
+    "verso": "$A2: coluna fixa, linha muda ao copiar. B$1: linha fixa, coluna muda. $A$1 fixa as duas."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Ordem de precedência dos operadores no Excel",
+    "verso": "Parênteses, exponenciação (^), multiplicação e divisão, adição e subtração, concatenação (&) e comparação. Ex.: =2+3*2^2 = 14."
+  },
+  {
+    "materia": "informatica",
+    "frente": "A função MÉDIA considera células vazias e com texto dentro de um intervalo?",
+    "verso": "Não. Ignora ambas e divide a soma apenas pela quantidade de números."
+  },
+  {
+    "materia": "informatica",
+    "frente": "PowerPoint: F5 x Shift + F5",
+    "verso": "F5 inicia a apresentação do primeiro slide; Shift + F5 inicia do slide atual."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Word: Ctrl + Enter x Shift + Enter",
+    "verso": "Ctrl + Enter insere quebra de página; Shift + Enter insere quebra de linha no mesmo parágrafo."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Para que serve o campo Cco no e-mail?",
+    "verso": "Envia cópia oculta: os endereços em Cco não aparecem para os demais destinatários."
+  },
+  {
+    "materia": "informatica",
+    "frente": "IMAP x POP3 x SMTP",
+    "verso": "IMAP: recebe e sincroniza, mantendo as mensagens no servidor. POP3: baixa as mensagens para o dispositivo. SMTP: envia."
+  },
+  {
+    "materia": "informatica",
+    "frente": "O que a navegação anônima/InPrivate NÃO faz?",
+    "verso": "Não esconde o tráfego do provedor, da rede ou dos sites, não protege contra malware e não anonimiza quem faz login. Só não guarda histórico, cookies e formulários da sessão."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Backup incremental x diferencial",
+    "verso": "Incremental: copia o que mudou desde o último backup de qualquer tipo; restaura com o completo + todos os incrementais. Diferencial: copia o que mudou desde o último completo; restaura com o completo + o último diferencial."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Worm x vírus",
+    "verso": "O vírus precisa de um hospedeiro e da execução dele; o worm se propaga sozinho pela rede explorando vulnerabilidades."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Assinatura digital: qual chave assina e qual verifica?",
+    "verso": "Assina com a chave privada do remetente; verifica com a chave pública do remetente. Garante autenticidade, integridade e não repúdio."
+  },
+  {
+    "materia": "informatica",
+    "frente": "Os três tipos de fator de autenticação",
+    "verso": "Algo que você sabe (senha), algo que você possui (celular, token) e algo que você é (biometria). 2FA combina dois tipos diferentes."
+  },
+  {
+    "materia": "informatica",
+    "frente": "LGPD: controlador, operador e encarregado",
+    "verso": "Controlador: decide sobre o tratamento. Operador: trata em nome do controlador. Encarregado (DPO): canal com titulares e ANPD."
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "in-info-01",
+    "materia": "informatica",
+    "assunto": "Excel - SOMASE",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um escriturário registrou em uma planilha do Microsoft Excel 365 (em português) a região de cada agência na coluna A e o número de propostas de crédito na coluna B. Nas células A2:A7 constam, respectivamente, Norte, Sul, Norte, Leste, Sul e Norte; nas células B2:B7 constam 120, 80, 200, 50, 70 e 30. Qual valor será exibido na célula D2 após a digitação da fórmula =SOMASE(A2:A7;\"Norte\";B2:B7)?",
+    "alternativas": [
+      "350",
+      "3",
+      "150",
+      "320",
+      "550"
+    ],
+    "correta": 0,
+    "comentario": "A função SOMASE soma os valores do intervalo de soma (B2:B7) cujas células correspondentes no intervalo de critério (A2:A7) atendem ao critério \"Norte\". As linhas com Norte são 2, 4 e 7, logo 120 + 200 + 30 = 350. O valor 3 seria o resultado de CONT.SE, que apenas conta as ocorrências. O valor 150 corresponde à soma da região Sul (80 + 70), e 550 é a soma de todo o intervalo, sem aplicar o critério.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-02",
+    "materia": "informatica",
+    "assunto": "Excel - referências mistas",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Na célula C2 de uma planilha do Excel foi digitada a fórmula =$A2+B$1. Em seguida, o conteúdo de C2 foi copiado e colado na célula E5. A fórmula resultante em E5 será",
+    "alternativas": [
+      "=$A2+B$1",
+      "=$A5+B$1",
+      "=$A5+D$1",
+      "=$C5+D$4",
+      "=$A2+D$4"
+    ],
+    "correta": 2,
+    "comentario": "Ao copiar de C2 para E5, o deslocamento é de duas colunas e três linhas. Em $A2, a coluna está fixada pelo cifrão e a linha é relativa, tornando-se $A5. Em B$1, a linha está fixada e a coluna é relativa, tornando-se D$1. A opção que mantém a fórmula inalterada trataria tudo como absoluto, e as opções que alteram $A ou a linha $1 ignoram o efeito do cifrão.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-03",
+    "materia": "informatica",
+    "assunto": "Excel - função SE aninhada",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma planilha de metas, a célula C2 contém a fórmula =SE(B2>=100;\"Superou\";SE(B2>=80;\"Atingiu\";\"Abaixo\")), que foi copiada para C3, C4 e C5. Se as células B2, B3, B4 e B5 contêm, respectivamente, 80, 100, 79,9 e 120, os textos exibidos em C2, C3, C4 e C5 serão",
+    "alternativas": [
+      "Atingiu, Atingiu, Abaixo, Superou",
+      "Abaixo, Superou, Abaixo, Superou",
+      "Atingiu, Superou, Atingiu, Superou",
+      "Superou, Superou, Abaixo, Superou",
+      "Atingiu, Superou, Abaixo, Superou"
+    ],
+    "correta": 4,
+    "comentario": "A fórmula testa primeiro se o valor é maior ou igual a 100; se não for, testa se é maior ou igual a 80. Assim, 80 resulta em Atingiu (80 >= 80), 100 resulta em Superou (100 >= 100), 79,9 resulta em Abaixo (não alcança 80) e 120 resulta em Superou. Quem marca Atingiu para 100 esquece que o operador >= inclui a igualdade. Quem marca Atingiu para 79,9 arredonda indevidamente o valor, o que o Excel não faz na comparação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-04",
+    "materia": "informatica",
+    "assunto": "Excel - PROCV com correspondência aproximada",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma tabela de faixas de bonificação ocupa o intervalo A2:B5: na coluna A estão os limites inferiores 0, 1000, 2000 e 5000, em ordem crescente; na coluna B, os percentuais 0%, 5%, 10% e 15%. O resultado da fórmula =PROCV(4999;A2:B5;2;VERDADEIRO) é",
+    "alternativas": [
+      "0%",
+      "10%",
+      "5%",
+      "15%",
+      "#N/D"
+    ],
+    "correta": 1,
+    "comentario": "Com o último argumento VERDADEIRO, o PROCV faz correspondência aproximada: procura o maior valor da primeira coluna que seja menor ou igual ao valor procurado. O maior limite menor ou igual a 4999 é 2000, cuja faixa corresponde a 10%. O resultado 15% pressupõe arredondar para a faixa seguinte, o que não ocorre. O erro #N/D apareceria com o argumento FALSO (correspondência exata), pois 4999 não consta da tabela. Por isso a busca aproximada exige a primeira coluna em ordem crescente.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-info-05",
+    "materia": "informatica",
+    "assunto": "Excel - PROCX",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um analista precisa localizar, em uma planilha de clientes, o limite de crédito (coluna D) a partir do CPF (coluna B), exibindo o texto \"Sem cadastro\" quando o CPF não existir. Considerando que o CPF pesquisado está na célula G2 e os dados ocupam as linhas 2 a 500, a fórmula adequada no Excel 365 é",
+    "alternativas": [
+      "=PROCV(G2;D2:D500;B2:B500;\"Sem cadastro\")",
+      "=PROCX(B2:B500;G2;D2:D500;\"Sem cadastro\")",
+      "=PROCV(G2;B2:D500;4;FALSO)",
+      "=PROCX(G2;B2:B500;D2:D500;\"Sem cadastro\")",
+      "=PROCX(G2;D2:D500;B2:B500;\"Sem cadastro\")"
+    ],
+    "correta": 3,
+    "comentario": "A sintaxe do PROCX é PROCX(valor_procurado; matriz_pesquisa; matriz_retorno; [se_não_encontrado]). Assim, procura-se G2 na coluna B e retorna-se o valor correspondente da coluna D, com \"Sem cadastro\" como resultado alternativo. A opção que inverte as matrizes procuraria o CPF na coluna de limites. A que começa pelo intervalo B2:B500 troca a ordem dos argumentos. O PROCV com índice 4 sobre B2:D500 geraria erro #REF!, pois o intervalo tem apenas três colunas, e não trata o caso de CPF ausente.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-06",
+    "materia": "informatica",
+    "assunto": "Windows - atalhos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um escriturário precisa se ausentar rapidamente de sua estação de trabalho e deseja bloquear a sessão do Windows 11, exigindo senha para voltar, sem fechar os programas abertos. O atalho de teclado adequado é",
+    "alternativas": [
+      "Windows + D",
+      "Alt + F4",
+      "Ctrl + Shift + Esc",
+      "Windows + L",
+      "Windows + E"
+    ],
+    "correta": 3,
+    "comentario": "O atalho Windows + L bloqueia imediatamente a sessão, mantendo os programas em execução e exigindo autenticação para o retorno. Windows + D apenas minimiza as janelas e mostra a área de trabalho, sem proteger nada. Alt + F4 fecha a janela ativa e, na área de trabalho, abre a caixa de desligamento. Ctrl + Shift + Esc abre o Gerenciador de Tarefas e Windows + E abre o Explorador de Arquivos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-07",
+    "materia": "informatica",
+    "assunto": "Windows - exclusão de arquivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No Explorador de Arquivos do Windows 10, um usuário seleciona um arquivo armazenado no disco rígido local, pressiona Shift + Delete e confirma a operação. Nessa situação, o arquivo será",
+    "alternativas": [
+      "movido para a Lixeira, podendo ser restaurado posteriormente",
+      "excluído sem passar pela Lixeira",
+      "copiado para a Área de Transferência, para ser colado em outro local",
+      "ocultado, permanecendo na pasta com o atributo oculto",
+      "compactado e enviado para a pasta Documentos"
+    ],
+    "correta": 1,
+    "comentario": "A combinação Shift + Delete exclui o item diretamente, sem enviá-lo à Lixeira, o que impede a restauração pelos meios comuns do Windows. A tecla Delete isolada é que envia o arquivo à Lixeira em unidades locais. Copiar para a Área de Transferência é função de Ctrl + C. Ocultar um arquivo exige alterar suas propriedades, e a compactação é feita pela opção Enviar para > Pasta compactada.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-08",
+    "materia": "informatica",
+    "assunto": "Windows - gerenciamento de arquivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No Windows 10, um usuário arrasta com o mouse, sem pressionar nenhuma tecla, um arquivo da pasta C:\\Relatorios para um pen drive identificado como unidade E:. Em seguida, arrasta outro arquivo de C:\\Relatorios para C:\\Backup, também sem pressionar teclas. As operações realizadas por padrão serão, respectivamente,",
+    "alternativas": [
+      "mover e mover",
+      "copiar e copiar",
+      "mover e copiar",
+      "copiar e mover",
+      "criar atalho e mover"
+    ],
+    "correta": 3,
+    "comentario": "No Explorador de Arquivos, arrastar um item entre unidades diferentes realiza, por padrão, uma cópia, e arrastar dentro da mesma unidade realiza uma movimentação. Como E: e C: são unidades distintas, a primeira operação é cópia; como C:\\Relatorios e C:\\Backup estão na mesma unidade, a segunda é movimentação. Esse comportamento pode ser alterado com teclas: Ctrl força a cópia, Shift força a movimentação e Alt cria atalho. As demais opções invertem ou ignoram essa regra.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-09",
+    "materia": "informatica",
+    "assunto": "LGPD - dados sensíveis",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Durante a abertura de uma conta, um cliente informa diversos dados pessoais. De acordo com a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018), constitui dado pessoal sensível a informação sobre",
+    "alternativas": [
+      "o endereço residencial",
+      "a renda mensal",
+      "a filiação a sindicato",
+      "o número do CPF",
+      "o saldo em conta-corrente"
+    ],
+    "correta": 2,
+    "comentario": "A LGPD define como dado sensível aquele sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, saúde, vida sexual, dado genético ou biométrico. A filiação a sindicato está expressamente nesse rol. Endereço, renda, CPF e saldo são dados pessoais, pois identificam ou tornam identificável a pessoa, mas não são sensíveis. Os dados sensíveis têm hipóteses de tratamento mais restritas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-10",
+    "materia": "informatica",
+    "assunto": "Word - quebra de página",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao redigir um relatório no Microsoft Word 365, um escriturário deseja que o próximo tópico comece obrigatoriamente no topo da página seguinte, mesmo que o texto anterior seja posteriormente aumentado ou reduzido. O procedimento mais adequado é",
+    "alternativas": [
+      "inserir uma quebra de página, por exemplo com o atalho Ctrl + Enter",
+      "pressionar Enter repetidas vezes até alcançar a próxima página",
+      "aumentar o espaçamento depois do parágrafo anterior",
+      "pressionar Shift + Enter para inserir uma quebra de linha",
+      "inserir uma quebra de coluna com Ctrl + Shift + Enter"
+    ],
+    "correta": 0,
+    "comentario": "A quebra de página (Ctrl + Enter ou Inserir > Quebra de Página) força o conteúdo seguinte a iniciar em uma nova página, independentemente das alterações feitas no texto anterior. Pressionar Enter várias vezes cria parágrafos vazios que se deslocam quando o texto muda, desalinhando o documento. Aumentar o espaçamento tem o mesmo problema. Shift + Enter insere apenas uma quebra de linha no mesmo parágrafo, e Ctrl + Shift + Enter insere quebra de coluna, útil apenas em layouts com colunas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-11",
+    "materia": "informatica",
+    "assunto": "Word - revisão de documentos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um documento de normas internas será revisado por três gestores, e o autor precisa visualizar exatamente o que cada um incluiu ou excluiu, podendo aceitar ou rejeitar cada modificação individualmente. No Word 365, o recurso indicado é",
+    "alternativas": [
+      "Mala Direta, na guia Correspondências",
+      "Pincel de Formatação, na guia Página Inicial",
+      "Restringir Edição, marcando o documento como somente leitura",
+      "Comentários, que registram automaticamente cada exclusão feita no texto",
+      "Controlar Alterações, na guia Revisão"
+    ],
+    "correta": 4,
+    "comentario": "O recurso Controlar Alterações, da guia Revisão, marca inserções, exclusões e mudanças de formatação, identificando o autor de cada uma, e permite aceitá-las ou rejeitá-las individualmente. A Mala Direta serve para gerar documentos personalizados a partir de uma lista de dados. O Pincel de Formatação copia formatos. Tornar o documento somente leitura impediria a revisão, e os comentários são anotações feitas manualmente, sem registro automático das alterações.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-12",
+    "materia": "informatica",
+    "assunto": "Excel - função MÉDIA",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No Excel, as células A1, A2, A3, A4 e A5 contêm, respectivamente: o número 10; nada (célula vazia); o número 20; o texto zero; e o número 30. O resultado da fórmula =MÉDIA(A1:A5) é",
+    "alternativas": [
+      "12",
+      "15",
+      "20",
+      "60",
+      "#VALOR!"
+    ],
+    "correta": 2,
+    "comentario": "A função MÉDIA, quando recebe um intervalo, considera apenas as células com valores numéricos, ignorando células vazias e células com texto. Assim, calcula (10 + 20 + 30) / 3 = 20. O valor 12 resultaria de dividir a soma por 5, contando vazia e texto, e 15 de dividir por 4. O valor 60 é a soma, e não a média. O erro #VALOR! não ocorre porque o texto dentro de um intervalo é simplesmente desconsiderado.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-13",
+    "materia": "informatica",
+    "assunto": "Excel - precedência de operadores",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma célula do Excel foi digitada a fórmula =2+3*2^2. O valor exibido será",
+    "alternativas": [
+      "20",
+      "64",
+      "38",
+      "100",
+      "14"
+    ],
+    "correta": 4,
+    "comentario": "O Excel segue a ordem de precedência: primeiro a exponenciação, depois multiplicação e divisão, e por último adição e subtração. Assim, 2^2 = 4; em seguida 3 * 4 = 12; e por fim 2 + 12 = 14. O valor 20 resultaria de (2+3)*2^2, e 64 de (2+3*2)^2. O valor 38 corresponde a 2+(3*2)^2, e 100 a ((2+3)*2)^2, ordens que o Excel só aplicaria com parênteses.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-14",
+    "materia": "informatica",
+    "assunto": "Excel - CONT.SES",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma planilha, as células A2:A8 contêm as regiões Sul, Norte, Sul, Sul, Leste, Sul e Norte, e as células B2:B8 contêm, respectivamente, os valores 150, 300, 100, 220, 90, 101 e 180. O resultado da fórmula =CONT.SES(A2:A8;\"Sul\";B2:B8;\">100\") é",
+    "alternativas": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "471"
+    ],
+    "correta": 1,
+    "comentario": "CONT.SES conta as linhas que atendem simultaneamente a todos os critérios. As linhas da região Sul têm os valores 150, 100, 220 e 101; dessas, são maiores que 100 apenas 150, 220 e 101, totalizando 3. O valor 100 não entra, pois o critério é estritamente maior. O resultado 4 conta todas as linhas Sul, e 5 conta todos os valores acima de 100 sem filtrar a região. O valor 471 seria a soma (SOMASES) dos valores que atendem aos critérios, e não a contagem.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-15",
+    "materia": "informatica",
+    "assunto": "PowerPoint - apresentação de slides",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Durante uma reunião, um gerente está editando o slide 12 de uma apresentação no PowerPoint 365 e deseja iniciar a exibição em tela cheia a partir desse slide, e não do primeiro. Para isso, ele deve pressionar",
+    "alternativas": [
+      "F5",
+      "Ctrl + F5",
+      "F7",
+      "Alt + F5",
+      "Shift + F5"
+    ],
+    "correta": 4,
+    "comentario": "Shift + F5 inicia a apresentação a partir do slide atual. A tecla F5 isolada inicia a apresentação sempre a partir do primeiro slide. F7 aciona a verificação ortográfica. Alt + F5 inicia a apresentação no Modo de Exibição do Apresentador. Ctrl + F5 não é o atalho padrão de apresentação no PowerPoint.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-16",
+    "materia": "informatica",
+    "assunto": "Navegadores - navegação privativa",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente utiliza o computador de uso coletivo de uma biblioteca e abre uma janela InPrivate no Microsoft Edge para acessar seu e-mail. Sobre esse modo de navegação, é correto afirmar que ele",
+    "alternativas": [
+      "impede que o provedor de internet e a rede local identifiquem os sites acessados",
+      "protege o computador contra vírus e sites de phishing durante a sessão",
+      "não mantém, após o fechamento das janelas privativas, o histórico, os cookies e os dados de formulário daquela sessão",
+      "criptografa todos os arquivos baixados durante a sessão",
+      "torna o usuário anônimo perante os sites acessados, mesmo que ele faça login"
+    ],
+    "correta": 2,
+    "comentario": "A navegação privativa (InPrivate no Edge, anônima no Chrome, privativa no Firefox) apenas evita que o navegador guarde localmente histórico, cookies, dados de formulário e cache da sessão depois que as janelas são fechadas. Ela não oculta o tráfego do provedor de internet, da rede da instituição ou dos sites visitados. Também não oferece proteção contra malware ou phishing. Se o usuário faz login, o site sabe quem ele é, e os arquivos baixados permanecem no computador sem criptografia.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-17",
+    "materia": "informatica",
+    "assunto": "Navegadores - HTTPS",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao acessar o internet banking, um usuário verifica que o endereço começa com https:// e que o navegador exibe o ícone de cadeado. Essa indicação significa que",
+    "alternativas": [
+      "a comunicação entre o navegador e o servidor é criptografada por meio do protocolo TLS",
+      "o site é, com certeza, legítimo e pertence ao banco, não podendo ser uma página falsa",
+      "o computador do usuário está livre de programas maliciosos",
+      "a senha digitada fica armazenada de forma criptografada no próprio navegador",
+      "o site utiliza o protocolo FTP para transferência segura de páginas"
+    ],
+    "correta": 0,
+    "comentario": "O HTTPS é o HTTP protegido pelo protocolo TLS (sucessor do SSL), que criptografa os dados trocados entre o navegador e o servidor e autentica o servidor por meio de certificado digital. Porém, o cadeado não garante que o site seja do banco: páginas de phishing também podem obter certificados válidos, por isso é preciso conferir o endereço. O HTTPS não verifica a presença de malware no computador nem trata do armazenamento de senhas no navegador. O FTP é um protocolo de transferência de arquivos, sem relação com o cadeado.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-18",
+    "materia": "informatica",
+    "assunto": "E-mail - campos de destinatário",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um gerente precisa enviar um comunicado a 40 clientes, sem que cada destinatário veja os endereços de e-mail dos demais. Para isso, deve inserir os endereços no campo",
+    "alternativas": [
+      "Para",
+      "Cc",
+      "Cco",
+      "Assunto",
+      "Responder a"
+    ],
+    "correta": 2,
+    "comentario": "O campo Cco (cópia carbono oculta) envia a mensagem aos destinatários sem que seus endereços sejam exibidos aos demais, o que também protege os dados pessoais dos clientes. Os endereços colocados nos campos Para e Cc ficam visíveis a todos os destinatários. O campo Assunto é o título da mensagem. O campo Responder a apenas define para qual endereço as respostas serão enviadas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-19",
+    "materia": "informatica",
+    "assunto": "E-mail - protocolos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um usuário acessa a mesma caixa postal pelo celular e pelo notebook e deseja que mensagens lidas, movidas para pastas ou excluídas em um dispositivo apareçam da mesma forma no outro, pois as mensagens devem permanecer no servidor. O protocolo de recebimento mais adequado e o protocolo utilizado para o envio de mensagens são, respectivamente,",
+    "alternativas": [
+      "POP3 e SMTP",
+      "IMAP e SMTP",
+      "SMTP e IMAP",
+      "IMAP e POP3",
+      "HTTP e FTP"
+    ],
+    "correta": 1,
+    "comentario": "O IMAP mantém as mensagens no servidor e sincroniza o estado delas (lidas, pastas, exclusões) entre todos os dispositivos, atendendo à necessidade descrita. O SMTP é o protocolo de envio de mensagens. O POP3 costuma baixar as mensagens para o dispositivo, frequentemente removendo-as do servidor, e não sincroniza pastas nem status. As opções que colocam SMTP como recebimento ou POP3 como envio invertem as funções, e HTTP e FTP não são protocolos de correio.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-20",
+    "materia": "informatica",
+    "assunto": "Nuvem - OneDrive",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um escriturário usa o OneDrive no Windows 11 com o recurso Arquivos Sob Demanda ativado. Ao observar a pasta sincronizada no Explorador de Arquivos, nota que alguns arquivos exibem um ícone de nuvem na coluna de status. Isso indica que esses arquivos",
+    "alternativas": [
+      "estão corrompidos e precisam ser enviados novamente",
+      "foram excluídos da nuvem e estão apenas no computador",
+      "estão disponíveis somente online, ocupando espaço local apenas quando forem abertos ou baixados",
+      "estão bloqueados para edição por outro usuário",
+      "foram compartilhados publicamente com qualquer pessoa que tenha o link"
+    ],
+    "correta": 2,
+    "comentario": "Com Arquivos Sob Demanda, o ícone de nuvem indica arquivos disponíveis apenas online: eles aparecem na pasta, mas não ocupam espaço no disco até serem abertos, quando então são baixados. A marca de seleção verde indica arquivo disponível localmente, e o círculo verde preenchido indica arquivo marcado para estar sempre disponível no dispositivo. O ícone de nuvem não indica erro, exclusão, bloqueio ou compartilhamento público.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-21",
+    "materia": "informatica",
+    "assunto": "Nuvem - Google Drive",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um coordenador compartilha uma planilha no Google Drive com a equipe e deseja que os colegas possam inserir observações no arquivo, sem conseguir alterar o conteúdo das células. O nível de permissão adequado é",
+    "alternativas": [
+      "Leitor",
+      "Comentarista",
+      "Editor",
+      "Proprietário",
+      "Administrador do arquivo"
+    ],
+    "correta": 1,
+    "comentario": "No Google Drive, o Comentarista pode visualizar o arquivo e adicionar comentários ou sugestões, mas não altera o conteúdo diretamente. O Leitor apenas visualiza, sem comentar. O Editor pode modificar o conteúdo e, conforme a configuração, compartilhar o arquivo, o que excede o desejado. O Proprietário tem controle total, e Administrador do arquivo não é um nível de permissão de compartilhamento.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-22",
+    "materia": "informatica",
+    "assunto": "Segurança - phishing",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente recebe um e-mail com a logomarca do banco informando que sua conta será bloqueada em 24 horas caso ele não clique em um link e atualize seus dados cadastrais, incluindo senha e código do token. Essa situação caracteriza, tipicamente, um ataque de",
+    "alternativas": [
+      "phishing",
+      "ransomware",
+      "negação de serviço (DoS)",
+      "worm",
+      "adware"
+    ],
+    "correta": 0,
+    "comentario": "Phishing é a fraude em que o criminoso se passa por instituição confiável, em geral por e-mail, SMS ou mensagem, usando urgência e ameaça para induzir a vítima a fornecer dados como senhas e códigos. Bancos não solicitam senhas ou códigos de token por e-mail. Ransomware sequestra dados por criptografia e exige resgate. Negação de serviço tenta tornar um serviço indisponível, worm é um código que se propaga sozinho e adware exibe propaganda indesejada.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-23",
+    "materia": "informatica",
+    "assunto": "Segurança - ransomware e backup",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa teve seus arquivos criptografados por um código malicioso, e os criminosos exigiram pagamento em criptomoeda para fornecer a chave de recuperação. A medida preventiva que mais efetivamente permitiria recuperar os dados sem pagar o resgate é",
+    "alternativas": [
+      "manter o firewall desativado para evitar conflitos com o antivírus",
+      "utilizar senhas longas nas contas de e-mail corporativo",
+      "manter os arquivos em pastas sincronizadas em tempo real com a nuvem, sem histórico de versões",
+      "manter cópias de segurança periódicas, testadas e guardadas desconectadas da rede",
+      "compactar os arquivos importantes em formato ZIP"
+    ],
+    "correta": 3,
+    "comentario": "Contra ransomware, a principal defesa para recuperação é o backup periódico, testado e mantido fora do alcance do ataque (offline ou imutável), permitindo restaurar os dados sem negociar com os criminosos. A sincronização em tempo real sem histórico de versões é armadilha comum: os arquivos criptografados são replicados para a nuvem, substituindo as versões boas. Senhas fortes ajudam na prevenção de acessos, mas não recuperam dados. Desativar o firewall reduz a proteção, e compactar em ZIP não impede a criptografia pelo malware.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-24",
+    "materia": "informatica",
+    "assunto": "Segurança - tipos de backup",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma agência faz backup completo aos domingos e, de segunda a sábado, backups que copiam apenas os arquivos alterados desde o último backup realizado, de qualquer tipo. Se for necessário restaurar os dados na quinta-feira à noite, após o backup desse dia, serão necessários",
+    "alternativas": [
+      "apenas o backup completo de domingo",
+      "o backup completo de domingo e apenas o backup de quinta-feira",
+      "apenas o backup de quinta-feira",
+      "o backup de quinta-feira e o de quarta-feira",
+      "o backup completo de domingo e todos os backups de segunda a quinta-feira"
+    ],
+    "correta": 4,
+    "comentario": "O backup descrito, que copia apenas o que mudou desde o último backup de qualquer tipo, é o incremental. Na restauração, é preciso aplicar o backup completo e, em sequência, todos os incrementais realizados depois dele: segunda, terça, quarta e quinta. A opção que usa o completo mais apenas o último backup descreve o backup diferencial, que acumula tudo o que mudou desde o último completo. Usar apenas o completo perderia as alterações da semana, e os incrementais isolados não contêm os arquivos que não mudaram.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-info-25",
+    "materia": "informatica",
+    "assunto": "Segurança - autenticação em dois fatores",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Para acessar um sistema, o banco exige a senha do usuário e um código temporário gerado por aplicativo autenticador instalado no celular dele. Esse mecanismo é considerado autenticação em dois fatores porque combina",
+    "alternativas": [
+      "duas informações que o usuário sabe",
+      "algo que o usuário sabe e algo que o usuário possui",
+      "algo que o usuário é e algo que o usuário sabe",
+      "criptografia simétrica e criptografia assimétrica",
+      "duas senhas diferentes cadastradas pelo mesmo usuário"
+    ],
+    "correta": 1,
+    "comentario": "Os fatores de autenticação são classificados em algo que o usuário sabe (senha, PIN), algo que possui (celular, token, cartão) e algo que é (biometria). A senha é conhecimento e o código gerado no celular comprova a posse do aparelho, configurando dois fatores distintos. Duas senhas são o mesmo fator repetido, o que não caracteriza 2FA. Não há biometria no cenário, e a combinação de tipos de criptografia não é um critério de autenticação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-26",
+    "materia": "informatica",
+    "assunto": "Segurança - assinatura digital",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um funcionário deseja enviar um documento eletrônico assinado digitalmente, de modo que o destinatário possa verificar a autoria e a integridade do conteúdo. Com base na criptografia assimétrica, a assinatura digital é gerada com a",
+    "alternativas": [
+      "chave pública do destinatário e verificada com a chave privada do destinatário",
+      "chave pública do remetente e verificada com a chave privada do remetente",
+      "chave privada do destinatário e verificada com a chave pública do remetente",
+      "chave privada do remetente e verificada com a chave pública do remetente",
+      "mesma chave secreta compartilhada, conhecida por ambas as partes"
+    ],
+    "correta": 3,
+    "comentario": "Na assinatura digital, o remetente usa sua chave privada, que só ele possui, para assinar o resumo (hash) do documento; qualquer pessoa verifica a assinatura com a chave pública do remetente. Isso garante autenticidade, integridade e não repúdio. Cifrar com a chave pública do destinatário garante confidencialidade, não autoria. A chave privada do destinatário nunca é usada pelo remetente, e o uso de uma chave secreta compartilhada é característico da criptografia simétrica, que não oferece não repúdio.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-info-27",
+    "materia": "informatica",
+    "assunto": "Segurança - malware",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Diferentemente do vírus, que depende da execução do arquivo ou programa hospedeiro para se propagar, o tipo de código malicioso capaz de se propagar automaticamente pelas redes, explorando vulnerabilidades e enviando cópias de si mesmo de computador para computador, é o",
+    "alternativas": [
+      "spyware",
+      "cavalo de troia (trojan)",
+      "keylogger",
+      "rootkit",
+      "worm"
+    ],
+    "correta": 4,
+    "comentario": "O worm é um programa autônomo que se replica e se propaga pela rede explorando falhas, sem precisar se anexar a arquivos nem depender da ação do usuário, e costuma consumir muitos recursos. O spyware coleta informações do usuário, e o keylogger é um tipo de spyware que registra as teclas digitadas. O cavalo de troia se disfarça de programa legítimo para ser instalado pela vítima. O rootkit serve para esconder a presença do invasor e de outros códigos maliciosos no sistema.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-28",
+    "materia": "informatica",
+    "assunto": "LGPD - agentes de tratamento",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Nos termos da Lei Geral de Proteção de Dados Pessoais, a pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais é o",
+    "alternativas": [
+      "titular",
+      "operador",
+      "encarregado",
+      "controlador",
+      "agente fiscalizador da ANPD"
+    ],
+    "correta": 3,
+    "comentario": "A LGPD define o controlador como quem toma as decisões sobre o tratamento de dados pessoais, como um banco em relação aos dados de seus clientes. O operador realiza o tratamento em nome do controlador, seguindo suas instruções, como uma empresa terceirizada de processamento. O titular é a pessoa natural a quem os dados se referem. O encarregado (DPO) é o canal de comunicação entre controlador, titulares e a ANPD, que é a autoridade fiscalizadora, e não um agente de tratamento.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-info-29",
+    "materia": "informatica",
+    "assunto": "Redes - intranet",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Sobre intranet, é correto afirmar que se trata de uma rede",
+    "alternativas": [
+      "privada, de acesso restrito a uma organização, que utiliza as mesmas tecnologias e protocolos da internet, como TCP/IP e HTTP",
+      "pública, acessível a qualquer usuário da internet que conheça seu endereço",
+      "que utiliza obrigatoriamente meios físicos e protocolos diferentes dos da internet, sem uso do TCP/IP",
+      "que permite acesso de parceiros e clientes externos, sendo sinônimo de extranet",
+      "obrigatoriamente sem fio e limitada ao espaço físico de um único prédio"
+    ],
+    "correta": 0,
+    "comentario": "A intranet é uma rede privada de uma organização que usa as mesmas tecnologias da internet, como TCP/IP, HTTP, navegadores e servidores web, para uso interno. Ela não é pública, e seu acesso é restrito aos usuários autorizados. A extranet é que estende parte da intranet a parceiros, fornecedores ou clientes externos. A intranet pode usar cabos ou redes sem fio e pode ser acessada remotamente, por exemplo via VPN, não ficando limitada a um prédio.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-info-30",
+    "materia": "informatica",
+    "assunto": "Redes - DNS",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao digitar www.bb.com.br na barra de endereços do navegador, o computador precisa descobrir o endereço IP correspondente a esse nome para estabelecer a conexão. O serviço responsável por essa tradução é o",
+    "alternativas": [
+      "DNS",
+      "DHCP",
+      "SMTP",
+      "FTP",
+      "VPN"
+    ],
+    "correta": 0,
+    "comentario": "O DNS (Domain Name System) traduz nomes de domínio, fáceis de memorizar, em endereços IP, usados pelos equipamentos para localizar os servidores. O DHCP atribui automaticamente endereços IP e configurações de rede aos dispositivos. O SMTP envia mensagens de e-mail, e o FTP transfere arquivos. A VPN cria um túnel criptografado entre redes, sem relação com a resolução de nomes.",
+    "dificuldade": 1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "materia": "matematica",
+    "frente": "Divisão diretamente proporcional: como repartir um valor T em partes proporcionais a a, b, c?",
+    "verso": "k = T/(a + b + c); cada parte é k·a, k·b, k·c."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Divisão inversamente proporcional a a, b, c: qual o truque?",
+    "verso": "Divida em partes diretamente proporcionais a 1/a, 1/b, 1/c (multiplique pelo MMC para trabalhar com inteiros)."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Aumentos ou descontos sucessivos: como calcular a variação total?",
+    "verso": "Multiplique os fatores: (1 + i1)·(1 + i2)... Ex.: +10% e +20% → 1,1·1,2 = 1,32 → +32%. Nunca some as taxas."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Fator de aumento e de desconto de p%",
+    "verso": "Aumento: multiplica por (1 + p/100). Desconto: multiplica por (1 − p/100). Ex.: desconto de 12% → × 0,88."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Preço após desconto de p% é V. Qual era o preço original?",
+    "verso": "Original = V/(1 − p/100). Erro típico: somar p% ao valor final."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Regra de três inversa: quando usar?",
+    "verso": "Quando uma grandeza aumenta e a outra diminui na mesma proporção (ex.: mais caixas → menos tempo). Produto constante: x1·y1 = x2·y2."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Regra de três composta: método",
+    "verso": "Isole a incógnita; compare cada grandeza com ela: se diretamente proporcional, a razão entra igual; se inversamente, entra invertida. Multiplique tudo."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Sistema 2x2 pelo método da adição",
+    "verso": "Multiplique as equações por constantes para igualar os coeficientes de uma incógnita e subtraia; resolva a restante e substitua."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Função do 1º grau f(x) = ax + b: significado de a e b",
+    "verso": "a = taxa de variação (coeficiente angular) = Δy/Δx; b = valor inicial (f(0), coeficiente linear)."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Função do 2º grau: coordenadas do vértice",
+    "verso": "xv = −b/(2a); yv = −Δ/(4a), com Δ = b² − 4ac. Se a < 0, o vértice é ponto de máximo; se a > 0, de mínimo."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Fórmula de Bhaskara",
+    "verso": "x = (−b ± √Δ)/(2a), com Δ = b² − 4ac."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Soma e produto das raízes de ax² + bx + c = 0",
+    "verso": "Soma: −b/a. Produto: c/a."
+  },
+  {
+    "materia": "matematica",
+    "frente": "PA: termo geral",
+    "verso": "an = a1 + (n − 1)·r. Erro clássico: usar n no lugar de n − 1."
+  },
+  {
+    "materia": "matematica",
+    "frente": "PA: soma dos n primeiros termos",
+    "verso": "Sn = (a1 + an)·n/2."
+  },
+  {
+    "materia": "matematica",
+    "frente": "PG: termo geral",
+    "verso": "an = a1·q^(n − 1)."
+  },
+  {
+    "materia": "matematica",
+    "frente": "PG: soma dos n primeiros termos (q ≠ 1)",
+    "verso": "Sn = a1·(q^n − 1)/(q − 1)."
+  },
+  {
+    "materia": "matematica",
+    "frente": "PG infinita: soma (|q| < 1)",
+    "verso": "S = a1/(1 − q)."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Princípio fundamental da contagem",
+    "verso": "Se uma escolha tem m opções e outra, independente, tem n, as duas juntas têm m·n possibilidades."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Arranjo x combinação",
+    "verso": "Arranjo (ordem importa): A(n,p) = n!/(n − p)!. Combinação (ordem não importa): C(n,p) = n!/[p!·(n − p)!]."
+  },
+  {
+    "materia": "matematica",
+    "frente": "Permutação com elementos juntos (bloco)",
+    "verso": "Trate o bloco como um elemento: permute (n − k + 1)! e multiplique por k! (ordens internas do bloco)."
+  }
+]

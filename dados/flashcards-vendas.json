@@ -1,0 +1,102 @@
+[
+  {
+    "materia": "vendas",
+    "frente": "Satisfação do cliente segundo Kotler",
+    "verso": "Resultado da comparação entre o desempenho percebido e as expectativas. Abaixo: insatisfeito; igual: satisfeito; acima: encantado."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Satisfação garante fidelidade?",
+    "verso": "Não. Cliente apenas satisfeito pode migrar diante de oferta melhor. Fidelização exige vínculo e valor percebido superior."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Como se calcula o NPS?",
+    "verso": "% de promotores (notas 9 e 10) menos % de detratores (0 a 6). Neutros (7 e 8) não entram na conta."
+  },
+  {
+    "materia": "vendas",
+    "frente": "As 5 dimensões do SERVQUAL",
+    "verso": "Confiabilidade, responsividade (presteza), segurança, empatia e tangibilidade."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Momento da verdade x ciclo de serviço",
+    "verso": "Momento da verdade: cada contato em que o cliente avalia o serviço. Ciclo de serviço: a sequência completa desses momentos."
+  },
+  {
+    "materia": "vendas",
+    "frente": "O que significa cada letra do SPIN?",
+    "verso": "Situação, Problema, Implicação e Necessidade de solução (need-payoff)."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Função das perguntas de implicação no SPIN",
+    "verso": "Explorar as consequências do problema, ampliando sua gravidade percebida e o valor da solução."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Cross-selling x up-selling x downselling",
+    "verso": "Cross: produto complementar. Up: versão superior do mesmo produto. Down: versão mais simples ou barata."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Quando o cross-selling vira venda casada?",
+    "verso": "Quando a compra de um produto é condicionada à de outro. É prática abusiva (art. 39, I, do CDC)."
+  },
+  {
+    "materia": "vendas",
+    "frente": "O que é MAPAN (BATNA)?",
+    "verso": "Melhor Alternativa Para um Acordo Negociado: o que você fará se a negociação fracassar. Quanto melhor, maior o poder de barganha."
+  },
+  {
+    "materia": "vendas",
+    "frente": "O que é ZOPA?",
+    "verso": "Zona de possível acordo: faixa entre o mínimo que o vendedor aceita e o máximo que o comprador paga, quando há sobreposição."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Os 4 princípios do método de Harvard",
+    "verso": "Separar as pessoas do problema; focar interesses, não posições; criar opções de ganho mútuo; usar critérios objetivos."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Negociação integrativa x distributiva",
+    "verso": "Integrativa (ganha-ganha): amplia o valor em jogo. Distributiva (ganha-perde): divide um valor fixo."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Etapas clássicas da venda",
+    "verso": "Prospecção, pré-abordagem, abordagem, levantamento de necessidades, apresentação, tratamento de objeções, fechamento e pós-venda."
+  },
+  {
+    "materia": "vendas",
+    "frente": "CRM operacional x analítico x colaborativo",
+    "verso": "Operacional: automatiza vendas, marketing e atendimento. Analítico: analisa dados (data mining, segmentação). Colaborativo: integra os canais de contato."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Tipos de segmentação de mercado",
+    "verso": "Geográfica, demográfica, psicográfica (estilo de vida, valores) e comportamental (uso, lealdade, benefícios buscados)."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Direito de arrependimento no CDC",
+    "verso": "Art. 49: 7 dias para compras fora do estabelecimento (internet, app, telefone), com devolução imediata e atualizada dos valores."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Cobrança indevida paga pelo consumidor",
+    "verso": "Art. 42, parágrafo único: devolução em dobro do que pagou em excesso, com correção e juros, salvo engano justificável."
+  },
+  {
+    "materia": "vendas",
+    "frente": "Publicidade enganosa x abusiva",
+    "verso": "Enganosa: induz a erro, inclusive por omissão de dado essencial. Abusiva: discriminatória, incita violência, explora medo ou se aproveita da vulnerabilidade."
+  },
+  {
+    "materia": "vendas",
+    "frente": "O CDC se aplica aos bancos?",
+    "verso": "Sim. Súmula 297 do STJ, confirmada pelo STF na ADI 2.591."
+  }
+]

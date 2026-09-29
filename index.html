@@ -1,0 +1,448 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>Kit do Escriturário</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%231D3FBF'/%3E%3Cpath d='M18 44V20h8l6 12 6-12h8v24h-7V31l-7 13-7-13v13z' fill='%23FFD21F'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
+<style>
+:root{
+  --az:#1D3FBF; --az-esc:#132C8F; --az-nevoa:#EAF0FF; --az-claro:#C9D6FF;
+  --am:#FFD21F; --am-esc:#E0B400; --am-nevoa:#FFF7D1;
+  --verde:#17A35B; --verde-esc:#0E8547; --verde-nevoa:#E3F6EB;
+  --verm:#E0434B; --verm-nevoa:#FDE8E9;
+  --tinta:#16213A; --cinza:#65708A; --cinza-claro:#9AA3B8;
+  --branco:#fff; --fundo:#F3F5FA; --linha:#E4E8F1;
+  --sans:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:ui-monospace,"SF Mono",Consolas,monospace;
+  --barra:64px;
+  --sombra:0 2px 10px rgba(22,33,58,.05), 0 10px 28px rgba(22,33,58,.07);
+}
+*{margin:0; padding:0; box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+html{-webkit-text-size-adjust:100%}
+body{font-family:var(--sans); color:var(--tinta); background:var(--fundo);
+  -webkit-font-smoothing:antialiased; overflow-x:hidden; overscroll-behavior-y:none}
+button{font-family:inherit; cursor:pointer; border:0; background:none; color:inherit; font-size:inherit}
+input{font-family:inherit}
+.toque{transition:transform .12s ease, opacity .12s ease}
+.toque:active{transform:scale(.97); opacity:.9}
+.oculto{display:none !important}
+
+/* ─────────── estrutura ─────────── */
+.app{max-width:520px; margin:0 auto; min-height:100vh; background:var(--fundo); position:relative}
+.topo{position:sticky; top:0; z-index:40; background:var(--branco);
+  padding:calc(env(safe-area-inset-top) + 10px) 16px 10px;
+  display:flex; align-items:center; gap:10px; box-shadow:0 1px 0 var(--linha)}
+.marca{width:38px; height:38px; border-radius:11px; background:var(--az); display:grid; place-items:center; flex:none}
+.marca svg{width:24px; height:24px}
+.topo-txt{flex:1; min-width:0; text-align:center; margin-right:48px}
+.topo-txt b{display:block; font-size:15px; font-weight:800; letter-spacing:-.01em}
+.topo-txt small{display:block; font-size:9.5px; font-weight:700; letter-spacing:.14em; color:var(--cinza); text-transform:uppercase; margin-top:1px}
+.aba{display:none; padding:14px 16px calc(var(--barra) + 28px + env(safe-area-inset-bottom))}
+.aba.on{display:block}
+
+.barra{position:fixed; left:0; right:0; bottom:0; z-index:40; background:var(--branco);
+  box-shadow:0 -1px 0 var(--linha); padding-bottom:env(safe-area-inset-bottom)}
+.barra-in{max-width:520px; margin:0 auto; height:var(--barra); display:grid; grid-template-columns:repeat(4,1fr)}
+.barra button{display:flex; flex-direction:column; align-items:center; justify-content:center; gap:3px;
+  font-size:10.5px; font-weight:600; color:var(--cinza-claro)}
+.barra button svg{width:23px; height:23px}
+.barra button.on{color:var(--az)}
+
+.titulo-sec{display:flex; align-items:baseline; justify-content:space-between; margin:22px 2px 10px}
+.titulo-sec h2{font-size:16px; font-weight:800; letter-spacing:-.01em}
+.titulo-sec span{font-size:12px; color:var(--cinza); font-weight:500}
+.cartao{background:var(--branco); border-radius:18px; box-shadow:var(--sombra)}
+
+/* ─────────── início ─────────── */
+.hero{border-radius:20px; overflow:hidden; aspect-ratio:16/8.4; box-shadow:var(--sombra)}
+.hero svg{width:100%; height:100%; display:block}
+.painel{margin-top:14px; border-radius:22px; padding:18px 18px 16px; color:#fff;
+  background:linear-gradient(145deg,#2A52E0 0%,var(--az) 45%,var(--az-esc) 100%); box-shadow:0 12px 30px rgba(29,63,191,.28)}
+.painel-topo{display:flex; justify-content:space-between; align-items:flex-start}
+.painel h3{font-size:19px; font-weight:800}
+.painel p{font-size:12.5px; opacity:.82; margin-top:2px}
+.chip-ofensiva{background:rgba(255,255,255,.16); border-radius:999px; padding:5px 10px; font-size:11.5px; font-weight:700; white-space:nowrap}
+.anel{position:relative; width:128px; height:128px; margin:10px auto 6px}
+.anel svg{width:100%; height:100%; transform:rotate(-90deg)}
+.anel-txt{position:absolute; inset:0; display:grid; place-content:center; text-align:center}
+.anel-txt b{font-size:28px; font-weight:900; letter-spacing:-.02em}
+.anel-txt small{font-size:10px; font-weight:700; letter-spacing:.12em; opacity:.8; text-transform:uppercase}
+.painel-rodape{display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-top:8px}
+.painel-rodape div{background:rgba(255,255,255,.13); border-radius:12px; padding:8px 10px; font-size:11.5px; font-weight:600; display:flex; align-items:center; gap:6px}
+.painel-rodape b{font-size:14px; font-weight:800}
+
+.treinos{display:grid; grid-template-columns:1fr 1fr; gap:10px}
+.treino{border-radius:18px; padding:14px; text-align:left; color:#fff; min-height:104px; display:flex; flex-direction:column; justify-content:space-between; position:relative; overflow:hidden}
+.treino b{font-size:14.5px; font-weight:800; display:block}
+.treino small{font-size:11.5px; opacity:.88; font-weight:500}
+.treino .ic{width:34px; height:34px; border-radius:10px; background:rgba(255,255,255,.2); display:grid; place-items:center; font-size:18px}
+.t-rapido{background:linear-gradient(145deg,#3A63F0,#1D3FBF)}
+.t-sim{background:linear-gradient(145deg,#1FB566,#0E8547)}
+.t-erros{background:linear-gradient(145deg,#F05A62,#C62F37)}
+.t-flash{background:linear-gradient(145deg,#FFCF33,#E8A900); color:#3A2A00}
+.t-flash .ic{background:rgba(255,255,255,.35)}
+
+.materias{padding:4px 0}
+.mat{display:flex; align-items:center; gap:12px; width:100%; padding:12px 14px; text-align:left; border-bottom:1px solid var(--linha)}
+.mat:last-child{border-bottom:0}
+.mat-ic{width:44px; height:44px; border-radius:13px; display:grid; place-items:center; font-size:21px; flex:none}
+.mat-meio{flex:1; min-width:0}
+.mat-meio b{display:block; font-size:14px; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.mat-meio small{display:block; font-size:11.5px; color:var(--cinza); margin-top:2px}
+.trilho{height:6px; border-radius:6px; background:var(--linha); margin-top:7px; overflow:hidden}
+.trilho i{display:block; height:100%; border-radius:6px; background:var(--verde); transition:width .4s}
+.seta{color:var(--cinza-claro); flex:none}
+
+/* ─────────── questão ─────────── */
+.tela{position:fixed; inset:0; z-index:60; background:var(--fundo); overflow-y:auto; display:none}
+.tela.on{display:block}
+.tela-in{max-width:520px; margin:0 auto; padding:0 16px calc(96px + env(safe-area-inset-bottom))}
+.tela-topo{position:sticky; top:0; z-index:5; background:var(--fundo); padding:calc(env(safe-area-inset-top) + 10px) 0 10px; display:flex; align-items:center; gap:10px}
+.voltar{width:38px; height:38px; border-radius:12px; background:var(--branco); box-shadow:var(--sombra); display:grid; place-items:center; flex:none}
+.tela-topo .meio{flex:1; min-width:0}
+.tela-topo .meio small{display:block; font-size:10.5px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--cinza)}
+.tela-topo .meio b{display:block; font-size:15px; font-weight:800; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.relogio{background:var(--az); color:#fff; border-radius:10px; padding:7px 10px; font-size:13px; font-weight:800; font-variant-numeric:tabular-nums}
+.relogio.pouco{background:var(--verm)}
+.progresso-q{height:5px; background:var(--linha); border-radius:5px; overflow:hidden; margin-bottom:12px}
+.progresso-q i{display:block; height:100%; background:var(--az); transition:width .3s}
+.q-cab{display:flex; justify-content:space-between; align-items:center; font-size:12px; color:var(--cinza); font-weight:600; margin-bottom:10px}
+.q-cab .tag{background:var(--az-nevoa); color:var(--az); border-radius:999px; padding:4px 10px; font-weight:700; max-width:62%; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.apoio{background:var(--branco); border-radius:16px; box-shadow:var(--sombra); margin-bottom:12px; overflow:hidden}
+.apoio summary{list-style:none; padding:12px 14px; font-size:13px; font-weight:700; color:var(--az); display:flex; justify-content:space-between; cursor:pointer}
+.apoio summary::-webkit-details-marker{display:none}
+.apoio[open] summary .mais{transform:rotate(45deg)}
+.apoio .mais{transition:transform .2s; font-size:18px; line-height:1}
+.apoio div{padding:0 14px 14px; font-size:14px; line-height:1.62; white-space:pre-wrap; max-height:46vh; overflow-y:auto; color:#2A3550}
+.enunciado{background:var(--branco); border-radius:16px; box-shadow:var(--sombra); padding:16px; font-size:15px; line-height:1.58; white-space:pre-wrap; margin-bottom:12px}
+.enunciado code, .alt code{font-family:var(--mono); font-size:.9em}
+.enunciado.codigo{font-size:14px}
+.alts{display:flex; flex-direction:column; gap:9px}
+.alt{display:flex; gap:12px; align-items:flex-start; text-align:left; width:100%; background:var(--branco); border:2px solid transparent;
+  border-radius:15px; padding:12px 13px; box-shadow:0 1px 4px rgba(22,33,58,.06); font-size:14.2px; line-height:1.48; white-space:pre-wrap}
+.alt .letra{width:28px; height:28px; border-radius:50%; border:2px solid var(--linha); display:grid; place-items:center; font-size:12.5px; font-weight:800; flex:none; color:var(--cinza)}
+.alt.marcada{border-color:var(--az); background:var(--az-nevoa)}
+.alt.marcada .letra{background:var(--az); border-color:var(--az); color:#fff}
+.alt.certa{border-color:var(--verde); background:var(--verde-nevoa)}
+.alt.certa .letra{background:var(--verde); border-color:var(--verde); color:#fff}
+.alt.errada{border-color:var(--verm); background:var(--verm-nevoa)}
+.alt.errada .letra{background:var(--verm); border-color:var(--verm); color:#fff}
+.alt.apagada{opacity:.55}
+.explica{margin-top:14px; border-radius:16px; padding:15px 16px; background:var(--branco); box-shadow:var(--sombra); border-left:5px solid var(--verde); animation:sobe .3s ease}
+.explica.erro{border-left-color:var(--verm)}
+.explica h4{font-size:14.5px; font-weight:800; margin-bottom:6px; display:flex; gap:7px; align-items:center}
+.explica p{font-size:14px; line-height:1.6; color:#2A3550; white-space:pre-wrap}
+@keyframes sobe{from{opacity:0; transform:translateY(8px)} to{opacity:1; transform:none}}
+.acoes{position:fixed; left:0; right:0; bottom:0; z-index:6; background:linear-gradient(to top,var(--fundo) 70%,rgba(243,245,250,0));
+  padding:14px 16px calc(14px + env(safe-area-inset-bottom))}
+.acoes-in{max-width:488px; margin:0 auto; display:flex; gap:10px}
+.btn{flex:1; height:50px; border-radius:14px; font-size:15px; font-weight:800; display:flex; align-items:center; justify-content:center; gap:6px}
+.btn-sec{background:var(--branco); color:var(--tinta); box-shadow:var(--sombra); flex:0 0 38%}
+.btn-pri{background:var(--verde); color:#fff; box-shadow:0 6px 16px rgba(23,163,91,.3)}
+.btn-az{background:var(--az); color:#fff; box-shadow:0 6px 16px rgba(29,63,191,.28)}
+.btn:disabled{opacity:.4}
+
+/* grade do simulado */
+.grade{display:grid; grid-template-columns:repeat(7,1fr); gap:7px; padding:14px}
+.grade button{aspect-ratio:1; border-radius:10px; background:var(--fundo); font-size:12.5px; font-weight:700; color:var(--cinza)}
+.grade button.feita{background:var(--az); color:#fff}
+.grade button.atual{outline:2px solid var(--am-esc); outline-offset:1px}
+.grade button.ok{background:var(--verde); color:#fff}
+.grade button.nok{background:var(--verm); color:#fff}
+
+/* ─────────── simulado (aba) ─────────── */
+.sim-capa{padding:20px 18px; text-align:center}
+.sim-capa .grande{font-size:40px}
+.sim-capa h3{font-size:20px; font-weight:900; margin-top:6px}
+.sim-capa p{font-size:13.5px; color:var(--cinza); line-height:1.5; margin-top:6px}
+.sim-fatos{display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin:16px 0}
+.sim-fatos div{background:var(--fundo); border-radius:12px; padding:10px 4px}
+.sim-fatos b{display:block; font-size:18px; font-weight:900; color:var(--az)}
+.sim-fatos small{font-size:11px; color:var(--cinza); font-weight:600}
+.hist{padding:4px 0}
+.hist-l{display:flex; justify-content:space-between; align-items:center; padding:12px 14px; border-bottom:1px solid var(--linha); font-size:13.5px}
+.hist-l:last-child{border-bottom:0}
+.hist-l b{font-weight:800}
+.nota{font-weight:900; font-size:15px}
+.vazio{padding:18px; text-align:center; color:var(--cinza); font-size:13.5px}
+
+/* resultado */
+.res-top{text-align:center; padding:22px 18px 18px}
+.res-top .nota-g{font-size:48px; font-weight:900; letter-spacing:-.03em; color:var(--az)}
+.res-top p{color:var(--cinza); font-size:13.5px; margin-top:2px}
+.linha-m{padding:11px 14px; border-bottom:1px solid var(--linha)}
+.linha-m:last-child{border-bottom:0}
+.linha-m .l1{display:flex; justify-content:space-between; font-size:13.5px; font-weight:700}
+.linha-m .l1 span{color:var(--cinza); font-weight:600}
+
+/* ─────────── flashcards ─────────── */
+.chips{display:flex; gap:7px; overflow-x:auto; padding:2px 0 10px; scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chips button{flex:none; padding:8px 13px; border-radius:999px; background:var(--branco); box-shadow:0 1px 4px rgba(22,33,58,.07); font-size:12.5px; font-weight:700; color:var(--cinza)}
+.chips button.on{background:var(--az); color:#fff}
+.flash-area{perspective:1200px; margin-top:6px}
+.flash{position:relative; height:min(58vh,400px); transform-style:preserve-3d; transition:transform .5s cubic-bezier(.2,.8,.2,1); cursor:pointer}
+.flash.virado{transform:rotateY(180deg)}
+.face{position:absolute; inset:0; backface-visibility:hidden; -webkit-backface-visibility:hidden; border-radius:22px; padding:26px 22px;
+  display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center; box-shadow:var(--sombra)}
+.face.frente{background:var(--branco)}
+.face.verso{background:linear-gradient(150deg,#2A52E0,var(--az-esc)); color:#fff; transform:rotateY(180deg)}
+.face small{position:absolute; top:16px; left:0; right:0; font-size:10.5px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; opacity:.6}
+.face b{font-size:19px; line-height:1.4; font-weight:800; white-space:pre-wrap}
+.face p{font-size:16px; line-height:1.55; white-space:pre-wrap}
+.face em{position:absolute; bottom:16px; font-style:normal; font-size:12px; opacity:.55; font-weight:600}
+.flash-cont{text-align:center; font-size:12.5px; color:var(--cinza); font-weight:600; margin:12px 0 0}
+
+/* ─────────── progresso ─────────── */
+.resumo{display:grid; grid-template-columns:repeat(3,1fr); gap:8px}
+.resumo div{background:var(--branco); border-radius:16px; box-shadow:var(--sombra); padding:13px 8px; text-align:center}
+.resumo b{display:block; font-size:21px; font-weight:900; color:var(--az)}
+.resumo small{font-size:11px; color:var(--cinza); font-weight:600}
+.fraco{padding:14px; display:flex; gap:12px; align-items:center; background:var(--verm-nevoa); border-radius:16px; margin-top:12px}
+.fraco .mat-ic{background:#fff}
+.fraco b{font-size:14px; font-weight:800; display:block}
+.fraco small{font-size:12px; color:#9B2A30}
+.fraco button{margin-left:auto; background:var(--verm); color:#fff; padding:9px 12px; border-radius:11px; font-size:12.5px; font-weight:800; flex:none}
+.zerar{display:block; margin:26px auto 0; font-size:12.5px; color:var(--cinza); text-decoration:underline; font-weight:600}
+
+/* ─────────── login ─────────── */
+.login{position:fixed; inset:0; z-index:90; background:linear-gradient(170deg,#2A52E0 0%,var(--az) 40%,var(--az-esc) 100%); display:flex; flex-direction:column; justify-content:center; padding:24px}
+.login-in{max-width:400px; width:100%; margin:0 auto; color:#fff}
+.login .marca{width:64px; height:64px; border-radius:18px; background:var(--am); margin-bottom:18px}
+.login .marca svg{width:38px; height:38px}
+.login h1{font-size:28px; font-weight:900; letter-spacing:-.02em; line-height:1.15}
+.login p{opacity:.85; font-size:14.5px; line-height:1.5; margin-top:8px}
+.login form{margin-top:26px; display:flex; flex-direction:column; gap:10px}
+.login input{height:54px; border-radius:14px; border:0; padding:0 16px; font-size:16px; color:var(--tinta)}
+.login button{height:54px; border-radius:14px; background:var(--am); color:#2B2000; font-size:16px; font-weight:900}
+.login .erro{color:#FFD7D9; font-size:13px; min-height:18px}
+
+.aviso{position:fixed; left:50%; bottom:calc(var(--barra) + 20px + env(safe-area-inset-bottom)); transform:translateX(-50%) translateY(20px); opacity:0;
+  background:var(--tinta); color:#fff; padding:11px 16px; border-radius:12px; font-size:13.5px; font-weight:600; z-index:100; transition:.25s; pointer-events:none; max-width:90vw}
+.aviso.on{opacity:1; transform:translateX(-50%)}
+.modal{position:fixed; inset:0; z-index:95; background:rgba(22,33,58,.45); display:none; align-items:flex-end; justify-content:center}
+.modal.on{display:flex}
+.modal-in{background:var(--branco); width:100%; max-width:520px; border-radius:22px 22px 0 0; padding:18px 16px calc(18px + env(safe-area-inset-bottom)); max-height:80vh; overflow-y:auto}
+.modal-in h3{font-size:17px; font-weight:800; margin-bottom:4px}
+.modal-in p{font-size:13.5px; color:var(--cinza); line-height:1.5}
+.modal-acoes{display:flex; gap:10px; margin-top:16px}
+</style>
+</head>
+<body>
+
+<!-- ═══════════ login ═══════════ -->
+<div class="login oculto" id="login">
+  <div class="login-in">
+    <div class="marca"><svg viewBox="0 0 64 64"><path d="M14 48V16h10l8 16 8-16h10v32h-9V31l-9 17-9-17v17z" fill="#1D3FBF"/></svg></div>
+    <h1>Kit do Escriturário</h1>
+    <p>Questões comentadas, simulado no formato da prova e flashcards para o concurso do Banco do Brasil.</p>
+    <form id="form-login" novalidate>
+      <input type="email" id="email" placeholder="Seu e-mail de compra" autocomplete="email" inputmode="email">
+      <div class="erro" id="erro-login"></div>
+      <button type="submit" class="toque">Entrar no Kit</button>
+    </form>
+  </div>
+</div>
+
+<div class="app">
+  <header class="topo">
+    <div class="marca"><svg viewBox="0 0 64 64"><path d="M14 48V16h10l8 16 8-16h10v32h-9V31l-9 17-9-17v17z" fill="#FFD21F"/></svg></div>
+    <div class="topo-txt"><b>Kit do Escriturário</b><small>Concurso Banco do Brasil</small></div>
+  </header>
+
+  <!-- ═══════════ início ═══════════ -->
+  <section class="aba on" id="aba-inicio">
+    <div class="hero">
+      <svg viewBox="0 0 640 336" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+        <defs>
+          <linearGradient id="ceu" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#1B2F8F"/><stop offset=".45" stop-color="#5A4FC4"/><stop offset=".75" stop-color="#F08A5D"/><stop offset="1" stop-color="#FFC857"/>
+          </linearGradient>
+          <linearGradient id="predio" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22306E"/><stop offset="1" stop-color="#121A45"/></linearGradient>
+          <radialGradient id="sol" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FFF3B0"/><stop offset=".6" stop-color="#FFD21F"/><stop offset="1" stop-color="#FFD21F" stop-opacity="0"/></radialGradient>
+        </defs>
+        <rect width="640" height="336" fill="url(#ceu)"/>
+        <circle cx="468" cy="228" r="86" fill="url(#sol)"/>
+        <g fill="#2B3A85" opacity=".55">
+          <rect x="0" y="176" width="54" height="160"/><rect x="60" y="150" width="40" height="186"/><rect x="104" y="196" width="60" height="140"/>
+          <rect x="520" y="160" width="46" height="176"/><rect x="570" y="196" width="70" height="140"/>
+        </g>
+        <g fill="url(#predio)">
+          <rect x="176" y="92" width="92" height="244"/><rect x="380" y="118" width="84" height="218"/><rect x="470" y="200" width="56" height="136"/>
+        </g>
+        <g fill="#FFD21F" opacity=".85">
+          <rect x="190" y="110" width="12" height="9"/><rect x="212" y="110" width="12" height="9"/><rect x="242" y="110" width="12" height="9"/>
+          <rect x="190" y="134" width="12" height="9"/><rect x="242" y="134" width="12" height="9"/><rect x="212" y="158" width="12" height="9"/>
+          <rect x="190" y="182" width="12" height="9"/><rect x="242" y="182" width="12" height="9"/><rect x="212" y="206" width="12" height="9"/>
+          <rect x="394" y="136" width="11" height="9"/><rect x="416" y="136" width="11" height="9"/><rect x="440" y="160" width="11" height="9"/>
+          <rect x="394" y="184" width="11" height="9"/><rect x="440" y="208" width="11" height="9"/><rect x="416" y="232" width="11" height="9"/>
+        </g>
+        <!-- agência com colunas -->
+        <g>
+          <polygon points="262,178 330,140 398,178" fill="#FFD21F"/>
+          <rect x="262" y="178" width="136" height="12" fill="#F4C300"/>
+          <rect x="266" y="190" width="128" height="104" fill="#F7F4EA"/>
+          <g fill="#DCD6C4"><rect x="276" y="196" width="12" height="92"/><rect x="304" y="196" width="12" height="92"/><rect x="344" y="196" width="12" height="92"/><rect x="372" y="196" width="12" height="92"/></g>
+          <rect x="318" y="238" width="24" height="56" rx="3" fill="#1D3FBF"/>
+          <rect x="254" y="294" width="152" height="10" fill="#E9E3D1"/>
+          <circle cx="330" cy="164" r="9" fill="#1D3FBF"/>
+          <path d="M326 164h8M330 160v8" stroke="#FFD21F" stroke-width="2.4" stroke-linecap="round"/>
+        </g>
+        <rect x="0" y="304" width="640" height="32" fill="#17214F"/>
+        <g stroke="#FFD21F" stroke-width="3" opacity=".6"><path d="M20 320h40M110 320h40M200 320h40M290 320h40M380 320h40M470 320h40M560 320h40"/></g>
+      </svg>
+    </div>
+
+    <div class="painel">
+      <div class="painel-topo">
+        <div><h3 id="saudacao">Boa noite</h3><p>Futuro escriturário do BB</p></div>
+        <div class="chip-ofensiva" id="chip-ofensiva">🔥 0 dias</div>
+      </div>
+      <div class="anel">
+        <svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="50" fill="none" stroke="rgba(255,255,255,.18)" stroke-width="11"/>
+          <circle id="anel-arco" cx="60" cy="60" r="50" fill="none" stroke="#FFD21F" stroke-width="11" stroke-linecap="round" stroke-dasharray="314.16" stroke-dashoffset="314.16" style="transition:stroke-dashoffset .8s"/></svg>
+        <div class="anel-txt"><b id="anel-pct">0%</b><small>do kit feito</small></div>
+      </div>
+      <div class="painel-rodape">
+        <div>✅ <span><b id="n-feitas">0</b> questões</span></div>
+        <div>🎯 <span><b id="n-acerto">–</b> de acerto</span></div>
+      </div>
+    </div>
+
+    <div class="titulo-sec"><h2>Treinos de Banca</h2></div>
+    <div class="treinos">
+      <button class="treino t-rapido toque" data-acao="rapido"><span class="ic">⚡</span><span><b>Treino Rápido</b><small>10 questões sorteadas</small></span></button>
+      <button class="treino t-sim toque" data-acao="simulado"><span class="ic">⏱️</span><span><b>Simulado</b><small>70 questões · 5 horas</small></span></button>
+      <button class="treino t-erros toque" data-acao="erros"><span class="ic">🔁</span><span><b>Revisar Erros</b><small id="sub-erros">Refaça o que errou</small></span></button>
+      <button class="treino t-flash toque" data-acao="flash"><span class="ic">🃏</span><span><b>Flashcards</b><small>Revisão rápida</small></span></button>
+    </div>
+
+    <div class="titulo-sec"><h2>Matérias</h2><span id="total-q"></span></div>
+    <div class="cartao materias" id="lista-inicio"></div>
+  </section>
+
+  <!-- ═══════════ matérias ═══════════ -->
+  <section class="aba" id="aba-materias">
+    <div class="titulo-sec" style="margin-top:6px"><h2>Questões por matéria</h2><span>toque para treinar</span></div>
+    <div class="cartao materias" id="lista-materias"></div>
+  </section>
+
+  <!-- ═══════════ simulado ═══════════ -->
+  <section class="aba" id="aba-simulado">
+    <div class="cartao sim-capa">
+      <div class="grande">⏱️</div>
+      <h3>Simulado no formato da prova</h3>
+      <p>70 questões de múltipla escolha, com cronômetro de 5 horas, igual ao último concurso da Cesgranrio para o BB. Você só vê o gabarito no final.</p>
+      <div class="sim-fatos">
+        <div><b>70</b><small>questões</small></div>
+        <div><b>5h</b><small>de prova</small></div>
+        <div><b>A–E</b><small>alternativas</small></div>
+      </div>
+      <button class="btn btn-pri toque" style="width:100%" id="btn-sim">Começar simulado</button>
+    </div>
+    <div class="titulo-sec"><h2>Seus simulados</h2></div>
+    <div class="cartao hist" id="hist-sim"></div>
+  </section>
+
+  <!-- ═══════════ progresso ═══════════ -->
+  <section class="aba" id="aba-progresso">
+    <div class="resumo">
+      <div><b id="p-feitas">0</b><small>respondidas</small></div>
+      <div><b id="p-acerto">–</b><small>de acerto</small></div>
+      <div><b id="p-dias">0</b><small>dias seguidos</small></div>
+    </div>
+    <div id="p-fraco"></div>
+    <div class="titulo-sec"><h2>Desempenho por matéria</h2><span>do pior ao melhor</span></div>
+    <div class="cartao materias" id="p-lista"></div>
+    <button class="zerar" id="btn-zerar">Zerar meu progresso</button>
+    <button class="zerar" id="btn-sair" style="margin-top:10px">Sair da conta</button>
+  </section>
+</div>
+
+<nav class="barra">
+  <div class="barra-in">
+    <button class="on" data-aba="inicio"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg>Início</button>
+    <button data-aba="materias"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5M8 7h7M8 11h7"/></svg>Questões</button>
+    <button data-aba="simulado"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2M9 2h6"/></svg>Simulado</button>
+    <button data-aba="progresso"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Progresso</button>
+  </div>
+</nav>
+
+<!-- ═══════════ tela de questões (treino e revisão) ═══════════ -->
+<div class="tela" id="tela-q">
+  <div class="tela-in">
+    <div class="tela-topo">
+      <button class="voltar toque" data-fechar="tela-q"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></button>
+      <div class="meio"><small id="q-modo">Modo Foco</small><b id="q-titulo">Matéria</b></div>
+    </div>
+    <div class="progresso-q"><i id="q-barra"></i></div>
+    <div id="q-corpo"></div>
+  </div>
+  <div class="acoes"><div class="acoes-in">
+    <button class="btn btn-sec toque" id="q-ant">Anterior</button>
+    <button class="btn btn-pri toque" id="q-prox">Próxima</button>
+  </div></div>
+</div>
+
+<!-- ═══════════ simulado em andamento ═══════════ -->
+<div class="tela" id="tela-sim">
+  <div class="tela-in">
+    <div class="tela-topo">
+      <button class="voltar toque" id="sim-pausa"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></button>
+      <div class="meio"><small>Simulado</small><b id="sim-cont">Questão 1 de 70</b></div>
+      <button class="relogio toque" id="sim-relogio">5:00:00</button>
+    </div>
+    <div class="progresso-q"><i id="sim-barra"></i></div>
+    <div id="sim-corpo"></div>
+  </div>
+  <div class="acoes"><div class="acoes-in">
+    <button class="btn btn-sec toque" id="sim-grade">Questões</button>
+    <button class="btn btn-az toque" id="sim-prox">Próxima</button>
+  </div></div>
+</div>
+
+<!-- ═══════════ resultado do simulado ═══════════ -->
+<div class="tela" id="tela-res">
+  <div class="tela-in">
+    <div class="tela-topo">
+      <button class="voltar toque" data-fechar="tela-res"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></button>
+      <div class="meio"><small>Simulado</small><b>Resultado</b></div>
+    </div>
+    <div id="res-corpo"></div>
+  </div>
+</div>
+
+<!-- ═══════════ flashcards ═══════════ -->
+<div class="tela" id="tela-flash">
+  <div class="tela-in">
+    <div class="tela-topo">
+      <button class="voltar toque" data-fechar="tela-flash"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></button>
+      <div class="meio"><small>Revisão rápida</small><b>Flashcards</b></div>
+    </div>
+    <div class="chips" id="flash-chips"></div>
+    <div class="flash-area"><div class="flash" id="flash">
+      <div class="face frente"><small id="flash-mat"></small><b id="flash-frente"></b><em>toque para virar</em></div>
+      <div class="face verso"><small>Resposta</small><p id="flash-verso"></p><em>toque para voltar</em></div>
+    </div></div>
+    <div class="flash-cont" id="flash-cont"></div>
+  </div>
+  <div class="acoes"><div class="acoes-in">
+    <button class="btn btn-sec toque" id="flash-rev" style="flex:1">🔁 Revisar de novo</button>
+    <button class="btn btn-pri toque" id="flash-sei">✓ Já sei</button>
+  </div></div>
+</div>
+
+<div class="modal" id="modal"><div class="modal-in" id="modal-in"></div></div>
+<div class="aviso" id="aviso"></div>
+
+<script src="banco.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

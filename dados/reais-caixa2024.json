@@ -1,0 +1,1378 @@
+[
+  {
+    "id": "caixa2024-1",
+    "materia": "portugues",
+    "assunto": "Interpretação de texto",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um trecho do texto que enumera benefícios da redução do uso de combustíveis fósseis é:",
+    "texto_apoio": "Transporte movido a energia limpa tem a necessidade de investimento para o combate às mudanças climáticas\n\n[1] A mobilidade urbana se tornou a maior tendência mundial da indústria automotiva. Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade? Imagine as pessoas se deslocando, com facilidade, para vários bairros de metrô ou transporte a energia limpa interligados. Para aqueles que optam por pedalar, estão à disposição mais de 700 quilômetros de ciclovias espalhadas por todos os cantos. Tudo isso parece utopia, mas não é.\n\n[2] Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa, e 75% da rede de transportes públicos recorrem a energias renováveis. Até 2050, o governo planeja ficar completamente livre de combustíveis fósseis, o que significa que todas as emissões relacionadas ao aquecimento público e privado, aos veículos e ao uso da eletricidade serão reduzidas a zero. Isso significa uma enorme contribuição à redução do aquecimento global.\n\n[3] O uso de energia limpa é muito mais vantajoso para os consumidores. A energia limpa é mais econômica, eficiente e competitiva que os combustíveis fósseis. Para exemplificar, a eficiência de um veículo movido a energia elétrica supera os 80%, enquanto os movidos a combustão não ultrapassam os 20%. Isso sem levar em consideração que os veículos elétricos possuem menos peças e têm menor custo de manutenção, se comparados aos de combustão.\n\n[4] Como esperado, a China lidera essa agenda do uso de energia limpa para a mobilidade urbana. Para acompanhar as tendências de desenvolvimento sustentável, Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo. Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis.\n\n[5] O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global. Algumas cidades e estados brasileiros estão tomando a frente para acelerar o processo de desenvolvimento de veículos elétricos e sustentáveis.\n\n[6] São Paulo, a maior cidade brasileira, foi a primeira a ter parte de sua frota transformada em veículos elétricos em novembro de 2019. A cidade apresentou lotes de 15 ônibus 100% elétricos distribuídos pela cidade. De acordo com a montadora, os ônibus elétricos proporcionam custos operacionais 70% menores em relação ao ônibus convencional a diesel. Os veículos entregues são de piso baixo e trazem ar-condicionado, conexão wi-fi, tomadas USB, monitoramento por câmeras e dispositivo de acesso a cadeirantes, conforme especificações técnicas da SPTrans.\n\nGONÇALVES, D. Revista Fórum Brasil de Gestão Ambiental. Adaptado.",
+    "alternativas": [
+      "“Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade?” (parágrafo 1)",
+      "“Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa” (parágrafo 2)",
+      "“Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo.” (parágrafo 4)",
+      "“Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis.” (parágrafo 4)",
+      "“O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global.” (parágrafo 5)"
+    ],
+    "correta": 0,
+    "comentario": "O comando pede um trecho que ENUMERE benefícios. Só a alternativa A traz uma lista de ganhos obtidos com veículos elétricos: redução de custos, de ruídos e de poluentes causadores do aquecimento global. As alternativas B, C e D apenas citam cidades e iniciativas (prêmio, assinaturas na COP21, zonas de baixa emissão), sem listar vantagens. A E fala do cenário mundial e da posição do Brasil. O erro típico é escolher D por mencionar combustíveis fósseis, mas ela descreve uma medida, não benefícios.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-2",
+    "materia": "portugues",
+    "assunto": "Progressão temática",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Em sua progressão temática, depois de informar que algumas cidades e estados brasileiros estão acelerando o processo de desenvolvimento de veículos elétricos e sustentáveis, o texto desenvolve a ideia de que",
+    "texto_apoio": "Transporte movido a energia limpa tem a necessidade de investimento para o combate às mudanças climáticas\n\n[1] A mobilidade urbana se tornou a maior tendência mundial da indústria automotiva. Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade? Imagine as pessoas se deslocando, com facilidade, para vários bairros de metrô ou transporte a energia limpa interligados. Para aqueles que optam por pedalar, estão à disposição mais de 700 quilômetros de ciclovias espalhadas por todos os cantos. Tudo isso parece utopia, mas não é.\n\n[2] Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa, e 75% da rede de transportes públicos recorrem a energias renováveis. Até 2050, o governo planeja ficar completamente livre de combustíveis fósseis, o que significa que todas as emissões relacionadas ao aquecimento público e privado, aos veículos e ao uso da eletricidade serão reduzidas a zero. Isso significa uma enorme contribuição à redução do aquecimento global.\n\n[3] O uso de energia limpa é muito mais vantajoso para os consumidores. A energia limpa é mais econômica, eficiente e competitiva que os combustíveis fósseis. Para exemplificar, a eficiência de um veículo movido a energia elétrica supera os 80%, enquanto os movidos a combustão não ultrapassam os 20%. Isso sem levar em consideração que os veículos elétricos possuem menos peças e têm menor custo de manutenção, se comparados aos de combustão.\n\n[4] Como esperado, a China lidera essa agenda do uso de energia limpa para a mobilidade urbana. Para acompanhar as tendências de desenvolvimento sustentável, Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo. Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis.\n\n[5] O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global. Algumas cidades e estados brasileiros estão tomando a frente para acelerar o processo de desenvolvimento de veículos elétricos e sustentáveis.\n\n[6] São Paulo, a maior cidade brasileira, foi a primeira a ter parte de sua frota transformada em veículos elétricos em novembro de 2019. A cidade apresentou lotes de 15 ônibus 100% elétricos distribuídos pela cidade. De acordo com a montadora, os ônibus elétricos proporcionam custos operacionais 70% menores em relação ao ônibus convencional a diesel. Os veículos entregues são de piso baixo e trazem ar-condicionado, conexão wi-fi, tomadas USB, monitoramento por câmeras e dispositivo de acesso a cadeirantes, conforme especificações técnicas da SPTrans.\n\nGONÇALVES, D. Revista Fórum Brasil de Gestão Ambiental. Adaptado.",
+    "alternativas": [
+      "a energia limpa é mais econômica, eficiente e competitiva que os combustíveis fósseis.",
+      "a maior cidade brasileira transformou parte de sua frota em veículos elétricos em novembro de 2019, com redução de custos operacionais em relação ao uso do diesel.",
+      "a mobilidade urbana se tornou a maior tendência mundial da indústria automotiva, com projetos de construção de veículos elétricos.",
+      "uma cidade europeia, que já tem 75% da rede de transportes públicos movida a energias renováveis, ganhou um prêmio ambiental em 2010.",
+      "várias cidades europeias estão tomando medidas para promover energia limpa e baixa emissão de poluentes produzidos pelos combustíveis fósseis."
+    ],
+    "correta": 1,
+    "comentario": "A informação sobre cidades e estados brasileiros fecha o parágrafo 5, e o que vem logo depois é o parágrafo 6, sobre São Paulo, que ganhou ônibus elétricos em 2019 com custos operacionais 70% menores que os do diesel. Por isso a resposta é B. As alternativas A, C, D e E trazem ideias que de fato estão no texto, mas aparecem ANTES desse ponto (parágrafos 3, 1, 2 e 4). Em questões de progressão, o que conta é a ordem das ideias, não só se elas estão no texto.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-3",
+    "materia": "portugues",
+    "assunto": "Relação entre parágrafos",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O segundo parágrafo do texto desempenha, em relação ao primeiro parágrafo, a função de expressar uma",
+    "texto_apoio": "Transporte movido a energia limpa tem a necessidade de investimento para o combate às mudanças climáticas\n\n[1] A mobilidade urbana se tornou a maior tendência mundial da indústria automotiva. Você já se imaginou morando em uma cidade onde os setores público e privado promovem projetos com veículos elétricos para transporte público, redução de custos, de ruídos, de poluentes causadores do aquecimento global e de mudanças climáticas para que o transporte público funcione de verdade? Imagine as pessoas se deslocando, com facilidade, para vários bairros de metrô ou transporte a energia limpa interligados. Para aqueles que optam por pedalar, estão à disposição mais de 700 quilômetros de ciclovias espalhadas por todos os cantos. Tudo isso parece utopia, mas não é.\n\n[2] Essa cidade existe e se chama Estocolmo, capital da Suécia, que ganhou o prêmio de Cidade Verde Europeia em 2010. Ela apresenta a maior percentagem de veículos não poluentes na Europa, e 75% da rede de transportes públicos recorrem a energias renováveis. Até 2050, o governo planeja ficar completamente livre de combustíveis fósseis, o que significa que todas as emissões relacionadas ao aquecimento público e privado, aos veículos e ao uso da eletricidade serão reduzidas a zero. Isso significa uma enorme contribuição à redução do aquecimento global.\n\n[3] O uso de energia limpa é muito mais vantajoso para os consumidores. A energia limpa é mais econômica, eficiente e competitiva que os combustíveis fósseis. Para exemplificar, a eficiência de um veículo movido a energia elétrica supera os 80%, enquanto os movidos a combustão não ultrapassam os 20%. Isso sem levar em consideração que os veículos elétricos possuem menos peças e têm menor custo de manutenção, se comparados aos de combustão.\n\n[4] Como esperado, a China lidera essa agenda do uso de energia limpa para a mobilidade urbana. Para acompanhar as tendências de desenvolvimento sustentável, Paris liderou na COP21 as assinaturas de medidas para promover energia limpa e mobilidade urbana elétrica em conjunto com mil cidades do mundo. Paris, Londres, Milão e Oslo foram exemplos, ao criar as zonas de baixa emissão de poluentes produzidos pelos combustíveis fósseis.\n\n[5] O cenário de avanço pelo mundo é muito promissor. O Brasil, de forma ainda tímida, começa a se inserir nesse cenário global. Algumas cidades e estados brasileiros estão tomando a frente para acelerar o processo de desenvolvimento de veículos elétricos e sustentáveis.\n\n[6] São Paulo, a maior cidade brasileira, foi a primeira a ter parte de sua frota transformada em veículos elétricos em novembro de 2019. A cidade apresentou lotes de 15 ônibus 100% elétricos distribuídos pela cidade. De acordo com a montadora, os ônibus elétricos proporcionam custos operacionais 70% menores em relação ao ônibus convencional a diesel. Os veículos entregues são de piso baixo e trazem ar-condicionado, conexão wi-fi, tomadas USB, monitoramento por câmeras e dispositivo de acesso a cadeirantes, conforme especificações técnicas da SPTrans.\n\nGONÇALVES, D. Revista Fórum Brasil de Gestão Ambiental. Adaptado.",
+    "alternativas": [
+      "adição",
+      "condição",
+      "consequência",
+      "contraposição",
+      "exemplificação"
+    ],
+    "correta": 4,
+    "comentario": "O parágrafo 1 descreve uma cidade ideal, com transporte limpo e ciclovias, e termina dizendo que 'parece utopia, mas não é'. O parágrafo 2 abre com 'Essa cidade existe e se chama Estocolmo', ou seja, dá um exemplo concreto do modelo descrito, e a resposta é exemplificação. Não é contraposição (D), porque o parágrafo 2 confirma o 1 em vez de se opor a ele. Também não é consequência (C) nem condição (B), porque Estocolmo não é efeito nem requisito da cidade imaginada.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-4",
+    "materia": "portugues",
+    "assunto": "Pontuação (vírgula)",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A vírgula está empregada plenamente de acordo com as exigências da norma-padrão da língua portuguesa em:",
+    "alternativas": [
+      "A preservação do planeta deve ser considerada, uma das prioridades da humanidade, porque é um dos grandes desafios para a manutenção da vida na Terra.",
+      "A redução do uso de plástico, ao abolir as sacolas não recicláveis no comércio, representa não só uma economia no dia a dia mas também a proteção da natureza.",
+      "As impressões em papel devem ser evitadas, porque atualmente, a preservação das árvores é essencial à vida humana.",
+      "O grande aumento nos níveis de chuva em determinadas regiões, pode ser atribuído ao processo de aquecimento global, e às mudanças climáticas.",
+      "Os veículos movidos por energia limpa, representam um incrível progresso na busca por reduzir a poluição atmosférica, nas grandes cidades do mundo."
+    ],
+    "correta": 1,
+    "comentario": "Em B, a oração reduzida 'ao abolir as sacolas não recicláveis no comércio' está intercalada entre o sujeito e o verbo e, por isso, vem corretamente entre duas vírgulas. A correlação 'não só... mas também' dispensa vírgula. Em A, a vírgula separa o verbo 'ser considerada' do seu predicativo. Em D e E, a vírgula separa o sujeito do verbo, que é o erro mais cobrado. Em C, o adjunto 'atualmente' deveria estar isolado por duas vírgulas, e não por uma só.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-5",
+    "materia": "portugues",
+    "assunto": "Crase",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O acento grave indicador de crase está empregado, de acordo com a norma-padrão da língua portuguesa, na palavra destacada em: (a palavra destacada é a que recebe o acento grave em cada frase)",
+    "alternativas": [
+      "A bicicleta é a principal alternativa para à diminuição de poluentes que causam o aquecimento global.",
+      "A capacidade de deslocamento da população motiva-a à buscar o aprimoramento contínuo dos transportes e enfrentar a realidade diária.",
+      "A redução do uso de gasolina, agente poluidor da mais alta intensidade, pode ser conseguida com o incentivo à produção de carros elétricos.",
+      "As causas do aquecimento global podem ser minimizadas se houver a intervenção dos órgãos governamentais que garantam acessibilidade à pessoas vulneráveis.",
+      "O combate à mudanças climáticas requer grande investimento dos países para a renovação da frota de transporte público."
+    ],
+    "correta": 2,
+    "comentario": "Em C, 'incentivo a' pede a preposição 'a', e 'a produção' é substantivo feminino com artigo, então 'incentivo à produção' tem crase. Em A, já existe a preposição 'para', e não se usam duas preposições seguidas. Em B, não há crase antes de verbo ('à buscar'). Em D e E, o 'a' está no singular antes de palavra no plural ('pessoas', 'mudanças'): é só preposição, e o certo seria 'a pessoas' e 'a mudanças' ou 'às pessoas' e 'às mudanças'.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-6",
+    "materia": "ingles",
+    "assunto": "Reading comprehension",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Paragraphs 1 through 3 indicate that",
+    "texto_apoio": "The new cost of living in New Mexico\n\n[1] ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved.\n\n[2] According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That's about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It's a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago.\n\n[3] Eggs are half the price of what they were last winter, but that's because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That's probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up.\n\n[4] While it's not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone.\n\n[5] There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It's worth noting wage growth rates have surpassed inflation rates since last February.\n\nAvailable at: kob.com. Retrieved on: Mar 1, 2024. Adapted.",
+    "alternativas": [
+      "New Mexican families are now less numerous, therefore food provision is cheaper.",
+      "the consumption of beef and vegetables has increased, along with their prices.",
+      "an avian flu outbreak is affecting the prices of milk and eggs nowadays.",
+      "some food items are now more expensive than they were before the pandemic.",
+      "popular snacks have had the smallest price increase in the last four years."
+    ],
+    "correta": 3,
+    "comentario": "O parágrafo 2 diz que a carne moída está quase um dólar mais cara que em janeiro de 2020, antes da pandemia, e que o leite subiu cerca de 50 centavos em quatro anos. Isso confirma D. A gripe aviária (C) explica o preço dos ovos no inverno anterior, não hoje, e não tem relação com o leite. Os snacks tiveram alta relevante (batata chips quase US$ 2 a mais, cookies quase 40%), o que torna E falsa. A e B não têm apoio no texto.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-7",
+    "materia": "ingles",
+    "assunto": "Vocabulary in context",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "In paragraph 4, the fragment “While it’s not likely there will be a major drop in grocery prices soon” conveys the idea that it is",
+    "texto_apoio": "The new cost of living in New Mexico\n\n[1] ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved.\n\n[2] According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That's about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It's a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago.\n\n[3] Eggs are half the price of what they were last winter, but that's because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That's probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up.\n\n[4] While it's not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone.\n\n[5] There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It's worth noting wage growth rates have surpassed inflation rates since last February.\n\nAvailable at: kob.com. Retrieved on: Mar 1, 2024. Adapted.",
+    "alternativas": [
+      "improbable for grocery items to become significantly cheaper in the near future.",
+      "certain that grocery products will become much cheaper in the long term.",
+      "mandatory that grocery prices be drastically reduced immediately.",
+      "disadvantageous for grocery articles to become considerably cheaper eventually.",
+      "imperceptible that grocery prices should be substantially reduced."
+    ],
+    "correta": 0,
+    "comentario": "'Not likely' quer dizer 'improvável', 'a major drop' é uma queda grande e 'soon' é em breve, então a paráfrase exata é A. B troca a ideia de improbabilidade por certeza e fala em longo prazo. C (obrigatório), D (desvantajoso) e E (imperceptível) mudam o sentido de 'likely', que trata de probabilidade e não de obrigação, vantagem ou percepção.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-8",
+    "materia": "ingles",
+    "assunto": "Vocabulary in context",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "In paragraph 4, the section “there are at least 40 housing projects under construction” means that new residential units",
+    "texto_apoio": "The new cost of living in New Mexico\n\n[1] ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved.\n\n[2] According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That's about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It's a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago.\n\n[3] Eggs are half the price of what they were last winter, but that's because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That's probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up.\n\n[4] While it's not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone.\n\n[5] There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It's worth noting wage growth rates have surpassed inflation rates since last February.\n\nAvailable at: kob.com. Retrieved on: Mar 1, 2024. Adapted.",
+    "alternativas": [
+      "have just been finished.",
+      "are currently being built.",
+      "might eventually be built.",
+      "couldn’t be finished.",
+      "are temporarily suspended."
+    ],
+    "correta": 1,
+    "comentario": "'Under construction' quer dizer 'em construção', ou seja, a obra está acontecendo agora, e o equivalente é 'are currently being built' (B). A diz que já foram concluídas. C trata a obra como mera possibilidade futura. D e E falam de obras que não terminaram ou estão paradas. O texto confirma B ao dizer que essas unidades devem chegar ao mercado 'in the coming months'.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-9",
+    "materia": "ingles",
+    "assunto": "Synonyms",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "In the fragment of paragraph 4 “The average rent in Albuquerque is […] about $400 higher than in January 2020”, the word “higher” can be replaced, with no change in meaning, by",
+    "texto_apoio": "The new cost of living in New Mexico\n\n[1] ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved.\n\n[2] According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That's about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It's a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago.\n\n[3] Eggs are half the price of what they were last winter, but that's because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That's probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up.\n\n[4] While it's not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone.\n\n[5] There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It's worth noting wage growth rates have surpassed inflation rates since last February.\n\nAvailable at: kob.com. Retrieved on: Mar 1, 2024. Adapted.",
+    "alternativas": [
+      "cheaper",
+      "better",
+      "taller",
+      "more manageable",
+      "more expensive"
+    ],
+    "correta": 4,
+    "comentario": "Quando se fala de preço, 'higher' quer dizer 'mais alto', ou seja, mais caro: 'more expensive' (E). 'Cheaper' (A) é o contrário. 'Taller' (C) é o erro típico: também se traduz por 'mais alto', mas serve para altura física, de pessoas e prédios, e não para valores. 'Better' e 'more manageable' não têm relação com o aumento do aluguel.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-10",
+    "materia": "ingles",
+    "assunto": "Reading comprehension",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "The excerpt of paragraph 5 “wage growth rates have surpassed inflation rates since last February” informs that",
+    "texto_apoio": "The new cost of living in New Mexico\n\n[1] ALBUQUERQUE, N.M. — Prices are going up in New Mexico, especially at the grocery store. A recent study found the average New Mexican family is spending up to $286 on groceries per week – and even more when children are involved.\n\n[2] According to the U.S. Bureau of Labor Statistics, the average price for a pound of ground beef was $5.56 last month. That's about 20 cents cheaper than back in July, but almost a full dollar more expensive than in January 2020 – right before the pandemic hit. It's a similar trend for milk, but a gallon is only about 50 cents more expensive than four years ago.\n\n[3] Eggs are half the price of what they were last winter, but that's because there was an avian flu outbreak. Most produce items, like tomatoes and bananas, have stayed around the same price for several years now. That's probably a good thing, because snacks are getting more expensive. Data shows the average bag of potato chips is almost $2 more expensive than four years ago. The price of chocolate chip cookies is also up almost 40%. All of those small increments add up.\n\n[4] While it's not likely there will be a major drop in grocery prices soon, there is some potentially good news when it comes to your housing budget. Officials with the Apartment Association of New Mexico say there are at least 40 housing projects under construction in the Albuquerque area. That is expected to bring at least 5,000 rental units to the market in the coming months. State leaders are pitching in too, with several new bills opening up millions of dollars in funding for even more housing projects. The average rent in Albuquerque is sitting at $1,340 a month – about $400 higher than in January 2020. Economists suggest an increased housing supply could reduce prices for everyone.\n\n[5] There is also evidence that wage growth is happening. Data from the U.S. Bureau of Labor Statistics showed average hourly earnings increased by 1.4% since last January. It's worth noting wage growth rates have surpassed inflation rates since last February.\n\nAvailable at: kob.com. Retrieved on: Mar 1, 2024. Adapted.",
+    "alternativas": [
+      "inflation rates have enlarged people’s income.",
+      "inflation rates are lower now than last February.",
+      "salaries have increased beyond inflation.",
+      "salaries have reduced because of inflation.",
+      "salaries have been considerably affected by inflation."
+    ],
+    "correta": 2,
+    "comentario": "'Surpassed' quer dizer 'superaram': desde fevereiro, os salários cresceram num ritmo maior que o da inflação, ou seja, houve ganho real (C). A inverte a relação de causa. B compara a inflação consigo mesma no tempo, o que o trecho não faz. D e E indicam perda salarial por causa da inflação, o contrário do que o texto afirma.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-11",
+    "materia": "mat-financeira",
+    "assunto": "Juros simples e compostos",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma empresa investiu R$ 300.000,00 em uma aplicação com prazo de 50 dias, a uma taxa de juro de 0,9% ao mês, no regime de juros simples. Considere mês comercial (30 dias) para essa operação, em todo o período. Em seguida, investiu todo o montante da operação anterior em outra aplicação, a uma taxa de juro composto de 1,0% ao mês, durante dois meses, resgatando todo o montante dessa segunda aplicação. Considere que ambas as operações são livres de impostos. Considerando-se o valor inicial da 1ª aplicação e o valor final da 2ª aplicação, o valor, em reais, que mais se aproxima do total de juros obtidos pela empresa é igual a",
+    "alternativas": [
+      "10.620,00",
+      "10.840,00",
+      "11.420,00",
+      "12.151,00",
+      "12.440,00"
+    ],
+    "correta": 0,
+    "comentario": "Na 1ª etapa (juros simples), J = 300.000 × 0,009 × 50/30 = 4.500, e o montante fica em 304.500. Na 2ª etapa (juros compostos), 304.500 × 1,01² = 304.500 × 1,0201 = 310.620,45. O total de juros é 310.620,45 − 300.000 ≈ 10.620 (A). Os erros comuns são usar 50 dias como se fossem 2 meses inteiros na primeira etapa ou somar os juros das duas etapas sem capitalizar o montante da primeira.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-12",
+    "materia": "mat-financeira",
+    "assunto": "Juros compostos - saldo devedor",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Para compor o capital de giro de sua empresa, um empresário tomou um empréstimo de R$ 100.000,00, em janeiro de 2024, a uma taxa de juro composto de 4% ao mês. Em março de 2024, após exatos 2 meses, efetuou o primeiro pagamento da dívida, pagando metade do saldo devedor. Em abril não efetuou qualquer pagamento, mas pretende quitar toda a dívida em maio de 2024, após exatos 4 meses. Considerando-se esse fluxo de capitais, o valor mais próximo, em reais, do saldo devedor desse empréstimo, em maio de 2024, é de",
+    "alternativas": [
+      "57.934,00",
+      "58.193,00",
+      "58.493,00",
+      "58.943,00",
+      "59.806,00"
+    ],
+    "correta": 2,
+    "comentario": "Em março, o saldo é 100.000 × 1,04² = 108.160. Pagando metade, restam 54.080. De março a maio são mais 2 meses: 54.080 × 1,0816 = 58.492,93, ou seja, cerca de 58.493 (C). Quem abate metade de 100.000 em vez de metade do saldo já corrigido encontra 50.000 × 1,0816 = 54.080, valor que não está entre as opções. As outras alternativas vêm de arredondamentos ou de prazos errados.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-13",
+    "materia": "mat-financeira",
+    "assunto": "Valor presente - juros compostos",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma determinada quantia foi emprestada a um cliente em janeiro de 2024, a uma taxa de 20% ao mês, no regime de juros compostos. Em fevereiro de 2024, não houve pagamentos. Em março de 2024, exatamente dois meses após a data do empréstimo, o cliente pagou R$ 1.440,00. E um mês após, em abril de 2024, pagou R$ 1.728,00, quitando a dívida. O valor do empréstimo realizado em janeiro de 2024, em reais, foi igual a",
+    "alternativas": [
+      "1.800,00",
+      "1.900,00",
+      "2.000,00",
+      "2.100,00",
+      "2.200,00"
+    ],
+    "correta": 2,
+    "comentario": "O valor emprestado é igual à soma dos pagamentos trazidos a valor presente: 1.440/1,2² + 1.728/1,2³ = 1.440/1,44 + 1.728/1,728 = 1.000 + 1.000 = 2.000 (C). A banca escolheu os números para as divisões darem exatas. O erro típico é descontar os dois pagamentos pelo mesmo prazo ou somar os pagamentos sem descontar nada.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-14",
+    "materia": "mat-financeira",
+    "assunto": "Sistema de Amortização Constante (SAC)",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um cliente comprou um imóvel no valor de R$ 600.000,00. Para isso, pagou 20% desse valor de entrada, em dezembro de 2023, e financiou o restante em prestações mensais no Sistema de Amortização Constante (SAC), a uma taxa de 0,5% ao mês, em um prazo de 20 anos, com a primeira prestação para janeiro de 2024 e a última para dezembro de 2043. Considere que a prestação mensal será composta de juros, amortização e uma taxa fixa de R$ 100,00 mensais (no ano de 2024) referente ao seguro. Considere também que todas as prestações desse financiamento sejam pagas dentro do prazo. A soma das 12 primeiras prestações (referentes ao período de janeiro de 2024 a dezembro de 2024) a serem pagas, em reais, por esse cliente nesse financiamento será igual a",
+    "alternativas": [
+      "53.080,00",
+      "53.340,00",
+      "53.760,00",
+      "53.900,00",
+      "53.960,00"
+    ],
+    "correta": 1,
+    "comentario": "O valor financiado é 480.000, pago em 240 meses, o que dá amortização constante de 2.000 por mês. Os juros caem 10 por mês (0,5% de 2.000): 2.400, 2.390, ..., 2.290. A soma dos juros é uma progressão aritmética: (2.400 + 2.290) × 12/2 = 28.140. Somando amortizações (24.000) e seguro (1.200), o total é 28.140 + 24.000 + 1.200 = 53.340 (B). O erro mais comum é esquecer o seguro ou calcular os 12 juros sobre o saldo inicial (dá 28.800).",
+    "dificuldade": 3
+  },
+  {
+    "id": "caixa2024-15",
+    "materia": "mat-financeira",
+    "assunto": "Taxas equivalentes",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Em um certo país, a lei exige que sejam exibidas a taxa mensal e a taxa anual equivalente, no regime de juros compostos, junto ao preço do produto que será financiado. Considerando-se que um estabelecimento cobra uma taxa de juro mensal de 5% ao mês, essa taxa anual é, aproximadamente, de (Dado: 1,05^6 = 1,34)",
+    "alternativas": [
+      "34%",
+      "48%",
+      "60%",
+      "80%",
+      "96%"
+    ],
+    "correta": 3,
+    "comentario": "A taxa anual equivalente é (1,05)¹² − 1. Usando o dado, 1,05¹² = (1,05⁶)² = 1,34² = 1,7956, o que dá cerca de 80% ao ano (D). A alternativa C (60%) é a taxa proporcional, 5% × 12, que só vale em juros simples. A alternativa A (34%) é o erro de usar 1,05⁶, que corresponde a um semestre.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-16",
+    "materia": "estatistica",
+    "assunto": "Mediana",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Na apresentação de resultados do terceiro trimestre de 2023, a Caixa divulgou que o valor total da Carteira de Finanças Sustentáveis era de R$ 720,7 bilhões, distribuído assim (em bilhões de reais): Comercial 31,9; FIES 51,7; Habitação 523,8; Minha Casa Minha Vida (Faixa 1) 9,5; Rural 8,4; Saneamento e Infraestrutura 95,4. A mediana dos valores da carteira dos produtos, em bilhões de reais, é, aproximadamente,",
+    "alternativas": [
+      "120",
+      "62",
+      "52",
+      "42",
+      "31"
+    ],
+    "correta": 3,
+    "comentario": "Em ordem crescente, os valores ficam: 8,4; 9,5; 31,9; 51,7; 95,4; 523,8. Como são 6 valores (número par), a mediana é a média dos dois centrais: (31,9 + 51,7)/2 = 41,8, ou seja, cerca de 42 (D). A alternativa A (120) está perto da média (720,7/6), e não da mediana. C (52) e E (31) são os valores centrais tomados isoladamente, erro de quem não ordena os dados ou não tira a média dos dois do meio.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-17",
+    "materia": "estatistica",
+    "assunto": "Média",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Em 2023, os programas sociais geridos pela Caixa representaram quase R$ 283 bilhões em benefícios pagos entre janeiro e setembro. O destaque foi o Bolsa Família, responsável por aproximadamente R$ 118 bilhões, beneficiando cerca de 24 milhões de famílias no mesmo período. Considere que esses 24 milhões de famílias foram beneficiados durante todo o período, ignorando saídas ou entradas de famílias. O valor médio dos benefícios, em reais, recebidos por família durante todo o período é, aproximadamente, de",
+    "alternativas": [
+      "5.000,00",
+      "7.000,00",
+      "10.000,00",
+      "11.000,00",
+      "12.000,00"
+    ],
+    "correta": 0,
+    "comentario": "A média por família é o total do Bolsa Família dividido pelo número de famílias: 118 bilhões / 24 milhões ≈ 4.917, ou seja, cerca de 5.000 (A). O distrator é o total de 283 bilhões, que soma todos os programas: 283/24 ≈ 11.800, perto de E. Também é preciso cuidar das unidades: dividir bilhões por milhões dá milhares.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-18",
+    "materia": "estatistica",
+    "assunto": "Probabilidade e proporção",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma pesquisa da Anbima mostrou que a probabilidade de um brasileiro adulto investir o seu dinheiro é de apenas 36%. Para esses, o investimento mais popular é a poupança, investimento realizado por 1 a cada 4 investidores brasileiros. Com base nessa pesquisa e considerando-se uma população brasileira de 140 milhões de brasileiros adultos, quantos milhões de brasileiros adultos investem na poupança?",
+    "alternativas": [
+      "12,6",
+      "35,0",
+      "50,4",
+      "54,0",
+      "85,4"
+    ],
+    "correta": 0,
+    "comentario": "Primeiro vêm os que investem: 36% de 140 milhões = 50,4 milhões. Desses, 1 em cada 4 usa a poupança: 50,4/4 = 12,6 milhões (A). A alternativa C (50,4) para no primeiro passo. B (35) aplica 1/4 direto sobre toda a população, esquecendo que a fração vale só para os investidores.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-19",
+    "materia": "estatistica",
+    "assunto": "Probabilidade do complementar",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A Caixa é um dos maiores financiadores de habitação no país. A cada dia, são feitas cerca de 200 mil simulações de financiamentos habitacionais e 2.000 contratos novos são assinados. A probabilidade de que um par aleatório de simulações independentes resulte em pelo menos um novo contrato assinado é",
+    "alternativas": [
+      "50,00%",
+      "2,00%",
+      "1,99%",
+      "1,98%",
+      "0,01%"
+    ],
+    "correta": 2,
+    "comentario": "A chance de uma simulação virar contrato é 2.000/200.000 = 1%. 'Pelo menos um' se resolve pelo complementar: 1 − P(nenhum) = 1 − 0,99² = 1 − 0,9801 = 0,0199 = 1,99% (C). Quem soma 1% + 1% marca 2% (B) e conta duas vezes o caso em que as duas viram contrato. A alternativa E (0,01%) é a chance de as DUAS virarem contrato.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-20",
+    "materia": "estatistica",
+    "assunto": "Coeficiente de variação",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O gerente de um banco possui apenas quatro contas sob sua gestão, uma com saldo de R$ 30 mil, duas com saldo de R$ 50 mil e uma com saldo de R$ 70 mil. O coeficiente de variação dos saldos das contas sob a responsabilidade desse gerente é, aproximadamente, (Dado: raiz de 2 = 1,414)",
+    "alternativas": [
+      "14,14%",
+      "28,28%",
+      "44,44%",
+      "58,58%",
+      "64,64%"
+    ],
+    "correta": 1,
+    "comentario": "A média é (30 + 50 + 50 + 70)/4 = 50. Os desvios são −20, 0, 0 e 20, e a variância populacional é (400 + 0 + 0 + 400)/4 = 200. O desvio-padrão é √200 = 10√2 ≈ 14,14, e o CV = 14,14/50 = 28,28% (B). A alternativa A (14,14%) é o erro de apresentar o desvio-padrão como se fosse o CV. Como as 4 contas são toda a população do gerente, divide-se por n, e não por n − 1.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-25",
+    "materia": "bancarios",
+    "assunto": "Prevenção à lavagem de dinheiro (Carta Circular 4.001/2020)",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um Banco está estruturando seus procedimentos de monitoramento e seleção de operações que possam configurar indícios de ocorrência dos crimes de “lavagem” ou ocultação de bens, direitos e valores. De acordo com a Carta Circular nº 4.001/2020, incluem-se nas situações relacionadas com operações em espécie em moeda nacional com a utilização de contas de depósitos ou de contas de pagamento os seguintes exemplos:",
+    "alternativas": [
+      "concentração de depósitos ou outro instrumento de transferência de recurso eletrônico, excluídos os boletos de pagamento, de forma a dissimular o valor total da movimentação.",
+      "saques no período de quinze dias úteis em valores superiores aos limites estabelecidos, de forma a dissimular o valor total da operação e evitar comunicações de operações em espécie.",
+      "saques em espécie de conta-corrente ou conta-poupança que receba diversos depósitos por transferência eletrônica de uma única origem, em longo período de tempo.",
+      "depósitos ou aportes de baixos valores em espécie, de forma única, em caixas ou terminais de autoatendimento próximos, destinados sempre a uma única conta.",
+      "depósitos ou aportes em espécie em contas de clientes que exerçam atividade comercial relacionada com negociação de bens de luxo ou de alto valor, tais como obras de arte, imóveis, barcos, joias, automóveis ou aeronaves."
+    ],
+    "correta": 4,
+    "comentario": "A Carta Circular 4.001/2020 lista literalmente como indício os depósitos em espécie em contas de clientes que negociam bens de luxo ou de alto valor (obras de arte, imóveis, barcos, joias, automóveis, aeronaves), setores clássicos para lavar dinheiro. As outras alternativas deformam a redação da norma: em A, os boletos não são excluídos; em B, o fracionamento que a norma descreve é de saques ABAIXO dos limites, feito para fugir da comunicação; em C, a norma fala em 'curto período'; em D, fala em depósitos fracionados e múltiplos. Fique atento a essas trocas de palavra, que a Cesgranrio usa muito.",
+    "dificuldade": 3
+  },
+  {
+    "id": "caixa2024-26",
+    "materia": "bancarios",
+    "assunto": "Garantias - penhor",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Considere a hipótese de a Caixa Econômica Federal aceitar, no contrato de um empréstimo concedido a determinado cliente, o depósito de um conjunto de joias valiosas como garantia pela amortização total da dívida contraída. Esse tipo de garantia é denominado",
+    "alternativas": [
+      "aval",
+      "penhor",
+      "fiança",
+      "hipoteca",
+      "alienação fiduciária"
+    ],
+    "correta": 1,
+    "comentario": "Penhor é a garantia real sobre bem móvel, em que o bem normalmente é entregue ao credor, como no penhor de joias da Caixa (B). Aval (A) e fiança (C) são garantias pessoais, dadas por um terceiro, e não recaem sobre um bem. Hipoteca (D) recai sobre imóveis, navios e aeronaves. Na alienação fiduciária (E), a propriedade do bem passa ao credor até a quitação, e o devedor fica com a posse.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-27",
+    "materia": "bancarios",
+    "assunto": "Fintechs e forças competitivas de Porter",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um texto da Febraban comenta que as chamadas fintechs, startups de tecnologia do setor financeiro, surgidas com a popularização dos smartphones e a digitalização, com estrutura enxuta e sem a pressão de reguladores e do compliance das grandes empresas, passaram a fazer transações que até pouco tempo eram exclusividade das agências bancárias (pagamentos, renegociação de dívidas, transferências, seguros), desafiando as empresas tradicionais. Tendo em vista as estratégias de competição concebidas por Michael Porter, a principal força competitiva oriunda dos novos serviços oferecidos pelas fintechs e imposta aos bancos tradicionais provém do(a)",
+    "alternativas": [
+      "poder de negociação dos fornecedores",
+      "poder de negociação dos compradores",
+      "monopólio dos novos entrantes",
+      "ameaça de entrada ou entrada efetiva de novos concorrentes no setor",
+      "rivalidade entre os concorrentes, tradicionalmente, estabelecidos no setor"
+    ],
+    "correta": 3,
+    "comentario": "O próprio texto chama as fintechs de 'entrantes' do setor, o que corresponde à força de Porter 'ameaça de novos entrantes' (D). A rivalidade entre concorrentes (E) trata dos bancos já estabelecidos disputando entre si. Os poderes de negociação (A e B) dizem respeito a fornecedores e clientes, não a empresas novas no mercado. C é uma pegadinha: 'monopólio dos novos entrantes' não é uma das cinco forças e contradiz a ideia de concorrência.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-29",
+    "materia": "bancarios",
+    "assunto": "Estrutura do SFN",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Na estrutura organizacional do Sistema Financeiro Nacional (SFN), cada uma das instituições exerce uma função específica. Tendo em vista sua forma de atuação, a Caixa Econômica Federal deve ser enquadrada, no âmbito do SFN, como uma instituição cuja função principal é",
+    "alternativas": [
+      "operadora",
+      "reguladora",
+      "supervisora",
+      "normativa",
+      "de autoridade monetária"
+    ],
+    "correta": 0,
+    "comentario": "O SFN se divide em órgãos normativos (CMN, CNSP, CNPC), supervisores (BCB, CVM, Susep, Previc) e operadores, que são as instituições que efetivamente fazem intermediação financeira. A Caixa, como banco que capta e empresta, é um operador (A), assim como o Banco do Brasil. As funções normativa, reguladora, supervisora e de autoridade monetária cabem ao CMN e ao Banco Central, e não aos bancos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-30",
+    "materia": "bancarios",
+    "assunto": "Mercado monetário e reservas bancárias",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O mercado de Reservas Bancárias reflete uma das mais importantes inter-relações entre o Banco Central do Brasil (BCB) e os bancos comerciais. Nos respectivos balancetes consolidados, essas Reservas são lançadas como passivo do BCB, mas como ativo dos bancos comerciais. As Reservas Bancárias formam uma parte expressiva do chamado mercado",
+    "alternativas": [
+      "cambial",
+      "monetário",
+      "de crédito",
+      "de capitais",
+      "de criptomoedas"
+    ],
+    "correta": 1,
+    "comentario": "O mercado monetário (B) trata da liquidez de curtíssimo prazo da economia. Nele circulam as reservas bancárias e as operações compromissadas, e é por ele que o BCB controla a Selic. O mercado de crédito (C) financia consumo e capital de giro de famílias e empresas. O de capitais (D) financia investimentos de médio e longo prazo, com ações e debêntures. O cambial (A) negocia moedas estrangeiras.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-31",
+    "materia": "bancarios",
+    "assunto": "Política monetária não convencional",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Dentre as estratégias utilizadas por um governo para atuar na economia, tem-se a política monetária não convencional. Um exemplo de política monetária não convencional é a(o)",
+    "alternativas": [
+      "compra recorrente, pelo Banco Central, de títulos de longo prazo do Tesouro Nacional.",
+      "redução da taxa de redesconto do Banco Central.",
+      "redução das reservas bancárias, mediante venda de títulos de curto prazo pelo Banco Central.",
+      "aumento da taxa do depósito compulsório sobre depósitos à vista dos bancos comerciais.",
+      "aumento da base monetária, mediante emissão primária de moeda."
+    ],
+    "correta": 0,
+    "comentario": "A política monetária não convencional mais conhecida é o 'quantitative easing': o banco central compra em volume títulos de longo prazo para derrubar os juros longos quando a taxa básica já está perto de zero (A). Redesconto (B), open market com títulos de curto prazo (C) e compulsório (D) são os instrumentos clássicos, ou seja, convencionais. A emissão de moeda (E) descreve só um efeito sobre a base monetária, e não uma estratégia não convencional.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-32",
+    "materia": "bancarios",
+    "assunto": "Política fiscal - dívida/PIB",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um dos maiores desafios da política fiscal é manter a razão entre a dívida bruta do setor público e o Produto Interno Bruto (PIB) em níveis baixos e estáveis no longo prazo. Considerando-se que todos os demais fatores permaneçam constantes, o seguinte fator contribui para o aumento da razão dívida pública/PIB:",
+    "alternativas": [
+      "compromisso do governo com a obtenção de superávits fiscais primários",
+      "redução dos gastos do governo",
+      "aumento da taxa básica de juros de curto prazo (Selic)",
+      "maior ritmo de arrecadação tributária governamental",
+      "maiores taxas de crescimento econômico"
+    ],
+    "correta": 2,
+    "comentario": "Boa parte da dívida pública brasileira paga juros atrelados à Selic. Quando a Selic sobe, o custo da dívida (juros nominais) aumenta e o numerador da razão dívida/PIB cresce (C). Superávit primário (A), corte de gastos (B) e mais arrecadação (D) reduzem a necessidade de endividamento. Mais crescimento econômico (E) aumenta o denominador (PIB) e faz a razão cair.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-33",
+    "materia": "bancarios",
+    "assunto": "Operações compromissadas",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "As operações compromissadas são o instrumento mais utilizado pelo Banco Central do Brasil (BCB) para controlar a liquidez do sistema bancário e formar a taxa de juros de curto prazo. Quando o BCB realiza uma operação compromissada de compra de títulos públicos no mercado aberto, ele",
+    "alternativas": [
+      "eleva os preços dos títulos públicos e pressiona a taxa de juros de curto prazo para cima.",
+      "aumenta a liquidez no mercado de reservas bancárias e pressiona a taxa de juros de curto prazo para cima.",
+      "aumenta a liquidez no mercado de reservas bancárias e pressiona a taxa de juros de curto prazo para baixo.",
+      "reduz a liquidez no mercado de reservas bancárias e pressiona a taxa de juros de curto prazo para baixo.",
+      "reduz os preços dos títulos públicos e pressiona a taxa de juros de curto prazo para baixo."
+    ],
+    "correta": 2,
+    "comentario": "Quando o BCB compra títulos, paga aos bancos com reservas e injeta liquidez. Com mais dinheiro sobrando no interbancário, o preço desse dinheiro, que é a taxa de juros de curto prazo, cai (C). Em A, a subida no preço dos títulos está certa, mas preço do título e taxa andam em sentidos opostos, então os juros cairiam. B junta um efeito correto a uma direção errada. D e E descrevem a venda de títulos, que retira liquidez.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-34",
+    "materia": "bancarios",
+    "assunto": "Câmbio real",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "As taxas de câmbio nominais referem-se aos preços relativos de duas moedas, enquanto as taxas reais de câmbio são definidas em termos de taxas nominais de câmbio e níveis de preços. Considerando-se apenas bens e serviços comercializáveis, uma desvalorização real da moeda brasileira com relação ao Dólar americano implica diretamente um(a)",
+    "alternativas": [
+      "aumento do poder de compra do Dólar americano sobre os bens e serviços brasileiros.",
+      "aumento dos déficits em transações correntes no Brasil.",
+      "redução da competitividade das exportações brasileiras para os Estados Unidos.",
+      "redução nos índices de preços no Brasil, em relação aos índices de preços nos Estados Unidos.",
+      "redução da taxa nominal de câmbio Real/Dólar."
+    ],
+    "correta": 0,
+    "comentario": "Com o real desvalorizado em termos reais, cada dólar compra mais bens e serviços brasileiros (A). Por isso as exportações brasileiras ficam MAIS competitivas, e C está errada. A tendência é o déficit em transações correntes cair, e não aumentar (B). A desvalorização real não implica queda de preços internos (D) e normalmente vem com alta, e não redução, da taxa nominal R$/US$ (E).",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-35",
+    "materia": "bancarios",
+    "assunto": "Mercado de câmbio - Ptax",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Diariamente, o Banco Central do Brasil (BCB) publica boletins informando as cotações de diversas moedas com relação ao Dólar americano e ao Real. A taxa de referência entre o Real e o Dólar americano, divulgada pelo BCB em seus boletins e mais utilizada no mercado de câmbio brasileiro, é a taxa",
+    "alternativas": [
+      "Selic",
+      "Referencial",
+      "cambial direta",
+      "Ptax",
+      "Swap"
+    ],
+    "correta": 3,
+    "comentario": "A Ptax é a taxa de câmbio de referência do BCB, calculada como a média de consultas feitas aos dealers ao longo do dia. Ela serve para liquidar contratos e fazer conversões oficiais (D). A Selic (A) é a taxa básica de juros, e a TR (B) é a taxa referencial usada na poupança e no FGTS. 'Cambial direta' (C) é só a forma de cotar a moeda, e swap (E) é um derivativo.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-36",
+    "materia": "bancarios",
+    "assunto": "Criptoativos - mineração de Bitcoin",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A mineração de Bitcoin é um processo complexo, que envolve muitos competidores, demanda grande capacidade computacional e enorme gasto de energia elétrica. Esse processo de mineração consiste em",
+    "alternativas": [
+      "emitir novos Bitcoins, garantindo a crescente expansão da oferta da moeda.",
+      "validar os registros eletrônicos das transações no blockchain.",
+      "controlar a quantidade de Bitcoins emitidos para sustentar o valor da moeda.",
+      "alterar os registros eletrônicos prévios no blockchain, em troca de recompensa.",
+      "disputar a compra de Bitcoins na emissão a cotações menores do que as do mercado."
+    ],
+    "correta": 1,
+    "comentario": "Minerar é resolver o problema criptográfico (prova de trabalho) que valida um bloco de transações e o registra no blockchain (B). Os novos bitcoins são a recompensa por esse trabalho, e não o objetivo da atividade. A emissão total é limitada a 21 milhões, o que afasta a expansão crescente da alternativa A. Ninguém controla a oferta de forma centralizada (C), e o blockchain é imutável, o que torna D errada.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-37",
+    "materia": "bancarios",
+    "assunto": "Mercado de capitais - OPA",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um gerente está trabalhando em um projeto de Oferta Pública de Aquisição (OPA) de uma empresa cliente do banco que quer fechar o capital. O laudo de avaliação indicou diversos valores da companhia, utilizando diferentes critérios do valor por ação: patrimônio líquido contábil, patrimônio líquido avaliado a preço de mercado, fluxo de caixa descontado e múltiplos de mercado. Quais dos diferentes critérios a seguir são aceitos pela Comissão de Valores Mobiliários?",
+    "alternativas": [
+      "Patrimônio líquido avaliado a preço de mercado, apenas",
+      "Patrimônio líquido avaliado a preço de mercado e fluxo de caixa descontado, apenas",
+      "Fluxo de caixa descontado e múltiplos de mercado, apenas",
+      "Patrimônio líquido avaliado a preço de mercado, fluxo de caixa descontado e múltiplos de mercado, apenas",
+      "Patrimônio líquido contábil, patrimônio líquido avaliado a preço de mercado, fluxo de caixa descontado e múltiplos de mercado"
+    ],
+    "correta": 4,
+    "comentario": "A regulamentação da CVM para OPA de cancelamento de registro exige que o laudo apresente vários critérios de avaliação, e os quatro citados são aceitos: PL contábil, PL a preço de mercado, fluxo de caixa descontado e múltiplos, além da cotação média em bolsa (E). A ideia é dar ao minoritário uma visão ampla do valor da empresa. O erro típico é descartar o PL contábil por parecer 'desatualizado', mas ele está entre os critérios previstos.",
+    "dificuldade": 3
+  },
+  {
+    "id": "caixa2024-38",
+    "materia": "bancarios",
+    "assunto": "Consórcios - supervisão",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um gerente, responsável por uma administradora de consórcio, empresa pertencente a uma instituição financeira, deve enviar periodicamente informações contábeis sobre as operações de consórcios ao(à)",
+    "alternativas": [
+      "Banco Central do Brasil (BCB)",
+      "Conselho Nacional de Previdência e Consórcio (CNPC)",
+      "Conselho Monetário Nacional (CMN)",
+      "Comissão de Valores Mobiliários (CVM)",
+      "Superintendência de Seguros Privados (Susep)"
+    ],
+    "correta": 0,
+    "comentario": "Pela Lei 11.795/2008, o Banco Central regula e fiscaliza as administradoras de consórcio, que por isso lhe enviam suas informações contábeis (A). O CMN (C) é órgão normativo e não recebe dados operacionais. O 'CNPC' da alternativa B não trata de consórcio: o CNPC real é o Conselho Nacional de Previdência Complementar. CVM (D) e Susep (E) supervisionam valores mobiliários e seguros.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-39",
+    "materia": "bancarios",
+    "assunto": "Produtos de investimento - debêntures",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O cliente de um banco solicitou uma recomendação de investimento a seu gerente. Ele recebeu uma recomendação com as seguintes características: título emitido por sociedade por ação, considerado crédito privado de renda fixa para captação de recursos no mercado de capitais, que as empresas utilizam para financiar seus projetos, cuja oferta pública é registrada na Comissão de Valores Mobiliários (CVM), e em que haja a expectativa de receber juros prefixados periódicos e o pagamento do principal no vencimento do título. Considerando-se as informações apresentadas, o gerente indicou que o seu cliente investisse em",
+    "alternativas": [
+      "Certificado de Depósito Bancário (CDB)",
+      "Ação",
+      "Tesouro Direto",
+      "Debênture",
+      "Fundo de Renda Fixa"
+    ],
+    "correta": 3,
+    "comentario": "A debênture é um título de dívida emitido por sociedade anônima para financiar projetos, com oferta registrada na CVM e pagamento periódico de juros e do principal no vencimento (D). O CDB (A) também é renda fixa, mas é emitido por banco, e não por empresa em geral. A ação (B) é renda variável e representa participação no capital. O Tesouro Direto (C) é dívida pública, e o fundo (E) é um veículo coletivo, e não um título emitido pela companhia.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-41",
+    "materia": "informatica",
+    "assunto": "Correio eletrônico - protocolos seguros",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um usuário do sistema de correio eletrônico corporativo recebeu as instruções da equipe técnica para configurar o acesso à sua caixa postal de entrada e às suas pastas de mensagens mantidas no servidor corporativo, usando o aplicativo de correio do seu smartphone. Para assegurar que a comunicação entre o aplicativo e o servidor seja realizada através de um canal de comunicação seguro, o usuário deve optar pelo seguinte protocolo de comunicação:",
+    "alternativas": [
+      "IMAPS",
+      "HTTP",
+      "SMTPS",
+      "POP3",
+      "DNS"
+    ],
+    "correta": 0,
+    "comentario": "Para ler a caixa de entrada e as pastas que ficam no servidor, o protocolo é o IMAP. Na versão segura, com TLS/SSL, ele se chama IMAPS (A). O SMTPS (C) é seguro, mas serve para ENVIAR mensagens, e não para acessar a caixa postal. O POP3 (D) baixa as mensagens, não sincroniza as pastas do servidor e, nessa forma, não é cifrado. HTTP (B) e DNS (E) não são protocolos de correio.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-42",
+    "materia": "informatica",
+    "assunto": "Segurança da informação - assinatura digital",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Os mecanismos de segurança são implementados para atender os fundamentos de segurança da informação. Dentre os mecanismos mais importantes, um deles visa assegurar que a origem dos dados recebidos ou a entidade associada em uma comunicação são exatamente quem reivindicam ser. Esse mecanismo de segurança é conhecido como",
+    "alternativas": [
+      "envelope digital",
+      "assinatura digital",
+      "cifragem simétrica",
+      "hash de mensagem",
+      "autorização de acesso"
+    ],
+    "correta": 1,
+    "comentario": "Garantir que a origem é quem diz ser é o princípio da autenticidade, e o mecanismo que o entrega é a assinatura digital (B), que também dá integridade e não repúdio. O envelope digital (A) e a cifragem simétrica (C) protegem a confidencialidade. O hash sozinho (D) verifica a integridade, mas não prova quem gerou a mensagem. A autorização (E) define o que alguém já autenticado pode fazer.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-43",
+    "materia": "ti",
+    "assunto": "Inteligência artificial - GAN",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Em 2014, a arquitetura de redes neurais denominada Redes Adversárias Generativas (GAN) revolucionou o aprendizado de máquina. As GAN caracterizam-se por",
+    "alternativas": [
+      "serem usadas, exclusivamente, para classificação de imagens.",
+      "consistirem, apenas, em um gerador de ruídos e em uma rede neural classificatória.",
+      "serem compostas por duas redes neurais: uma discriminadora e outra geradora.",
+      "serem incapazes de aprender a partir de conjuntos de dados não supervisionados.",
+      "não poderem ser aplicadas para gerar conteúdo linguístico."
+    ],
+    "correta": 2,
+    "comentario": "Uma GAN põe duas redes para competir: a geradora cria amostras sintéticas e a discriminadora tenta separar o que é real do que é falso. As duas melhoram juntas (C). O objetivo é GERAR conteúdo, e não só classificar imagens (A). A geradora é uma rede neural, e não um mero gerador de ruído (B). As GANs são usadas justamente em aprendizado não supervisionado, o que derruba D, e existem aplicações em texto, o que derruba E.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-44",
+    "materia": "ti",
+    "assunto": "Metodologias ágeis - mentalidade",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma empresa procura um candidato adaptado à cultura ágil. Cinco pessoas foram entrevistadas:\nP1: Verifica a clareza do cliente; procura sempre priorizar o necessário; desenvolve seu mindset; traz a responsabilidade para si; procura desenvolver o fim da aversão ao erro.\nP2: Trabalha com uma mentalidade flexível, estando aberto a experimentações, com contínuo aprendizado, se ajustando às novas situações, além de sempre procurar interagir com o cliente, buscando satisfazê-lo de forma eficiente.\nP3: Procura estabelecer sempre o domínio do problema, focando só no problema, separando as funcionalidades e resolvendo-o de acordo com os requisitos do cliente, sem questionar se os requisitos estão certos ou errados.\nP4: Procura fazer uma boa análise de requisitos, utilizando técnicas como o rational unified process, visando construir modelos que definam a solução; faz orçamentos e cronogramas bem sustentáveis e verifica o cumprimento de cada etapa através de pontos de decisão e, caso dê errado, verifica quais fatores externos influenciaram o erro.\nP5: Estabelece metas, construídas antes de serem mostradas ao cliente, representando-as com modelos visuais (diagramas de entidade e relacionamento, diagramas de funcionalidades), cada diagrama verificado com o cliente e, havendo discordância, volta-se ao ponto inicial da análise; e costuma questionar a equipe sobre o porquê de ocorrerem atrasos.\nCom base nesses perfis, os candidatos que se adequam ao modelo ágil de desenvolvimento são APENAS",
+    "alternativas": [
+      "P1 e P2",
+      "P1 e P3",
+      "P2 e P3",
+      "P3 e P4",
+      "P4 e P5"
+    ],
+    "correta": 0,
+    "comentario": "O ágil valoriza responder a mudanças, colaborar com o cliente, aprender continuamente e tratar o erro como aprendizado. É o que descrevem P1 e P2 (A). P3 segue os requisitos sem questioná-los, o oposto da colaboração ágil. P4 e P5 mostram traços de processos pesados e preditivos, como RUP, cronogramas rígidos com pontos de decisão, modelos fechados antes de mostrar ao cliente e busca de culpados externos. O erro comum é achar que 'focar nos requisitos do cliente' (P3) basta para ser ágil.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-45",
+    "materia": "informatica",
+    "assunto": "Formatos de arquivos multimídia",
+    "cargo": "comum",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um grupo de desenvolvedores de aplicativos multimídia está produzindo um novo aplicativo para reproduzir apenas arquivos de áudio, trabalhando com a codificação e a decodificação desses tipos de arquivo, favorecendo a compactação para o armazenamento e a descompactação para a utilização do arquivo. Um tipo de arquivo de áudio que pode ser tratado nesse aplicativo é o",
+    "alternativas": [
+      "AVCHD",
+      "JPEG-1",
+      "MPEG-1 Layer 3",
+      "Windows Media Video",
+      "Portable Network Graphic"
+    ],
+    "correta": 2,
+    "comentario": "MPEG-1 Layer 3 é o nome técnico do MP3, o formato de áudio comprimido mais conhecido (C). AVCHD (A) e Windows Media Video (D) são formatos de vídeo. JPEG (B) e PNG (E) são formatos de imagem. A pegadinha é o nome 'MPEG', que lembra vídeo, mas a camada 3 do MPEG-1 é justamente a de áudio.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-51",
+    "materia": "vendas",
+    "assunto": "Tratamento de objeções",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Após o final da apresentação sobre um serviço, um profissional de venda escutou do cliente potencial as seguintes frases: (i) “Deixe-me pensar a respeito por algum tempo.” (ii) “Tenho que falar sobre isso com meu chefe.” (iii) “Devo aguardar até o próximo período de orçamento.” Para superar essas objeções de adiamento, a estratégia adequada a ser adotada pelo profissional de vendas é",
+    "alternativas": [
+      "convencer o cliente da importância do problema e do valor da solução, retornando à etapa de determinação de necessidades e mudando a percepção do comprador quanto ao valor ou ao preço do serviço.",
+      "confrontar o cliente, pedindo que ele repita e esclareça as objeções e dê mais informações, ou fornecer informações adicionais para esclarecer algum mal-entendido que o cliente tenha a respeito do serviço.",
+      "reconhecer que seu serviço não atende ao fim específico e tentar aumentar o valor perceptível desse serviço, enfatizando aquelas necessidades importantes que podem ser atendidas.",
+      "solicitar um compromisso em relação a alguma ação futura que vá impulsionar a venda, como, por exemplo, solicitar um encontro com o cliente e seu chefe, ou com quem possa ter influência sobre a decisão.",
+      "encarar o potencial cliente como um oponente, criando um clima de intimidade e camaradagem, e tirar o foco da venda da questão financeira, apresentando os melhores benefícios do serviço."
+    ],
+    "correta": 3,
+    "comentario": "Nas objeções de adiamento ('vou pensar', 'falar com o chefe', 'esperar o orçamento'), a técnica recomendada é conseguir um compromisso concreto para o próximo passo, como uma reunião com quem decide, para a negociação não esfriar (D). A trata de objeções de valor ou de preço. B serve para mal-entendidos. C é a resposta à objeção de que o produto não atende à necessidade. E é inadequada, porque o cliente nunca deve ser tratado como oponente.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-52",
+    "materia": "vendas",
+    "assunto": "Cliente no centro (clientecentrismo)",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Em 2024, o presidente da Caixa afirmou que o banco está reorientando sua atuação para colocar os clientes no centro das decisões, mudando suas estruturas internas em busca de maior foco nos clientes. As organizações que adotam o clientecentrismo podem usufruir de vários benefícios, mas também precisam gerenciar desafios. Na criação de um mindset clientocêntrico, o maior desafio é a",
+    "alternativas": [
+      "coleta de dados demográficos para o entendimento das necessidades e dos desejos do cliente.",
+      "falta de uma cultura organizacional centrada no cliente e de líderes que estimulem essa cultura e a disseminem.",
+      "personalização e a customização de soluções mediante gatilhos de incentivo na primeira compra, para que o consumidor queira fornecer seus dados de cadastro.",
+      "cocriação de valor com os clientes, para criar serviços ou experiências que ofereçam valor adicional.",
+      "medição da satisfação e da fidelização do cliente, com o intuito de destacar áreas que necessitam de melhorias."
+    ],
+    "correta": 1,
+    "comentario": "Ser centrado no cliente é, antes de tudo, uma mudança de cultura. O maior obstáculo é a falta de uma cultura voltada ao cliente e de líderes que a promovam (B). As demais alternativas são ferramentas ou práticas do clientecentrismo (dados, personalização, cocriação, medição de satisfação), e não o desafio central. O erro típico é escolher uma ferramenta técnica quando a questão pergunta pelo 'mindset'.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-53",
+    "materia": "vendas",
+    "assunto": "Gatilhos mentais - reciprocidade",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Para implementar uma estratégia de Inbound Marketing, o vendedor de uma empresa oferece um material rico disponibilizado pela sua empresa ao cliente, esperando que o consumidor que recebeu o serviço sinta-se comovido com tal gentileza, a ponto de querer fechar negócio ou priorizar a empresa na contratação de um serviço só pelo sentimento de benevolência que foi criado com a ação. Essa situação exemplifica a aplicação de um gatilho mental denominado",
+    "alternativas": [
+      "escassez",
+      "reciprocidade",
+      "aprovação social",
+      "autoridade e afeição",
+      "compromisso e coerência"
+    ],
+    "correta": 1,
+    "comentario": "Reciprocidade é a tendência de retribuir quem nos deu algo: quem recebe um material gratuito se sente inclinado a 'devolver' o favor comprando (B). Escassez (A) explora o medo de perder algo limitado. Aprovação social (C) usa o comportamento de outras pessoas como prova. Autoridade (D) se apoia em especialistas. Compromisso e coerência (E) exploram a vontade de manter posições já assumidas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-54",
+    "materia": "vendas",
+    "assunto": "Qualidade em serviços - momento da verdade",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "No setor bancário, com tanta similaridade entre os produtos e serviços ofertados, o diferencial passa a ser a qualidade com que os serviços são prestados. Um indivíduo foi a uma agência bancária fortemente recomendada por amigos e, depois de longa espera em uma fila interminável, a qualidade do atendimento face a face caracterizou-se por falta de informação, mau humor e tratamento grosseiro. Diante dessa experiência, ele formou uma imagem negativa da organização e decidiu que não usará os serviços dela. A situação descrita ilustra um exemplo de",
+    "alternativas": [
+      "gargalo",
+      "deserção",
+      "incidente crítico",
+      "flor de serviço",
+      "momento de verdade"
+    ],
+    "correta": 4,
+    "comentario": "Momento da verdade é o instante de contato entre cliente e empresa em que ele forma sua impressão sobre a qualidade do serviço. Foi o que aconteceu no atendimento face a face (E). O gargalo (A) seria só a fila. A deserção (B) é a saída do cliente, que aqui é consequência. A 'flor de serviço' (D) é o modelo dos serviços suplementares em volta do serviço principal. 'Incidente crítico' (C) é o distrator mais forte, mas o termo nomeia uma técnica de pesquisa que coleta episódios marcantes. O conceito que descreve o encontro de serviço em que a imagem da empresa se formou é o momento da verdade.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-55",
+    "materia": "vendas",
+    "assunto": "Segmentação de mercado",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A população de clientes de um banco certamente contém indivíduos que podem não estar satisfeitos ou que nunca serão lucrativos. Assim, uma instituição bancária que visava apenas os clientes cujas necessidades ela poderia atender melhor do que seus concorrentes optou, na aplicação do Marketing Digital, pela personalização de conteúdo e pela publicidade direcionada, gerando um aumento da relevância da mensagem para públicos específicos. Esse banco aplicou ao Marketing Digital o conceito de",
+    "alternativas": [
+      "fidelidade",
+      "reposicionamento",
+      "recuperação do serviço",
+      "segmentação de mercado",
+      "vantagem competitiva sustentável"
+    ],
+    "correta": 3,
+    "comentario": "Escolher grupos específicos de clientes que a empresa atende melhor e direcionar a eles mensagens personalizadas é segmentar o mercado e escolher o público-alvo (D). Fidelidade (A) é reter clientes que já existem. Reposicionamento (B) é mudar a imagem da marca na mente do consumidor. Recuperação do serviço (C) é corrigir uma falha. A vantagem competitiva (E) pode até ser resultado da segmentação, mas não é o conceito aplicado.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-56",
+    "materia": "vendas",
+    "assunto": "Escada de lealdade (Payne)",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O marketing de relacionamento percebe o grau de lealdade do cliente como uma escada, que demonstra a progressão dos graus da relação que os clientes podem estabelecer com uma organização. Cliente P: alguém que a organização acredita que pode ser persuadido a negociar com a instituição. Cliente Q: alguém que recomenda ativamente a organização para terceiros, mas não tem um relacionamento de parceria. Considerando-se a escala de lealdade de Payne, os clientes P e Q são respectivamente denominados",
+    "alternativas": [
+      "defensor e adepto",
+      "comprador e parceiro",
+      "comprador e potencial",
+      "parceiro e prospectivo",
+      "potencial e defensor"
+    ],
+    "correta": 4,
+    "comentario": "Na escada de Payne, os degraus são: potencial (prospect), cliente comprador, cliente eventual, cliente regular, apoiador, defensor e parceiro. Quem a empresa acredita que pode ser convencido a comprar ainda é potencial (P), e quem recomenda ativamente sem ser parceiro é defensor (Q), o que leva à alternativa E. O erro comum é confundir o defensor, que divulga a empresa, com o parceiro, que tem uma relação de mão dupla e ocupa o topo da escada.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-57",
+    "materia": "vendas",
+    "assunto": "Ouvidoria - Resolução CMN 4.860/2020",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um cliente de um Banco procurou a Ouvidoria da instituição para buscar a solução de uma demanda e recebeu como resposta que a Ouvidoria não poderia atendê-lo naquele caso, por estar fora das finalidades para as quais foi constituída. Segundo a Resolução CMN nº 4.860/2020, a Ouvidoria constituída pelas instituições financeiras tem por finalidade",
+    "alternativas": [
+      "realizar o atendimento habitual, em qualquer ponto ou canal de atendimento, às demandas dos clientes e usuários de produtos e serviços da instituição.",
+      "atender e solucionar, em primeira instância, as demandas dos clientes e usuários de produtos e serviços da instituição.",
+      "atuar como canal de comunicação entre o Banco Central e os clientes e usuários de produtos e serviços, inclusive na arbitragem de conflitos.",
+      "atuar como canal de comunicação entre o Banco Central e os clientes e usuários de produtos e serviços, inclusive na conciliação de conflitos.",
+      "atuar como canal de comunicação entre a instituição e os clientes e usuários de produtos e serviços, inclusive na mediação de conflitos."
+    ],
+    "correta": 4,
+    "comentario": "A Resolução 4.860/2020 define a ouvidoria como 'canal de comunicação entre a instituição e os clientes e usuários, inclusive na mediação de conflitos' (E). Ela atende em ÚLTIMA instância, depois dos canais primários, o que invalida A e B. C e D erram ao colocar o Banco Central como ponta da comunicação e trocar 'mediação' por arbitragem ou conciliação.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-58",
+    "materia": "vendas",
+    "assunto": "Atendimento prioritário - Leis 10.741/2003 e 10.048/2000",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O gerente de agência de uma instituição financeira, ao receber muitas reclamações com relação à demora no serviço presencial, decidiu estruturar melhorias no atendimento, iniciando o atendimento prioritário aos clientes e usuários, a fim de contemplar todas as situações previstas nas legislações vigentes. Conforme a Lei nº 10.741/2003 e a Lei nº 10.048/2000, ambas com suas respectivas alterações, os funcionários da agência deverão garantir atendimento prioritário",
+    "alternativas": [
+      "para pessoas a partir dos 65 anos.",
+      "para as pessoas com crianças de até 10 anos de idade.",
+      "para os acompanhantes ou atendentes pessoais de pessoas idosas, atendidos junta e acessoriamente aos titulares.",
+      "especial a partir de 85 anos, preferencialmente em relação às demais pessoas idosas.",
+      "especial aos maiores de 75 anos, preferencialmente em relação às demais pessoas idosas."
+    ],
+    "correta": 2,
+    "comentario": "A Lei 10.048/2000 estende a prioridade aos acompanhantes ou atendentes pessoais, que são atendidos junto com o titular e de forma acessória (C). A prioridade para idosos começa aos 60 anos, e não aos 65 (A). A lei fala em pessoas com crianças de colo, e não 'até 10 anos' (B). A prioridade especial do Estatuto da Pessoa Idosa vale para maiores de 80 anos, e não 75 ou 85 (D e E). Decore esses números, que a Cesgranrio costuma alterar.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024-59",
+    "materia": "vendas",
+    "assunto": "Estatuto da Pessoa com Deficiência - avaliação",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Após processo seletivo, determinada instituição financeira escolheu, para compor o quadro de funcionários, diversas pessoas com deficiência e criou, no Departamento de Recursos Humanos, um grupo de análise para definir o campo de atuação desses novos colaboradores. Nos termos da Lei nº 13.146/2015, a avaliação da deficiência, quando necessária, será",
+    "alternativas": [
+      "indicativa",
+      "vinculada",
+      "histórica",
+      "presumida",
+      "biopsicossocial"
+    ],
+    "correta": 4,
+    "comentario": "O art. 2º, §1º, da Lei 13.146/2015 (Estatuto da Pessoa com Deficiência) diz que a avaliação da deficiência, quando necessária, será biopsicossocial e feita por equipe multiprofissional e interdisciplinar (E). A lei abandona o olhar só médico e considera também fatores sociais e ambientais. As outras alternativas não aparecem na lei. 'Presumida' (D) é o distrator mais perigoso, porque a lei exige avaliação, e não presunção.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024-60",
+    "materia": "vendas",
+    "assunto": "Código de Defesa do Consumidor - princípios",
+    "cargo": "comercial",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Certa instituição financeira convidou seus correntistas para cursos de atualização em finanças e proteção à natureza, informando que cumpria os comandos legais pertinentes. Nos termos da Lei nº 8.078/1990, a Política Nacional das Relações de Consumo tem por objetivos o atendimento das necessidades dos consumidores, o respeito à sua dignidade, saúde e segurança, a proteção de seus interesses econômicos, a melhoria da sua qualidade de vida, bem como a transparência e a harmonia das relações de consumo, atendidos alguns princípios. Dentre os princípios a serem atendidos está a(o)",
+    "alternativas": [
+      "conscientização do papel financeiro das organizações para preservar a lucratividade almejada.",
+      "implementação de instrumentos para diminuir o nível de endividamento das famílias mais vulneráveis.",
+      "verificação de medidas protetivas ao crédito para aquisição de bens duráveis da linha doméstica.",
+      "fomento de ações direcionadas à educação financeira e ambiental dos consumidores.",
+      "incentivo à poupança da população para propiciar vida melhor na aposentadoria."
+    ],
+    "correta": 3,
+    "comentario": "A Lei do Superendividamento (Lei 14.181/2021) incluiu no art. 4º do CDC o inciso X: 'fomento de ações direcionadas à educação financeira e ambiental dos consumidores' (D). É exatamente o que o banco fez com os cursos. B também fala de endividamento, mas com uma redação que não está na lei, e a prevenção ao superendividamento aparece em outro inciso, com outras palavras. A, C e E não constam no art. 4º.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024ti-27",
+    "materia": "ti",
+    "assunto": "Algoritmos de ordenação",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Considere as seguintes características, encontradas em alguns algoritmos de ordenação:\nI - É estável, ou seja, não altera a ordem relativa dos elementos que possuem o mesmo valor de chave de ordenação.\nII - Percorre repetidamente a lista a ser ordenada, comparando o elemento corrente com o seguinte e, se necessário, trocando os seus valores.\nIII - Divide a lista a ser ordenada em duas partes: uma sublista ordenada de elementos, que é construída da esquerda para a direita (ordem crescente), à frente de uma sublista referente aos elementos não ordenados, sendo que, inicialmente, a primeira lista é vazia, enquanto a segunda contém todos os elementos a serem ordenados.\nEssas características se aplicam, respectivamente, aos seguintes métodos de ordenação:",
+    "alternativas": [
+      "por inserção, da bolha e por seleção",
+      "por inserção, por seleção e da bolha",
+      "por seleção, da bolha e por inserção",
+      "por seleção, por inserção e da bolha",
+      "da bolha, por seleção e por inserção"
+    ],
+    "correta": 0,
+    "comentario": "I: a ordenação por inserção é estável, enquanto a seleção clássica não é, porque suas trocas podem inverter elementos iguais. II: comparar vizinhos e trocá-los em passadas repetidas define o bubble sort. III: começar com a parte ordenada vazia e, a cada passo, levar para ela o menor elemento da parte não ordenada é a descrição clássica da seleção. A sequência é inserção, bolha e seleção (A). O erro comum é atribuir III à inserção, que também mantém uma sublista ordenada, mas começa com o primeiro elemento já dentro dela.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024ti-28",
+    "materia": "ti",
+    "assunto": "Java - herança, final e abstract",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Seja a seguinte classe Java, que ocupa o seu próprio arquivo:\n\npublic abstract class Klm {\n  void lm01() { }\n  protected final void imprime() { }\n  protected abstract void lm02();\n}\n\nQual classe poderá ser inserida em um projeto, juntamente com a classe acima, sem produzir erros de compilação?",
+    "alternativas": [
+      "public class Cla extends Klm {\n  private void lm01() { }\n  public void lm02() { }\n}",
+      "public abstract class Clb extends Klm {\n  public void imprime(String s) { }\n}",
+      "public abstract class Clc extends Klm {\n  void lm03() { }\n  public void imprime() { }\n}",
+      "public class Cld extends Klm {\n  void fg01() { }\n  public void imprime(String s) { }\n}",
+      "public class Cle extends Klm {\n  void fg02() { }\n  public void imprime() { }\n  public void lm02() { }\n}"
+    ],
+    "correta": 1,
+    "comentario": "Clb é abstrata, então não precisa implementar lm02. O método imprime(String) tem assinatura diferente de imprime(), por isso é uma sobrecarga, permitida mesmo com o original sendo final (B). Em A, sobrescrever lm01 com visibilidade menor (private) é erro de compilação. Em C e E, imprime() é sobrescrito, o que é proibido porque o método é final. Em D, a classe é concreta e não implementa o método abstrato lm02.",
+    "dificuldade": 3
+  },
+  {
+    "id": "caixa2024ti-30",
+    "materia": "ti",
+    "assunto": "Padrões de projeto (GoF)",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Um desenvolvedor deseja usar a classe Services, com os métodos públicos srv01(String host, int porta), srv02(String s1, int porta, int alt), srv03(int end, int porta) e srv04(int end). Entretanto, ele não deseja expor todas as funcionalidades disponibilizadas por Services e, para tal, optou por encapsular esses serviços em uma classe chamada Connection, que receberá solicitações de métodos de outras classes e as repassará para um objeto da classe Services. A solução adotada foi: a classe Services passou a ter visibilidade de pacote (package pkge), e a classe pública Connection (mesmo pacote) contém um atributo 'Services s = new Services();' e os métodos 'public int conn1(String host) { return s.srv01(host, 1200); }' e 'public String conn2(String host) { return s.srv03(123456, 1200); }'.\nQue padrão de projeto foi empregado nessa solução?",
+    "alternativas": [
+      "Chain of Responsibility",
+      "Composite",
+      "Strategy",
+      "Mediator",
+      "Adapter"
+    ],
+    "correta": 4,
+    "comentario": "Connection embrulha um objeto Services e oferece aos clientes uma interface diferente, com menos métodos e parâmetros já fixados, repassando as chamadas ao objeto adaptado. Esse é o funcionamento do Adapter por composição, o object adapter (E). Chain of Responsibility (A) passa a requisição por uma cadeia de tratadores. Composite (B) monta hierarquias parte-todo. Strategy (C) troca algoritmos intercambiáveis. Mediator (D) centraliza a comunicação entre vários objetos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024ti-33",
+    "materia": "ti",
+    "assunto": "Banco de dados - modelagem física",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "O setor de TI de um colégio de porte médio está trabalhando na modelagem física de um banco de dados para a biblioteca. Nesse trabalho de modelagem, o setor de TI deve considerar que a(o)",
+    "alternativas": [
+      "utilização de visões não tem impacto na performance do banco de dados.",
+      "normalização excessiva pode levar a uma redução na redundância de dados e à otimização do desempenho do banco de dados.",
+      "indexação adequada pode acelerar as consultas relacionadas a empréstimo e devolução de livros.",
+      "uso de índices é desnecessário, pois eles não afetam significativamente o desempenho do banco de dados.",
+      "particionamento de tabelas é dispensável devido ao tamanho limitado dos dados de uma biblioteca de porte médio."
+    ],
+    "correta": 2,
+    "comentario": "Na modelagem física, índices bem escolhidos aceleram buscas frequentes, como as de empréstimo e devolução (C). A erra porque visões complexas podem, sim, afetar o desempenho. B erra porque o excesso de normalização reduz redundância, mas costuma PIORAR o desempenho, já que exige muitos joins. D contradiz a função dos índices. E faz uma generalização indevida.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-34",
+    "materia": "ti",
+    "assunto": "SQL - triggers",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "O comando SQL de criação de gatilhos, CREATE TRIGGER, possui algumas informações obrigatórias, dentre elas, a seguinte:",
+    "alternativas": [
+      "a hora na qual o gatilho precisa ser disparado.",
+      "a que tabela do banco de dados o gatilho estará vinculado.",
+      "o e-mail a ser notificado após a sua execução.",
+      "o usuário para o qual o gatilho será disparado automaticamente.",
+      "o disparo do gatilho está vinculado à execução de um comando SELECT."
+    ],
+    "correta": 1,
+    "comentario": "Um trigger precisa informar o momento (BEFORE/AFTER), o evento (INSERT, UPDATE ou DELETE) e a tabela a que está ligado, na cláusula ON tabela (B). Ele não é agendado por horário (A), porque isso é função de um job. Também não notifica e-mails (C) nem é definido por usuário (D). Triggers de DML disparam em INSERT, UPDATE e DELETE, e não em SELECT (E).",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-35",
+    "materia": "ti",
+    "assunto": "ITIL 4 - gerenciamento de problemas",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "O ITIL é um conjunto de práticas recomendadas para a gestão de serviços de TI. Segundo o ITIL v4, o processo de gerenciamento de problemas tem como parte do seu escopo a(o)",
+    "alternativas": [
+      "avaliação de riscos de indisponibilidade de serviços de TI como decorrência de mudanças programadas.",
+      "controle das condições ambientais, como detecção de fumaça e fogo em locais que abrigam equipamentos de TI.",
+      "diagnóstico da causa raiz de incidentes e a determinação de soluções.",
+      "gerenciamento da confidencialidade, da disponibilidade e da integridade dos dados da organização.",
+      "monitoramento de eventos que possam causar indisponibilidade de um serviço de TI."
+    ],
+    "correta": 2,
+    "comentario": "O gerenciamento de problemas identifica a causa raiz de incidentes, registra erros conhecidos e propõe soluções de contorno ou definitivas (C). A é tarefa da habilitação de mudanças. B cabe ao gerenciamento de infraestrutura e instalações. D é segurança da informação. E é monitoramento e gerenciamento de eventos. O erro típico é confundir problema com incidente: o incidente busca restaurar o serviço rápido, e o problema busca a causa.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-36",
+    "materia": "ti",
+    "assunto": "COBIT 2019 - domínios",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Dentre os objetivos de governança e gestão no framework do Cobit 2019, há os que incorporam a atividade de integração da gestão do risco organizacional relacionado à Tecnologia da Informação (TI) com a gestão corporativa de riscos. Quais objetivos são responsáveis por essa atividade?",
+    "alternativas": [
+      "Alinhar, Planejar e Organizar (APO - Align, Plan and Organize)",
+      "Avaliar, Dirigir e Monitorar (EDM - Evaluate, Direct and Monitor)",
+      "Construir, Adquirir e Implementar (BAI - Build, Acquire and Implement)",
+      "Entregar, Prestar Serviços e Dar Suporte (DSS - Deliver, Service and Support)",
+      "Monitorar, Avaliar e Analisar (MEA - Monitor, Evaluate and Assess)"
+    ],
+    "correta": 0,
+    "comentario": "No COBIT 2019, o objetivo APO12 (Risco Gerenciado), do domínio APO, integra a gestão de riscos de TI à gestão de riscos corporativos (ERM) e cuida de identificar, avaliar e reduzir esses riscos (A). O EDM03 (B) trata da otimização de risco no nível de governança, isto é, de direcionar e monitorar, e não da integração operacional. BAI, DSS e MEA cobrem implementação, operação e monitoramento de desempenho e conformidade.",
+    "dificuldade": 3
+  },
+  {
+    "id": "caixa2024ti-37",
+    "materia": "ti",
+    "assunto": "Scrum - eventos",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Ao final da primeira Sprint de um projeto, o time realizou uma reunião, prevista no Scrum, na qual todos os membros do time de desenvolvimento declararam que estavam satisfeitos por usar teste de unidade e que gostariam que o desenvolvimento fosse dirigido por testes, usando a técnica conhecida como TDD, para melhorar o trabalho. A atividade especificamente designada no Scrum para discutir tópicos como esses é a reunião de",
+    "alternativas": [
+      "Alinhamento Técnico",
+      "Inspeção",
+      "Planejamento",
+      "Retrospectiva",
+      "Revisão"
+    ],
+    "correta": 3,
+    "comentario": "A Sprint Retrospective serve para o time inspecionar COMO trabalhou (pessoas, processos, ferramentas e práticas como TDD) e planejar melhorias (D). A Sprint Review (E) inspeciona O PRODUTO, ou seja, o incremento, com os stakeholders. O planejamento (C) define o trabalho da próxima Sprint. 'Alinhamento Técnico' e 'Inspeção' não são eventos formais do Scrum.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-38",
+    "materia": "ti",
+    "assunto": "Linguagens - sintaxe C#",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Um programador utiliza C# para implementar uma função de verificação de saldo em um sistema bancário. Quando o saldo da conta é insuficiente para uma retirada, essa função, denominada aviso, deve exibir uma mensagem indicando essa situação. Que trecho de código mostra como essa decisão pode ser escrita em C#?",
+    "alternativas": [
+      "if saldo < retirada:\n    aviso(\"Saldo insuficiente.\")",
+      "if (saldo < retirada){\n    aviso(\"Saldo insuficiente.\");}",
+      "if ($saldo < $retirada) {\n    aviso << \"Saldo insuficiente.\";}",
+      "If saldo < retirada Then\n  aviso(\"Saldo insuficiente.\")\nEnd If",
+      "if saldo < retirada then\nbegin\n  aviso('Saldo insuficiente.');\nend;"
+    ],
+    "correta": 1,
+    "comentario": "O C# segue a sintaxe da família C: a condição vai entre parênteses, o bloco entre chaves e cada instrução termina em ponto e vírgula (B). A é Python, com dois-pontos e indentação. C mistura variáveis com $ (PHP/Perl) e o operador << (C++). D é Visual Basic, com If ... Then ... End If. E é Pascal, com then/begin/end.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-40",
+    "materia": "ti",
+    "assunto": "Métodos ágeis - Histórias do Usuário",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Uma equipe de desenvolvimento de um software para gerência de finanças pessoais decidiu adotar uma abordagem ágil, utilizando Histórias do Usuário para capturar requisitos funcionais, descrevendo as funcionalidades do ponto de vista do usuário final. Os três componentes principais de uma História do Usuário são",
+    "alternativas": [
+      "Cartão, Conversação e Confirmação",
+      "Classes, Métodos e Atributos",
+      "Entidade, Relacionamento e Atributo",
+      "Requisitos Funcionais, Requisitos Não Funcionais e Requisitos de Domínio",
+      "Diagrama de Caso de Uso, Diagrama de Atividades e Diagrama de Sequência"
+    ],
+    "correta": 0,
+    "comentario": "Os '3 Cs' de Ron Jeffries são Card (o cartão com a descrição curta), Conversation (a conversa que detalha a história) e Confirmation (os critérios de aceitação), o que dá a alternativa A. B lista elementos de orientação a objetos, C de modelagem E-R, D de uma classificação clássica de requisitos e E de diagramas UML. Nenhum deles compõe uma história de usuário.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-41",
+    "materia": "ti",
+    "assunto": "Métodos ágeis - Story Points",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Uma equipe de desenvolvimento ágil decidiu utilizar Pontos de História (Story Points) para estimar o esforço necessário para implementar as funcionalidades descritas no seu Product Backlog, na forma de Histórias do Usuário. A técnica de Pontos de História ajuda a equipe a compreender o trabalho envolvido em cada história por",
+    "alternativas": [
+      "alocar tarefas específicas da história do usuário aos membros da equipe.",
+      "classificar as histórias do usuário em categorias de prioridade, de alta a baixa.",
+      "permitir prever o tempo, em horas, que a equipe levará para completar uma história.",
+      "determinar o custo financeiro direto associado ao desenvolvimento de uma história do usuário.",
+      "estimar o esforço relativo necessário para implementar uma determinada história do usuário, comparando-o ao de outras histórias."
+    ],
+    "correta": 4,
+    "comentario": "Story points são uma medida RELATIVA de esforço, complexidade e incerteza, obtida comparando histórias entre si (E). Eles não medem horas (C), e essa é a diferença principal em relação às estimativas tradicionais. Também não definem prioridade (B), que cabe ao Product Owner, nem alocam tarefas (A) ou calculam custo financeiro (D).",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-42",
+    "materia": "ti",
+    "assunto": "COBOL - estrutura",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Ao analisar o código de um grande programa em Cobol para conversão para Java, um técnico de informática precisa encontrar as declarações PICTURE (ou PIC). Em qual divisão (DIVISION) o técnico encontrará essas declarações?",
+    "alternativas": [
+      "CLOSING DIVISION",
+      "DATA DIVISION",
+      "ENVIRONMENT DIVISION",
+      "IDENTIFICATION DIVISION",
+      "PROCEDURE DIVISION"
+    ],
+    "correta": 1,
+    "comentario": "Um programa COBOL tem quatro divisões: IDENTIFICATION (identifica o programa), ENVIRONMENT (descreve o ambiente e os arquivos), DATA (declara os dados) e PROCEDURE (contém a lógica). As cláusulas PIC definem o formato das variáveis, por isso ficam na DATA DIVISION (B). CLOSING DIVISION (A) não existe.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-43",
+    "materia": "ti",
+    "assunto": "Qualidade de processo - CMMI e MPS.BR",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "CMMI e MPS.BR apresentam níveis de maturidade que refletem a capacidade e a eficácia dos processos de uma organização, porém o MPS.BR é mais detalhado que o CMMI ao definir os seus níveis. Levando-se em conta as especificidades e a relação entre os níveis dos dois modelos, o nível 5 do CMMI, quanto ao seu foco principal, é alinhado ao(s)",
+    "alternativas": [
+      "nível A do MPS.BR, pois ambos enfatizam a importância da otimização contínua dos processos para aprimoramento da qualidade e da eficiência.",
+      "nível B do MPS.BR, pois ambos enfatizam a importância da otimização contínua dos processos, enquanto o nível A do MPS.BR trata da sustentabilidade, aspecto não encontrado no CMMI.",
+      "níveis A e B do MPS.BR, o que reflete um foco combinado na otimização de processos (nível A) e na gerência quantitativa para a melhoria contínua (nível B).",
+      "níveis B e C do MPS.BR, o que indica uma ênfase na gerência quantitativa dos processos (nível B) e na implementação de melhorias contínuas (nível C), não sendo encontrado no CMMI alinhamento com nível A do MPS.BR.",
+      "níveis A, B e C do MPS.BR, o que demonstra uma progressão desde a gerência quantitativa (nível B), passando pela otimização contínua (nível A), até a incorporação de práticas específicas de melhoria (nível C)."
+    ],
+    "correta": 0,
+    "comentario": "O MPS.BR tem 7 níveis, de G (o mais baixo) a A (o mais alto). O nível A, 'Em Otimização', corresponde ao nível 5 do CMMI, 'Optimizing', e ambos focam na melhoria contínua (A). O nível B, 'Gerenciado Quantitativamente', equivale ao nível 4 do CMMI. As demais alternativas misturam os níveis ou inventam um foco em 'sustentabilidade' para o nível A.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024ti-44",
+    "materia": "ti",
+    "assunto": "Análise de Pontos de Função",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "A análise por Pontos de Função é uma metodologia utilizada para estimar o tamanho e o esforço necessários para o desenvolvimento e manutenção de software a partir de diversos tipos de funções. Quais são as categorias de funções medidas na análise por Pontos de Função?",
+    "alternativas": [
+      "Funções de Autenticação de Usuário, Funções de Autorização, Funções de Log, Funções de Recuperação de Dados e Funções de Exportação de Dados.",
+      "Funções de Entrada de Dados, Funções de Saída de Dados, Funções de Consulta, Funções de Estado e Funções de Conexão.",
+      "Funções de Entrada de Usuário, Funções de Visualização de Dados, Funções de Atualização de Dados, Funções de Sincronização e Funções de Backup.",
+      "Funções de Entrada Externa, Funções de Saída Externa, Funções de Consulta Externa, Arquivos Lógicos Internos e Arquivos de Interface Externa.",
+      "Funções de Processamento Interno, Funções de Armazenamento de Dados, Funções de Manipulação de Dados, Funções de Interface de Usuário e Funções de Conexão de Rede."
+    ],
+    "correta": 3,
+    "comentario": "A APF (IFPUG) mede duas famílias de funções. As funções de dados são ALI (Arquivo Lógico Interno) e AIE (Arquivo de Interface Externa). As funções de transação são EE (Entrada Externa), SE (Saída Externa) e CE (Consulta Externa). Esses cinco tipos formam a alternativa D. As outras trazem nomes plausíveis, mas inventados, como 'funções de estado', 'de backup' ou 'de conexão de rede'.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-45",
+    "materia": "ti",
+    "assunto": "Python - Matplotlib",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Em um projeto de análise de dados utilizando Python e a biblioteca Matplotlib, um cientista de dados precisa visualizar rapidamente a distribuição percentual de categorias em um conjunto de dados que está na lista categorias, optando por um gráfico de setores (torta ou pizza). Qual fragmento de código deve ser usado?",
+    "alternativas": [
+      "plt.pie(categorias)",
+      "plt.sector(categorias)",
+      "plt.pizza(categorias)",
+      "plt.circle(categorias)",
+      "plt.round(categorias)"
+    ],
+    "correta": 0,
+    "comentario": "No matplotlib.pyplot, o gráfico de setores é feito com plt.pie() ('pie' é torta em inglês), o que dá a alternativa A. Não existem as funções sector, pizza ou round no pyplot. plt.Circle é uma classe de patch geométrico, com C maiúsculo, e não gera gráfico de setores. A questão cobra memorização da API.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-46",
+    "materia": "ti",
+    "assunto": "Python - SciPy regressão linear",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Um cientista de dados está utilizando Python e SciPy para prever o preço de venda de imóveis com base em sua área construída. Os dados de área estão no vetor area e os preços no vetor preco. Qual fragmento de código é adequado para ajustar um modelo de regressão linear entre a área construída (variável independente) e os preços de venda (variável dependente)?",
+    "alternativas": [
+      "stats.linear(area, preco)",
+      "stats.linear_model(area, preco)",
+      "stats.linear_regression(area, preco)",
+      "stats.linregress(area, preco)",
+      "stats.regression(area, preco)"
+    ],
+    "correta": 3,
+    "comentario": "O módulo scipy.stats tem a função linregress(x, y), que devolve inclinação, intercepto, r, p-valor e erro-padrão (D). A ordem dos argumentos é x (a área, variável independente) e depois y (o preço). 'linear_model' (B) lembra o módulo sklearn.linear_model, e esse é o distrator principal. As demais funções não existem em scipy.stats.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024ti-47",
+    "materia": "ti",
+    "assunto": "XML - bem-formado x válido",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Um programador foi encarregado de determinar se um determinado documento XML pode ser carregado em um sistema que integra dados recebidos de vários outros sistemas. Para isso, ele deveria verificar se o documento é válido e bem-formado, porém não tinha acesso ao esquema do documento. Considerando-se esse contexto, o programador",
+    "alternativas": [
+      "poderá ler, validar e verificar se o documento é bem-formado.",
+      "poderá ler o documento e poderá validá-lo, mas não poderá verificar se o documento é bem-formado.",
+      "poderá ler o documento e verificar se o documento é bem-formado, mas não poderá validá-lo.",
+      "poderá ler o documento, mas não poderá validá-lo nem verificar se o documento é bem-formado.",
+      "não poderá ler o documento XML sem o esquema fornecer a autorização necessária."
+    ],
+    "correta": 2,
+    "comentario": "Verificar se o XML é bem-formado depende só das regras gerais da linguagem, como tags fechadas, aninhamento correto e uma raiz única, e dispensa esquema. Validar é conferir o documento contra um XSD ou DTD, o que exige o esquema. Sem ele, dá para ler e checar a boa formação, mas não validar (C). O erro típico é tratar 'válido' e 'bem-formado' como sinônimos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024ti-48",
+    "materia": "ti",
+    "assunto": "HTTP - códigos de status",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Um técnico decidiu implementar um redirecionamento permanente de uma URL antiga para uma nova, para que usuários e motores de busca atualizem seus links. O servidor deve enviar um código de status HTTP indicando que o recurso foi movido permanentemente para uma nova URL e que futuras requisições devem usar a nova URL. Qual é o código de status HTTP que o servidor deve enviar?",
+    "alternativas": [
+      "100",
+      "200",
+      "301",
+      "401",
+      "500"
+    ],
+    "correta": 2,
+    "comentario": "O código 301 (Moved Permanently) indica redirecionamento permanente e faz os buscadores transferirem a relevância para a nova URL (C). A família 3xx é a de redirecionamentos: o 302 e o 307 são temporários. O 100 (A) é informativo (Continue), o 200 (B) é sucesso, o 401 (D) indica falta de autenticação e o 500 (E) é erro interno do servidor.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-49",
+    "materia": "ti",
+    "assunto": "Java - Servlets",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Um programador está desenvolvendo um servlet em Java que processa requisições HTTP do tipo GET, que trazem vários parâmetros obtidos de um formulário HTML, implementando o método doGet(HttpServletRequest request, HttpServletResponse response). Para recuperar o valor da variável idade na forma de um inteiro, que fragmento de código o programador deve usar?",
+    "alternativas": [
+      "int idade = Integer.parseInt(request.getParameter(\"idade\"));",
+      "int idade = request.getInt(\"idade\");",
+      "int idade = request.getParameter(\"idade\");",
+      "int idade = request.getAttribute(\"idade\");",
+      "int idade = request.getSession().getAttribute(\"idade\");"
+    ],
+    "correta": 0,
+    "comentario": "request.getParameter() sempre devolve String, por isso é preciso converter com Integer.parseInt (A). C tenta atribuir uma String a um int, o que gera erro de compilação. getInt (B) não existe em HttpServletRequest. getAttribute (D e E) lê atributos guardados no servidor, e não os parâmetros do formulário, além de devolver Object.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-50",
+    "materia": "ti",
+    "assunto": "Testes de software - teste alfa",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Em um contrato para o desenvolvimento de um software de gestão empresarial, uma cláusula específica solicita a execução, pelo fornecedor, de um “teste alfa” antes da entrega do produto ao cliente. Para atender a essa cláusula do contrato, o fornecedor deve",
+    "alternativas": [
+      "realizar uma série de testes que visa garantir que mudanças recentes no código não afetem as funcionalidades existentes do software.",
+      "distribuir o software para um grupo externo de usuários para que estes o utilizem em condições reais e forneçam feedback antes de distribuir amplamente.",
+      "verificar a comunicação e o funcionamento adequados entre diferentes módulos ou componentes do software.",
+      "testar individualmente os menores pedaços de código do software, como funções ou métodos.",
+      "avaliar o software com uma equipe interna que simula o comportamento do usuário final, buscando identificar falhas antes da liberação para usuários externos."
+    ],
+    "correta": 4,
+    "comentario": "O teste alfa é feito no ambiente do desenvolvedor, com equipe interna ou usuários sob supervisão, simulando o uso real antes da liberação (E). O teste beta (B) é o que vai para usuários externos em condições reais. A descreve o teste de regressão, C o de integração e D o de unidade.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-51",
+    "materia": "ti",
+    "assunto": "Python - NumPy produto escalar",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Um time de cientistas de dados usa Python e NumPy para desenvolver um sistema de recomendação com perfis de usuário baseados em vetores. Para calcular o cosseno da similaridade entre os perfis usuarioX e usuarioY, é necessário o produto escalar entre os dois vetores. Qual fragmento de código calcula corretamente o produto escalar entre usuarioX e usuarioY?",
+    "alternativas": [
+      "np.cross(usuarioX, usuarioY)",
+      "np.dot(usuarioX, usuarioY)",
+      "np.linalg.norm(usuarioX - usuarioY)",
+      "np.multiply(usuarioX, usuarioY)",
+      "np.product(usuarioX, usuarioY)"
+    ],
+    "correta": 1,
+    "comentario": "np.dot calcula o produto escalar, a soma dos produtos elemento a elemento (B). np.cross (A) dá o produto vetorial. np.multiply (D) multiplica elemento a elemento e devolve um vetor, sem somar. linalg.norm da diferença (C) é a distância euclidiana. np.product (E) multiplica os elementos de um único array.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-52",
+    "materia": "ti",
+    "assunto": "Arquitetura de computadores - modos de endereçamento",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Uma instrução de máquina pode fazer referência a um ou a mais operandos fontes, e a localização do operando fonte dependerá do modo de endereçamento adotado pela instrução. Em um desses modos, a instrução tem um campo de endereço que contém o endereço de uma palavra na memória, que, por sua vez, contém o endereço completo do operando. Esse modo de endereçamento é o endereçamento",
+    "alternativas": [
+      "imediato",
+      "direto",
+      "indireto",
+      "indireto por registrador",
+      "de pilha"
+    ],
+    "correta": 2,
+    "comentario": "No endereçamento indireto, o campo da instrução aponta para uma posição de memória que guarda o ENDEREÇO do operando, e não o próprio operando (C). No direto (B), o campo já contém o endereço do operando. No imediato (A), o operando está na própria instrução. No indireto por registrador (D), quem guarda o endereço é um registrador, e não a memória. O de pilha (E) usa o topo da pilha.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-53",
+    "materia": "ti",
+    "assunto": "Representação numérica - complemento de dois",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Há duas formas comuns para representar um número inteiro em binário: a sinal-magnitude e a complemento de dois. Enquanto na primeira há duas representações para o valor zero, na segunda há apenas uma. A representação do número inteiro -127 em complemento de dois (8 bits) é",
+    "alternativas": [
+      "01111110",
+      "01111111",
+      "10000000",
+      "10000001",
+      "11111111"
+    ],
+    "correta": 3,
+    "comentario": "Em 8 bits, +127 = 01111111. Para obter o negativo em complemento de dois, invertem-se os bits (10000000) e soma-se 1, o que dá 10000001 (D). A alternativa C (10000000) representa −128, e E (11111111) representa −1. Em sinal-magnitude, −127 seria 11111111, e é essa confusão que torna E atraente.",
+    "dificuldade": 2
+  },
+  {
+    "id": "caixa2024ti-54",
+    "materia": "ti",
+    "assunto": "Sistemas operacionais - escalonamento",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "O Sistema Operacional controla a utilização dos recursos de hardware pelos processos. Dentre as suas principais funções, está a de adotar critérios para determinar a ordem de execução dos processos, dentre os que concorrem pela utilização do processador. Esses critérios são definidos pela política de",
+    "alternativas": [
+      "armazenamento",
+      "escalonamento",
+      "alocação de espaço",
+      "alocação de páginas",
+      "substituição de páginas"
+    ],
+    "correta": 1,
+    "comentario": "A política de escalonamento (scheduling) decide qual processo pronto recebe a CPU e por quanto tempo, com algoritmos como FIFO, SJF, Round-Robin e prioridades (B). Alocação de espaço, alocação de páginas e substituição de páginas (C, D e E) são políticas de gerência de memória. Armazenamento (A) diz respeito a disco e sistema de arquivos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-55",
+    "materia": "ti",
+    "assunto": "Linux - sudo",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "No ambiente Linux, a execução de determinados comandos requer privilégios de root. Por questões de segurança, não é recomendado fazer login como root. Uma abordagem mais segura é fazer login como usuário sem privilégio e executar comandos que requerem privilégios elevados, usando o comando",
+    "alternativas": [
+      "passwd",
+      "chown",
+      "chmod",
+      "yast2",
+      "sudo"
+    ],
+    "correta": 4,
+    "comentario": "O sudo executa um comando com privilégios de outro usuário, normalmente o root, conforme as regras do arquivo sudoers, e registra cada uso (E). passwd (A) troca senhas. chown (B) muda o dono de um arquivo. chmod (C) muda as permissões. yast2 (D) é a ferramenta de configuração do SUSE, que também precisaria de privilégio.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-58",
+    "materia": "ti",
+    "assunto": "Linguagens para ciência de dados",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Uma equipe que trata de desenvolvimento de softwares está escolhendo uma linguagem adequada para desenvolver um sistema de Ciência de Dados. A linguagem escolhida deve suportar trabalho direto com estatísticas utilizando mecanismos gráficos, ser multiparadigma orientada a objetos, utilizar uma programação funcional e ter dinâmica fracamente tipada. Uma linguagem adequada para esse caso é a",
+    "alternativas": [
+      "C",
+      "R",
+      "XML",
+      "PERL",
+      "SWIFT"
+    ],
+    "correta": 1,
+    "comentario": "R foi criada para estatística e gráficos, é multiparadigma (funcional e orientada a objetos, com os sistemas S3, S4 e R5) e tem tipagem dinâmica (B). C (A) é imperativa, estaticamente tipada e não tem foco estatístico. XML (C) é linguagem de marcação, e não de programação. Perl (D) é voltada a manipulação de texto, e Swift (E) é estaticamente tipada e voltada ao ecossistema Apple.",
+    "dificuldade": 1
+  },
+  {
+    "id": "caixa2024ti-60",
+    "materia": "ti",
+    "assunto": "Scrum - Sprint Planning",
+    "cargo": "ti",
+    "origem": "Caixa 2024 - Cesgranrio - Técnico Bancário (Tecnologia da Informação)",
+    "enunciado": "Uma equipe de desenvolvimento de uma empresa de TI está aplicando o framework Scrum. Essa equipe realizará uma primeira reunião, na qual definirá e estimará quais tarefas serão executadas naquele ciclo, objetivando o que será desenvolvido e como será feito, priorizando o backlog e direcionando o planejamento para entrega de maior valor possível. No Scrum, essa reunião, ou cerimônia, é a de",
+    "alternativas": [
+      "Daily Scrum",
+      "Product Owner Talk",
+      "Sprint Review",
+      "Sprint Planning",
+      "Sprint Retrospective"
+    ],
+    "correta": 3,
+    "comentario": "A Sprint Planning abre a Sprint. Nela se define o porquê (a meta), o quê (os itens do backlog escolhidos) e o como (o plano de trabalho), o que dá a alternativa D. A Daily (A) é a sincronização diária de 15 minutos. A Review (C) apresenta o incremento no fim da Sprint, e a Retrospective (E) avalia o processo. 'Product Owner Talk' (B) não é um evento do Scrum.",
+    "dificuldade": 1
+  }
+]

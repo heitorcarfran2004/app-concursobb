@@ -1,0 +1,102 @@
+[
+  {
+    "materia": "mat-financeira",
+    "frente": "Juros simples: fórmulas",
+    "verso": "J = C·i·n; M = C·(1 + i·n). Taxa e prazo na mesma unidade de tempo."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Juros compostos: montante",
+    "verso": "M = C·(1 + i)^n. Juros: J = M − C."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Valor presente no regime composto",
+    "verso": "C = M/(1 + i)^n."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Taxas proporcionais x equivalentes",
+    "verso": "Proporcionais (juros simples): i_a = 12·i_m. Equivalentes (compostos): (1 + i_a) = (1 + i_m)^12."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Taxa nominal: como converter em efetiva?",
+    "verso": "Divida a nominal pelo número de capitalizações (taxa proporcional do período) e depois capitalize: ex.: 24% a.a. cap. mensal → 2% a.m. → (1,02)^12 − 1 ≈ 26,82% a.a."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Equação de Fisher (taxa real)",
+    "verso": "(1 + i_nominal) = (1 + i_real)·(1 + inflação) → i_real = (1 + i_n)/(1 + inf) − 1."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Desconto comercial (por fora) simples",
+    "verso": "D = N·i·n; A = N·(1 − i·n). O desconto incide sobre o valor nominal N."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Desconto racional (por dentro) simples",
+    "verso": "A = N/(1 + i·n); D = N − A = A·i·n. O desconto incide sobre o valor atual."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Relação entre desconto comercial e racional simples",
+    "verso": "Dc = Dr·(1 + i·n). O desconto comercial é sempre maior que o racional nas mesmas condições."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Taxa efetiva de uma operação de desconto comercial",
+    "verso": "i_ef (período) = d·n/(1 − d·n). Ex.: 3% a.m. por 4 meses → 0,12/0,88 ≈ 13,64% no período."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Desconto racional composto",
+    "verso": "A = N/(1 + i)^n."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Desconto comercial composto",
+    "verso": "A = N·(1 − i)^n."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "SAC: amortização, juros e prestação",
+    "verso": "A = PV/n (constante); juros_k = i·(saldo anterior); prestação_k = A + juros_k. Prestações decrescentes em PA de razão −A·i."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "SAC: saldo devedor após k prestações",
+    "verso": "SD_k = PV − k·A = PV·(n − k)/n."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Price: prestação",
+    "verso": "PMT = PV·i·(1 + i)^n/[(1 + i)^n − 1] = PV·i/[1 − (1 + i)^(−n)]."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Price: comportamento das parcelas",
+    "verso": "Prestação constante; juros decrescentes; amortizações crescentes em PG de razão (1 + i): A_(k+1) = A_k·(1 + i)."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Valor presente de série uniforme postecipada",
+    "verso": "PV = PMT·[1 − (1 + i)^(−n)]/i."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Valor futuro de série uniforme postecipada",
+    "verso": "FV = PMT·[(1 + i)^n − 1]/i (valor na data do último depósito)."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Série antecipada (1 + n−1 ou entrada igual às parcelas)",
+    "verso": "PV = PMT·[1 + a(n − 1; i)], ou seja, a série postecipada multiplicada por (1 + i)."
+  },
+  {
+    "materia": "mat-financeira",
+    "frente": "Equivalência de capitais",
+    "verso": "Leve todos os valores para a mesma data focal com (1 + i)^n (capitalizar) ou dividindo por (1 + i)^n (descontar) e compare/iguale."
+  }
+]

@@ -1,0 +1,1272 @@
+[
+ {
+  "id": "bb2021c-1",
+  "materia": "portugues",
+  "assunto": "Coesão textual",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A palavra ou expressão que promove a continuidade e a união do segundo parágrafo com o terceiro, retomando um elemento textual relevante, é",
+  "texto_apoio": "A palavra salário vem mesmo de “sal”?\n\n[1] Vem. A explicação mais popular diz que os soldados da Roma Antiga recebiam seu ordenado na forma de sal. Faz sentido. O dinheiro como o conhecemos surgiu no século 7 a.C., na forma de discos de metal precioso (moedas), e só foi adotado em Roma 300 anos depois.\n\n[2] Antes disso, o que fazia o papel de dinheiro eram itens não perecíveis e que tinham demanda garantida: barras de cobre (fundamentais para a fabricação de armas), sacas de grãos, pepitas de ouro (metal favorito para ostentar como enfeite), prata (o ouro de segunda divisão) e, sim, o sal.\n\n[3] Num mundo sem geladeiras, o cloreto de sódio era o que garantia a preservação da carne. A demanda por ele, então, tendia ao infinito. Ter barras de sal em casa funcionava como poupança. Você poderia trocá-las pelo que quisesse, a qualquer momento.\n\n[4] As moedas, bem mais portáteis, acabariam se tornando o grande meio universal de troca – seja em Roma, seja em qualquer outro lugar. Mas a palavra “salário” segue viva, como um fóssil etimológico.\n\n[5] Só há um detalhe: não há evidência de que soldados romanos recebiam mesmo um ordenado na forma de sal. Roma não tinha um exército profissional no século 4 a.C. A força militar da época era formada por cidadãos comuns, que abandonavam seus afazeres voluntariamente para lutar em tempos de guerra (questão de sobrevivência).\n\n[6] A ideia de que havia pagamentos na forma de sal vem do historiador Plínio, o Velho (um contemporâneo de Jesus Cristo). Ele escreveu o seguinte: “Sal era uma das honrarias que os soldados recebiam após batalhas bem-sucedidas. Daí vem nossa palavra salarium.” Ou seja: o sal era um bônus para voluntários, não um salário para valer. Quando Roma passou a ter uma força militar profissional e permanente, no século 3 a.C., o soldo já era mesmo pago na forma de moedas.\n\nVERSIGNASSI, A. A palavra salário vem mesmo de “sal”? VC S/A, São Paulo: Abril, p. 67, jun. 2021. Adaptado.",
+  "alternativas": [
+   "mundo",
+   "geladeiras",
+   "cloreto de sódio",
+   "infinito",
+   "momento"
+  ],
+  "correta": 2,
+  "comentario": "O parágrafo 2 termina com “e, sim, o sal”, e o parágrafo 3 começa com “Num mundo sem geladeiras, o cloreto de sódio...”. “Cloreto de sódio” é o nome químico do sal, portanto retoma por sinonímia o último elemento do parágrafo anterior, fazendo a costura entre eles. “Mundo” e “geladeiras” introduzem informação nova, sem retomar nada. “Infinito” e “momento” estão dentro do próprio parágrafo 3 e não fazem ligação com o anterior.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-2",
+  "materia": "portugues",
+  "assunto": "Semântica / sinonímia",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A palavra capaz de substituir o elemento em destaque (sim) no trecho “... e, sim, o sal” (parágrafo 2) sem alteração de sentido é",
+  "texto_apoio": "A palavra salário vem mesmo de “sal”?\n\n[1] Vem. A explicação mais popular diz que os soldados da Roma Antiga recebiam seu ordenado na forma de sal. Faz sentido. O dinheiro como o conhecemos surgiu no século 7 a.C., na forma de discos de metal precioso (moedas), e só foi adotado em Roma 300 anos depois.\n\n[2] Antes disso, o que fazia o papel de dinheiro eram itens não perecíveis e que tinham demanda garantida: barras de cobre (fundamentais para a fabricação de armas), sacas de grãos, pepitas de ouro (metal favorito para ostentar como enfeite), prata (o ouro de segunda divisão) e, sim, o sal.\n\n[3] Num mundo sem geladeiras, o cloreto de sódio era o que garantia a preservação da carne. A demanda por ele, então, tendia ao infinito. Ter barras de sal em casa funcionava como poupança. Você poderia trocá-las pelo que quisesse, a qualquer momento.\n\n[4] As moedas, bem mais portáteis, acabariam se tornando o grande meio universal de troca – seja em Roma, seja em qualquer outro lugar. Mas a palavra “salário” segue viva, como um fóssil etimológico.\n\n[5] Só há um detalhe: não há evidência de que soldados romanos recebiam mesmo um ordenado na forma de sal. Roma não tinha um exército profissional no século 4 a.C. A força militar da época era formada por cidadãos comuns, que abandonavam seus afazeres voluntariamente para lutar em tempos de guerra (questão de sobrevivência).\n\n[6] A ideia de que havia pagamentos na forma de sal vem do historiador Plínio, o Velho (um contemporâneo de Jesus Cristo). Ele escreveu o seguinte: “Sal era uma das honrarias que os soldados recebiam após batalhas bem-sucedidas. Daí vem nossa palavra salarium.” Ou seja: o sal era um bônus para voluntários, não um salário para valer. Quando Roma passou a ter uma força militar profissional e permanente, no século 3 a.C., o soldo já era mesmo pago na forma de moedas.\n\nVERSIGNASSI, A. A palavra salário vem mesmo de “sal”? VC S/A, São Paulo: Abril, p. 67, jun. 2021. Adaptado.",
+  "alternativas": [
+   "mesmo",
+   "até",
+   "logo",
+   "claro",
+   "portanto"
+  ],
+  "correta": 3,
+  "comentario": "Em “e, sim, o sal”, o “sim” funciona como afirmação enfática, confirmando ao leitor aquilo que o título já sugeria: o sal também servia de dinheiro. “Claro” tem esse mesmo valor de confirmação (“e, claro, o sal”). “Até” e “mesmo” trariam ideia de inclusão surpreendente, algo inesperado, o que muda o sentido. “Logo” e “portanto” são conclusivos e não cabem na enumeração.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-3",
+  "materia": "portugues",
+  "assunto": "Semântica / advérbios",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A palavra destacada (bem) em “bem mais portáteis” (parágrafo 4) traz para o trecho uma ideia de",
+  "texto_apoio": "A palavra salário vem mesmo de “sal”?\n\n[1] Vem. A explicação mais popular diz que os soldados da Roma Antiga recebiam seu ordenado na forma de sal. Faz sentido. O dinheiro como o conhecemos surgiu no século 7 a.C., na forma de discos de metal precioso (moedas), e só foi adotado em Roma 300 anos depois.\n\n[2] Antes disso, o que fazia o papel de dinheiro eram itens não perecíveis e que tinham demanda garantida: barras de cobre (fundamentais para a fabricação de armas), sacas de grãos, pepitas de ouro (metal favorito para ostentar como enfeite), prata (o ouro de segunda divisão) e, sim, o sal.\n\n[3] Num mundo sem geladeiras, o cloreto de sódio era o que garantia a preservação da carne. A demanda por ele, então, tendia ao infinito. Ter barras de sal em casa funcionava como poupança. Você poderia trocá-las pelo que quisesse, a qualquer momento.\n\n[4] As moedas, bem mais portáteis, acabariam se tornando o grande meio universal de troca – seja em Roma, seja em qualquer outro lugar. Mas a palavra “salário” segue viva, como um fóssil etimológico.\n\n[5] Só há um detalhe: não há evidência de que soldados romanos recebiam mesmo um ordenado na forma de sal. Roma não tinha um exército profissional no século 4 a.C. A força militar da época era formada por cidadãos comuns, que abandonavam seus afazeres voluntariamente para lutar em tempos de guerra (questão de sobrevivência).\n\n[6] A ideia de que havia pagamentos na forma de sal vem do historiador Plínio, o Velho (um contemporâneo de Jesus Cristo). Ele escreveu o seguinte: “Sal era uma das honrarias que os soldados recebiam após batalhas bem-sucedidas. Daí vem nossa palavra salarium.” Ou seja: o sal era um bônus para voluntários, não um salário para valer. Quando Roma passou a ter uma força militar profissional e permanente, no século 3 a.C., o soldo já era mesmo pago na forma de moedas.\n\nVERSIGNASSI, A. A palavra salário vem mesmo de “sal”? VC S/A, São Paulo: Abril, p. 67, jun. 2021. Adaptado.",
+  "alternativas": [
+   "adição",
+   "adversidade",
+   "comparação",
+   "extensão",
+   "soma"
+  ],
+  "correta": 2,
+  "comentario": "O trecho compara as moedas às barras de sal: as moedas eram “bem mais portáteis” do que elas. O advérbio “bem” intensifica a comparação de superioridade construída com “mais”, reforçando a diferença entre os dois termos comparados. Não há ideia de adição ou soma (não se acrescenta um item a outro), nem de adversidade (oposição). “Extensão” também não descreve a relação expressa, que é comparativa.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-4",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A expressão “demanda garantida” (parágrafo 2) indica que",
+  "texto_apoio": "A palavra salário vem mesmo de “sal”?\n\n[1] Vem. A explicação mais popular diz que os soldados da Roma Antiga recebiam seu ordenado na forma de sal. Faz sentido. O dinheiro como o conhecemos surgiu no século 7 a.C., na forma de discos de metal precioso (moedas), e só foi adotado em Roma 300 anos depois.\n\n[2] Antes disso, o que fazia o papel de dinheiro eram itens não perecíveis e que tinham demanda garantida: barras de cobre (fundamentais para a fabricação de armas), sacas de grãos, pepitas de ouro (metal favorito para ostentar como enfeite), prata (o ouro de segunda divisão) e, sim, o sal.\n\n[3] Num mundo sem geladeiras, o cloreto de sódio era o que garantia a preservação da carne. A demanda por ele, então, tendia ao infinito. Ter barras de sal em casa funcionava como poupança. Você poderia trocá-las pelo que quisesse, a qualquer momento.\n\n[4] As moedas, bem mais portáteis, acabariam se tornando o grande meio universal de troca – seja em Roma, seja em qualquer outro lugar. Mas a palavra “salário” segue viva, como um fóssil etimológico.\n\n[5] Só há um detalhe: não há evidência de que soldados romanos recebiam mesmo um ordenado na forma de sal. Roma não tinha um exército profissional no século 4 a.C. A força militar da época era formada por cidadãos comuns, que abandonavam seus afazeres voluntariamente para lutar em tempos de guerra (questão de sobrevivência).\n\n[6] A ideia de que havia pagamentos na forma de sal vem do historiador Plínio, o Velho (um contemporâneo de Jesus Cristo). Ele escreveu o seguinte: “Sal era uma das honrarias que os soldados recebiam após batalhas bem-sucedidas. Daí vem nossa palavra salarium.” Ou seja: o sal era um bônus para voluntários, não um salário para valer. Quando Roma passou a ter uma força militar profissional e permanente, no século 3 a.C., o soldo já era mesmo pago na forma de moedas.\n\nVERSIGNASSI, A. A palavra salário vem mesmo de “sal”? VC S/A, São Paulo: Abril, p. 67, jun. 2021. Adaptado.",
+  "alternativas": [
+   "os itens em questão eram populares entre os cidadãos, que costumavam utilizar os itens mencionados.",
+   "os itens em questão eram valiosos porque se estragavam com facilidade.",
+   "os cidadãos buscavam itens com qualidade atestada.",
+   "os cidadãos costumavam pesquisar antes de escolher os itens.",
+   "apenas os cidadãos mais favorecidos tinham acesso a esses itens."
+  ],
+  "correta": 0,
+  "comentario": "Ter “demanda garantida” significa que sempre havia gente querendo e usando aqueles itens, por isso eles serviam como meio de troca. A alternativa A traduz exatamente essa ideia de procura constante. A B contradiz o texto, que fala em itens “não perecíveis”. C e D falam de qualidade e pesquisa, que o texto não menciona. E introduz uma restrição de acesso que não existe no trecho.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-5",
+  "materia": "portugues",
+  "assunto": "Reescrita de frases / conectivos",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O período que corresponde, sem alteração de sentido, à reescritura de “Mesmo com o advento do papel-moeda, o escambo, ou troca de mercadorias, persistiu em diversas comunidades” é:",
+  "alternativas": [
+   "O escambo, ou troca de mercadorias, persistiu em diversas comunidades, apesar do advento do papel-moeda.",
+   "O escambo, ou troca de mercadorias, persistiu em diversas comunidades, haja vista o advento do papel-moeda.",
+   "Quando do advento do papel-moeda, o escambo, ou troca de mercadorias, persistiu em diversas comunidades.",
+   "Com o advento do papel-moeda, no entanto, o escambo, ou troca de mercadorias, persistiu em diversas comunidades.",
+   "Tanto quanto o advento do papel-moeda, o escambo, ou troca de mercadorias, persistiu em diversas comunidades."
+  ],
+  "correta": 0,
+  "comentario": "“Mesmo com” expressa concessão: o escambo persistiu apesar de haver papel-moeda. “Apesar de” é o conectivo concessivo equivalente, então A mantém o sentido. “Haja vista” (B) indica causa, como se o papel-moeda fosse o motivo da persistência. “Quando do” (C) é temporal e perde a ideia de contraste. Em D, “no entanto” muda a estrutura e cria uma adversativa sem referência anterior, e “tanto quanto” (E) indica comparação.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-6",
+  "materia": "portugues",
+  "assunto": "Crase",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O sinal indicativo de crase está usado de acordo com a norma-padrão em:",
+  "alternativas": [
+   "Tenho preocupações referentes à questões ambientais.",
+   "Medidas de proteção à infância precisam ser tomadas por governos.",
+   "Devem-se fazer campanhas para aumentar às preocupações sanitárias.",
+   "À partir do início da faculdade é necessário estudar muito.",
+   "Você confere, à seguir, os documentos dos clientes."
+  ],
+  "correta": 1,
+  "comentario": "Em B, “proteção a” exige a preposição “a” e “infância” é substantivo feminino que aceita o artigo “a”: a + a = à. Em A, o “a” está no singular diante de palavra no plural (“questões”), ou seja, é só preposição e não leva acento. Em C, “aumentar” é verbo transitivo direto, então não há preposição. Em D e E, não há crase antes de verbo (“partir”, “seguir”).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-7",
+  "materia": "portugues",
+  "assunto": "Pontuação (dois-pontos)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O período em que o sinal de dois pontos é empregado para introduzir uma enumeração, como no trecho que segue “demanda garantida” (parágrafo 2), é:",
+  "texto_apoio": "A palavra salário vem mesmo de “sal”?\n\n[1] Vem. A explicação mais popular diz que os soldados da Roma Antiga recebiam seu ordenado na forma de sal. Faz sentido. O dinheiro como o conhecemos surgiu no século 7 a.C., na forma de discos de metal precioso (moedas), e só foi adotado em Roma 300 anos depois.\n\n[2] Antes disso, o que fazia o papel de dinheiro eram itens não perecíveis e que tinham demanda garantida: barras de cobre (fundamentais para a fabricação de armas), sacas de grãos, pepitas de ouro (metal favorito para ostentar como enfeite), prata (o ouro de segunda divisão) e, sim, o sal.\n\n[3] Num mundo sem geladeiras, o cloreto de sódio era o que garantia a preservação da carne. A demanda por ele, então, tendia ao infinito. Ter barras de sal em casa funcionava como poupança. Você poderia trocá-las pelo que quisesse, a qualquer momento.\n\n[4] As moedas, bem mais portáteis, acabariam se tornando o grande meio universal de troca – seja em Roma, seja em qualquer outro lugar. Mas a palavra “salário” segue viva, como um fóssil etimológico.\n\n[5] Só há um detalhe: não há evidência de que soldados romanos recebiam mesmo um ordenado na forma de sal. Roma não tinha um exército profissional no século 4 a.C. A força militar da época era formada por cidadãos comuns, que abandonavam seus afazeres voluntariamente para lutar em tempos de guerra (questão de sobrevivência).\n\n[6] A ideia de que havia pagamentos na forma de sal vem do historiador Plínio, o Velho (um contemporâneo de Jesus Cristo). Ele escreveu o seguinte: “Sal era uma das honrarias que os soldados recebiam após batalhas bem-sucedidas. Daí vem nossa palavra salarium.” Ou seja: o sal era um bônus para voluntários, não um salário para valer. Quando Roma passou a ter uma força militar profissional e permanente, no século 3 a.C., o soldo já era mesmo pago na forma de moedas.\n\nVERSIGNASSI, A. A palavra salário vem mesmo de “sal”? VC S/A, São Paulo: Abril, p. 67, jun. 2021. Adaptado.",
+  "alternativas": [
+   "A remuneração faz parte do conjunto de ganhos de um prestador de serviço; ou seja: todos os ganhos auferidos pela pessoa compõem sua remuneração.",
+   "As horas extras, o vale-transporte e o plano de saúde podem fazer parte da remuneração: muitos trabalhadores escolhem seus empregos com base nessas vantagens.",
+   "O gerente informou aos candidatos como seria a remuneração pelos serviços: “O valor mensal vai depender de diversos itens, a serem combinados.”",
+   "Muitos itens já fizeram papel de dinheiro: o sal, usado até hoje por tribos da Etiópia, a cachaça, utilizada no Brasil colonial, e o bacalhau, antes usado na Escandinávia.",
+   "O tabaco também já foi usado como moeda de troca: no século XVIII, o estado americano de Virginia adotou esse método."
+  ],
+  "correta": 3,
+  "comentario": "No texto, após “demanda garantida:” vem uma lista de itens (cobre, grãos, ouro, prata, sal). Em D, os dois-pontos também abrem uma lista: o sal, a cachaça e o bacalhau. Em A e E, os dois-pontos introduzem uma explicação ou esclarecimento. Em B, introduzem uma consequência/justificativa, e a enumeração vem antes deles. Em C, anunciam uma citação (discurso direto).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-8",
+  "materia": "portugues",
+  "assunto": "Colocação pronominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A colocação do pronome oblíquo destacado está de acordo com a norma-padrão em:",
+  "alternativas": [
+   "O dinheiro não foi-me bastante.",
+   "O depósito só estará concretizado, se houver quem validá-lo.",
+   "Se você pudesse emprestar esse dinheiro, depositaria-o ainda esta semana?",
+   "Explique-me como funciona esse financiamento.",
+   "Me empreste seu cartão, que eu faço a transação hoje."
+  ],
+  "correta": 3,
+  "comentario": "Em D, o verbo inicia a oração no imperativo afirmativo, e a ênclise (“Explique-me”) é obrigatória. Em A, a palavra negativa “não” atrai o pronome: o correto seria “não me foi”. Em B, o pronome relativo/indefinido “quem” atrai o pronome (“quem o valide”). Em C, o verbo está no futuro do pretérito, que não admite ênclise: seria “depositá-lo-ia” (mesóclise) ou próclise. Em E, a norma-padrão não permite iniciar a frase com pronome oblíquo átono.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-9",
+  "materia": "portugues",
+  "assunto": "Concordância verbal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A concordância verbal está de acordo com as exigências da norma-padrão da língua portuguesa, na forma verbal destacada em:",
+  "alternativas": [
+   "Todas as pessoas do gabinete do diretor foi à reunião.",
+   "Os 10% dos funcionários da agência do sul gosta de chocolate.",
+   "Já deu sete horas no meu relógio.",
+   "Surge, quando menos se espera, novos trabalhos para fazer.",
+   "Pesquisam-se novas fórmulas de vacinas mais duráveis."
+  ],
+  "correta": 4,
+  "comentario": "Em E, “pesquisar” é transitivo direto e o “se” é partícula apassivadora: “novas fórmulas são pesquisadas”. Como o sujeito está no plural, o verbo vai para o plural: “pesquisam-se”. Em A, o sujeito “todas as pessoas” pede “foram”. Em B, a porcentagem precedida de artigo no plural (“Os 10%”) exige “gostam”. Em C, o verbo “dar” indicando horas concorda com o número de horas (“deram sete horas”), e em D o sujeito posposto “novos trabalhos” exige “surgem”.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-10",
+  "materia": "portugues",
+  "assunto": "Pronomes relativos",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O período em que a palavra ou a expressão em destaque NÃO está empregada de acordo com a norma-padrão é:",
+  "alternativas": [
+   "As professoras de que falamos são ótimas.",
+   "A folha em que deve ser feita a prova é essa.",
+   "A argumentação onde é provado o crime foi dele.",
+   "O aluno cujo pai chegou é Pedro.",
+   "As meninas que querem cortar os cabelos são aquelas."
+  ],
+  "correta": 2,
+  "comentario": "Pela norma-padrão, “onde” só se usa para indicar lugar físico. “Argumentação” não é lugar, então o correto seria “A argumentação em que (na qual) é provado o crime”. Em A, “falar de” exige a preposição, corretamente usada em “de que”. Em B, “em que” retoma “folha” com a preposição adequada. Em D, “cujo” indica posse (o pai do aluno) e está bem empregado, e em E o “que” retoma “meninas” como sujeito.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-11",
+  "materia": "ingles",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "One of the purposes of the text is to confirm that the report determines the",
+  "texto_apoio": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but can’t rule it out, either\n\n[1] WASHINGTON — American intelligence officials have found no evidence that aerial phenomena observed by Navy pilots in recent years are alien spacecraft, but they still cannot explain the unusual movements that have mystified scientists and the military.\n\n[2] The report determines that a vast majority of more than 120 incidents over the past two decades did not originate from any American military or other advanced US government technology, the officials said. That determination would appear to eliminate the possibility that Navy pilots who reported seeing unexplained aircraft might have encountered programs the government meant to keep secret.\n\n[3] But that is about the only conclusive finding in the classified intelligence report, the officials said. And while a forthcoming unclassified version, expected to be released to Congress by June 25, will present few other firm conclusions, senior officials briefed on the intelligence conceded that the very ambiguity of the findings meant the government could not definitively rule out theories that the phenomena observed by military pilots might be alien spacecraft.\n\n[4] Americans’ long-running fascination with UFOs has intensified in recent weeks in anticipation of the release of the government report. Former President Barack Obama encouraged the interest when he gave an interview last month about the incidents on “The Late Late Show with James Corden” on CBS.\n\n[5] “What is true, and I’m really being serious here,” Mr. Obama said, “is that there is film and records of objects in the skies that we don’t know exactly what they are.”\n\n[6] The report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge. One possible explanation — that the phenomena could be weather balloons or other research balloons — does not hold up in all cases, the officials said, because of changes in wind speed at the times of some of the interactions.\n\n[7] Many of the more than 120 incidents examined in the report are from Navy personnel, officials said. The report also examined incidents involving foreign militaries over the last two decades. Intelligence officials believe that at least some of the aerial phenomena could have been experimental technology from a rival power, most likely Russia or China.\n\n[8] One senior official said without hesitation that U.S. officials knew it was not American technology. He said there was worry among intelligence and military officials that China or Russia could be experimenting with hypersonic technology.\n\n[9] He and other officials spoke about the classified findings in the report on the condition of anonymity.\n\nAvailable at: https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html. Retrieved on: July 7, 2021.",
+  "alternativas": [
+   "existence of life on other planets",
+   "imminent possibility of aliens’ attack",
+   "superiority of American technology",
+   "authorities’ ignorance about unusual aircraft",
+   "danger of enemy nations’ attacks to the US"
+  ],
+  "correta": 3,
+  "comentario": "O texto afirma que as autoridades não encontraram evidência de tecnologia alienígena, mas “still cannot explain the unusual movements” e que o relatório “concedes that much about the observed phenomena remains difficult to explain”. Ou seja, o relatório confirma que as autoridades não sabem o que são essas aeronaves (ignorância). A e B são o oposto: não se conclui nada sobre vida extraterrestre ou ataque. C não é afirmado, e E aparece só como preocupação/hipótese, não como conclusão do relatório.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-12",
+  "materia": "ingles",
+  "assunto": "Referência pronominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "In the 2nd paragraph of the text, in the fragment “That determination would appear to eliminate the possibility that Navy pilots who reported seeing unexplained aircraft”, the word who refers to",
+  "texto_apoio": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but can’t rule it out, either\n\n[1] WASHINGTON — American intelligence officials have found no evidence that aerial phenomena observed by Navy pilots in recent years are alien spacecraft, but they still cannot explain the unusual movements that have mystified scientists and the military.\n\n[2] The report determines that a vast majority of more than 120 incidents over the past two decades did not originate from any American military or other advanced US government technology, the officials said. That determination would appear to eliminate the possibility that Navy pilots who reported seeing unexplained aircraft might have encountered programs the government meant to keep secret.\n\n[3] But that is about the only conclusive finding in the classified intelligence report, the officials said. And while a forthcoming unclassified version, expected to be released to Congress by June 25, will present few other firm conclusions, senior officials briefed on the intelligence conceded that the very ambiguity of the findings meant the government could not definitively rule out theories that the phenomena observed by military pilots might be alien spacecraft.\n\n[4] Americans’ long-running fascination with UFOs has intensified in recent weeks in anticipation of the release of the government report. Former President Barack Obama encouraged the interest when he gave an interview last month about the incidents on “The Late Late Show with James Corden” on CBS.\n\n[5] “What is true, and I’m really being serious here,” Mr. Obama said, “is that there is film and records of objects in the skies that we don’t know exactly what they are.”\n\n[6] The report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge. One possible explanation — that the phenomena could be weather balloons or other research balloons — does not hold up in all cases, the officials said, because of changes in wind speed at the times of some of the interactions.\n\n[7] Many of the more than 120 incidents examined in the report are from Navy personnel, officials said. The report also examined incidents involving foreign militaries over the last two decades. Intelligence officials believe that at least some of the aerial phenomena could have been experimental technology from a rival power, most likely Russia or China.\n\n[8] One senior official said without hesitation that U.S. officials knew it was not American technology. He said there was worry among intelligence and military officials that China or Russia could be experimenting with hypersonic technology.\n\n[9] He and other officials spoke about the classified findings in the report on the condition of anonymity.\n\nAvailable at: https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html. Retrieved on: July 7, 2021.",
+  "alternativas": [
+   "alien",
+   "military",
+   "officials",
+   "scientists",
+   "Navy pilots"
+  ],
+  "correta": 4,
+  "comentario": "“Who” é pronome relativo e retoma o substantivo imediatamente anterior que se refere a pessoas: “Navy pilots”. Foram os pilotos da Marinha que relataram ter visto aeronaves inexplicáveis. “Officials” e “scientists” aparecem em outras partes do texto, mas não nesse trecho. “Alien” e “military” não são antecedentes do pronome aqui.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-13",
+  "materia": "ingles",
+  "assunto": "Conectivos (linking words)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "In the 6th paragraph of the text, the highlighted expression as well as, in the fragment “as well as ability to change direction and submerge” is associated with the idea of",
+  "texto_apoio": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but can’t rule it out, either\n\n[1] WASHINGTON — American intelligence officials have found no evidence that aerial phenomena observed by Navy pilots in recent years are alien spacecraft, but they still cannot explain the unusual movements that have mystified scientists and the military.\n\n[2] The report determines that a vast majority of more than 120 incidents over the past two decades did not originate from any American military or other advanced US government technology, the officials said. That determination would appear to eliminate the possibility that Navy pilots who reported seeing unexplained aircraft might have encountered programs the government meant to keep secret.\n\n[3] But that is about the only conclusive finding in the classified intelligence report, the officials said. And while a forthcoming unclassified version, expected to be released to Congress by June 25, will present few other firm conclusions, senior officials briefed on the intelligence conceded that the very ambiguity of the findings meant the government could not definitively rule out theories that the phenomena observed by military pilots might be alien spacecraft.\n\n[4] Americans’ long-running fascination with UFOs has intensified in recent weeks in anticipation of the release of the government report. Former President Barack Obama encouraged the interest when he gave an interview last month about the incidents on “The Late Late Show with James Corden” on CBS.\n\n[5] “What is true, and I’m really being serious here,” Mr. Obama said, “is that there is film and records of objects in the skies that we don’t know exactly what they are.”\n\n[6] The report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge. One possible explanation — that the phenomena could be weather balloons or other research balloons — does not hold up in all cases, the officials said, because of changes in wind speed at the times of some of the interactions.\n\n[7] Many of the more than 120 incidents examined in the report are from Navy personnel, officials said. The report also examined incidents involving foreign militaries over the last two decades. Intelligence officials believe that at least some of the aerial phenomena could have been experimental technology from a rival power, most likely Russia or China.\n\n[8] One senior official said without hesitation that U.S. officials knew it was not American technology. He said there was worry among intelligence and military officials that China or Russia could be experimenting with hypersonic technology.\n\n[9] He and other officials spoke about the classified findings in the report on the condition of anonymity.\n\nAvailable at: https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html. Retrieved on: July 7, 2021.",
+  "alternativas": [
+   "time",
+   "addition",
+   "purpose",
+   "condition",
+   "consequence"
+  ],
+  "correta": 1,
+  "comentario": "“As well as” significa “assim como / além de” e acrescenta um item à lista do que é difícil de explicar: a aceleração e também a capacidade de mudar de direção e submergir. Trata-se, portanto, de adição. Não indica tempo (when, while), finalidade (in order to), condição (if, unless) nem consequência (so, therefore).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-14",
+  "materia": "ingles",
+  "assunto": "Modal verbs / grau de certeza",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "In the 7th paragraph of the text, in the fragment “Intelligence officials believe that at least some of the aerial phenomena could have been experimental technology from a rival power, most likely Russia or China”, the report’s authors express",
+  "texto_apoio": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but can’t rule it out, either\n\n[1] WASHINGTON — American intelligence officials have found no evidence that aerial phenomena observed by Navy pilots in recent years are alien spacecraft, but they still cannot explain the unusual movements that have mystified scientists and the military.\n\n[2] The report determines that a vast majority of more than 120 incidents over the past two decades did not originate from any American military or other advanced US government technology, the officials said. That determination would appear to eliminate the possibility that Navy pilots who reported seeing unexplained aircraft might have encountered programs the government meant to keep secret.\n\n[3] But that is about the only conclusive finding in the classified intelligence report, the officials said. And while a forthcoming unclassified version, expected to be released to Congress by June 25, will present few other firm conclusions, senior officials briefed on the intelligence conceded that the very ambiguity of the findings meant the government could not definitively rule out theories that the phenomena observed by military pilots might be alien spacecraft.\n\n[4] Americans’ long-running fascination with UFOs has intensified in recent weeks in anticipation of the release of the government report. Former President Barack Obama encouraged the interest when he gave an interview last month about the incidents on “The Late Late Show with James Corden” on CBS.\n\n[5] “What is true, and I’m really being serious here,” Mr. Obama said, “is that there is film and records of objects in the skies that we don’t know exactly what they are.”\n\n[6] The report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge. One possible explanation — that the phenomena could be weather balloons or other research balloons — does not hold up in all cases, the officials said, because of changes in wind speed at the times of some of the interactions.\n\n[7] Many of the more than 120 incidents examined in the report are from Navy personnel, officials said. The report also examined incidents involving foreign militaries over the last two decades. Intelligence officials believe that at least some of the aerial phenomena could have been experimental technology from a rival power, most likely Russia or China.\n\n[8] One senior official said without hesitation that U.S. officials knew it was not American technology. He said there was worry among intelligence and military officials that China or Russia could be experimenting with hypersonic technology.\n\n[9] He and other officials spoke about the classified findings in the report on the condition of anonymity.\n\nAvailable at: https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html. Retrieved on: July 7, 2021.",
+  "alternativas": [
+   "strong desire",
+   "irrefutable fact",
+   "equivocal probability",
+   "reasonable possibility",
+   "unrealistic hypothesis"
+  ],
+  "correta": 3,
+  "comentario": "“Believe” e “could have been” indicam possibilidade, não certeza, e “most likely” mostra que a hipótese é considerada plausível. Por isso trata-se de uma possibilidade razoável. Não é fato irrefutável (B), pois não há certeza. Não é desejo (A), nem hipótese irrealista (E), já que os autores a consideram provável. “Equivocal” (C) sugere ambiguidade ou dúvida, o que não combina com “most likely”.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-15",
+  "materia": "ingles",
+  "assunto": "Inferência / vocabulário",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "After reading the last paragraph of the text “He and other officials spoke about the classified findings in the report on the condition of anonymity”, one can infer that the officials",
+  "texto_apoio": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but can’t rule it out, either\n\n[1] WASHINGTON — American intelligence officials have found no evidence that aerial phenomena observed by Navy pilots in recent years are alien spacecraft, but they still cannot explain the unusual movements that have mystified scientists and the military.\n\n[2] The report determines that a vast majority of more than 120 incidents over the past two decades did not originate from any American military or other advanced US government technology, the officials said. That determination would appear to eliminate the possibility that Navy pilots who reported seeing unexplained aircraft might have encountered programs the government meant to keep secret.\n\n[3] But that is about the only conclusive finding in the classified intelligence report, the officials said. And while a forthcoming unclassified version, expected to be released to Congress by June 25, will present few other firm conclusions, senior officials briefed on the intelligence conceded that the very ambiguity of the findings meant the government could not definitively rule out theories that the phenomena observed by military pilots might be alien spacecraft.\n\n[4] Americans’ long-running fascination with UFOs has intensified in recent weeks in anticipation of the release of the government report. Former President Barack Obama encouraged the interest when he gave an interview last month about the incidents on “The Late Late Show with James Corden” on CBS.\n\n[5] “What is true, and I’m really being serious here,” Mr. Obama said, “is that there is film and records of objects in the skies that we don’t know exactly what they are.”\n\n[6] The report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge. One possible explanation — that the phenomena could be weather balloons or other research balloons — does not hold up in all cases, the officials said, because of changes in wind speed at the times of some of the interactions.\n\n[7] Many of the more than 120 incidents examined in the report are from Navy personnel, officials said. The report also examined incidents involving foreign militaries over the last two decades. Intelligence officials believe that at least some of the aerial phenomena could have been experimental technology from a rival power, most likely Russia or China.\n\n[8] One senior official said without hesitation that U.S. officials knew it was not American technology. He said there was worry among intelligence and military officials that China or Russia could be experimenting with hypersonic technology.\n\n[9] He and other officials spoke about the classified findings in the report on the condition of anonymity.\n\nAvailable at: https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html. Retrieved on: July 7, 2021.",
+  "alternativas": [
+   "kept secrets.",
+   "hid their names.",
+   "invented stories.",
+   "omitted the truth.",
+   "said who they were."
+  ],
+  "correta": 1,
+  "comentario": "Falar “on the condition of anonymity” significa falar sob a condição de não ser identificado, ou seja, sem revelar o nome. Por isso os funcionários esconderam seus nomes. Eles não guardaram segredo (A), pois justamente comentaram os achados sigilosos. Nada indica que inventaram histórias (C) ou omitiram a verdade (D). E é o oposto de anonimato.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-16",
+  "materia": "matematica",
+  "assunto": "Sistemas lineares",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Um banco tem agências em três regiões do país. Em cada região, trabalha-se com a comercialização de três segmentos: seguros (X), previdência (Y) e consórcios (Z). Cada equação linear que compõe o sistema abaixo representa a capacidade de uma regional produzir valor agregado para o banco, em cada segmento de atuação (lado esquerdo das equações), visando ao alcance das metas de lucro operacional em milhares de reais (lado direito das equações).\n\n2X + 5Y + 4Z = 690 (região Sul)\n5X + 2Y + 4Z = 720 (região Sudeste)\n3X + 3Y + 2Z = 540 (região Norte)\n\nDe acordo com esses dados, verifica-se que a contribuição de um dado segmento que atinge exatamente a meta de sua região é de",
+  "alternativas": [
+   "R$160.000,00 no segmento seguros, na região Sul",
+   "R$400.000,00 no segmento previdência, na região Sudeste",
+   "R$180.000,00 no segmento consórcio, na região Norte",
+   "R$90.000,00 no segmento seguros, na região Norte",
+   "R$180.000,00 no segmento previdência, na região Sul"
+  ],
+  "correta": 0,
+  "comentario": "Subtraindo a 1ª equação da 2ª: 3X − 3Y = 30, logo X = Y + 10. Na 3ª: 3(Y + 10) + 3Y + 2Z = 540, então Z = 255 − 3Y. Na 1ª: 2(Y + 10) + 5Y + 4(255 − 3Y) = 690, o que dá −5Y = −350, ou seja, Y = 70, X = 80 e Z = 45. No Sul, o segmento seguros contribui 2X = 160 mil, exatamente o valor da alternativa A. Conferindo as outras: previdência no Sudeste = 2Y = 140; consórcio no Norte = 2Z = 90; seguros no Norte = 3X = 240; previdência no Sul = 5Y = 350.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-17",
+  "materia": "matematica",
+  "assunto": "Função quadrática / porcentagem",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O rendimento de um título sofreu uma variação negativa de 3 pontos percentuais de um mês para o mês seguinte, ou seja, se no primeiro mês o título rendeu x%, no mês seguinte o mesmo título rendeu (x − 3)%.\n\nO montante M(x) de capital arrecadado após esses dois meses em um investimento de R$10.000,00, em função da taxa de rendimento do primeiro mês, será dado por",
+  "alternativas": [
+   "x² + 10000",
+   "x² + 3x + 10000",
+   "x² − 197x + 10000",
+   "x² + 197x + 9700",
+   "x² − 97x + 9700"
+  ],
+  "correta": 3,
+  "comentario": "M(x) = 10000 · (1 + x/100) · (1 + (x − 3)/100) = 10000 · (100 + x)/100 · (97 + x)/100. Como 10000/(100·100) = 1, fica M(x) = (100 + x)(97 + x) = x² + 197x + 9700. O erro típico é esquecer que o segundo fator é 97 + x, chegando a um termo independente de 10000 (alternativas A, B e C), ou errar os sinais (E).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-18",
+  "materia": "matematica",
+  "assunto": "Porcentagem / razão",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Uma profissional liberal comprou dois apartamentos com o objetivo de vendê-los. Na venda do primeiro deles, obteve um lucro de 36% sobre o preço de compra e, na do segundo, um lucro de 12%, também sobre o preço de compra. Ela recebeu por essas duas vendas uma quantia 27% maior do que a soma das quantias pagas na compra dos dois apartamentos.\n\nNessas condições, sendo P a quantia paga pelo primeiro apartamento, e S a quantia paga pelo segundo, a razão P/S é igual a",
+  "alternativas": [
+   "8/5",
+   "5/3",
+   "12/5",
+   "17/14",
+   "9/8"
+  ],
+  "correta": 1,
+  "comentario": "As vendas somam 1,36P + 1,12S, que deve ser igual a 1,27(P + S). Então 1,36P − 1,27P = 1,27S − 1,12S, ou seja, 0,09P = 0,15S. Logo P/S = 0,15/0,09 = 15/9 = 5/3. O erro comum é inverter a razão (3/5) ou fazer média simples dos percentuais.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-19",
+  "materia": "matematica",
+  "assunto": "Análise combinatória",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "De quantas formas diferentes, em relação à ordem entre as pessoas, dois homens e quatro mulheres poderão ser dispostos em fila indiana, de modo que entre os dois homens haja, pelo menos, uma mulher?",
+  "alternativas": [
+   "10",
+   "20",
+   "48",
+   "480",
+   "720"
+  ],
+  "correta": 3,
+  "comentario": "Total de filas com 6 pessoas: 6! = 720. Filas em que os dois homens ficam juntos: trate-os como um bloco, o que dá 5! = 120, vezes 2 (ordem interna do bloco) = 240. Com pelo menos uma mulher entre eles: 720 − 240 = 480. Quem marca 720 esquece a restrição; 48 ou 20 vêm de contar só posições sem permutar as pessoas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-20",
+  "materia": "matematica",
+  "assunto": "Razão e proporção",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Um estudante precisa fazer um trabalho escolar em seu aparelho de telefone celular. Para isso, usará dois aplicativos, A e B, um de cada vez. Ele sabe que a bateria do seu aparelho, estando com carga total, é suficiente para até 4 horas de uso do aplicativo A e sabe também que, com carga total, a bateria é suficiente para até 1 hora e 20 minutos de uso do aplicativo B. Após se certificar de que a bateria de seu aparelho estava com carga total, deu início ao trabalho com o uso do aplicativo A. Depois de algum tempo, ele interrompeu o uso desse aplicativo e, imediatamente, iniciou o uso do aplicativo B, até a bateria descarregar completamente, 3 horas depois do início do trabalho.\n\nPor quanto tempo o estudante usou o aplicativo A?",
+  "alternativas": [
+   "2h 10min",
+   "2h 15min",
+   "2h 20min",
+   "2h 30min",
+   "2h 50min"
+  ],
+  "correta": 3,
+  "comentario": "O aplicativo A consome 1/4 da bateria por hora, e o B consome 1/(4/3) = 3/4 da bateria por hora. Com t horas de A e (3 − t) horas de B: t/4 + 3(3 − t)/4 = 1, ou seja, t + 9 − 3t = 4, o que dá t = 2,5 h = 2h 30min. Conferindo: 2,5/4 + 0,5·3/4 = 0,625 + 0,375 = 1. O erro típico é tratar 1h20 como 1,2 h em vez de 4/3 h.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-21",
+  "materia": "atualidades",
+  "assunto": "Criptomoedas",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A cliente de um banco está chateada com as taxas bancárias sobre as suas transações e para manter a sua conta-corrente. Ela está pensando em investir em criptomoedas para ter mais domínio sobre o seu dinheiro e não pagar tantas taxas.\n\nAs criptomoedas válidas que ela tem para investir neste momento são",
+  "alternativas": [
+   "zen e bitemoeda",
+   "bitcoin e tokecardume",
+   "bitcoin e bitemoeda",
+   "bitcoin e ethereum",
+   "ethereum e tokecardume"
+  ],
+  "correta": 3,
+  "comentario": "Bitcoin e Ethereum (ether) são as duas maiores criptomoedas do mundo em valor de mercado e são negociadas normalmente em corretoras. “Bitemoeda”, “tokecardume” e “zen” são nomes inventados pela banca para servir de distratores. A questão cobra apenas o reconhecimento das criptomoedas reais, por isso qualquer alternativa com um nome fictício está errada.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-22",
+  "materia": "atualidades",
+  "assunto": "Startups e inovação",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "As startups têm transformado os negócios.\n\nUm dos motivos para isso é que elas",
+  "alternativas": [
+   "são ágeis, sempre vendem os seus produtos mais barato e visam a tornar-se um unicórnio.",
+   "inovam, transformam processos e têm potencial de rápido crescimento.",
+   "sempre são compradas com valores mais baixos que o mercado.",
+   "sempre possuem aplicativos para agilizar suas operações.",
+   "são sempre empresas de internet."
+  ],
+  "correta": 1,
+  "comentario": "Startups são empresas que buscam um modelo de negócio inovador, repetível e escalável, ou seja, com potencial de crescer rápido. É isso que transforma os mercados, como descreve a alternativa B. As demais usam generalizações absolutas (“sempre”) que não se sustentam: startups não vendem sempre mais barato, não são sempre de internet, não têm obrigatoriamente aplicativos e não são sempre compradas abaixo do valor de mercado.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-23",
+  "materia": "atualidades",
+  "assunto": "Funções da moeda",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Quando alguém vai a um shopping center pode observar que uma saia, por exemplo, apresenta o preço de R$40,00 e uma garrafa d’água, o preço de R$5,00. Apesar de não ser errado afirmar que o preço da saia são oito garrafas d’água e que o preço da garrafa d’água é 1/8 do preço da saia, os preços não costumam ser cotados assim.\n\nQuando se deseja mensurar e registrar valor econômico, usa-se a moeda como",
+  "alternativas": [
+   "meio de troca",
+   "reserva de valor",
+   "riqueza",
+   "unidade de conta",
+   "valor intrínseco"
+  ],
+  "correta": 3,
+  "comentario": "A moeda tem três funções clássicas: meio de troca, reserva de valor e unidade de conta. Quando serve de medida comum para expressar e comparar preços (a saia vale R$40, e não “oito garrafas”), ela atua como unidade de conta. Meio de troca (A) é a função de intermediar compras e vendas. Reserva de valor (B) é guardar poder de compra ao longo do tempo. “Riqueza” e “valor intrínseco” não são funções da moeda.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-24",
+  "materia": "atualidades",
+  "assunto": "Bancos digitais",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A inserção dos bancos digitais no Sistema Financeiro Nacional acarreta a disseminação de tecnologias e culturas inovadoras, dentre as quais merece menção o (a)",
+  "alternativas": [
+   "maior contato físico entre bancos e clientes",
+   "dispensa do armazenamento de dados dos clientes",
+   "uso de inteligência artificial",
+   "generalização de plataformas off-line",
+   "utilização mínima de big-data"
+  ],
+  "correta": 2,
+  "comentario": "Bancos digitais operam sem agências e dependem de tecnologia intensiva: aplicativos, análise de dados e inteligência artificial (chatbots, análise de crédito, prevenção a fraudes). Por isso C é a inovação típica. As demais vão no sentido oposto: os bancos digitais reduzem o contato físico, dependem fortemente do armazenamento e da análise de dados (big data) e são plataformas on-line.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-25",
+  "materia": "atualidades",
+  "assunto": "Shadow banking",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Considere o texto a seguir, retirado de Relatório do Banco Central do Brasil.\n\n“No sistema financeiro mundial, existem muitas entidades que oferecem serviços de intermediação financeira, mas funcionam à margem do sistema de supervisão e regulação bancária. No Relatório de Estabilidade Financeira, de 2015, o Banco Central do Brasil (BCB) estima o valor total dos ativos dessas entidades no país e adverte que elas podem ‘ser fonte de risco sistêmico, por envolver, sem a devida supervisão e regulação, riscos tipicamente bancários, tais como alavancagem, transformações de maturidade e de liquidez e transferência de risco de crédito’.”\n\nAs entidades financeiras descritas formam o sistema denominado",
+  "alternativas": [
+   "shadow banking",
+   "internet banking",
+   "open banking",
+   "mobile banking",
+   "blockchain"
+  ],
+  "correta": 0,
+  "comentario": "Shadow banking (“sistema bancário paralelo” ou “sombra”) é o conjunto de entidades que fazem intermediação de crédito fora do perímetro da regulação bancária tradicional, o que gera risco sistêmico. Internet banking e mobile banking são apenas canais de atendimento dos bancos regulados. Open banking é o compartilhamento padronizado de dados entre instituições autorizadas, e blockchain é uma tecnologia de registro distribuído.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-26",
+  "materia": "mat-financeira",
+  "assunto": "Juros simples",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Uma pessoa está planejando comprar uma geladeira no valor de R$1.300,00, no futuro.\n\nSabendo-se que ela pretende gastar exatamente esse valor e que dispõe de um capital de R$1.000,00, que será aplicado no dia de hoje a uma taxa de juros simples de 1,5% ao mês, qual será o prazo dessa aplicação, em meses, para que ela consiga comprar a geladeira à vista, o mais rápido possível?",
+  "alternativas": [
+   "2",
+   "16",
+   "20",
+   "50",
+   "200"
+  ],
+  "correta": 2,
+  "comentario": "Ela precisa de R$300 de juros. Em juros simples, J = C · i · n, então 300 = 1000 · 0,015 · n, ou seja, 300 = 15n, e n = 20 meses. Quem marca 200 usa a taxa como 1,5 em vez de 0,015 de forma errada; quem marca 2 confunde a ordem de grandeza.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-27",
+  "materia": "mat-financeira",
+  "assunto": "Juros simples",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Qual é a taxa de juros simples utilizada por uma aplicação para tornar um capital inicial de R$1.000,00 em um montante de R$1.240,00, em um período de um ano?",
+  "alternativas": [
+   "0,02 ao mês",
+   "0,02% ao mês",
+   "0,02 ao ano",
+   "0,02% ao ano",
+   "0,24% ao ano"
+  ],
+  "correta": 0,
+  "comentario": "Os juros foram de R$240 em 12 meses. Taxa anual = 240/1000 = 0,24 (24% a.a.). Em juros simples, a taxa mensal é 0,24/12 = 0,02 ao mês, ou seja, 2% ao mês na forma decimal. A pegadinha está na notação: “0,02%” (B e D) seria 0,0002, cem vezes menor. “0,02 ao ano” (C) ignora os 12 meses, e “0,24% ao ano” (E) erra a forma percentual.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-28",
+  "materia": "mat-financeira",
+  "assunto": "Sistema de Amortização Constante (SAC)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Uma pessoa faz um financiamento no valor de R$10.000,00 em 10 vezes, a uma taxa de juros de 4,9% ao mês, sendo que o financiamento usa o sistema de amortização constante. Qual é o valor, em reais, a ser pago na 7ª prestação desse financiamento?",
+  "alternativas": [
+   "1.490",
+   "1.334",
+   "1.292",
+   "1.196",
+   "1.100"
+  ],
+  "correta": 3,
+  "comentario": "No SAC, a amortização é fixa: 10.000/10 = 1.000 por mês. Antes da 7ª prestação, já foram amortizadas 6 parcelas, então o saldo devedor é 10.000 − 6.000 = 4.000. Os juros da 7ª parcela são 4.000 × 0,049 = 196. Prestação = 1.000 + 196 = 1.196. O erro comum é usar o saldo após a 7ª amortização (3.000, que daria 1.147) ou o saldo antes da 6ª (5.000, que dá 1.245).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-29",
+  "materia": "mat-financeira",
+  "assunto": "Juros compostos",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Em uma carta aos clientes, um investimento é oferecido com a promessa de recebimento de um montante de R$8.200,00 líquidos, após 2 anos, para quem aderisse investindo inicialmente R$5.000,00. O valor líquido pago é obtido após descontados R$250,00 de taxas e impostos. Para melhorar a comunicação com os clientes, julgaram interessante acrescentar a taxa de juros compostos usada no cálculo do valor bruto, isto é, sem o desconto.\n\nQual é o valor da taxa anual que deve ser acrescentada na carta?",
+  "alternativas": [
+   "2%",
+   "3%",
+   "20%",
+   "25%",
+   "30%"
+  ],
+  "correta": 4,
+  "comentario": "O montante bruto é 8.200 + 250 = 8.450. Em juros compostos: 5.000 · (1 + i)² = 8.450, então (1 + i)² = 1,69 e 1 + i = 1,3, o que dá i = 30% ao ano. O erro típico é usar o valor líquido de 8.200: (1 + i)² = 1,64 dá cerca de 28%, valor que não aparece nas alternativas. Outro erro é calcular juros simples: 3.450/5.000/2 = 34,5%.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-30",
+  "materia": "mat-financeira",
+  "assunto": "Juros compostos",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Uma pessoa deixou de pagar a fatura do cartão de crédito, de modo que, após dois meses, o valor inicial da fatura se transformou em uma dívida de R$26.450,00. Nunca foram feitas compras parceladas e não foram feitas compras adicionais durante esses dois meses.\n\nConsiderando-se que foram cobrados, indevidamente, juros compostos de 15% ao mês e que, por determinação judicial, o valor inicial deva ser reconsiderado para uma nova negociação entre as partes, o valor inicial da dívida era de",
+  "alternativas": [
+   "R$18.515,00",
+   "R$18.815,00",
+   "R$20.000,00",
+   "R$21.000,00",
+   "R$21.115,00"
+  ],
+  "correta": 2,
+  "comentario": "Basta descapitalizar: C = 26.450 / (1,15)² = 26.450 / 1,3225 = 20.000. Conferindo: 20.000 × 1,15 = 23.000, e 23.000 × 1,15 = 26.450. Quem desconta juros simples (26.450/1,30 ≈ 20.346) ou subtrai 30% do montante (18.515) chega a valores errados.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-31",
+  "materia": "bancarios",
+  "assunto": "Taxa de câmbio",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "As relações internacionais implicam relações de trocas entre as moedas, ou seja, a variável econômica conhecida como taxa de câmbio. Assim, quanto mais valorizada for a moeda de um país, menor será o poder de competitividade do produto desse país, piorando o saldo em transações correntes.\n\nNesse sentido, uma valorização cambial",
+  "alternativas": [
+   "desestimula tanto as importações quanto as exportações, mas com uma desvalorização cambial ocorre o inverso.",
+   "desestimula as importações e estimula as exportações, e com uma desvalorização cambial ocorre o mesmo.",
+   "desestimula as importações e estimula as exportações, mas com uma desvalorização cambial ocorre o inverso.",
+   "estimula as importações e desestimula as exportações, e com uma desvalorização cambial ocorre o mesmo.",
+   "estimula as importações e desestimula as exportações, mas com uma desvalorização cambial ocorre o inverso."
+  ],
+  "correta": 4,
+  "comentario": "Com a moeda nacional valorizada, os produtos estrangeiros ficam mais baratos em reais (estimulando importações) e os produtos nacionais ficam mais caros em moeda estrangeira (desestimulando exportações). Na desvalorização ocorre o inverso: as exportações ganham competitividade e as importações encarecem. As alternativas B e C invertem o efeito da valorização, e D diz que a desvalorização teria o mesmo efeito, o que é incoerente.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-32",
+  "materia": "bancarios",
+  "assunto": "Efeito Fisher internacional",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A relação entre a mudança de percentual na taxa de câmbio à vista, ao longo do tempo, e o diferencial entre taxas de juros comparáveis em diferentes mercados de capitais nacionais é conhecida como o efeito Fisher internacional. O Fisher-open, como é frequentemente chamado, indica que as taxas de câmbio à vista devem mudar em uma quantidade",
+  "alternativas": [
+   "diferente, mas em direção oposta à diferença nas taxas de juros entre dois países.",
+   "diferente, mas na mesma direção da diferença nas taxas de juros entre dois países.",
+   "desconhecida, mas na mesma direção da diferença nas taxas de juros entre dois países.",
+   "igual, mas em direção oposta à diferença nas taxas de juros entre dois países.",
+   "igual, mas na mesma direção da diferença nas taxas de juros entre dois países."
+  ],
+  "correta": 3,
+  "comentario": "O efeito Fisher internacional (Fisher-open) diz que a taxa de câmbio à vista deve variar em quantidade igual ao diferencial de juros, mas em direção oposta. Ou seja, a moeda do país com juros mais altos tende a se depreciar na mesma proporção dessa diferença, anulando o ganho extra do investidor. As alternativas com “diferente” ou “desconhecida” erram a magnitude, e as que falam em “mesma direção” erram o sentido do ajuste.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021c-33",
+  "materia": "bancarios",
+  "assunto": "Mercado de capitais",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "No mercado de capitais brasileiro, os principais responsáveis pela intermediação de compra e venda de títulos e valores mobiliários entre investidores e tomadores de recursos são as(os)",
+  "alternativas": [
+   "corretoras e distribuidoras",
+   "bolsas de valores",
+   "companhias abertas",
+   "empresas de auditoria",
+   "auditores da Comissão de Valores Mobiliários (CVM)"
+  ],
+  "correta": 0,
+  "comentario": "Sociedades corretoras e distribuidoras de títulos e valores mobiliários são as intermediárias que executam as ordens dos investidores e colocam os títulos no mercado. A bolsa de valores (B) é o ambiente organizado de negociação, não a intermediária. Companhias abertas (C) são as emissoras que captam recursos. Auditores (D) e a CVM (E) fiscalizam, não intermediam.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-34",
+  "materia": "bancarios",
+  "assunto": "Taxa de câmbio",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Com a pandemia, observou-se intensa volatilidade das taxas de câmbio cotadas nos mercados de câmbio à vista no Brasil. Segundo dados do Banco Central do Brasil, a taxa de câmbio média negociada nos mercados à vista foi de R$5,46/US$ em agosto de 2020, comparativamente à taxa média de R$5,28/US$, observada em julho desse mesmo ano.\n\nSendo assim, constata-se que, entre julho e agosto de 2020, o Real brasileiro mostrou, em relação ao Dólar norte-americano,",
+  "alternativas": [
+   "apreciação média de cerca de 3,41%, em termos nominais",
+   "apreciação média de cerca de 3,41%, em termos reais",
+   "depreciação média de cerca de 3,41%, em termos nominais",
+   "depreciação média de cerca de 3,41%, em termos reais",
+   "a mesma paridade nominal do poder de compra"
+  ],
+  "correta": 2,
+  "comentario": "O dólar passou a custar mais reais: 5,46/5,28 = 1,0341, alta de cerca de 3,41%. Como é preciso mais reais para comprar um dólar, o real se depreciou. A variação é nominal, pois usa apenas as cotações de mercado, sem descontar a inflação dos dois países (o que seria necessário para falar em termos reais). A e B erram o sentido (apreciação), e D erra ao chamar de variação real.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-35",
+  "materia": "bancarios",
+  "assunto": "Tesouraria bancária",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "É função precípua da Tesouraria, em um determinado banco,",
+  "alternativas": [
+   "acompanhar as operações em atraso, visando à instauração do processo de recuperação de crédito.",
+   "estreitar o relacionamento com os clientes do banco.",
+   "fixar as formas de garantias exigidas em função dos tipos de operação de crédito.",
+   "gerenciar os descasamentos existentes entre os fluxos de caixa das captações e as aplicações do banco.",
+   "ativar as atividades de marketing e publicidade do banco."
+  ],
+  "correta": 3,
+  "comentario": "A Tesouraria administra a liquidez do banco: gerencia os descasamentos de prazos, taxas e moedas entre o que o banco capta e o que aplica, garantindo caixa e controlando riscos de mercado. Recuperação de crédito (A) e definição de garantias (C) são atribuições das áreas de crédito e cobrança. Relacionamento com clientes (B) é da área comercial, e marketing (E) da área de comunicação.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-36",
+  "materia": "bancarios",
+  "assunto": "Política monetária / depósitos voluntários",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Considere o seguinte trecho de reportagem publicada no jornal Valor Econômico, em 3 de novembro de 2020:\n\n“O plenário do Senado aprovou, agora há pouco, um projeto que possibilita ao Banco Central substituir as operações compromissadas pelo depósito voluntário remunerado das instituições financeiras. O texto segue agora para a Câmara dos Deputados.”\n\nO principal argumento em defesa da adoção de depósitos das instituições financeiras, remunerados pelo Banco Central do Brasil (BCB), é que esse mecanismo adicional de política monetária",
+  "alternativas": [
+   "estimularia a redução das taxas de juros praticadas pelos bancos comerciais.",
+   "teria efeito nulo sobre o crescimento da dívida bruta do Tesouro Nacional.",
+   "teria efeito nulo sobre as despesas financeiras do BCB.",
+   "teria impacto financeiro idêntico ao das operações compromissadas.",
+   "fomentaria o sistema de crédito bancário."
+  ],
+  "correta": 1,
+  "comentario": "As operações compromissadas usam títulos públicos da carteira do BC e entram no cálculo da dívida bruta do governo geral. Os depósitos voluntários remunerados enxugam liquidez sem usar títulos, e por isso não aumentam a dívida bruta; esse foi o principal argumento a favor da Lei 14.185/2021. Eles continuam gerando despesa de juros para o BC (C está errada). O objetivo é enxugar liquidez, não reduzir juros bancários (A) nem fomentar crédito (E).",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021c-37",
+  "materia": "bancarios",
+  "assunto": "Política monetária / metas de inflação",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Um dos fatos mais comemorados pelos analistas econômicos no Brasil foi a queda histórica das taxas de juros básicas de curto prazo (Selic), ocorrida nos últimos três anos. Entre fevereiro de 2018 e janeiro de 2021, a Selic havia recuado de 6,75% a.a. para 2,00% a.a.\n\nConsiderando-se o arcabouço da política monetária vigente no Brasil, baseado no regime de metas para a inflação, os dois fatores que permitiram tamanha queda dos juros básicos no Brasil no período foram a",
+  "alternativas": [
+   "redução da dívida bruta do setor público como proporção do PIB e a prolongada recessão ocorrida no período.",
+   "queda dos preços das commodities e o menor impacto da desvalorização do real sobre os preços internos.",
+   "eficácia dos controles de preços e a melhora das condições externas.",
+   "ancoragem das expectativas de inflação e o elevado nível médio de capacidade ociosa registrado na economia brasileira no período.",
+   "queda dos preços dos alimentos e a redução dos spreads bancários."
+  ],
+  "correta": 3,
+  "comentario": "No regime de metas, o Copom corta a Selic quando as expectativas de inflação estão ancoradas na meta e há ociosidade na economia (hiato do produto negativo), o que reduz as pressões inflacionárias. Esses foram os fatores do período 2018-2021. A dívida bruta não caiu, pelo contrário, subiu (A). Não há controle de preços no regime brasileiro (C), e spreads bancários (E) não determinam a Selic.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-38",
+  "materia": "bancarios",
+  "assunto": "LGPD",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Um cliente comparece ao banco em que possui conta salário para comprovação de vida, seguindo norma legal sobre o tema. Aproveitando sua presença na instituição financeira, resolve agendar reunião com o gerente de relacionamento, que, com toda presteza, combina recebê-lo em meia hora. Após as conversas iniciais, ele questiona o gerente sobre os melhores investimentos disponíveis. Algumas opções são apresentadas, e o interesse final é dirigido a dois novos produtos. O gerente, então, comunica ao cliente a necessidade de atualização de sua ficha cadastral, pois surgiu nova legislação sobre proteção de dados. Diante da aquiescência, o gerente apresenta formulário padronizado para o correntista autorizar, expressamente, o compartilhamento dos seus dados com integrantes do grupo econômico do banco (corretoras, entre outras).\n\nNos termos da Lei nº 13.709, de 14 de agosto de 2018, essa autorização",
+  "alternativas": [
+   "seria desnecessária, por ser decorrente do contrato originário.",
+   "está correta, se considerado o claro consentimento do correntista.",
+   "seria exigível para quebra de sigilo bancário por ordem judicial.",
+   "deve ser ponderada com as necessidades negociais do banco.",
+   "decorre da novidade dos produtos apresentados, não se aplicando a produtos já constantes da carteira do banco."
+  ],
+  "correta": 1,
+  "comentario": "A LGPD (Lei 13.709/2018) admite o tratamento e o compartilhamento de dados pessoais mediante consentimento do titular, que deve ser livre, informado, inequívoco e fornecido por escrito ou outro meio que demonstre a vontade; para comunicar dados a terceiros, exige-se consentimento específico. O formulário de autorização expressa atende a isso. O contrato originário (A) não abrange o compartilhamento com outras empresas do grupo. Ordem judicial (C) dispensa consentimento, e a necessidade negocial do banco (D) ou a novidade dos produtos (E) não substituem a vontade do titular.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-39",
+  "materia": "bancarios",
+  "assunto": "Responsabilidade socioambiental",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Com o intuito de incentivar o desenvolvimento de novos negócios voltados às futuras gerações, determinada instituição financeira estabeleceu convênio com duas renomadas instituições nacionais de ensino e pesquisa, possuidoras de organismos internos que incentivam empreendimentos inovadores. Ao final de cada ano, os projetos escolhidos devem receber aporte de recursos para desenvolvimento dos seus produtos. Nos termos da Política de Responsabilidade Socioambiental do Banco do Brasil, o critério que deve ser preponderante na escolha dos vencedores consiste em analisar o mais bem apresentado",
+  "alternativas": [
+   "custo",
+   "rendimento",
+   "benefício ambiental",
+   "influxo geracional",
+   "lucro"
+  ],
+  "correta": 2,
+  "comentario": "A Política de Responsabilidade Socioambiental do BB orienta o apoio a negócios que gerem impacto socioambiental positivo, como a preservação do meio ambiente para as futuras gerações. Por isso, o critério preponderante é o benefício ambiental do projeto. Custo, rendimento e lucro (A, B e E) são critérios puramente financeiros, que não refletem o propósito da política. “Influxo geracional” (D) não é um conceito da política.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-40",
+  "materia": "bancarios",
+  "assunto": "Sigilo bancário (LC 105/2001)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Sr. W é gerente de área do Banco B, tendo-se especializado no setor de mercado de capitais e atuado no lançamento de diversas ações na Bolsa de Valores, sempre conseguindo bater suas metas, diante da quantidade de clientes abonados e afetos ao risco, que sua carteira possui. Sua área também atinge as operações diárias com o oferecimento de consultoria e aplicações. Um dos seus clientes, atuando diretamente na Bolsa, sem sua intermediação, obtém ganho expressivo em única operação, o que gerou a abertura de inquérito administrativo pela Comissão de Valores Mobiliários. Por força de relações pessoais, o responsável pelo inquérito solicita ao gerente W cópias das movimentações financeiras do investigado.\n\nNos termos da Lei Complementar nº 105/2001, a Comissão de Valores Mobiliários",
+  "alternativas": [
+   "pode quebrar o sigilo bancário do aplicador em ações no mercado de capitais investigado.",
+   "deve requerer, diretamente à instituição financeira conveniada, informações sobre as operações bancárias do investigado.",
+   "deve solicitar, à autoridade judiciária competente, o levantamento do sigilo do investigado.",
+   "deve oficiar ao Banco Central para compartilhar as informações bancárias do investigado.",
+   "tem vedada a possibilidade de obter informações vinculadas ao sigilo bancário do investigado."
+  ],
+  "correta": 2,
+  "comentario": "O art. 7º da LC 105/2001 prevê que a CVM, instaurado inquérito administrativo, poderá solicitar à autoridade judiciária competente o levantamento do sigilo junto às instituições financeiras. Portanto, ela não quebra o sigilo por conta própria (A), nem pede diretamente ao banco (B), muito menos por relações pessoais com o gerente. Oficiar ao BC (D) não é o caminho previsto, e a obtenção não é vedada (E), apenas depende de autorização judicial.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-41",
+  "materia": "informatica",
+  "assunto": "Extensões de arquivos",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A integração de dados de fontes distintas, cada qual com o seu formato, é uma importante atividade em processos de tomada de decisão.\n\nQual situação associa corretamente um tipo de arquivo à sua extensão?",
+  "alternativas": [
+   "arquivo de áudio – extensão jpg",
+   "arquivo de imagem – extensão wav",
+   "arquivo de lote – extensão xls",
+   "arquivo de marcação – extensão exe",
+   "arquivo de texto – extensão rtf"
+  ],
+  "correta": 4,
+  "comentario": "RTF (Rich Text Format) é um formato de documento de texto com formatação, legível por vários editores. As outras associações estão trocadas: JPG é imagem, WAV é áudio, XLS é planilha do Excel (arquivo de lote no Windows é .bat) e EXE é executável (arquivos de marcação são, por exemplo, .html e .xml).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-42",
+  "materia": "informatica",
+  "assunto": "Redes sociais (Twitter)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Uma boa imagem institucional deve ser não somente construída e mantida pela empresa, mas também divulgada. Desse modo, a organização transmite confiabilidade aos seus clientes, colaboradores e fornecedores, fortalecendo sua relação com a comunidade. Nesse contexto, o Twitter pode exercer um papel fundamental.\n\nUma funcionalidade oferecida pelo Twitter são as(os)",
+  "alternativas": [
+   "vozes do Twitter, que possibilitam ao usuário o compartilhamento de ideias transitórias.",
+   "listas, que permitem ao usuário selecionar os tweets que deseja prioritariamente visualizar.",
+   "moments, que viabilizam as conversas privadas particulares ou em grupo, via plataforma ou SMS.",
+   "periscopes, que definem diretrizes e políticas gerais para uso pelas autoridades policiais do Twitter.",
+   "boletins informativos, que permitem a visualização de várias timelines em uma única interface simples."
+  ],
+  "correta": 1,
+  "comentario": "As Listas do Twitter permitem agrupar contas e ver uma timeline só com os tweets delas, priorizando o que o usuário quer acompanhar. As demais descrições estão trocadas: conversas privadas são as Mensagens Diretas (não os Moments), Periscope era o serviço de vídeo ao vivo (não um conjunto de políticas), e ver várias timelines numa interface é função do TweetDeck. “Vozes do Twitter” com ideias transitórias descreve, de forma distorcida, os Fleets.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-43",
+  "materia": "informatica",
+  "assunto": "Google Drive",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O Google Drive é um sistema de armazenamento de arquivos em nuvem que permite o acesso ao seu conteúdo a qualquer pessoa, bastando para isso possuir uma conta do Google e ter acesso à internet. Esse sistema é particularmente interessante para o fluxo de trabalho de uma organização, dado que seus colaboradores podem, por exemplo, redigir e acessar textos e relatórios produzidos no Google Docs e direcionados ao atendimento dos seus clientes.\n\nUma opção de configuração geral oferecida pelo Google Drive é a densidade, que",
+  "alternativas": [
+   "aumenta ou reduz a quantidade de informação apresentada na tela do computador.",
+   "controla o tamanho dos arquivos armazenados, gerenciando o espaço armazenado no Drive.",
+   "converte arquivos externos enviados para o formato adotado pelo editor de documentos do Google.",
+   "importa a quantidade de arquivos externos ao Google Drive que podem ser carregados no sistema.",
+   "permite adquirir mais espaço disponível no Google Drive, a partir da assinatura do serviço Google One."
+  ],
+  "correta": 0,
+  "comentario": "Nas configurações gerais do Google Drive, a opção “Densidade” (confortável, aconchegante, compacta) ajusta o espaçamento da interface, mostrando mais ou menos itens na tela. Ela não tem relação com o tamanho dos arquivos (B). A conversão para o formato do Google (C) é outra opção (“Converter uploads”). Mais espaço (E) se obtém pela assinatura do Google One, que é uma configuração de armazenamento, não de densidade.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-44",
+  "materia": "informatica",
+  "assunto": "Navegadores (Microsoft Edge)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Navegadores da internet potencializam consideravelmente a comunicação de uma organização com os meios externo (clientes e fornecedores) e interno (colaboradores). A comunicação direta com esses atores viabiliza a identificação de percalços ou de oportunidades de forma mais eficiente.\n\nO Microsoft Edge, um exemplar dessa categoria de software, possui o modo InPrivate, que",
+  "alternativas": [
+   "controla a utilização dos dispositivos móveis de sua organização conforme o pacote EMS (Enterprise Mobility + Security).",
+   "permite a configuração prévia de sites liberados para navegação, além do ajuste do serviço BingSafeSearch para o modo rigoroso.",
+   "possibilita a leitura de arquivos PDF que possuem arquitetura de formulários XFA, segundo a política de informações da Microsoft (MIP).",
+   "provê acesso, mediante assinatura, a um provedor de notícias de alta qualidade, produzido pelos mais importantes editores premium.",
+   "remove os elementos de navegação acessados de uma sessão, tais como histórico de navegação, cookies ou dados de formulário."
+  ],
+  "correta": 4,
+  "comentario": "A navegação InPrivate do Edge (equivalente à aba anônima do Chrome) apaga, ao fechar a janela, o histórico, os cookies, os dados de sites e de formulários daquela sessão. Ela não controla dispositivos móveis (A, que é função do EMS/Intune), não restringe sites nem ativa o SafeSearch rigoroso (B, recurso de proteção infantil) e não tem relação com PDFs XFA (C) ou serviço de notícias pago (D).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-45",
+  "materia": "informatica",
+  "assunto": "Análise de dados (histograma)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Após a coleta de dados em um determinado contexto (variáveis A, B, C, … X), uma das formas mais simples e iniciais de análise é a geração e a avaliação de um histograma para uma variável selecionada (ex: X), como por exemplo, em um estudo climático, em que os dados coletados poderiam incluir a temperatura máxima observada em toda a Terra ao longo de dez anos.\n\nNesse caso, o histograma adequado é um gráfico em que são apresentadas as",
+  "alternativas": [
+   "últimas dez médias móveis da variável X",
+   "somas das médias dos quadrados de cada valor de uma variável X",
+   "variações de uma variável X ao longo do tempo",
+   "médias históricas da variável X nos últimos sete dias",
+   "frequências de uma variável X em intervalos de valores"
+  ],
+  "correta": 4,
+  "comentario": "O histograma é um gráfico de barras contíguas em que cada barra representa um intervalo (classe) de valores da variável e a altura indica quantas observações caem nesse intervalo, ou seja, a frequência. Mostrar a variação ao longo do tempo (C) é papel do gráfico de linhas/série temporal. Médias móveis (A) e médias históricas (D) também são análises temporais, e “soma das médias dos quadrados” (B) não descreve nenhum gráfico usual.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-46",
+  "materia": "informatica",
+  "assunto": "Windows Media Player",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Estações de trabalho que utilizam o sistema operacional Windows 7, 8.1 ou 10 instalado contam com o Windows Media Player.\n\nEsse programa é capaz de reproduzir",
+  "alternativas": [
+   "arquivos de áudio e CDs, mas não é capaz de reproduzir arquivos de vídeo.",
+   "arquivos de vídeo e DVDs, mas não é capaz de reproduzir arquivos de áudio.",
+   "CDs e DVDs, mas não é capaz de reproduzir arquivos de áudio e de vídeo.",
+   "arquivos de áudio e de vídeo, mas não é capaz de gravar DVDs de vídeo.",
+   "arquivos de áudio e de vídeo, mas não é capaz de gravar CDs de áudio."
+  ],
+  "correta": 3,
+  "comentario": "O Windows Media Player reproduz arquivos de áudio e de vídeo e consegue gravar CDs de áudio e discos de dados. O que ele não faz é criar DVDs de vídeo (no Windows 7, isso era função do Windows DVD Maker). Por isso E está errada: ele grava CDs de áudio. A, B e C estão erradas porque o programa reproduz tanto áudio quanto vídeo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-47",
+  "materia": "informatica",
+  "assunto": "Business Intelligence",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Os sistemas interativos que provêm inteligência de negócio, BI ou business intelligence, em uma organização, são utilizados por seus gestores para",
+  "alternativas": [
+   "exploração de dados sumarizados para compreensão e inspiração na solução de problemas.",
+   "correção de dados diretamente em sistemas transacionais.",
+   "configuração do controle de acesso aos dados de cada transação da organização.",
+   "encadeamento das atividades de um processo de trabalho da organização.",
+   "coordenação da execução de transações distribuídas."
+  ],
+  "correta": 0,
+  "comentario": "Ferramentas de BI trabalham com dados consolidados (data warehouse, dashboards, OLAP) para que os gestores analisem tendências e tomem decisões. Elas são sistemas analíticos, de leitura. Corrigir dados em sistemas transacionais (B) e coordenar transações distribuídas (E) são tarefas de sistemas operacionais/OLTP e bancos de dados. Controle de acesso (C) é segurança, e encadear atividades de processos (D) é função de ferramentas de workflow/BPM.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-48",
+  "materia": "informatica",
+  "assunto": "Microsoft Word (Office 365)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Um colaborador da empresa utilizou o Word do Microsoft Office 365 para produzir um documento. Depois que o documento foi salvo, o usuário pressionou o botão Compartilhar para acessar a janela Enviar link. Nessa janela, selecionou a opção Especificar pessoas, marcou a opção Permitir edição, desativou a opção Abrir somente em modo de revisão e pressionou o botão Aplicar. De volta à janela Enviar link, forneceu os endereços de e-mail das pessoas que deveriam receber o link de compartilhamento do documento e pressionou o botão Enviar. Em seguida, uma janela com a mensagem de confirmação de envio foi apresentada.\n\nDepois de abrir o documento novamente no Word do Microsoft Office 365, o usuário poderá saber quem fez alterações recentes no seu documento se clicar em",
+  "alternativas": [
+   "Acompanhar edição",
+   "Acompanhar alterações",
+   "Acompanhar revisões",
+   "Ficar em dia",
+   "Novidades"
+  ],
+  "correta": 3,
+  "comentario": "No Word do Microsoft 365, ao abrir um documento compartilhado que foi editado por outras pessoas, aparece o recurso “Ficar em dia” (Catch up), que mostra quem fez alterações desde a última vez que você abriu o arquivo. “Controlar alterações” é o recurso de marcar revisões enquanto se edita, que exigiria estar ativo antes; os nomes das alternativas A, B e C são distratores parecidos. “Novidades” não é o comando para isso.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021c-49",
+  "materia": "informatica",
+  "assunto": "Microsoft Office 365 (histórico de versões)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O trabalho em coautoria no Microsoft Office 365 permite que vários colaboradores atuem em conjunto. Ao longo do tempo de colaboração dos coautores, várias versões do documento serão produzidas e armazenadas automaticamente pelas ferramentas do Word e do Excel do Microsoft Office 365.\n\nPara ter acesso a todas as versões de um documento ou de uma planilha, um dos coautores pode selecionar os seguintes itens: o menu",
+  "alternativas": [
+   "Arquivo, a opção Compartilhamento e a opção Histórico de Versões.",
+   "Arquivo, a opção Informações e a opção Histórico de Versões.",
+   "Arquivo, a opção Recuperação e a opção Mostrar Versões.",
+   "Revisão, a opção Compartilhamento e a opção Histórico de Versões.",
+   "Revisão, a opção Recuperação e a opção Mostrar Versões."
+  ],
+  "correta": 1,
+  "comentario": "No Word e no Excel do Microsoft 365, o caminho é Arquivo > Informações > Histórico de Versões, que abre o painel com as versões salvas automaticamente no OneDrive/SharePoint. Não existe opção “Compartilhamento” nem “Recuperação” com essa função no menu Arquivo. O menu Revisão (D e E) cuida de ortografia, comentários e controle de alterações, não do histórico de versões.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-50",
+  "materia": "informatica",
+  "assunto": "Microsoft Teams",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O Microsoft Teams é um software que facilita a gestão de equipes, com o propósito de integrar funcionalidades que dão suporte ao trabalho dos membros dessas equipes em um único ambiente.\n\nQuanto às equipes do Microsoft Teams e seus membros, observa-se que",
+  "alternativas": [
+   "a configuração da apresentação automática de canais de equipes é feita na opção de gerenciamento de marcas.",
+   "as equipes do tipo Classe permitem que seus membros trabalhem em metas integradas ou desenvolvimento profissional.",
+   "os membros de uma equipe conseguem alterar o nome ou a descrição da mesma.",
+   "as pessoas externas à organização podem ser membros de uma equipe na categoria convidado.",
+   "o membro de uma equipe pode ter três funções na mesma equipe: proprietário, membro ou moderador de equipe."
+  ],
+  "correta": 3,
+  "comentario": "O Teams permite adicionar pessoas de fora da organização como convidados (guest access), com permissões mais limitadas. Alterar nome e descrição da equipe (C) é atribuição do proprietário, não de membros comuns. Equipes do tipo Classe (B) são voltadas a professores e alunos; desenvolvimento profissional é outro tipo (PLC). Em E, o moderador é função de canal, e na equipe as funções são proprietário, membro e convidado. A apresentação de canais (A) não fica em gerenciamento de marcas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-51",
+  "materia": "informatica",
+  "assunto": "Redes sociais (LinkedIn)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O LinkedIn é uma plataforma que viabiliza o estabelecimento de redes sociais direcionadas ao contexto profissional. Estimular os colaboradores da organização a cadastrarem e manterem suas informações atualizadas neste ambiente pode ser uma interessante estratégia de visibilizar confiabilidade institucional. Em uma das possíveis formas de divulgação deste ambiente, podem-se cadastrar informações referentes à experiência profissional (Experience), formação acadêmica (Education) e um campo livre para autodescrição (About).\n\nPara acessar esse cadastro, utiliza-se a opção",
+  "alternativas": [
+   "Mensagens (Messaging)",
+   "Minha rede (My Network)",
+   "Notificações (Notifications)",
+   "Perfil (Profile)",
+   "Vagas (Jobs)"
+  ],
+  "correta": 3,
+  "comentario": "Experiência, formação acadêmica e a seção “Sobre” (About) fazem parte do Perfil do usuário no LinkedIn, acessado pelo ícone “Eu” > Ver perfil. Mensagens (A) é o chat, Minha rede (B) gerencia conexões e convites, Notificações (C) mostra alertas de atividade, e Vagas (E) é a busca de empregos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-52",
+  "materia": "informatica",
+  "assunto": "Educação a distância",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A área de atendimento ao cliente de um determinado banco precisava treinar todos os atendentes e gerentes em um novo software de apoio à negociação de empréstimos. Buscando os meios adequados para atender a essa demanda, o responsável pela área de Educação a Distância decidiu que o curso seria multimídia, com textos e aulas gravadas, garantindo assim que os alunos pudessem realizá-lo no momento em que quisessem, cada um em seu horário.\n\nIsso caracteriza o curso proposto como um curso de treinamento on-line",
+  "alternativas": [
+   "assíncrono",
+   "concomitante",
+   "síncrono",
+   "tautócrono",
+   "tempestivo"
+  ],
+  "correta": 0,
+  "comentario": "Um curso é assíncrono quando alunos e instrutor não precisam estar conectados ao mesmo tempo: o conteúdo fica gravado e cada um acessa quando quiser. Síncrono (C) é o oposto, com aulas ao vivo em horário marcado. “Concomitante”, “tautócrono” e “tempestivo” não são classificações usadas em EAD.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-53",
+  "materia": "informatica",
+  "assunto": "Linux (agendamento de tarefas)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Ao visitar uma agência, um funcionário de TI de um banco percebeu, durante sua conversa com um bancário, que a cada 15 minutos, um alarme tocava no celular do empregado, e que, nesse momento, ele executava um programa no computador servidor do banco, que rodava o Linux SUSE. Descobriu, depois, que o mesmo se repetia em todas as agências. Percebendo isso como um sinal de que havia uma demanda interna de executar esse programa de tempos em tempos, o funcionário de TI resolveu mudar o processo, fazendo esse programa ser executado automaticamente de forma periódica.\n\nPara alcançar esse objetivo, esse funcionário utilizou a funcionalidade do comando",
+  "alternativas": [
+   "cron",
+   "curl",
+   "jobs",
+   "timedatectl",
+   "touch"
+  ],
+  "correta": 0,
+  "comentario": "O cron é o agendador de tarefas do Linux: com o crontab é possível programar um comando para rodar periodicamente, por exemplo a cada 15 minutos (*/15 * * * *). O curl transfere dados por URL, o jobs lista os processos em segundo plano do shell atual, o timedatectl configura data, hora e fuso do sistema, e o touch cria arquivos vazios ou atualiza seus carimbos de data.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-54",
+  "materia": "informatica",
+  "assunto": "Redes (protocolos)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Ao chegar para seu primeiro dia de emprego no banco, um novo gerente de TI percebeu que era demandado muito esforço no setor para controle do número IP de cada computador, o que causava, também, alguns erros por uso múltiplo do mesmo IP nas redes.\n\nPercebendo uma oportunidade de melhoria, o novo gerente decidiu que os computadores passariam a obter automaticamente um número IP, por meio do protocolo",
+  "alternativas": [
+   "DHCP",
+   "DNS",
+   "HTTP",
+   "IMAP",
+   "SMTP"
+  ],
+  "correta": 0,
+  "comentario": "O DHCP (Dynamic Host Configuration Protocol) atribui automaticamente endereços IP (além de máscara, gateway e DNS) aos computadores da rede, evitando conflitos de IP duplicado. O DNS traduz nomes de domínio em endereços IP, o HTTP transfere páginas web, e IMAP e SMTP são protocolos de e-mail (leitura e envio, respectivamente).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-55",
+  "materia": "informatica",
+  "assunto": "Análise de dados (amostragem)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Responsável por entender o comportamento dos produtos oferecidos por determinado banco onde trabalhava, e preocupado com a quantidade enorme de dados disponíveis para a análise, um funcionário decidiu extrair um subconjunto desses dados.\n\nEsse subconjunto é conhecido como",
+  "alternativas": [
+   "amostra",
+   "censo",
+   "parâmetro",
+   "população",
+   "variável"
+  ],
+  "correta": 0,
+  "comentario": "Um subconjunto extraído de um conjunto maior de dados (a população) chama-se amostra. O censo (B) é justamente a análise de toda a população, sem amostragem. Parâmetro (C) é uma medida calculada sobre a população (como a média populacional), e variável (E) é a característica observada em cada elemento.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-56",
+  "materia": "vendas",
+  "assunto": "Resolução CMN 4.539/2016 (relacionamento com clientes)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Um empreendedor atua em várias sociedades empresariais tendo, por consequência, contratos com inúmeras instituições financeiras. Por força desse contexto, possui visão ampla dos serviços prestados pelos bancos. Em determinado momento, um dos seus sócios encaminha problema para ser resolvido com a instituição financeira D, vez que a mesma respondeu que a sociedade empresária demorou mais de três meses para identificar o possível erro na prestação dos serviços.\n\nNos termos da Resolução nº 4.539, de 24 de novembro de 2016, constitui dever das instituições financeiras",
+  "alternativas": [
+   "responder imediatamente aos reclamos dos clientes.",
+   "indenizar, no prazo mais curto possível, os danos causados.",
+   "monitorar o relacionamento com os clientes, inclusive por meio de métricas adequadas.",
+   "aguardar passivamente o nível de reclamação dos usuários para tomar providências, após determinado nível de insatisfação.",
+   "desconsiderar os usuários que não mantenham relação negocial frequente."
+  ],
+  "correta": 2,
+  "comentario": "A Resolução CMN 4.539/2016 trata da política institucional de relacionamento com clientes e usuários e exige que a instituição monitore esse relacionamento, com métricas e indicadores adequados, para garantir tratamento justo e equitativo. Ela não fixa dever de resposta imediata (A) nem prazo de indenização (B). A postura passiva (D) contraria a norma, que exige atuação preventiva, e ela se aplica a clientes e usuários, sem excluir os eventuais (E).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-57",
+  "materia": "vendas",
+  "assunto": "Marketing de serviços (intangibilidade)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Em geral, os consumidores apresentam pouca familiaridade com os aspectos abstratos de boa parte dos serviços bancários, o que pode ser minimizado com o(a)",
+  "alternativas": [
+   "acordo formal entre os clientes de um mesmo segmento.",
+   "argumento de que os clientes têm sempre razão.",
+   "estabelecimento de contratos de curto prazo.",
+   "mínima interferência do prestador de serviço.",
+   "transmissão de informações corretas e confiáveis."
+  ],
+  "correta": 4,
+  "comentario": "Serviços bancários são intangíveis e abstratos, e o cliente tem dificuldade de avaliá-los antes de contratar. A forma de reduzir essa incerteza é informar com clareza, correção e confiabilidade, “tangibilizando” o serviço. Um acordo entre clientes (A) não faz sentido, e “o cliente tem sempre razão” (B) não resolve a falta de compreensão. Contratos curtos (C) e mínima interferência do prestador (D) não ajudam o cliente a entender o produto.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-58",
+  "materia": "vendas",
+  "assunto": "Estratégias competitivas (liderança em custos)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Para implementar com sucesso uma estratégia de liderança em custos, uma empresa do mercado financeiro, após verificar",
+  "alternativas": [
+   "a redução do custo de utilização pelo comprador e as características do produto, escolheu um produto considerado único pelos clientes.",
+   "a paridade de preço e custo de um serviço, ofereceu um serviço melhor do que o dos concorrentes em termos de atributos técnicos, funcionalidade e confiabilidade.",
+   "o aspecto visual e funcional de um produto, ofereceu ao mercado um produto diferente e singular, com características distintas dos produtos concorrentes.",
+   "os esforços de redução de custos quanto à sustentabilidade, fez com que seu custo total fosse menor do que o de seus concorrentes.",
+   "as preferências dos potenciais compradores de um serviço, atendeu melhor ao seu alvo estratégico do que aos concorrentes do setor."
+  ],
+  "correta": 3,
+  "comentario": "Segundo Porter, a liderança em custos consiste em ter o menor custo total do setor, de forma sustentável, o que é exatamente o que descreve D. As alternativas A, B e C descrevem a estratégia de diferenciação (produto único, melhor ou singular). A alternativa E descreve a estratégia de enfoque, em que a empresa atende melhor a um alvo estratégico específico.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-59",
+  "materia": "vendas",
+  "assunto": "Qualidade em serviços (zona de tolerância)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O grau em que os clientes estão dispostos a aceitar a variação de desempenho de um serviço avaliado como aceitável é denominado",
+  "alternativas": [
+   "lacuna de qualidade",
+   "lacuna na interpretação",
+   "lacuna nas percepções",
+   "zona de tolerância",
+   "diagrama de controle"
+  ],
+  "correta": 3,
+  "comentario": "A zona de tolerância é a faixa entre o serviço desejado e o serviço adequado (mínimo aceitável): dentro dela, o cliente aceita variações de desempenho. As “lacunas” (gaps) do modelo SERVQUAL medem diferenças entre expectativas e percepções em pontos do processo, não a variação aceita pelo cliente. O diagrama de controle é uma ferramenta estatística de controle de processos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-60",
+  "materia": "vendas",
+  "assunto": "Gestão de desempenho / metas",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "A elevada competitividade do mercado vem definindo novas formas de atuação dos bancários, que passam a ser avaliados por fatores como o(a)",
+  "alternativas": [
+   "nível de desculpas aos gerentes.",
+   "relacionamento com seus familiares.",
+   "número de reclamação de seus clientes.",
+   "regra de Pareto (80/20).",
+   "frequência com que alcançam metas."
+  ],
+  "correta": 4,
+  "comentario": "Em um mercado competitivo, o desempenho do bancário é medido principalmente pelo cumprimento de metas (de vendas, captação, relacionamento). A e B são irrelevantes para a avaliação profissional. O número de reclamações (C) pode ser um indicador complementar, mas não é o fator central apontado. A regra de Pareto (D) é um princípio de análise, não um critério de avaliação de pessoas.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-61",
+  "materia": "vendas",
+  "assunto": "Valor percebido pelo cliente",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Ao implantar ações para reduzir os custos (inclusive os não financeiros) nas transações dos clientes, os diretores de um banco têm o objetivo de",
+  "alternativas": [
+   "multiplicar o número de agências por estado.",
+   "dividir a atenção prestada pelos colaboradores.",
+   "diminuir os benefícios ofertados ao mercado.",
+   "ampliar a arrecadação de taxas administrativas.",
+   "aumentar o valor percebido pelos clientes."
+  ],
+  "correta": 4,
+  "comentario": "Pelo conceito de Kotler, o valor percebido é a diferença entre os benefícios totais e os custos totais para o cliente (monetários, de tempo, energia e psicológicos). Reduzir esses custos, inclusive os não financeiros, aumenta o valor percebido. Diminuir benefícios (C) teria efeito contrário, e ampliar taxas (D) aumentaria o custo do cliente. Multiplicar agências (A) e dividir a atenção (B) não se relacionam ao objetivo descrito.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-62",
+  "materia": "vendas",
+  "assunto": "Papéis de compra do consumidor",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "MX abre o aplicativo de seu banco em seu smartphone e tem a grata surpresa de constatar que a família chegou ao final do mês com algum dinheiro sobrando na conta conjunta que ela tem com seu marido, JV. Como eles não têm dívidas e não estão precisando realizar nenhuma compra, ela pensa em depositar o dinheiro na caderneta de poupança. Sabendo que seu marido estaria em intervalo de almoço, telefona para ele e pede: “vá à agência e solicite a aplicação do saldo de nossa conta na poupança”. JV foi à agência bancária e procurou seu gerente, manifestando o desejo de investir na poupança e ele lhe propôs: “Que tal aplicar em CDBs? Renderá mais e é tão seguro quanto a poupança.” JV seguiu a sugestão do gerente e aplicou o dinheiro em CDBs. Chegando a casa, ele encontrou sua cunhada e seu sobrinho conversando com MX e lhes contou a respeito da aplicação. A cunhada disse que também aplicava em CDBs. O sobrinho, contudo, discordou da escolha e defendeu aplicações mais arrojadas.\n\nConsiderando os papéis de compra do consumidor, nesse caso, quem exerceu o papel decisor foi",
+  "alternativas": [
+   "MX",
+   "JV",
+   "o gerente",
+   "o sobrinho",
+   "a cunhada"
+  ],
+  "correta": 1,
+  "comentario": "Os papéis de compra são: iniciador, influenciador, decisor, comprador e usuário. MX foi a iniciadora (teve a ideia de aplicar), e o gerente foi o influenciador (sugeriu o CDB). Quem de fato decidiu aplicar em CDB, e não na poupança, foi JV, que também foi o comprador. A cunhada e o sobrinho opinaram só depois que a decisão já estava tomada.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-63",
+  "materia": "vendas",
+  "assunto": "Qualidade em serviços (dimensões SERVQUAL)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Uma pesquisa junto aos clientes de um banco revelou que havia problemas com a dimensão da qualidade de serviços empatia.\n\nDessa forma, para melhorar a percepção da qualidade do serviço desse banco, os gerentes deveriam",
+  "alternativas": [
+   "melhorar as instalações, equipamentos e mobiliário das agências.",
+   "investir mais recursos em propagandas focadas nos clientes locais.",
+   "instruir os funcionários a dedicar atenção individualizada aos clientes.",
+   "reduzir os custos de operação e cobrar tarifas mais baixas pelos serviços.",
+   "ampliar o treinamento dos funcionários e tornar os serviços mais confiáveis."
+  ],
+  "correta": 2,
+  "comentario": "No modelo SERVQUAL, a empatia é a dimensão ligada à atenção individualizada e cuidadosa que a empresa dá a cada cliente. Por isso, a solução é orientar os funcionários a oferecer atendimento personalizado. Instalações e equipamentos (A) referem-se à dimensão tangibilidade, e tornar os serviços mais confiáveis (E) refere-se à confiabilidade. Propaganda (B) e redução de tarifas (D) não fazem parte das dimensões de qualidade.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-64",
+  "materia": "vendas",
+  "assunto": "Segmentação de mercado",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "O portfólio de fundos de investimento de um banco é formado por fundos de investimentos conservadores, moderados e arrojados. Segundo o diretor desse banco, os fundos conservadores são adequados para pessoas que preferem investir em fundos com baixo risco, pois têm pouca experiência em investimentos. Os fundos moderados são adequados para pessoas que já têm experiência em investimentos e conhecem melhor o mercado financeiro. Os investidores de fundos arrojados são mais experientes e não se abalam com eventuais variações nos rendimentos de suas aplicações porque entendem a dinâmica do mercado financeiro.\n\nNesse caso, verifica-se que a oferta de fundos de investimento do banco é baseada na segmentação",
+  "alternativas": [
+   "afetiva",
+   "geográfica",
+   "demográfica",
+   "experimental",
+   "comportamental"
+  ],
+  "correta": 4,
+  "comentario": "A segmentação comportamental divide os clientes pelo conhecimento, pela atitude, pelo uso e pela resposta a um produto. Aqui o critério é a experiência do investidor e sua atitude diante do risco, variáveis comportamentais. A segmentação geográfica (B) usa a localização, e a demográfica (C) usa idade, renda, sexo etc. “Afetiva” e “experimental” não são bases clássicas de segmentação.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-65",
+  "materia": "vendas",
+  "assunto": "Estatuto da Pessoa com Deficiência (Lei 13.146/2015)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "B é empregado do Banco G, atuando como caixa em agências. Após cursos de capacitação, foi promovido a gerente e, por consequência, transferido para local de trabalho distante de sua residência. No percurso diário, sofreu acidente que acarretou a diminuição de movimentos nas mãos e nos pés, dificultando seu caminhar. Tendo em vista que sua capacidade laboral foi atingida, requereu transferência para agência mais próxima de sua residência. Após os trâmites internos, obteve sua transferência. A par disso, iniciou procedimentos fisioterapêuticos por recomendação médica.\n\nNos termos da Lei nº 13.146, de 06 de julho de 2015, é direito da pessoa com deficiência submeter-se a",
+  "alternativas": [
+   "reabilitação profissional",
+   "tratamentos alternativos sem comprovação científica",
+   "determinação de local de trabalho",
+   "função escolhida pelo empregador",
+   "procedimento arbitrado por comissão laboral"
+  ],
+  "correta": 0,
+  "comentario": "O Estatuto da Pessoa com Deficiência garante o direito à habilitação e à reabilitação, inclusive profissional (arts. 14 a 17 e 36), para que a pessoa recupere ou desenvolva suas capacidades e possa voltar ao trabalho. A lei não assegura tratamentos sem comprovação científica (B). Local de trabalho ou função escolhidos unilateralmente (C e D) e procedimentos arbitrados por comissão (E) não são direitos previstos na lei.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-66",
+  "materia": "vendas",
+  "assunto": "Código de Defesa do Consumidor",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "AN é bancária e recebe, mensalmente, plano de metas para realizar com a sua clientela ou com novos clientes que venha a consolidar. Muitos dos seus clientes são idosos que percebem razoável remuneração de aposentadoria e pensões. Mirando nesse nicho, ela contata os indivíduos e, com sua competência verbal, consegue realizar inúmeros contratos e bater as metas exigidas. Alguns dos seus clientes, no entanto, após verificar que o saldo disponível em suas contas não permite o pagamento de suas despesas básicas, apresentam reclamação à Diretoria do banco.\n\nSegundo as regras do Código de Defesa do Consumidor, Lei nº 8.078/1990, constitui prática abusiva prevalecer-se da fraqueza ou ignorância do consumidor, tendo em vista sua",
+  "alternativas": [
+   "familiaridade",
+   "generosidade",
+   "liberdade",
+   "amizade",
+   "idade"
+  ],
+  "correta": 4,
+  "comentario": "O art. 39, IV, do CDC proíbe prevalecer-se da fraqueza ou ignorância do consumidor, tendo em vista sua idade, saúde, conhecimento ou condição social, para impingir-lhe produtos ou serviços. É o caso da bancária que se aproveita da vulnerabilidade dos idosos para bater metas. Familiaridade, generosidade, liberdade e amizade não constam do dispositivo legal.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021c-67",
+  "materia": "vendas",
+  "assunto": "Gestão do conhecimento (espiral SECI)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Um funcionário, em um determinado setor, desenvolveu uma maneira própria de atuar, alinhado à visão e à missão da organização e aos normativos internos. Ele se tornou uma referência, por sempre ter um conselho ou uma orientação a dar aos colegas, mesmo que usando metáforas e uma linguagem nada usual, em uma espiral do aprendizado.\n\nVisando à sustentabilidade organizacional, verifica-se que o funcionário converte conhecimento tácito em explícito por meio de",
+  "alternativas": [
+   "combinação",
+   "exteriorização",
+   "institucionalização",
+   "interiorização",
+   "socialização"
+  ],
+  "correta": 1,
+  "comentario": "Na espiral do conhecimento de Nonaka e Takeuchi, a conversão de tácito para explícito é a externalização (exteriorização), que usa justamente metáforas, analogias e modelos para articular o saber pessoal. Socialização (E) é de tácito para tácito, combinação (A) de explícito para explícito, e interiorização/internalização (D) de explícito para tácito. “Institucionalização” não é um dos quatro modos do modelo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-68",
+  "materia": "vendas",
+  "assunto": "Estratégia de diferenciação",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Para que o gestor de um banco implemente uma estratégia de posicionamento por diferenciação, visando à geração de valor superior para o cliente, deve-se buscar alinhamento entre elementos referentes à estrutura organizacional, sistemas de controle e políticas de incentivo.\n\nAssim, ao construir soluções orientadas a essa estratégia, é importante que ele identifique oportunidades relacionadas a",
+  "alternativas": [
+   "criação de equipes interfuncionais, recompensadas por assumir riscos, e ao desenvolvimento de produtos inovadores.",
+   "estrutura enxuta, com sistemas de controle de custos estreitos e com foco na estabilidade financeira.",
+   "produção eficiente, focada em melhoria de processos e princípios contábeis conservadores.",
+   "margens baixas, preços baixos, atuação em mercados amplos e realizando extensões de produto.",
+   "estruturas simples, com autoridade decisória centralizada e produção visando ganhos de escala."
+  ],
+  "correta": 0,
+  "comentario": "A diferenciação depende de inovação e criatividade: estruturas mais flexíveis, equipes interfuncionais, incentivos a quem assume riscos e desenvolvimento de produtos novos. As alternativas B, C, D e E descrevem a organização típica da liderança em custos: estrutura enxuta, controle rígido de custos, eficiência de processos, preços baixos e economia de escala.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-69",
+  "materia": "vendas",
+  "assunto": "Ética em vendas",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Os gerentes de vendas devem sempre divulgar o código de ética da empresa e se colocar contra práticas antiéticas de vendas. Condutas antiéticas de vendedores podem ser muito danosas para a imagem da empresa e gerar perda de clientes.\n\nUm conflito ético é caracterizado como falsidade ideológica quando, por exemplo, o gerente",
+  "alternativas": [
+   "propõe que o cliente tome um empréstimo como condição para que sua agência compre os materiais de escritório vendidos pela empresa gerida pelo cliente.",
+   "exige um pagamento pessoal a ele como forma de melhorar as condições do empréstimo oferecido ao cliente.",
+   "acessa informações sigilosas do cliente de forma ilícita para modificar as condições de negociação do empréstimo oferecido ao cliente.",
+   "apresenta condições e características de um empréstimo a um cliente que contrata o produto e que descobre posteriormente que havia mais taxas cobradas pelo banco e mais prestações a serem pagas.",
+   "apresenta dois tipos de empréstimos ao cliente e age de forma a direcionar a decisão do cliente pela opção que traz mais benefícios para sua própria carreira, mesmo que a outra opção seja mais lucrativa para o banco."
+  ],
+  "correta": 3,
+  "comentario": "Na classificação de conflitos éticos em vendas, a falsidade ideológica (deturpação) ocorre quando o vendedor apresenta informações falsas ou omite dados relevantes sobre o produto, como esconder taxas e prestações adicionais do empréstimo. A alternativa A descreve reciprocidade (venda casada entre empresas), e B descreve suborno/propina. C trata de obtenção ilícita de informações (espionagem), e E de conflito de interesses.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021c-70",
+  "materia": "vendas",
+  "assunto": "Marketing digital (métricas)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova C)",
+  "enunciado": "Como forma de acompanhar o desempenho de campanhas de marketing digital, os gestores costumam utilizar métricas de marketing digital.\n\nUma das métricas de conversão mais comumente usadas é a média de visualizações por visita, uma vez que essa medida é importante porque",
+  "alternativas": [
+   "impede que a taxa de conversão de clientes antigos em leads seja relacionada à quantidade das visualizações em um único dia.",
+   "há uma relação direta entre a quantidade de visualizações e a conversão de visitantes em leads ou clientes pagantes.",
+   "há uma relação inversa entre a quantidade de visualizações e a conversão de visitantes em leads ou clientes pagantes.",
+   "estabelece que a relação entre a quantidade de clientes pagantes e as visualizações em sites são determinadas pelo tipo de produto colocado à venda.",
+   "é fundada na ideia de que não há relação entre a quantidade de visualizações e a conversão de visitantes, mas todos os leads gerados tornam-se consumidores pagantes."
+  ],
+  "correta": 1,
+  "comentario": "A média de páginas vistas por visita indica o engajamento do visitante: quanto mais páginas ele vê, maior tende a ser seu interesse e a chance de virar lead ou cliente. Por isso se considera uma relação direta. C afirma o contrário. E erra duas vezes, ao negar a relação e ao dizer que todo lead vira cliente pagante. A e D descrevem relações sem base no conceito da métrica.",
+  "dificuldade": 2
+ }
+]

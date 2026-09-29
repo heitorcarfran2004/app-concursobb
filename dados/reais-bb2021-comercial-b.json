@@ -1,0 +1,1276 @@
+[
+ {
+  "id": "bb2021b-1",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "De acordo com o texto, hoje a valorização do QA tende a superar a do QI e a do QE no ambiente de trabalho porque",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "as habilidades interpessoais são muito requeridas.",
+   "o conhecimento tecnológico é cada vez mais necessário.",
+   "a memória e a habilidade matemática são indicadores exigidos.",
+   "a capacidade de adaptação faz a diferença entre o homem e a máquina.",
+   "a automatização requer colaboradores que superem a rapidez e a precisão do algoritmo."
+  ],
+  "correta": 3,
+  "comentario": "O texto mostra que funções baseadas em detectar padrões são facilmente automatizadas, pois o algoritmo é mais rápido e preciso (parágrafo 5). O que resta ao humano é se adaptar a novos cenários, criar e resolver problemas novos: por isso o QA ganha peso. A alternativa A descreve o QE, e a C descreve o QI, justamente os quocientes que perdem espaço. A E inverte a lógica: o texto não pede que o trabalhador supere o algoritmo em rapidez, e sim que desenvolva o que a máquina não faz. A B é genérica: o texto não fala em domínio técnico de tecnologia.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-2",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Ao abordar perspectivas de evolução na carreira, o texto destaca que a(s)",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "mudança no mercado se dará pela valorização do QE.",
+   "capacidade para a detecção de padrões será valorizada.",
+   "habilidades relacionadas ao QA poderão ser aprimoradas.",
+   "atividades relativas às artes serão excluídas das mudanças.",
+   "competências teóricas relacionadas ao QI serão evidenciadas."
+  ],
+  "correta": 2,
+  "comentario": "No parágrafo 8, o texto afirma que, mesmo sendo difícil mensurá-lo, especialistas dizem que o QA pode ser desenvolvido, isto é, aprimorado. A B contradiz o texto: detectar padrões é justamente o que se automatiza. A D também contradiz: Edmondson diz que toda profissão, do setor bancário às artes, exigirá adaptabilidade. A e E atribuem o protagonismo ao QE e ao QI, quando o texto destaca o QA.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-3",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O trecho que evidencia a razão pela qual novos indicadores passaram a balizar o processo de seleção das empresas é:",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "“Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI”. (parágrafo 1)",
+   "“o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.” (parágrafo 2)",
+   "“A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará.” (parágrafo 5)",
+   "“Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar”. (parágrafo 7)",
+   "“Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.” (parágrafo 8)"
+  ],
+  "correta": 2,
+  "comentario": "A pergunta pede a causa da mudança nos critérios de seleção. Essa causa é a transformação tecnológica do trabalho, expressa no trecho do parágrafo 5. A alternativa A apenas descreve como era antes. B e D descrevem o que QE e QI fazem, sem explicar por que surgiram novos indicadores. A E fala de uma vantagem do QA, e não da razão de ele passar a ser exigido.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-4",
+  "materia": "portugues",
+  "assunto": "Níveis de linguagem",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Embora priorizando a linguagem formal, os textos jornalísticos, por vezes, apropriam-se de aspectos da linguagem coloquial, buscando simular uma conversa com o leitor. Nesse texto, o trecho que exemplifica essa afirmação é:",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "“Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira.” (parágrafo 3)",
+   "“Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.” (parágrafo 4)",
+   "“Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.” (parágrafo 5)",
+   "“Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar”. (parágrafo 7)",
+   "“Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar.” (parágrafo 8)"
+  ],
+  "correta": 3,
+  "comentario": "O trecho do parágrafo 7 continua o “Digamos que você é um contador” e se dirige diretamente ao leitor (“Seu QI o ajuda”), simulando uma conversa. Esse tom de interlocução é a marca de aproximação com a linguagem coloquial. As demais alternativas são frases impessoais e expositivas, na terceira pessoa, típicas do registro formal. O erro comum é procurar gírias: aqui o recurso é o diálogo com o leitor.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-5",
+  "materia": "portugues",
+  "assunto": "Concordância verbal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A frase em que a concordância verbal atende ao que prevê a norma-padrão da língua portuguesa é:",
+  "alternativas": [
+   "Restava cerca de quinze candidatos para a entrevista.",
+   "Não sou eu que elabora as perguntas para as entrevistas.",
+   "No futuro, a maioria das tarefas poderão ser realizadas por algoritmos.",
+   "Nenhum de nós estamos preparados para a responsabilidade daquele cargo.",
+   "Mais de um indicador são usados para a seleção dos profissionais durante as entrevistas."
+  ],
+  "correta": 2,
+  "comentario": "Com sujeito formado por expressão partitiva (“a maioria de” + substantivo no plural), a norma admite o verbo no singular ou no plural: “a maioria das tarefas poderá/poderão”. Na A, o sujeito é “cerca de quinze candidatos”, então o certo é “Restavam”. Na B, com “que”, o verbo concorda com o antecedente “eu”: “sou eu que elaboro”. Na D, “nenhum de nós” pede o singular: “Nenhum de nós está preparado”. Na E, “mais de um” leva o verbo ao singular: “Mais de um indicador é usado”.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-6",
+  "materia": "portugues",
+  "assunto": "Conectivos e relações de sentido",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Respeitando-se o ponto de vista sustentado pelo texto e adequando-se a seu sentido, a reunião dos trechos “as habilidades necessárias para prosperar no mercado de trabalho também estão mudando” (parágrafo 3) e “ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar” (parágrafo 8) resulta no seguinte período:",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "As habilidades necessárias para prosperar no mercado de trabalho também estão mudando, embora ter QI, mas nenhum QA, possa ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar.",
+   "Como as habilidades necessárias para prosperar no mercado de trabalho também estão mudando, ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar.",
+   "Mesmo que as habilidades necessárias para prosperar no mercado de trabalho também estejam mudando, ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar.",
+   "As habilidades necessárias para prosperar no mercado de trabalho também estão mudando, desde que ter QI, mas nenhum QA, possa ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar.",
+   "As habilidades necessárias para prosperar no mercado de trabalho também estão mudando, no entanto, ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar."
+  ],
+  "correta": 1,
+  "comentario": "A relação entre os trechos é de causa e consequência: é porque as habilidades exigidas estão mudando que ter QI sem QA vira um bloqueio. O conectivo “Como”, no início do período, expressa essa causa. “Embora” e “mesmo que” (A e C) indicam concessão, e “no entanto” (E) indica oposição, o que cria um contraste inexistente. “Desde que” (D) indica condição e inverte a lógica do texto.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-7",
+  "materia": "portugues",
+  "assunto": "Coesão e pronome relativo",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A palavra destacada (em maiúsculas) funciona como um elemento de coesão retomando um antecedente, promove a continuidade do texto e exerce uma função sintática, na seguinte passagem:",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "“O QUE é o QA”. (título)",
+   "“um algoritmo pode executar essas tarefas com mais rapidez e precisão do QUE um humano.” (parágrafo 5)",
+   "“Para evitar a obsolescência, os trabalhadores QUE cumprem essas funções precisam desenvolver novas habilidades”. (parágrafo 6)",
+   "“Edmondson diz QUE toda profissão vai exigir adaptabilidade e flexibilidade”. (parágrafo 7)",
+   "“mesmo QUE seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.” (parágrafo 8)"
+  ],
+  "correta": 2,
+  "comentario": "Só o pronome relativo retoma um antecedente e, ao mesmo tempo, exerce função sintática na oração que introduz. Em C, “que” retoma “os trabalhadores” e é sujeito de “cumprem” (os trabalhadores cumprem essas funções). Em A, “que” é pronome interrogativo e não retoma nada. Em B, integra a locução comparativa “do que”. Em D, é conjunção integrante, e em E faz parte da locução concessiva “mesmo que”: conjunções não têm função sintática.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-8",
+  "materia": "portugues",
+  "assunto": "Transitividade verbal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A frase em que o verbo (em maiúsculas) apresenta a mesma predicação que o verbo ocorrer em “Isso OCORRE porque um algoritmo pode executar essas tarefas” (parágrafo 5) é:",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "“ENTRA em cena então um novo quociente”. (parágrafo 3)",
+   "“Esse quociente ENVOLVE também características como flexibilidade, curiosidade, coragem e resiliência.” (parágrafo 4)",
+   "“A tecnologia MUDOU bastante a forma como alguns trabalhos são feitos”. (parágrafo 5)",
+   "“você É um contador.” (parágrafo 7)",
+   "“Seu QI o AJUDA nas provas”. (parágrafo 7)"
+  ],
+  "correta": 0,
+  "comentario": "“Ocorrer” é intransitivo: não pede complemento, e “porque...” é uma oração adverbial de causa. Em “Entra em cena um novo quociente”, “entrar” também é intransitivo; “em cena” é adjunto adverbial de lugar e “um novo quociente” é o sujeito posposto. “Envolve” e “mudou” (B e C) são transitivos diretos, com objetos “características” e “a forma”. “É” (D) é verbo de ligação, e “ajuda” (E) é transitivo direto, com o objeto “o”.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-9",
+  "materia": "portugues",
+  "assunto": "Funções do se",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O pronome SE destacado apresenta a mesma função e classificação que exerce em “Automatiza-SE facilmente qualquer função que envolva detectar padrões nos dados [...]” (parágrafo 5) no seguinte período:",
+  "texto_apoio": "O que é o QA e por que ele pode ser mais importante que o QI no mercado de trabalho\n\n[1] Há algum tempo, se você quisesse avaliar as perspectivas de alguém crescer na carreira, poderia considerar pedir um teste de QI, o quociente de inteligência, que mede indicadores como memória e habilidade matemática.\n\n[2] Mais recentemente, passaram a ser avaliadas outras letrinhas: o quociente de inteligência emocional (QE), uma combinação de habilidades interpessoais, autocontrole e comunicação. Não só no mundo do trabalho, o QE é visto como um kit de habilidades que pode nos ajudar a ter sucesso em vários aspectos da vida.\n\n[3] Tanto o QI quanto o QE são considerados importantes para o sucesso na carreira. Hoje, porém, à medida que a tecnologia redefine como trabalhamos, as habilidades necessárias para prosperar no mercado de trabalho também estão mudando. Entra em cena então um novo quociente, o de adaptabilidade (QA), que considera a capacidade de se posicionar e prosperar em um ambiente de mudanças rápidas e frequentes.\n\n[4] O QA não é apenas a capacidade de absorver novas informações, mas de descobrir o que é relevante, deixar para trás noções obsoletas, superar desafios e fazer um esforço consciente para mudar. Esse quociente envolve também características como flexibilidade, curiosidade, coragem e resiliência.\n\n[5] Amy Edmondson, professora de Administração da Harvard Business School, diz que é a velocidade vertiginosa das mudanças no mercado de trabalho que fará o QA vencer o QI. Automatiza-se facilmente qualquer função que envolva detectar padrões nos dados (advogados revisando documentos legais ou médicos buscando o histórico de um paciente, por exemplo), diz Dave Coplin, diretor da The Envisioners, consultoria de tecnologia sediada no Reino Unido. A tecnologia mudou bastante a forma como alguns trabalhos são feitos, e a tendência continuará. Isso ocorre porque um algoritmo pode executar essas tarefas com mais rapidez e precisão do que um humano.\n\n[6] Para evitar a obsolescência, os trabalhadores que cumprem essas funções precisam desenvolver novas habilidades, como a criatividade para resolver novos problemas, empatia para se comunicar melhor e responsabilidade.\n\n[7] Edmondson diz que toda profissão vai exigir adaptabilidade e flexibilidade, do setor bancário às artes. Digamos que você é um contador. Seu QI o ajuda nas provas pelas quais precisa passar para se qualificar; seu QE contribui na conexão com um recrutador e depois no relacionamento com colegas e clientes no emprego. Então, quando os sistemas mudam ou os aspectos do trabalho são automatizados, você precisa do QA para se acomodar a novos cenários.\n\n[8] Ter QI, mas nenhum QA, pode ser um bloqueio para as habilidades existentes diante de novas maneiras de trabalhar. No mundo corporativo, o QA está sendo cada vez mais buscado na hora da contratação. Uma coisa boa do QA é que, mesmo que seja difícil mensurá-lo, especialistas dizem que ele pode ser desenvolvido.\n\n[9] Como diz Edmondson: “Aprender a aprender é uma missão crítica. A capacidade de aprender, mudar, crescer, experimentar se tornará muito mais importante do que o domínio de um assunto.”\n\n(BBC News Brasil, disponível em bbc.com/portuguese/vert-cap-50429043. Acesso em: 9 jul. 2021. Adaptado.)",
+  "alternativas": [
+   "Alguns trabalhadores mais velhos arrependem-SE de não procurar entender a nova realidade do mercado de trabalho.",
+   "Acostumar-SE com as novas exigências do mundo do trabalho é condição para sobreviver no mercado hoje.",
+   "O mercado vem mudando: trata-SE agora de valorizar flexibilidade, curiosidade, coragem e resiliência.",
+   "Ainda SE hesita diante da escolha entre habilidades medidas pelo QI e aquelas medidas pelo QA.",
+   "Ao longo do tempo, verificam-SE mudanças nas habilidades exigidas diante de novas maneiras de trabalhar."
+  ],
+  "correta": 4,
+  "comentario": "Em “Automatiza-se qualquer função”, o verbo é transitivo direto e “qualquer função” é o sujeito paciente (qualquer função é automatizada): o “se” é partícula apassivadora. O mesmo ocorre em “verificam-se mudanças”, que equivale a “mudanças são verificadas”, com o verbo no plural concordando com o sujeito. Em A e B, “arrepender-se” e “acostumar-se” são verbos pronominais, e o “se” é parte integrante do verbo. Em C (“trata-se de”) e em D (“se hesita”), o verbo não é transitivo direto, e o “se” é índice de indeterminação do sujeito.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-10",
+  "materia": "portugues",
+  "assunto": "Colocação pronominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A colocação do pronome oblíquo átono destacado (em maiúsculas) está de acordo com o que prevê a norma-padrão da língua portuguesa no seguinte período:",
+  "alternativas": [
+   "Consideraria-SE o QA mais importante que o QI há duas décadas?",
+   "SE busca investir naquilo que pode fazer a diferença entre a máquina e o homem.",
+   "As mudanças no mercado de trabalho jamais dar-SE-ão sem investimento no capital humano.",
+   "Os candidatos que saem-SE melhor nas entrevistas são contratados mais rapidamente.",
+   "Alguns SE consideram mais preparados para enfrentar adversidades no trabalho do que em família."
+  ],
+  "correta": 4,
+  "comentario": "Pronomes indefinidos como “alguns” atraem o pronome átono para antes do verbo, então “Alguns se consideram” está correto. Na A, não se usa ênclise com verbo no futuro do pretérito: o certo é a mesóclise “Considerar-se-ia”. Na B, a norma-padrão não admite iniciar a frase com pronome átono: “Busca-se”. Na C, o advérbio de negação “jamais” exige próclise: “jamais se darão”. Na D, o pronome relativo “que” também atrai: “que se saem”.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-11",
+  "materia": "ingles",
+  "assunto": "Interpretação de texto (ideia principal)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "The overall purpose of the text is",
+  "texto_apoio": "Revolution Accelerated — How Digital Transformation is Shaping the Future of Banking\n\n[1] Like all businesses, banks have had to act fast to respond to the unprecedented human and economic impact of Covid-19.\n\n[2] First, they needed to keep the lights on and ensure business continuity. Second, they had to meet the changing ways customers wanted to engage. Finally, they sought to balance their business priorities with a responsibility to support society. Previous crises cast the banks as part of the problem — this time they are part of the solution.\n\n[3] Banks who have embraced modern banking technology have fared better in meeting these challenges. They’ve moved seamlessly to remote working, kept up service for their customers, coped with huge increases in demand and quickly adapted their products. In contrast, banks using legacy ‘spaghetti’ software have struggled.\n\n[4] Covid-19 has accelerated the need for modern banking technology, but it didn’t create it. Before coronavirus, the 2020s were already being framed as the decade for digital in the banking industry. Banks’ return on equity were too low and their cost-income ratios were too high. Meanwhile, regulation like open banking was disrupting the industry and increasing competition from new entrants like the GAAFAs (Google, Amazon, Alibaba, Facebook, Apple).\n\n[5] Providing seamless digital customer experiences was therefore already a ‘must’. Every year, Temenos partners with the Economist Intelligence Unit (EIU) for a global study on the future of banking. More than 300 banking leaders are interviewed from retail, commercial and private banks. Over half of these are at C-suite level.\n\n[6] In 2020, the study took place amid the Covid-19 crisis. The results give a fascinating insight into banking leaders’ approach during these unprecedented times. But they also show how they see their industry in the years to come.\n\n[7] And the findings suggest three trends which will shape the future of banking:\n1. New technologies will be the key driver of banking transformation over the next 5 years. 77% of respondents strongly believed that Artificial Intelligence (AI) will be the most game-changing of these technologies. They see a diverse range of uses for AI — from personalised customer experience to fraud detection.\n2. Banks will overhaul their business models to create digital ecosystems. 80% of respondents believe that banking will become part of a platform of services. 45% are committed to transforming their business models into digital ecosystems.\n3. The sun will set on branch banking. World Bank data shows that visits to branches have been steadily declining globally over the last decade. As a result of coronavirus, customers are now more concerned about visiting their branch, and so even more people are willing to try digital applications. This combination of pandemic and increasingly transformative advanced technology has led a majority of respondents (59%) to our survey with the EIU to state that traditional branch-based banking model will be dead in just five years. That’s a 34% increase from last year.\n\n[8] The current environment is undoubtedly challenging for banks. But they have the capital, customer relationships and customer data. They are regulated. And most importantly: they still enjoy their customers’ trust.\n\n[9] In short, banks are best-placed to succeed if they commit to end-to-end digital transformation. That means a fully digital front office which creates hyper-personalized experiences and ecosystems. And a back office driving efficient operations and rapid innovation. By embracing modern banking technology, banks can support their customers today, create new value for the future and drive new levels of future growth.\n\n(Available at: cnbc.com/advertorial/how-digital-transformation-is-shaping-the-future-of-banking. Retrieved on: July 13th, 2021. Adapted.)",
+  "alternativas": [
+   "to explain how the banking industry works.",
+   "to discuss the impact of the coronavirus pandemic on the health system.",
+   "to launch new investment opportunities in the banking industry.",
+   "to state that digital transformation in banking has been accelerated by the coronavirus pandemic.",
+   "to promote new AI technology that will change the future of banking."
+  ],
+  "correta": 3,
+  "comentario": "O título (“Revolution Accelerated”) e o parágrafo 4 (“Covid-19 has accelerated the need for modern banking technology”) mostram o objetivo central: a pandemia acelerou a transformação digital dos bancos. O texto não explica o funcionamento dos bancos (A) nem trata do sistema de saúde (B). Não lança investimentos (C). A IA aparece só como uma das tendências, sem que o texto promova um produto (E).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-12",
+  "materia": "ingles",
+  "assunto": "Interpretação de texto (detalhe)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "According to the 2nd paragraph of the text, after the Covid-19 outbreak, banks initially had to face the following number of challenges:",
+  "texto_apoio": "Revolution Accelerated — How Digital Transformation is Shaping the Future of Banking\n\n[1] Like all businesses, banks have had to act fast to respond to the unprecedented human and economic impact of Covid-19.\n\n[2] First, they needed to keep the lights on and ensure business continuity. Second, they had to meet the changing ways customers wanted to engage. Finally, they sought to balance their business priorities with a responsibility to support society. Previous crises cast the banks as part of the problem — this time they are part of the solution.\n\n[3] Banks who have embraced modern banking technology have fared better in meeting these challenges. They’ve moved seamlessly to remote working, kept up service for their customers, coped with huge increases in demand and quickly adapted their products. In contrast, banks using legacy ‘spaghetti’ software have struggled.\n\n[4] Covid-19 has accelerated the need for modern banking technology, but it didn’t create it. Before coronavirus, the 2020s were already being framed as the decade for digital in the banking industry. Banks’ return on equity were too low and their cost-income ratios were too high. Meanwhile, regulation like open banking was disrupting the industry and increasing competition from new entrants like the GAAFAs (Google, Amazon, Alibaba, Facebook, Apple).\n\n[5] Providing seamless digital customer experiences was therefore already a ‘must’. Every year, Temenos partners with the Economist Intelligence Unit (EIU) for a global study on the future of banking. More than 300 banking leaders are interviewed from retail, commercial and private banks. Over half of these are at C-suite level.\n\n[6] In 2020, the study took place amid the Covid-19 crisis. The results give a fascinating insight into banking leaders’ approach during these unprecedented times. But they also show how they see their industry in the years to come.\n\n[7] And the findings suggest three trends which will shape the future of banking:\n1. New technologies will be the key driver of banking transformation over the next 5 years. 77% of respondents strongly believed that Artificial Intelligence (AI) will be the most game-changing of these technologies. They see a diverse range of uses for AI — from personalised customer experience to fraud detection.\n2. Banks will overhaul their business models to create digital ecosystems. 80% of respondents believe that banking will become part of a platform of services. 45% are committed to transforming their business models into digital ecosystems.\n3. The sun will set on branch banking. World Bank data shows that visits to branches have been steadily declining globally over the last decade. As a result of coronavirus, customers are now more concerned about visiting their branch, and so even more people are willing to try digital applications. This combination of pandemic and increasingly transformative advanced technology has led a majority of respondents (59%) to our survey with the EIU to state that traditional branch-based banking model will be dead in just five years. That’s a 34% increase from last year.\n\n[8] The current environment is undoubtedly challenging for banks. But they have the capital, customer relationships and customer data. They are regulated. And most importantly: they still enjoy their customers’ trust.\n\n[9] In short, banks are best-placed to succeed if they commit to end-to-end digital transformation. That means a fully digital front office which creates hyper-personalized experiences and ecosystems. And a back office driving efficient operations and rapid innovation. By embracing modern banking technology, banks can support their customers today, create new value for the future and drive new levels of future growth.\n\n(Available at: cnbc.com/advertorial/how-digital-transformation-is-shaping-the-future-of-banking. Retrieved on: July 13th, 2021. Adapted.)",
+  "alternativas": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "correta": 2,
+  "comentario": "O parágrafo 2 enumera os desafios com “First”, “Second” e “Finally”. São eles: manter a operação funcionando (keep the lights on), atender às novas formas de relacionamento dos clientes e equilibrar as prioridades de negócio com a responsabilidade social. São, portanto, três desafios. O erro comum é contar como um quarto desafio a frase final sobre crises anteriores, que é apenas um comentário.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-13",
+  "materia": "ingles",
+  "assunto": "Referência pronominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "In paragraph 6, the personal pronoun THEY, used twice in the sentence “But they also show how they see their industry in the years to come”, refers to the following fragment at the same paragraph:",
+  "texto_apoio": "Revolution Accelerated — How Digital Transformation is Shaping the Future of Banking\n\n[1] Like all businesses, banks have had to act fast to respond to the unprecedented human and economic impact of Covid-19.\n\n[2] First, they needed to keep the lights on and ensure business continuity. Second, they had to meet the changing ways customers wanted to engage. Finally, they sought to balance their business priorities with a responsibility to support society. Previous crises cast the banks as part of the problem — this time they are part of the solution.\n\n[3] Banks who have embraced modern banking technology have fared better in meeting these challenges. They’ve moved seamlessly to remote working, kept up service for their customers, coped with huge increases in demand and quickly adapted their products. In contrast, banks using legacy ‘spaghetti’ software have struggled.\n\n[4] Covid-19 has accelerated the need for modern banking technology, but it didn’t create it. Before coronavirus, the 2020s were already being framed as the decade for digital in the banking industry. Banks’ return on equity were too low and their cost-income ratios were too high. Meanwhile, regulation like open banking was disrupting the industry and increasing competition from new entrants like the GAAFAs (Google, Amazon, Alibaba, Facebook, Apple).\n\n[5] Providing seamless digital customer experiences was therefore already a ‘must’. Every year, Temenos partners with the Economist Intelligence Unit (EIU) for a global study on the future of banking. More than 300 banking leaders are interviewed from retail, commercial and private banks. Over half of these are at C-suite level.\n\n[6] In 2020, the study took place amid the Covid-19 crisis. The results give a fascinating insight into banking leaders’ approach during these unprecedented times. But they also show how they see their industry in the years to come.\n\n[7] And the findings suggest three trends which will shape the future of banking:\n1. New technologies will be the key driver of banking transformation over the next 5 years. 77% of respondents strongly believed that Artificial Intelligence (AI) will be the most game-changing of these technologies. They see a diverse range of uses for AI — from personalised customer experience to fraud detection.\n2. Banks will overhaul their business models to create digital ecosystems. 80% of respondents believe that banking will become part of a platform of services. 45% are committed to transforming their business models into digital ecosystems.\n3. The sun will set on branch banking. World Bank data shows that visits to branches have been steadily declining globally over the last decade. As a result of coronavirus, customers are now more concerned about visiting their branch, and so even more people are willing to try digital applications. This combination of pandemic and increasingly transformative advanced technology has led a majority of respondents (59%) to our survey with the EIU to state that traditional branch-based banking model will be dead in just five years. That’s a 34% increase from last year.\n\n[8] The current environment is undoubtedly challenging for banks. But they have the capital, customer relationships and customer data. They are regulated. And most importantly: they still enjoy their customers’ trust.\n\n[9] In short, banks are best-placed to succeed if they commit to end-to-end digital transformation. That means a fully digital front office which creates hyper-personalized experiences and ecosystems. And a back office driving efficient operations and rapid innovation. By embracing modern banking technology, banks can support their customers today, create new value for the future and drive new levels of future growth.\n\n(Available at: cnbc.com/advertorial/how-digital-transformation-is-shaping-the-future-of-banking. Retrieved on: July 13th, 2021. Adapted.)",
+  "alternativas": [
+   "the study",
+   "the results",
+   "banking leaders",
+   "Covid-19 crisis",
+   "unprecedented times"
+  ],
+  "correta": 1,
+  "comentario": "A frase anterior diz “The results give a fascinating insight...”, e a seguinte continua: “But they also show...”. Quem “mostra” são os resultados do estudo, que é o sujeito paralelo a “give”. “The study” (A) está no singular e não combina com “they”. A confusão típica é com “banking leaders” (C), que aparece no genitivo “banking leaders’ approach”, mas o sujeito que “mostra” é “the results”, conforme o gabarito oficial.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-14",
+  "materia": "ingles",
+  "assunto": "Conectivos (discourse markers)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "In the sentence of the last paragraph “In short, banks are best-placed to succeed if they commit to end-to-end digital transformation”, the phrase IN SHORT conveys an idea of",
+  "texto_apoio": "Revolution Accelerated — How Digital Transformation is Shaping the Future of Banking\n\n[1] Like all businesses, banks have had to act fast to respond to the unprecedented human and economic impact of Covid-19.\n\n[2] First, they needed to keep the lights on and ensure business continuity. Second, they had to meet the changing ways customers wanted to engage. Finally, they sought to balance their business priorities with a responsibility to support society. Previous crises cast the banks as part of the problem — this time they are part of the solution.\n\n[3] Banks who have embraced modern banking technology have fared better in meeting these challenges. They’ve moved seamlessly to remote working, kept up service for their customers, coped with huge increases in demand and quickly adapted their products. In contrast, banks using legacy ‘spaghetti’ software have struggled.\n\n[4] Covid-19 has accelerated the need for modern banking technology, but it didn’t create it. Before coronavirus, the 2020s were already being framed as the decade for digital in the banking industry. Banks’ return on equity were too low and their cost-income ratios were too high. Meanwhile, regulation like open banking was disrupting the industry and increasing competition from new entrants like the GAAFAs (Google, Amazon, Alibaba, Facebook, Apple).\n\n[5] Providing seamless digital customer experiences was therefore already a ‘must’. Every year, Temenos partners with the Economist Intelligence Unit (EIU) for a global study on the future of banking. More than 300 banking leaders are interviewed from retail, commercial and private banks. Over half of these are at C-suite level.\n\n[6] In 2020, the study took place amid the Covid-19 crisis. The results give a fascinating insight into banking leaders’ approach during these unprecedented times. But they also show how they see their industry in the years to come.\n\n[7] And the findings suggest three trends which will shape the future of banking:\n1. New technologies will be the key driver of banking transformation over the next 5 years. 77% of respondents strongly believed that Artificial Intelligence (AI) will be the most game-changing of these technologies. They see a diverse range of uses for AI — from personalised customer experience to fraud detection.\n2. Banks will overhaul their business models to create digital ecosystems. 80% of respondents believe that banking will become part of a platform of services. 45% are committed to transforming their business models into digital ecosystems.\n3. The sun will set on branch banking. World Bank data shows that visits to branches have been steadily declining globally over the last decade. As a result of coronavirus, customers are now more concerned about visiting their branch, and so even more people are willing to try digital applications. This combination of pandemic and increasingly transformative advanced technology has led a majority of respondents (59%) to our survey with the EIU to state that traditional branch-based banking model will be dead in just five years. That’s a 34% increase from last year.\n\n[8] The current environment is undoubtedly challenging for banks. But they have the capital, customer relationships and customer data. They are regulated. And most importantly: they still enjoy their customers’ trust.\n\n[9] In short, banks are best-placed to succeed if they commit to end-to-end digital transformation. That means a fully digital front office which creates hyper-personalized experiences and ecosystems. And a back office driving efficient operations and rapid innovation. By embracing modern banking technology, banks can support their customers today, create new value for the future and drive new levels of future growth.\n\n(Available at: cnbc.com/advertorial/how-digital-transformation-is-shaping-the-future-of-banking. Retrieved on: July 13th, 2021. Adapted.)",
+  "alternativas": [
+   "cause",
+   "addition",
+   "emphasis",
+   "conclusion",
+   "time sequence"
+  ],
+  "correta": 3,
+  "comentario": "“In short” significa “em resumo” ou “em suma” e introduz a conclusão ou síntese do texto, como acontece no último parágrafo. Não indica causa (because, since), nem adição (moreover, also). Também não expressa ênfase (indeed) nem sequência temporal (then, afterwards).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-15",
+  "materia": "ingles",
+  "assunto": "Inferência",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "From the sentence of the last paragraph, “By embracing modern banking technology, banks can support their customers today, create new value for the future and drive new levels of future growth”, it is inferred that",
+  "texto_apoio": "Revolution Accelerated — How Digital Transformation is Shaping the Future of Banking\n\n[1] Like all businesses, banks have had to act fast to respond to the unprecedented human and economic impact of Covid-19.\n\n[2] First, they needed to keep the lights on and ensure business continuity. Second, they had to meet the changing ways customers wanted to engage. Finally, they sought to balance their business priorities with a responsibility to support society. Previous crises cast the banks as part of the problem — this time they are part of the solution.\n\n[3] Banks who have embraced modern banking technology have fared better in meeting these challenges. They’ve moved seamlessly to remote working, kept up service for their customers, coped with huge increases in demand and quickly adapted their products. In contrast, banks using legacy ‘spaghetti’ software have struggled.\n\n[4] Covid-19 has accelerated the need for modern banking technology, but it didn’t create it. Before coronavirus, the 2020s were already being framed as the decade for digital in the banking industry. Banks’ return on equity were too low and their cost-income ratios were too high. Meanwhile, regulation like open banking was disrupting the industry and increasing competition from new entrants like the GAAFAs (Google, Amazon, Alibaba, Facebook, Apple).\n\n[5] Providing seamless digital customer experiences was therefore already a ‘must’. Every year, Temenos partners with the Economist Intelligence Unit (EIU) for a global study on the future of banking. More than 300 banking leaders are interviewed from retail, commercial and private banks. Over half of these are at C-suite level.\n\n[6] In 2020, the study took place amid the Covid-19 crisis. The results give a fascinating insight into banking leaders’ approach during these unprecedented times. But they also show how they see their industry in the years to come.\n\n[7] And the findings suggest three trends which will shape the future of banking:\n1. New technologies will be the key driver of banking transformation over the next 5 years. 77% of respondents strongly believed that Artificial Intelligence (AI) will be the most game-changing of these technologies. They see a diverse range of uses for AI — from personalised customer experience to fraud detection.\n2. Banks will overhaul their business models to create digital ecosystems. 80% of respondents believe that banking will become part of a platform of services. 45% are committed to transforming their business models into digital ecosystems.\n3. The sun will set on branch banking. World Bank data shows that visits to branches have been steadily declining globally over the last decade. As a result of coronavirus, customers are now more concerned about visiting their branch, and so even more people are willing to try digital applications. This combination of pandemic and increasingly transformative advanced technology has led a majority of respondents (59%) to our survey with the EIU to state that traditional branch-based banking model will be dead in just five years. That’s a 34% increase from last year.\n\n[8] The current environment is undoubtedly challenging for banks. But they have the capital, customer relationships and customer data. They are regulated. And most importantly: they still enjoy their customers’ trust.\n\n[9] In short, banks are best-placed to succeed if they commit to end-to-end digital transformation. That means a fully digital front office which creates hyper-personalized experiences and ecosystems. And a back office driving efficient operations and rapid innovation. By embracing modern banking technology, banks can support their customers today, create new value for the future and drive new levels of future growth.\n\n(Available at: cnbc.com/advertorial/how-digital-transformation-is-shaping-the-future-of-banking. Retrieved on: July 13th, 2021. Adapted.)",
+  "alternativas": [
+   "banks cannot grow after the coronavirus pandemic.",
+   "modern banking technology can help reshape the present and the future of banks.",
+   "modern technology can frustrate the present and the future of the banking industry.",
+   "as result of the coronavirus pandemic, banks will not be able to meet customers’ demands in the future.",
+   "due to the coronavirus pandemic, banks are not able to meet customers’ expectations in the present."
+  ],
+  "correta": 1,
+  "comentario": "A frase liga a adoção de tecnologia a benefícios no presente (“support their customers today”) e no futuro (“new value for the future”, “future growth”). Logo, a tecnologia ajuda a remodelar o presente e o futuro dos bancos. As alternativas A, C, D e E têm tom negativo e contradizem a ideia de crescimento e sucesso expressa na frase.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-16",
+  "materia": "matematica",
+  "assunto": "Função quadrática (valor máximo)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Para os seis primeiros meses de um investimento, a evolução, em milhares de reais, de um certo investimento de R$ 3.000,00 é expressa pela fórmula M(x) = -(1/4)·(x - 4)² + 7, onde M(x) indica quantos milhares de reais a pessoa poderá retirar após x meses desse investimento. Um cliente pretende deixar esse investimento por seis meses. Nesse caso, de quanto será a sua perda, em reais, em relação ao máximo que ele poderia ter retirado?",
+  "alternativas": [
+   "1.000",
+   "3.000",
+   "4.000",
+   "5.000",
+   "6.000"
+  ],
+  "correta": 0,
+  "comentario": "A parábola tem concavidade para baixo e vértice em x = 4, com valor máximo M(4) = 7, ou seja, R$ 7.000. Em seis meses: M(6) = -(1/4)·(2)² + 7 = -1 + 7 = 6, ou seja, R$ 6.000. A perda é 7.000 - 6.000 = R$ 1.000. O erro típico é comparar com o capital inicial de R$ 3.000 (alternativa B) ou marcar o valor retirado (6.000) em vez da diferença.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-17",
+  "materia": "matematica",
+  "assunto": "Progressão aritmética",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um garçom ganha um salário fixo por mês mais gorjetas diárias. Como regra, ele se propôs a cada dia do mês guardar um pouco do que ganha de gorjetas para fazer uma reserva financeira, que é depositada no banco ao fim do dia 30, exceto em fevereiro. No dia 1, ele guarda R$ 1,00; no dia 2, guarda R$ 2,00; no dia 3, R$ 3,00, e assim, sucessivamente, até que no dia 30, ele junta R$ 30,00 ao que vinha guardando e faz o depósito. Em um determinado mês de 30 dias, ele precisou gastar tudo que havia juntado até o fim do dia 15, mas quis repor esse gasto. Para isso, guardou do dia 16 até o dia 30 um valor fixo de x reais por dia, de modo que, no fim do mês, depositou a mesma quantia que vinha depositando todos os meses, exceto em fevereiro. Qual é o valor de x?",
+  "alternativas": [
+   "20",
+   "23",
+   "25",
+   "27",
+   "31"
+  ],
+  "correta": 4,
+  "comentario": "O depósito normal é a soma da PA de 1 a 30: (1 + 30)·30/2 = 465 reais. Como ele gastou tudo o que juntou até o dia 15, precisa acumular os 465 reais inteiros em 15 dias (do 16 ao 30). Então 15x = 465, o que dá x = 31. O erro comum é calcular só a soma de 16 a 30 (345) e dividir por 15, obtendo 23, esquecendo que o valor dos dias 1 a 15 também precisa ser reposto.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-18",
+  "materia": "matematica",
+  "assunto": "Porcentagem",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma empresa paga um salário bruto mensal de R$ 1.000,00 a um de seus funcionários. Além desses honorários, a empresa deve recolher o FGTS desse empregado. Sabendo-se que o valor pago corresponde a, aproximadamente, 8,33% do salário bruto, qual o valor pago, a título de FGTS, por esse funcionário?",
+  "alternativas": [
+   "R$ 1.008,33",
+   "R$ 8,33",
+   "R$ 83,30",
+   "R$ 991,67",
+   "R$ 1.083,30"
+  ],
+  "correta": 2,
+  "comentario": "Basta aplicar o percentual: 8,33% de 1.000 = 0,0833 × 1.000 = R$ 83,30. A alternativa B confunde 8,33% com 0,833%. As alternativas A e E somam o valor ao salário, e a pergunta pede apenas o valor do FGTS.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-19",
+  "materia": "matematica",
+  "assunto": "Função exponencial",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um banco está planejando abrir uma nova agência em uma cidade do interior. O departamento de Marketing estima que o número de clientes da agência (NC) em função do número de meses decorridos (t) desde a inauguração seguirá a seguinte função exponencial: NC(t) = 100 × 2^t. Quantos meses completos, após a inauguração, o número estimado de clientes da agência será superior a 2.000?",
+  "alternativas": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "correta": 4,
+  "comentario": "Queremos 100 × 2^t > 2.000, ou seja, 2^t > 20. Como 2^4 = 16 (ainda menor que 20) e 2^5 = 32 (maior que 20), o primeiro mês completo que ultrapassa 2.000 clientes é t = 5, com NC = 3.200. Quem marca 4 esquece que 1.600 clientes ainda não supera 2.000.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-20",
+  "materia": "matematica",
+  "assunto": "Conjuntos (diagrama de Venn)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um banco está selecionando um novo escriturário e recebeu um total de 50 currículos. Para o exercício desse cargo, três habilidades foram especificadas: comunicação, relacionamento interpessoal e conhecimento técnico. As seguintes características foram detectadas entre os candidatos a essa vaga: 15 apresentavam habilidade de comunicação; 18 apresentavam habilidade de relacionamento interpessoal; 25 apresentavam conhecimento técnico; seis apresentavam habilidade de relacionamento interpessoal e de comunicação; oito apresentavam habilidade de relacionamento interpessoal e conhecimento técnico; dois candidatos apresentavam todas as habilidades; oito candidatos não apresentavam nenhuma das habilidades. Com base nessas informações, qual o número total de candidatos que apresentam apenas uma das três habilidades apontadas?",
+  "alternativas": [
+   "28",
+   "38",
+   "21",
+   "13",
+   "15"
+  ],
+  "correta": 0,
+  "comentario": "Têm alguma habilidade 50 - 8 = 42 candidatos. Pela inclusão-exclusão, 42 = 15 + 18 + 25 - 6 - 8 - (C∩T) + 2, o que dá C∩T = 4. Apenas comunicação: 15 - 6 - 4 + 2 = 7. Apenas relacionamento: 18 - 6 - 8 + 2 = 6. Apenas técnico: 25 - 8 - 4 + 2 = 15. Total: 7 + 6 + 15 = 28. O erro comum é marcar 15 (só o conhecimento técnico) ou esquecer de descobrir a interseção que não foi informada.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021b-21",
+  "materia": "atualidades",
+  "assunto": "Shadow banking",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma pessoa estava querendo fazer um empréstimo e descobriu que algumas instituições que praticam o shadow banking (“sistema bancário sombra”) geralmente servem como intermediários entre credores e tomadores de empréstimos, fornecendo crédito e capital para investidores e corporações. Ao fazer uso dessas instituições para fazer um empréstimo, a pessoa incorre em riscos?",
+  "alternativas": [
+   "Não, pois vai ter toda a assessoria para fazer o empréstimo.",
+   "Não, pois o shadow banking realiza operações passando por toda a supervisão ou regulação dos sistemas financeiros/bancários do país.",
+   "Sim, pois essas instituições não são bancárias, não recebem depósitos tradicionais como um banco tradicional e são estruturas paralelas aos mercados tradicionais.",
+   "Sim, pois o shadow banking é uma estrutura paralela aos mercados tradicionais, embora passe por todas as regulações e seja uma instituição bancária.",
+   "Sim, pois o shadow banking não é uma instituição financeira, embora tenha registro no Banco Central."
+  ],
+  "correta": 2,
+  "comentario": "O shadow banking reúne entidades não bancárias que fazem intermediação de crédito fora da regulação e supervisão bancária tradicional. Elas não captam depósitos à vista e não contam com as redes de proteção do sistema bancário, por isso há risco para quem as usa. A B e a D erram ao dizer que essas entidades passam por toda a regulação. A E se contradiz ao afirmar que não são instituições financeiras e ao mesmo tempo que têm registro no Banco Central.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-22",
+  "materia": "atualidades",
+  "assunto": "Funções da moeda",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um meio de troca é aquilo que os compradores oferecem aos vendedores quando aqueles adquirem bens e serviços. Quando um consumidor, por exemplo, compra um perfume numa loja localizada numa economia onde o nível inflacionário é baixo e controlado, o vendedor entrega o produto para o cliente em troca de",
+  "alternativas": [
+   "moeda, por ser o meio de troca de maior aceitabilidade.",
+   "mercadoria, por ser o meio de troca mais eficiente.",
+   "moeda-mercadoria, por ser o meio de troca mais durável.",
+   "outro bem, por ser o meio de troca com menor custo de carregamento.",
+   "outro serviço, por ser o meio de troca de maior divisibilidade."
+  ],
+  "correta": 0,
+  "comentario": "Com inflação baixa e controlada, a moeda cumpre bem sua função de meio de troca, pois tem aceitação geral e todos a aceitam em pagamento. Trocar mercadoria, bem ou serviço (B, D e E) é escambo, que é ineficiente porque exige a dupla coincidência de desejos. A moeda-mercadoria (C) é uma forma primitiva de dinheiro e não corresponde a uma compra comum numa loja atual.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-23",
+  "materia": "atualidades",
+  "assunto": "Blockchain e criptomoedas",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A blockchain é um tipo específico de banco de dados distribuído, no qual há uma cadeia de blocos ordenados e interligados, com garantia de ordem cronológica. Os dados registrados nos blocos podem variar de transações financeiras a contratos inteligentes. Na blockchain da bitcoin, as entidades que registram novos blocos na cadeia são chamadas de",
+  "alternativas": [
+   "registradores",
+   "mineradores",
+   "trabalhadores",
+   "gerenciadores",
+   "conectores"
+  ],
+  "correta": 1,
+  "comentario": "No bitcoin, os mineradores disputam a resolução do problema criptográfico da prova de trabalho (proof of work). Quem resolve primeiro valida as transações, adiciona o novo bloco à cadeia e recebe bitcoins como recompensa. Os demais termos não são usados para esse papel. “Trabalhadores” pode confundir por causa da expressão “proof of work”, mas o nome técnico é minerador.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-24",
+  "materia": "atualidades",
+  "assunto": "Criptomoedas",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Leia as considerações seguintes sobre o expressivo crescimento das criptomoedas nas movimentações financeiras internacionais. O texto sugere que o mercado de criptomoedas é fonte de enorme instabilidade e preocupação dos bancos centrais, porque as empresas emissoras desses ativos monetários",
+  "texto_apoio": "Criptomoeda, ou moeda criptografada, é um ativo digital denominado na própria unidade de conta que é emitido e transacionado de modo descentralizado, independentemente de registro ou validação por parte de intermediários centrais, com validade e integridade de dados assegurada por tecnologia criptográfica e de consenso em rede. Trata-se de instrumentos desenhados para viabilizar transferências de valores em rede de maneira segura e independente de um sistema de intermediação financeira (...). Outro aspecto econômico que merece destaque é o lado político-econômico da atribuição de valor a uma moeda. As moedas estatais de curso forçado contam não apenas com reservas legais, mas também com uma infraestrutura estatal ou privada (fortemente regulada) e com as políticas monetária e cambial oficiais (...). Muitas criptomoedas, mesmo que funcionem como instrumentos descentralizados, têm grande parte de sua base monetária em poder da organização que a desenvolveu.\n\n(STELLA, J. C. Moedas virtuais no Brasil: como enquadrar as criptomoedas. Revista da PGBC, v. 11, n. 2, dez. 2017, p. 151, 156.)",
+  "alternativas": [
+   "são reguladas pelos bancos centrais.",
+   "têm enorme capacidade de manipulação da taxa de câmbio entre a criptomoeda emitida e os demais ativos digitais.",
+   "conseguiram transformá-los no principal meio de troca utilizado nas transações financeiras internacionais.",
+   "vinculam a unidade de conta da criptomoeda às principais moedas conversíveis, como o dólar norte-americano e o euro.",
+   "forçam o enquadramento das criptomoedas emitidas na mesma categoria das demais moedas eletrônicas já existentes."
+  ],
+  "correta": 1,
+  "comentario": "O texto diz que muitas criptomoedas têm grande parte da base monetária em poder da organização que as desenvolveu. Quem detém a maior parte da oferta pode influenciar fortemente o preço, ou seja, a taxa de troca com outros ativos, e isso gera instabilidade. A A é falsa: as criptomoedas funcionam de forma independente de intermediários centrais. A C exagera, porque elas não são o principal meio de troca internacional. A D descreve as stablecoins, que o texto não menciona, e a E não tem apoio no texto.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-25",
+  "materia": "atualidades",
+  "assunto": "Fintechs",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um indivíduo abriu uma conta em um banco digital. Essa instituição tem um modelo de negócio que desburocratizou o mercado e oferece soluções simples por meio da tecnologia, otimizando serviços e deixando de repassar custos operacionais da empresa para seus clientes. Como são chamadas as empresas que introduzem inovações nos mercados financeiros por meio do uso intenso de tecnologia, com potencial para criar novos modelos de negócios?",
+  "alternativas": [
+   "Nutechs",
+   "Inovatechs",
+   "Fintechs",
+   "SmartTechs",
+   "HealthTechs"
+  ],
+  "correta": 2,
+  "comentario": "Fintech vem de “financial technology”: são empresas que usam tecnologia intensivamente para inovar em serviços financeiros, como bancos digitais, meios de pagamento e crédito online. No Brasil, o Banco Central regulamenta as fintechs de crédito (SCD e SEP). HealthTechs atuam na área da saúde, e os demais termos não designam categorias reconhecidas.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-26",
+  "materia": "mat-financeira",
+  "assunto": "Sistema Price",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Ao verificar o saldo devido de seu financiamento de R$ 8.000,00, um cliente percebeu que, após pagar a primeira prestação de R$ 1.726,93, ele havia amortizado apenas R$ 1.518,93. Consultando seu gerente, ele soube que nesse financiamento foi usado o sistema Price. Qual é a taxa mensal de juros cobrada nesse financiamento?",
+  "alternativas": [
+   "1,0%",
+   "1,3%",
+   "1,6%",
+   "2,3%",
+   "2,6%"
+  ],
+  "correta": 4,
+  "comentario": "Em qualquer sistema, prestação = juros + amortização. Então os juros da 1ª parcela são 1.726,93 - 1.518,93 = 208,00. Esses juros incidem sobre o saldo devedor inicial de 8.000, logo i = 208 / 8.000 = 0,026 = 2,6% ao mês. O erro comum é dividir a amortização ou a prestação pelo saldo, o que leva a taxas sem sentido.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-27",
+  "materia": "mat-financeira",
+  "assunto": "Juros simples (multa por atraso)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "No boleto bancário da sua prestação, uma pessoa leu que é cobrada uma multa de 1,2% por dia de atraso sobre o valor da prestação, condicionada a atrasos não maiores que 30 dias. Em certo mês, essa pessoa pagou uma prestação com atraso, tendo de desembolsar R$ 233,20 em vez dos R$ 220,00 normalmente pagos nos meses em que não houve atraso no pagamento. Por quantos dias ela atrasou a prestação nesse mês?",
+  "alternativas": [
+   "5",
+   "10",
+   "15",
+   "20",
+   "25"
+  ],
+  "correta": 0,
+  "comentario": "O acréscimo foi de 233,20 - 220,00 = 13,20. Em relação à prestação, isso representa 13,20 / 220 = 0,06 = 6%. Como a multa é de 1,2% por dia sobre o valor da prestação (regime simples), são 6% / 1,2% = 5 dias. Conferindo: 220 × 0,012 × 5 = 13,20.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-28",
+  "materia": "mat-financeira",
+  "assunto": "Sistema de Amortização Constante (SAC)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um banco ofereceu a um cliente um financiamento de R$ 120.000,00, pelo sistema SAC, a uma taxa de juros de 10% a.m., para ser pago em 4 prestações mensais ao final de cada mês, sendo a primeira prestação no valor de R$ 42.000,00. Quais os valores aproximados que serão pagos, pelo cliente, a título de juros e prestação, respectivamente, ao final do terceiro mês?",
+  "alternativas": [
+   "R$ 12.000,00; R$ 42.000,00",
+   "R$ 3.000,00; R$ 39.000,00",
+   "R$ 12.000,00; R$ 30.000,00",
+   "R$ 6.000,00; R$ 36.000,00",
+   "R$ 9.000,00; R$ 33.000,00"
+  ],
+  "correta": 3,
+  "comentario": "No SAC, a amortização é constante: 120.000 / 4 = 30.000 por mês. Depois de duas parcelas, o saldo devedor é 120.000 - 2 × 30.000 = 60.000. Os juros do 3º mês são 10% × 60.000 = 6.000, e a prestação é 30.000 + 6.000 = 36.000. A alternativa A repete os valores do 1º mês, e a E traz os do 2º mês (juros de 9.000 sobre 90.000).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-29",
+  "materia": "mat-financeira",
+  "assunto": "Taxa de juros",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um banco fez um empréstimo de R$ 10.000,00 a um cliente, pelo prazo de um mês, cobrando o valor de R$ 100,00 a título de juros. Qual foi a taxa de juros que o banco cobrou do cliente?",
+  "alternativas": [
+   "0,01 ao mês",
+   "10% ao ano",
+   "1% ao ano",
+   "0,1 ao mês",
+   "0,05 ao mês"
+  ],
+  "correta": 0,
+  "comentario": "A taxa é i = J / C = 100 / 10.000 = 0,01 ao mês, na forma unitária, o que equivale a 1% ao mês. A alternativa C troca a unidade de tempo: 1% ao ano não é o mesmo que 1% ao mês. A D (0,1 = 10%) e a B confundem a forma decimal com a percentual.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-30",
+  "materia": "mat-financeira",
+  "assunto": "Juros compostos (valor presente)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um cliente deseja fazer uma aplicação em uma instituição financeira, que paga uma taxa de juros compostos de 10% ao ano, por um período de 3 anos, já que, ao final da aplicação, planeja comprar uma TV no valor de R$ 3.500,00 à vista. Qual o valor aproximado a ser investido para esse objetivo ser alcançado?",
+  "alternativas": [
+   "R$ 2.629,60",
+   "R$ 2.450,00",
+   "R$ 2.692,31",
+   "R$ 2.341,50",
+   "R$ 2.525,00"
+  ],
+  "correta": 0,
+  "comentario": "O valor presente é C = M / (1 + i)^n = 3.500 / (1,1)^3 = 3.500 / 1,331 ≈ 2.629,60. A alternativa C (2.692,31 = 3.500 / 1,3) corresponde a juros simples de 30%. A B (3.500 × 0,7) desconta 30% direto sobre o montante, o que também está errado.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-31",
+  "materia": "bancarios",
+  "assunto": "Política monetária (forward guidance)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A pandemia do coronavírus, declarada em março de 2020, alterou significativamente as relações sociais e econômicas ao redor do globo. Em resposta, autoridades mundiais atuaram tempestivamente, recorrendo a instrumentos monetários para dinamizar a economia, associando estímulo monetário com controle inflacionário. Com essa finalidade, no Brasil, em agosto de 2020, o Banco Central do Brasil (Bacen) anunciou a utilização de um instrumento denominado",
+  "alternativas": [
+   "Teto dos gastos",
+   "Isenção tributária",
+   "Dominância fiscal",
+   "Forward guidance",
+   "Quantitative easing"
+  ],
+  "correta": 3,
+  "comentario": "Em agosto de 2020, o Copom adotou o forward guidance (orientação futura), que é uma sinalização sobre os passos futuros da política monetária. Na prática, o Bacen indicou que não pretendia elevar a Selic enquanto as condições permitissem, ancorando as expectativas. Teto de gastos e isenção tributária são instrumentos fiscais. Dominância fiscal é um cenário de risco, e não um instrumento. O quantitative easing (compra maciça de ativos) é típico de bancos centrais como o Fed e não foi o instrumento anunciado naquele mês.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-32",
+  "materia": "bancarios",
+  "assunto": "Debêntures",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Existem títulos de dívida de longo prazo emitidos por sociedades de ações e destinados, geralmente, ao financiamento de projetos de investimento ou para alongamento do perfil de endividamento das empresas. Tais títulos são",
+  "alternativas": [
+   "as ações",
+   "as debêntures",
+   "os dividendos",
+   "os Depositary Receipts (DR)",
+   "os Brazilian Depositary Receipts (BDR)"
+  ],
+  "correta": 1,
+  "comentario": "Debêntures são títulos de dívida emitidos por sociedades anônimas: o investidor empresta dinheiro à empresa e recebe juros. Elas costumam financiar projetos ou alongar o perfil da dívida. Ações são títulos de propriedade, não de dívida. Dividendos são a distribuição de lucros. DR e BDR são certificados que representam ações negociadas em outro país.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-33",
+  "materia": "bancarios",
+  "assunto": "Copom e Selic",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Dentro do Sistema de Metas para a inflação, o Conselho Monetário Nacional (CMN) estabelece a meta para a inflação. A partir dessa meta, o Comitê de Política Monetária (Copom) do Banco Central do Brasil (Bacen) reúne-se periodicamente para analisar a economia brasileira. Nesse contexto, é atribuição do Copom",
+  "alternativas": [
+   "definir a meta da taxa Selic.",
+   "determinar o papel do Bacen no mercado cambial.",
+   "formular normas aplicáveis ao Sistema Financeiro Nacional (SFN).",
+   "divulgar, diariamente, a taxa de juros de curto prazo para operações realizadas no mercado financeiro.",
+   "autorizar o funcionamento das instituições financeiras e de outras entidades conforme legislação em vigor."
+  ],
+  "correta": 0,
+  "comentario": "O Copom se reúne a cada 45 dias e define a meta da taxa Selic, seu principal instrumento para levar a inflação à meta fixada pelo CMN. Formular normas para o SFN (C) é papel do CMN. Autorizar o funcionamento de instituições financeiras (E) cabe ao Bacen, não ao Copom. A divulgação diária da taxa Selic efetiva (D) é tarefa operacional do Bacen, e não o que o Copom decide.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-34",
+  "materia": "bancarios",
+  "assunto": "Comissão de Valores Mobiliários (CVM)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A Comissão de Valores Mobiliários (CVM) foi criada em 07/12/1976, pela Lei nº 6.385/76. A CVM",
+  "alternativas": [
+   "é um órgão emissor de moeda-papel.",
+   "é vinculada à Casa Civil.",
+   "fornece crédito às instituições.",
+   "é responsável por formular a política de crédito.",
+   "regula mercados da Bolsa de balcão."
+  ],
+  "correta": 4,
+  "comentario": "A CVM é uma autarquia vinculada ao Ministério da Economia (hoje Ministério da Fazenda). Ela normatiza e fiscaliza o mercado de valores mobiliários, incluindo a bolsa e o mercado de balcão. Emitir moeda (A) é função do Bacen. A CVM não é vinculada à Casa Civil (B), não concede crédito (C) e não formula a política de crédito (D), que é atribuição do CMN.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-35",
+  "materia": "bancarios",
+  "assunto": "LGPD (princípios)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um determinado banco programou uma campanha de empréstimos a juros baixos, com o escopo de angariar clientes para sua carteira de mutuários. Após ampla campanha de divulgação, vários pretendentes compareceram às agências bancárias, onde receberam informações de que deveriam subscrever fichas com informações pessoais e autorizar que o banco as divulgasse sempre que julgasse necessário e sem que houvesse necessidade de essa divulgação ser previamente comunicada à clientela. Nos termos da Lei nº 13.709, de 14 de agosto de 2018, a cláusula de divulgação deve obedecer ao princípio da",
+  "alternativas": [
+   "negociação",
+   "taxação",
+   "menção",
+   "referência",
+   "transparência"
+  ],
+  "correta": 4,
+  "comentario": "A LGPD (art. 6º) lista os princípios do tratamento de dados, entre eles o da transparência. Por esse princípio, o titular deve receber informações claras, precisas e facilmente acessíveis sobre o tratamento e sobre com quem seus dados são compartilhados. Uma cláusula que permite divulgar dados sem comunicação prévia viola esse princípio. Negociação, taxação, menção e referência não estão entre os princípios da lei.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-36",
+  "materia": "bancarios",
+  "assunto": "Responsabilidade socioambiental do BB",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um jovem atua em uma organização social com inúmeros projetos em comunidades carentes situada em região metropolitana de uma grande capital brasileira. A organização possui vários empregados, recrutados diretamente nas comunidades, e conta com financiamento de pessoas físicas e jurídicas. Com o intuito de ampliar sua base de colaboradores, agenda diversos compromissos com empreendedores que tenham interesse na região. Nos termos da Política de Responsabilidade Socioambiental do Banco do Brasil, seria adequado que houvesse",
+  "alternativas": [
+   "percentual de funcionários que exercesse atividade remunerada decorrente de atuação nas organizações sociais.",
+   "incentivo aos funcionários do banco para que desempenhassem atividades voluntárias no projeto.",
+   "colaboração não consistente em financiamento a programas e projetos sociais.",
+   "integração de outras instituições financeiras como requisito de participação.",
+   "neutralidade na intervenção em projetos sociais em comunidades carentes por ausência de recursos para todos."
+  ],
+  "correta": 1,
+  "comentario": "A Política de Responsabilidade Socioambiental do BB prevê o incentivo ao voluntariado dos funcionários em projetos sociais e o apoio a iniciativas nas comunidades. Atividade remunerada de funcionários nas ONGs (A) não faz parte da política. A C e a E vão contra o apoio a projetos sociais, e a D inventa um requisito que não existe.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-37",
+  "materia": "bancarios",
+  "assunto": "LGPD (dados sensíveis)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Ao realizar a matrícula do seu curso, o estudante preencheu uma ficha cadastral com os seguintes dados: nome, endereço, telefone, religião, estado civil, raça, nome dos pais, número de filhos e sindicato ao qual era filiado. Segundo a Lei Geral de Proteção de Dados (LGPD), consideram-se sensíveis os seguintes dados solicitados:",
+  "alternativas": [
+   "religião, raça e filiação a sindicato",
+   "religião, estado civil e filiação a sindicato",
+   "religião, estado civil e raça",
+   "número de filhos, raça e religião",
+   "número de filhos, raça e estado civil"
+  ],
+  "correta": 0,
+  "comentario": "O art. 5º, II, da LGPD define como dado sensível a origem racial ou étnica, a convicção religiosa, a opinião política, a filiação a sindicato ou organização religiosa, filosófica ou política, e os dados de saúde, vida sexual, genéticos ou biométricos. Por isso, religião, raça e filiação sindical são dados sensíveis. Estado civil e número de filhos são dados pessoais comuns, e é essa a pegadinha das demais alternativas.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-38",
+  "materia": "bancarios",
+  "assunto": "Mercado de câmbio",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Aqueles que participam do mercado de câmbio de um país podem ser divididos entre os que produzem divisas e os que cedem divisas. Produzem e cedem divisas, respectivamente, os",
+  "alternativas": [
+   "exportadores; os turistas estrangeiros.",
+   "importadores; os que fazem transferências para o exterior.",
+   "que recebem transferências do exterior; os que remetem lucro ao exterior.",
+   "tomadores de investimentos quando remetem dividendos ao exterior; os exportadores.",
+   "tomadores de empréstimos quando remetem o principal ao exterior; os importadores."
+  ],
+  "correta": 2,
+  "comentario": "Produzem (ofertam) divisas os agentes que trazem moeda estrangeira para o país: exportadores, turistas estrangeiros, quem recebe transferências ou investimentos do exterior. Cedem (demandam) divisas os que enviam moeda para fora: importadores, quem remete lucros, dividendos ou juros e turistas brasileiros no exterior. A C traz a combinação correta. Na A, os dois grupos produzem divisas. Na B, D e E, a ordem está invertida.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-39",
+  "materia": "bancarios",
+  "assunto": "Mercado de capitais",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Essencialmente, o mercado de capitais canaliza a poupança da sociedade para suprir as necessidades das empresas por recursos produtivos. Promover o fortalecimento de mercados de capitais locais para que se tornem pilares para o desenvolvimento econômico tem sido um objetivo constante, em praticamente toda a comunidade internacional. A sociedade é beneficiada à medida que o mercado de capitais cumpre aquelas que são suas quatro principais funções:",
+  "alternativas": [
+   "aumento do consumo imediato, maior propensão ao risco, alocação de recursos em poucos ativos e aumento da autonomia gerencial corporativa.",
+   "desmobilização do investimento, maior aversão ao risco, alocação enviesada de recursos e afrouxamento da rígida disciplina de capital corporativa.",
+   "mobilização da poupança, gestão de riscos, alocação eficiente de recursos e aumento da disciplina corporativa.",
+   "transferência do investimento para o futuro, eliminação dos riscos sistemáticos, construção de carteiras diversificadas e estímulo à governança.",
+   "estabilidade da propensão a consumir, redução do risco assistemático, alocação aleatória de recursos e extinção dos custos de agência."
+  ],
+  "correta": 2,
+  "comentario": "As funções clássicas do mercado de capitais são quatro. Ele mobiliza a poupança para o investimento, permite gerir e diversificar riscos, aloca os recursos de forma eficiente por meio da formação de preços e aumenta a disciplina corporativa (governança e fiscalização pelos investidores). A D erra ao falar em “eliminação dos riscos sistemáticos”, que não podem ser eliminados pela diversificação. As demais trazem efeitos opostos, como alocação enviesada ou aleatória e desmobilização.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-40",
+  "materia": "bancarios",
+  "assunto": "Código de Ética do BB",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Considere as informações contidas no Código de Ética do Banco do Brasil: “O propósito assumido pelo Banco é cuidar do que é valioso para as pessoas, mantendo a visão de ser a empresa que proporciona a melhor experiência para a vida das pessoas e promove o desenvolvimento da sociedade de forma inovadora, eficiente e sustentável.” Nesse Código de Ética, a consideração do interesse coletivo na tomada de decisões refere-se diretamente ao seguinte valor:",
+  "alternativas": [
+   "inovação",
+   "eficiência",
+   "confiabilidade",
+   "espírito público",
+   "senso de dono"
+  ],
+  "correta": 3,
+  "comentario": "Entre os valores do BB, o “espírito público” se traduz em considerar o interesse coletivo e o bem comum nas decisões, coerente com o caráter de sociedade de economia mista. Inovação e eficiência tratam de soluções e resultados. Confiabilidade diz respeito à integridade e ao cumprimento de compromissos, e senso de dono, ao comprometimento com a empresa como se fosse própria.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-41",
+  "materia": "informatica",
+  "assunto": "Navegadores (Firefox)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma opção de navegador web (browser) de internet disponível para instalação em diversas plataformas é o Mozilla Firefox, que apresenta um conjunto de funcionalidades, entre elas o seu histórico de navegação. Inclui(em)-se no histórico de navegação do Mozilla Firefox",
+  "alternativas": [
+   "a Configuração de zoom",
+   "o Certificado OCSP",
+   "o Protocolo HTTPS",
+   "os Cookies",
+   "os Temas"
+  ],
+  "correta": 3,
+  "comentario": "No Firefox, a opção “Limpar histórico recente” lista os itens que compõem o histórico. Entre eles estão o histórico de navegação e downloads, os cookies, o cache, as sessões ativas e os dados de formulários. Os cookies, portanto, fazem parte do histórico. O zoom por site é uma preferência, os temas são personalização visual, e HTTPS e OCSP são protocolos de segurança, não itens do histórico.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-42",
+  "materia": "informatica",
+  "assunto": "Correio eletrônico e segurança",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O serviço de correio eletrônico é uma ferramenta essencial para o trabalho do dia a dia dos colaboradores de uma empresa. Para garantir a segurança da comunicação do cliente de correio eletrônico com os servidores de correio eletrônico de entrada e de saída de mensagens, é importante configurar a utilização do padrão de segurança",
+  "alternativas": [
+   "TLS",
+   "SMTP",
+   "IMAP",
+   "POP3",
+   "HTTP"
+  ],
+  "correta": 0,
+  "comentario": "O TLS (sucessor do SSL) criptografa a comunicação entre o cliente de e-mail e os servidores, tanto no recebimento (IMAPS/POP3S) quanto no envio (SMTP com STARTTLS). SMTP, IMAP e POP3 são protocolos de envio e recebimento de mensagens, e não padrões de segurança. HTTP é o protocolo da web e também não oferece criptografia por si só.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-43",
+  "materia": "informatica",
+  "assunto": "Windows 10 (Explorador de Arquivos)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um usuário precisa utilizar o Explorador de Arquivos do Windows 10 para listar, pelo menos, os atributos de nome e data e hora de modificação dos arquivos e das subpastas, contidos em uma pasta. Para apresentar esses atributos, depois de selecionar a pasta desejada no Explorador de Arquivos, o usuário deve selecionar a opção de exibição",
+  "alternativas": [
+   "ícones grandes",
+   "ícones médios",
+   "ícones pequenos",
+   "detalhes",
+   "lista"
+  ],
+  "correta": 3,
+  "comentario": "O modo “Detalhes” mostra os itens em colunas, como Nome, Data de modificação, Tipo e Tamanho, e permite ordenar por qualquer uma delas. Os modos de ícones (grandes, médios e pequenos) e o modo “Lista” mostram apenas o nome e o ícone, sem a data de modificação.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-44",
+  "materia": "informatica",
+  "assunto": "Microsoft Teams",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O Microsoft Teams possui recursos que apoiam reuniões de times de trabalho em discussões, tais como o desenho ou a readequação de procedimentos organizacionais. Uma opção disponível para reuniões é o lobby, que funciona como",
+  "alternativas": [
+   "discador de chamadas pinnedGroup",
+   "integrador de armazenamento com o OneDrive",
+   "integrador de tarefas com o calendário",
+   "notificador do feed de atividades",
+   "uma sala de espera de reuniões"
+  ],
+  "correta": 4,
+  "comentario": "No Teams, o lobby é a sala de espera: os participantes aguardam ali até que o organizador ou um apresentador os admita na reunião. As configurações de reunião definem quem pode ignorar o lobby. As demais alternativas descrevem integrações ou recursos que não têm relação com o lobby.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-45",
+  "materia": "informatica",
+  "assunto": "Podcasts e multimídia",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Existem diferentes soluções tecnológicas baseadas em multimídia, que permitem a uma empresa difundir seus objetivos e valores, estabelecendo, assim, pontes com todos com quem interage. Podcasts representam uma dessas possíveis soluções. Os podcasts são caracterizados por serem armazenados no formato de",
+  "alternativas": [
+   "áudio, podendo ser baixados ou executados em serviços de reprodução de streaming.",
+   "bibliotecas, disponibilizando serviços via API específico para aplicações relacionadas a gaming.",
+   "imagens com alta qualidade, se estiverem armazenadas nos formatos de 24 ou 32 bits de cores.",
+   "nuvem, sendo adequados para utilização em redes sociais, Enhancing UGC Video Sharing ou streaming.",
+   "televisão, sendo transmitidos por streaming, mediante utilização do protocolo VoIP."
+  ],
+  "correta": 0,
+  "comentario": "Podcasts são programas em arquivo de áudio (MP3, AAC etc.), distribuídos por feed e plataformas. Eles podem ser baixados para ouvir offline ou reproduzidos por streaming. Não são bibliotecas de software, imagens nem transmissões de televisão. “Nuvem” (D) é um local de armazenamento, e não um formato de arquivo.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-46",
+  "materia": "informatica",
+  "assunto": "Navegadores (Firefox)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Portais corporativos revelam-se uma interessante alternativa de comunicação com seu público-alvo. Esses portais permitem que a organização transmita, pela internet, sua mensagem diretamente para o meio externo com um conteúdo organizado. Ao ser desenvolvido, é importante que tal conteúdo seja testado nos principais navegadores de rede. Um importante representante dessa categoria é o Mozilla Firefox, sendo a escolha dos temas uma das etapas importantes no projeto de um portal. Qual é a função dos temas no Mozilla Firefox?",
+  "alternativas": [
+   "Configurar a privacidade de informações que possam identificar o usuário em: normal, rigoroso ou personalizado.",
+   "Mudar a aparência, como, por exemplo, o esquema de cores ou a imagem de fundo das barras de ferramentas.",
+   "Organizar as abas abertas em uma única janela, definindo sua sequência de apresentação por um critério de ordenação.",
+   "Permitir a edição do controlador de zoom da página apresentada, adequando-a às configurações de tela.",
+   "Sincronizar itens favoritos entre os diversos dispositivos de um usuário, tais como senhas ou abas abertas."
+  ],
+  "correta": 1,
+  "comentario": "Os temas do Firefox alteram a aparência do navegador, como as cores, a imagem de fundo das barras de ferramentas e as abas. A alternativa A descreve a Proteção aprimorada contra rastreamento (padrão, rigoroso, personalizado). A E descreve o Firefox Sync, e a D, o recurso de zoom.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-47",
+  "materia": "informatica",
+  "assunto": "Telegram",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Em uma organização, o uso do Telegram pode otimizar a tarefa de gestão de equipes por meio de uma comunicação mais eficiente entre seus membros. Nesse contexto, qual é a função dos links t.me?",
+  "alternativas": [
+   "Acessar a API do Telegram.",
+   "Adicionar os administradores de um grupo.",
+   "Configurar o GRPDbot.",
+   "Enviar mensagens a partir de um nome de usuário previamente configurado.",
+   "Inicializar chats secretos."
+  ],
+  "correta": 3,
+  "comentario": "Quem define um nome de usuário (@username) no Telegram ganha um link público no formato t.me/username. Qualquer pessoa que abrir esse link consegue iniciar uma conversa e enviar mensagens a esse usuário, sem precisar do número de telefone dele. Os links t.me não servem para acessar a API (A) nem para nomear administradores (B). Os chats secretos (E) são iniciados de dentro do aplicativo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-48",
+  "materia": "informatica",
+  "assunto": "Microsoft 365 (coautoria)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Dois funcionários de um determinado banco estão editando, simultaneamente, o mesmo arquivo de texto (documento tipo docx) utilizando o Microsoft Office 365 online. Considerando esse cenário, o arquivo final conterá",
+  "alternativas": [
+   "somente as modificações realizadas pelo funcionário de nível hierárquico mais alto.",
+   "somente as modificações realizadas pelo funcionário que fechar o arquivo por último.",
+   "somente as modificações realizadas pelo funcionário que fechar o arquivo primeiro.",
+   "somente as modificações realizadas pelo funcionário que tiver aberto o arquivo primeiro.",
+   "todas as modificações realizadas por ambos os funcionários."
+  ],
+  "correta": 4,
+  "comentario": "O Office 365 online (Word na web) tem coautoria em tempo real. Várias pessoas editam o mesmo documento ao mesmo tempo, e as alterações de todas são salvas e sincronizadas automaticamente. Não há critério de hierarquia nem de ordem de abertura ou fechamento. As alternativas A a D descrevem o comportamento de uma edição sem coautoria, em que uma versão sobrescreveria a outra.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-49",
+  "materia": "informatica",
+  "assunto": "Mineração de dados (classificação)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um banco decidiu realizar uma ação de marketing de um novo produto. Buscando apoiar essa ação, a área de TI decidiu estabelecer um mecanismo para identificar quais clientes estariam mais inclinados a adquirir esse produto. Esse mecanismo partia de uma base histórica de clientes que receberam a oferta do produto, e tinha várias colunas com dados sobre os clientes e a oferta, além de uma coluna registrando se eles haviam efetuado ou não a compra do tal produto. Para isso, decidiram ser mais adequado usar um processo de mineração de dados baseado na noção de",
+  "alternativas": [
+   "agrupamento",
+   "aprendizado não supervisionado",
+   "classificação",
+   "regressão linear",
+   "suavização"
+  ],
+  "correta": 2,
+  "comentario": "Existe uma coluna-alvo rotulada (comprou ou não comprou), de valor categórico. Prever uma classe a partir de exemplos rotulados é uma tarefa de classificação, que é aprendizado supervisionado. Agrupamento (clustering) é aprendizado não supervisionado, sem rótulo, por isso A e B estão erradas. A regressão linear prevê valores numéricos contínuos, e a suavização é uma técnica de pré-processamento de dados.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-50",
+  "materia": "informatica",
+  "assunto": "Estatística descritiva (moda)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Designado para relatar a qualidade das atividades desenvolvidas em um determinado banco, um funcionário recebeu uma tabela com a quantidade de notas relativas à avaliação dos correntistas sobre o atendimento no caixa, sendo 1 a pior nota, e 5, a melhor nota. Nota 1: 3.000 avaliações; nota 2: 9.500; nota 3: 12.000; nota 4: 15.000; nota 5: 8.000. Qual é a moda das notas dessa avaliação?",
+  "alternativas": [
+   "2",
+   "3",
+   "3,33",
+   "4",
+   "5"
+  ],
+  "correta": 3,
+  "comentario": "A moda é o valor que aparece com maior frequência. A maior quantidade é 15.000, que corresponde à nota 4, então a moda é 4. O erro típico é marcar a nota 5 por ser a maior nota, ou fazer contas de média (3,33). A moda é a nota, e não a quantidade de avaliações.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-51",
+  "materia": "informatica",
+  "assunto": "Protocolos de internet (FTP)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Apesar de os navegadores serem as ferramentas dominantes na internet, vários serviços possuem ferramentas próprias mais adequadas e, inclusive, mais otimizadas para protocolos específicos. Um desses protocolos foi desenvolvido para a transferência de arquivos, sendo usado a partir de programas como FileZilla. Esse protocolo é conhecido como",
+  "alternativas": [
+   "ftp",
+   "imap",
+   "pop3",
+   "ssh",
+   "telnet"
+  ],
+  "correta": 0,
+  "comentario": "O FTP (File Transfer Protocol) é o protocolo de transferência de arquivos, e o FileZilla é um de seus clientes mais conhecidos. IMAP e POP3 são protocolos de recebimento de e-mail. SSH e Telnet servem para acesso remoto a terminais, e o SSH é a versão segura. O SSH aparece como distrator porque o FileZilla também suporta SFTP, mas o protocolo de transferência de arquivos por definição é o FTP.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-52",
+  "materia": "informatica",
+  "assunto": "Redes (modelo TCP/IP)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Sabendo que o banco em que trabalha vai colocar centenas de ATMs em shoppings e postos de gasolina, um funcionário de TI propôs que cada ATM mandasse periodicamente um sinal de status, por meio do protocolo UDP. Esse protocolo do conjunto TCP/IP é considerado como parte da camada",
+  "alternativas": [
+   "de aplicações",
+   "de transporte",
+   "de rede",
+   "de enlace de dados",
+   "física"
+  ],
+  "correta": 1,
+  "comentario": "TCP e UDP são os dois protocolos da camada de transporte. O UDP não é orientado a conexão e é leve, por isso serve bem para mensagens curtas e periódicas de status. Na camada de rede está o IP. Na camada de aplicação estão protocolos como HTTP, DNS e SMTP.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-53",
+  "materia": "informatica",
+  "assunto": "Estatística (escalas de mensuração)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Foi solicitado a um funcionário de um determinado banco que realizasse uma pesquisa, exclusivamente com variáveis do tipo qualitativa, sobre a satisfação dos clientes com os serviços oferecidos pela instituição. Para atender a essa demanda utilizando os meios adequados, sua escolha de escalas de mensuração deve estar limitada às escalas",
+  "alternativas": [
+   "intervalares e razão",
+   "nominais e intervalares",
+   "nominais e ordinais",
+   "ordinais e intervalares",
+   "ordinais e razão"
+  ],
+  "correta": 2,
+  "comentario": "Variáveis qualitativas (categóricas) são medidas em escala nominal, em que as categorias não têm ordem (ex.: tipo de conta), ou ordinal, em que há ordem (ex.: insatisfeito, neutro, satisfeito). As escalas intervalar e de razão são próprias de variáveis quantitativas, que admitem operações numéricas. Por isso, qualquer alternativa que inclua intervalar ou razão está errada.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-54",
+  "materia": "informatica",
+  "assunto": "Segurança da informação (phishing)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Os bancos investem em recursos de segurança para minimizar os riscos de fraude nas operações bancárias através de Internet Banking. Os usuários, porém, precisam estar atentos aos golpistas que procuram persuadir vítimas em potencial a acessar sites falsos e a fornecer informações sensíveis. Esse ataque é conhecido como",
+  "alternativas": [
+   "botnet",
+   "injection",
+   "spyware",
+   "phishing",
+   "ransomware"
+  ],
+  "correta": 3,
+  "comentario": "Phishing é o golpe de engenharia social que usa mensagens e sites falsos, imitando instituições legítimas, para levar a vítima a informar senhas e dados. Botnet é uma rede de máquinas infectadas controladas remotamente. Injection é uma falha explorada em aplicações, como a SQL injection. Spyware espiona o usuário em segredo, e ransomware sequestra dados mediante resgate.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-55",
+  "materia": "informatica",
+  "assunto": "Google Drive",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O Google Drive é uma ferramenta que permite o armazenamento de arquivos na nuvem. Suponha que um usuário A tenha criado uma pasta no Google Drive para arquivos de um Projeto X qualquer. Para compartilhar essa pasta do Projeto X no Google Drive com outros usuários, a partir de uma estação de trabalho, é necessário:",
+  "alternativas": [
+   "solicitar o compartilhamento da pasta ao Google, por e-mail.",
+   "dispor do número do telefone celular dos outros usuários, de modo a cadastrá-los para ter acesso à pasta.",
+   "notificar os outros usuários que eles precisam estar usando o Google Drive no momento em que o usuário A compartilhar a pasta.",
+   "enviar aos outros usuários o endereço (link) da pasta.",
+   "aguardar três dias após a criação da pasta para que ela possa ser compartilhada."
+  ],
+  "correta": 3,
+  "comentario": "No Google Drive, o próprio dono compartilha a pasta, seja adicionando e-mails, seja gerando um link de acesso e enviando esse endereço às pessoas. Não é preciso pedir nada ao Google (A) nem ter o celular dos outros usuários (B). Os usuários não precisam estar online no momento do compartilhamento (C), e não existe prazo de espera (E).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-56",
+  "materia": "vendas",
+  "assunto": "Resolução CMN 4.539/2016 (relacionamento com clientes)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "KB foi convidado para realizar auditoria no Banco C, instituição de pequeno porte, sediada no interior do Brasil, sendo sua carteira diversificada, abrangendo o financiamento de pequenos empreendedores das áreas urbana e rural de diversos municípios. Apurando a qualidade do relacionamento com os clientes e a obediência a normas regulamentares, o auditor avalia que alguns itens não estão observados, uma vez que os funcionários mantêm encontros eventuais com os clientes e entre si, não tendo ciência de qualquer norma sobre o tema. Nos termos da Resolução nº 4.539, de 24 de novembro de 2016, nesse caso, um dos itens não cumpridos é o de",
+  "alternativas": [
+   "conferir liberdade plena aos colaboradores para atuar.",
+   "olvidar programa de treinamento de empregados.",
+   "impor atendimento a clientes da área rural.",
+   "estabelecer competições para galgar posições na instituição.",
+   "indicar metas para a venda de produtos e serviços."
+  ],
+  "correta": 1,
+  "comentario": "A Resolução 4.539/2016 exige uma política institucional de relacionamento com clientes e usuários. Entre as exigências está a capacitação dos empregados que prestam atendimento, por meio de programa de treinamento. No caso, os funcionários desconhecem qualquer norma sobre o tema, o que mostra que a instituição “olvidou” (esqueceu, deixou de lado) o programa de treinamento. As demais alternativas não correspondem a obrigações da norma: liberdade plena, competições internas e metas de venda não são exigências, e metas podem até conflitar com o tratamento justo ao cliente.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021b-57",
+  "materia": "vendas",
+  "assunto": "Características dos serviços (perecibilidade)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um banco brasileiro de investimentos decidiu tornar-se banco múltiplo, oferecendo conta-corrente apenas no formato digital, com taxa zero aos seus clientes. Sustentou sua decisão por reconhecer a perecibilidade dos serviços de outros bancos tradicionais, já que algumas agências ficavam vazias na maior parte do dia, enquanto enormes filas se formavam em horários de pico, sendo menos custoso o atendimento virtual. Nesse caso, a decisão tomada deveu-se à seguinte característica dos serviços:",
+  "alternativas": [
+   "existência de variação na consistência de entrega e dificuldade de padronização.",
+   "existência de cocriação com participação física e direta de funcionário e cliente.",
+   "dificuldade de explicar os benefícios de algo que não pode ser tocado.",
+   "impossibilidade de ser guardado, estocado ou armazenado.",
+   "facilidade de ser copiado por seus processos não serem patenteáveis."
+  ],
+  "correta": 3,
+  "comentario": "Perecibilidade significa que o serviço não pode ser estocado. A capacidade ociosa das agências vazias se perde e não pode ser guardada para atender o pico de demanda. A alternativa A descreve a variabilidade (heterogeneidade), a B descreve a inseparabilidade e a C descreve a intangibilidade. A E não é uma das características clássicas dos serviços.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-58",
+  "materia": "vendas",
+  "assunto": "Qualidade em serviços (zona de tolerância)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um cliente migrou para um banco digital e está avaliando a qualidade do serviço contrastando a expectativa que possui com o serviço que recebe de fato. Ele tem considerado a qualidade bastante satisfatória, a despeito de algumas dificuldades tecnológicas que tem enfrentado. Nesse caso, a avaliação de qualidade que o cliente faz é explicada pelo conceito de",
+  "alternativas": [
+   "comunicação boca a boca",
+   "experiência passada",
+   "promessas de serviços explícitas",
+   "promessas de serviços implícitas",
+   "zona de tolerância"
+  ],
+  "correta": 4,
+  "comentario": "A zona de tolerância é a faixa entre o serviço desejado e o serviço minimamente adequado. Dentro dela, o cliente aceita variações de desempenho, como pequenas falhas tecnológicas, e continua considerando a qualidade satisfatória. Boca a boca, experiência passada e promessas explícitas ou implícitas são fatores que formam as expectativas, mas não explicam essa tolerância a falhas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-59",
+  "materia": "vendas",
+  "assunto": "Barreiras de entrada (Porter)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um grupo empresarial, atuando em transportes terrestres, recebeu autorização da ANAC para operar voos comerciais no território nacional e decidiu lançar ações no mercado, visando a encomenda de aeronaves. A estratégia do novo entrante é vista com cautela por analistas de mercado, uma vez que essa indústria demanda volumes elevados de investimento e apresentou baixas margens nos últimos anos. Adicionalmente, o grupo encontra-se em processo de recuperação judicial, e sua entrada no mercado de aviação comercial acontece em crise do setor aéreo, diante dos efeitos da pandemia. Sendo assim, o analista teve cautela ao interpretar as informações sobre a barreira de entrada relacionada a",
+  "alternativas": [
+   "diferenciação de serviços",
+   "identidade da marca",
+   "política governamental",
+   "retaliação esperada",
+   "requisitos de capital"
+  ],
+  "correta": 4,
+  "comentario": "O enunciado destaca a necessidade de volumes elevados de investimento (compra de aeronaves) por uma empresa em recuperação judicial. Essa é a barreira de entrada de requisitos (necessidade) de capital descrita por Porter. A política governamental (C) já foi superada, pois a ANAC autorizou a operação. O texto não fala em reação dos concorrentes (retaliação), nem em marca ou diferenciação.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-60",
+  "materia": "vendas",
+  "assunto": "Venda consultiva",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "No marketing de relacionamento de uma empresa, foi utilizada uma venda consultiva. Isso significa que tal venda foi focada",
+  "alternativas": [
+   "no recebimento dos pedidos de compra, buscando a minimização do preço para garantir a venda e a gestão de todas as contas.",
+   "no canal de vendas (atração), fluxo e conversão, sem levar em conta os processos internos de atendimento e a divulgação do serviço.",
+   "nos clientes interessados nos serviços de valor agregado, envolvendo os profissionais que têm conhecimento profundo da empresa.",
+   "nos clientes que não estão interessados, ou que são incapazes de ter recursos para os serviços de valor agregado oferecidos pela empresa de venda.",
+   "nas técnicas de coaching, onde o vendedor não fala para o cliente qual é a solução para o seu problema, conduzindo-o para insights através de perguntas."
+  ],
+  "correta": 2,
+  "comentario": "Na venda consultiva, o vendedor atua como consultor: entende as necessidades do cliente e oferece soluções de valor agregado, com base em conhecimento profundo da empresa e dos produtos. A alternativa A descreve a venda transacional, que foca em pedido e preço. A D é o oposto, pois fala em clientes sem interesse ou sem recursos. A E erra ao dizer que o vendedor nunca propõe a solução, já que na venda consultiva ele recomenda soluções.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-61",
+  "materia": "vendas",
+  "assunto": "Estilos de aprendizagem (Kolb)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um atendente comercial de um banco privilegia dois tipos de habilidades para a realização de seu trabalho: a observação refletida e a conceitualização abstrata. Assim sendo, ele gosta de criar modelos teóricos, raciocina por indução, se interessa pelas ideias e conceitos abstratos, gosta que suas teorias sejam bem fundamentadas e verídicas e procura diversas explicações para um evento que observa. Com base nessas características, verifica-se que o atendente do banco privilegia um estilo de aprendizagem de",
+  "alternativas": [
+   "acomodação",
+   "assimilação",
+   "divergência",
+   "convergência",
+   "racionalização"
+  ],
+  "correta": 1,
+  "comentario": "No modelo de Kolb, os estilos resultam da combinação de dois modos de aprender. Assimilação = observação reflexiva + conceituação abstrata, que corresponde a raciocínio indutivo e criação de modelos teóricos. Convergência combina conceituação abstrata com experimentação ativa, e divergência combina experiência concreta com observação reflexiva. Acomodação combina experiência concreta com experimentação ativa. “Racionalização” não é um estilo do modelo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-62",
+  "materia": "vendas",
+  "assunto": "Marketing digital (marketspace)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O crescimento dos canais eletrônicos está criando uma mudança fundamental na natureza do marketing, conforme notado no setor dos bancos. Muitas organizações estão substituindo um local físico onde fornecedores e clientes se encontram para fazer negócios, por um local virtual identificado como",
+  "alternativas": [
+   "lugar de mercado",
+   "espaço de mercado",
+   "display de varejo",
+   "cenário de serviço",
+   "momento da verdade"
+  ],
+  "correta": 1,
+  "comentario": "Kotler distingue o marketplace (lugar de mercado), que é físico, como uma loja ou agência, do marketspace (espaço de mercado), que é digital, onde compradores e vendedores se encontram pela internet. Cenário de serviço (servicescape) é o ambiente físico do serviço. Momento da verdade é cada contato do cliente com a empresa, e display de varejo é a exposição de produtos na loja.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-63",
+  "materia": "vendas",
+  "assunto": "Marketing de relacionamento",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Para contribuir com as ações de marketing de relacionamento dos bancos, os escriturários devem, durante o atendimento,",
+  "alternativas": [
+   "medir e mapear todos os serviços prestados por sua agência.",
+   "divulgar a lucratividade da empresa expressa em seu balanço.",
+   "esclarecer e divulgar as taxas cobradas por cada serviço bancário.",
+   "pesquisar e mensurar a satisfação dos clientes.",
+   "propor prêmios substanciosos para cada cliente conquistado."
+  ],
+  "correta": 3,
+  "comentario": "O marketing de relacionamento busca reter e fidelizar clientes, e para isso é essencial conhecer e acompanhar a satisfação deles. O escriturário contribui ao pesquisar e mensurar essa satisfação no contato direto. Mapear todos os serviços da agência (A) é tarefa gerencial, e divulgar o lucro (B) não tem relação com o atendimento. Informar as taxas (C) é obrigação de transparência, e não uma ação de relacionamento. Prêmios substanciosos (E) são uma prática de incentivo, e não de relacionamento.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-64",
+  "materia": "vendas",
+  "assunto": "Resolução CMN 3.694/2009",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "DD é estudante universitário na área de Ciências Exatas e participa de núcleo que constrói sistemas operacionais para facilitar a vida cotidiana. Um dos projetos é destinado a viabilizar a virtualização das atividades financeiras, buscando extinguir os atos físicos, inclusive moedas. O Banco LL realiza contrato com a Universidade que lidera o projeto e cria um setor para aplicar os programas criados. Em decorrência disso, seleciona vários clientes e estabelece condições para que todos os atos financeiros possam ser realizados por computadores e aparelhos celulares mediante criptografia, que confere segurança ao modelo. Nos termos da Resolução CMN nº 3.694/2009, as instituições financeiras, ao proporcionar aos clientes esses serviços,",
+  "alternativas": [
+   "estão vedadas de realizar integralmente atividades por meio eletrônico.",
+   "são condicionadas à educação tecnológica dos clientes escolhidos.",
+   "devem apresentar projetos experimentais para obter autorização do agente regulador.",
+   "devem alertar seus clientes das atividades em meio eletrônico, garantindo sua integridade e direitos.",
+   "submetem-se a rígido controle operacional de empresas especializadas."
+  ],
+  "correta": 3,
+  "comentario": "A Resolução 3.694/2009 trata da prevenção de riscos na contratação de operações e serviços. Ela exige que, nos serviços por meio eletrônico, a instituição informe o cliente sobre os riscos e assegure a integridade, a confiabilidade, a segurança e o sigilo das transações. A norma não proíbe a atuação integralmente eletrônica (A) e não condiciona o serviço à educação tecnológica do cliente (B). Também não exige projeto experimental para autorização (C) nem controle por empresas especializadas (E).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-65",
+  "materia": "vendas",
+  "assunto": "Código de Defesa do Consumidor",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "MEK é correntista do Banco L, mantendo relações negociais frequentes, bem como sua família. Por força desse relacionamento, possui dois contratos de cartão de crédito que utiliza nas suas compras cotidianas. Em determinado dia, é surpreendido pela entrega de mais um cartão de crédito que não havia solicitado. No dia seguinte, dirige-se à agência bancária onde movimenta sua conta corrente e apresenta o cartão, com pedido de devolução, por não ter interesse no adicional. Segundo as regras do Código de Defesa do Consumidor, Lei nº 8.078/1990, o(a)",
+  "alternativas": [
+   "recebimento pelo consumidor leva à cobrança de anuidade pelo emissor.",
+   "pagamento não efetuado da anuidade cobrada permite a inscrição do consumidor no cadastro de inadimplentes.",
+   "fornecimento de cartões de créditos a clientes habituais independe de formalização de contrato.",
+   "banco tem direito a ressarcimento pelas despesas de remessa do cartão.",
+   "entrega sem solicitação caracteriza prática abusiva do fornecedor."
+  ],
+  "correta": 4,
+  "comentario": "O art. 39, III, do CDC classifica como prática abusiva enviar ou entregar ao consumidor qualquer produto ou serviço sem solicitação prévia. O parágrafo único do mesmo artigo equipara esse produto a amostra grátis, sem obrigação de pagamento. O STJ inclusive sumulou (Súmula 532) que o envio de cartão não solicitado é prática abusiva. Portanto, não cabe anuidade (A), negativação (B) nem ressarcimento de despesas de remessa (D). Ser cliente habitual não dispensa a contratação (C).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-66",
+  "materia": "vendas",
+  "assunto": "Métricas de marketing digital (taxa de abandono)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A ampliação das fronteiras do marketing digital fez com que os canais remotos de vendas passassem a ter importância muito grande nos negócios. Como forma de monitorar os resultados das atividades de marketing desenvolvidas no site oficial de uma empresa, o gerente constatou que, ao longo de uma semana, 420 compras foram iniciadas no site, mas apenas 357 foram finalizadas e geraram receitas para a empresa. Nesse caso, a taxa de abandono foi de",
+  "alternativas": [
+   "3,5%",
+   "7,5%",
+   "15,0%",
+   "58,0%",
+   "63,0%"
+  ],
+  "correta": 2,
+  "comentario": "As compras abandonadas foram 420 - 357 = 63. A taxa de abandono é 63 / 420 = 0,15 = 15%. O erro típico é marcar 63% (E), confundindo o número absoluto de abandonos com a porcentagem. A taxa de conversão seria 357 / 420 = 85%.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-67",
+  "materia": "vendas",
+  "assunto": "Gatilhos mentais",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Mesmo sendo, ainda, alvo de controvérsias entre acadêmicos, as técnicas de gatilhos mentais são muito usadas por gestores de vendas e marketing. Uma empresa que vende roupas estabeleceu um tempo limite de 20 minutos para que o cliente compre com desconto através de seu aplicativo. Se o cliente não finalizar a compra nesse tempo, o carrinho de compras se esvazia e os descontos são perdidos. Esse é um caso característico de gatilho de",
+  "alternativas": [
+   "Urgência",
+   "Escassez",
+   "Ancoragem",
+   "Prova Social",
+   "Conformidade"
+  ],
+  "correta": 0,
+  "comentario": "O gatilho de urgência limita o tempo para agir, como o prazo de 20 minutos para aproveitar o desconto. A escassez (B) limita a quantidade disponível (ex.: “últimas unidades”). A ancoragem usa um preço de referência para valorizar a oferta, e a prova social usa o comportamento de outras pessoas. A confusão mais comum é entre urgência (tempo) e escassez (quantidade).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-68",
+  "materia": "vendas",
+  "assunto": "Métricas de relacionamento (churn rate)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A gestão da experiência do cliente é fundamental para reter os clientes numa empresa. Depois de mapear a jornada do cliente e fazer adequações nos canais de relacionamentos remotos e presenciais, o gerente de uma agência bancária decidiu medir o impacto dessas ações na taxa de rotatividade de clientes (churn rate) ao longo de um trimestre. Em janeiro sua agência contava com 460 clientes, mas 23 clientes encerraram suas contas no final do terceiro mês. Dessa forma, a taxa de rotatividade dessa agência foi de",
+  "alternativas": [
+   "2,3%",
+   "5,0%",
+   "9,5%",
+   "20,0%",
+   "37,0%"
+  ],
+  "correta": 1,
+  "comentario": "O churn rate é o número de clientes perdidos no período dividido pela base do início do período: 23 / 460 = 0,05 = 5%. A alternativa A usa o número absoluto (23) como se fosse um percentual. A D inverte a divisão (460 / 23 = 20).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021b-69",
+  "materia": "vendas",
+  "assunto": "Composto de marketing e qualidade em serviços (SERVQUAL)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Segundo pesquisa contratada por um banco, os clientes tendem a perceber melhor a vontade que os funcionários têm de ajudar os clientes e atendê-los sem demora, quando isso é mostrado em uma propaganda. Dessa forma, segundo a pesquisa, há uma relação direta positiva entre o componente do composto de marketing e a dimensão da qualidade em serviço denominados, respectivamente,",
+  "alternativas": [
+   "produto e empatia",
+   "praça e confiabilidade",
+   "produto e tangibilidade",
+   "promoção e segurança",
+   "promoção e responsividade"
+  ],
+  "correta": 4,
+  "comentario": "A propaganda pertence ao “P” de promoção (comunicação) do composto de marketing. Na escala SERVQUAL, a disposição de ajudar os clientes e atendê-los prontamente é a dimensão de responsividade (presteza). Empatia é a atenção individualizada, e segurança diz respeito ao conhecimento e à cortesia que transmitem confiança. Confiabilidade é cumprir o prometido, e tangibilidade trata dos elementos físicos.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021b-70",
+  "materia": "vendas",
+  "assunto": "Técnicas de vendas (storytelling)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Storytelling é a técnica de contar histórias para se aproximar dos clientes e facilitar a venda. Uma forma eficiente de praticar essa técnica ocorre quando o vendedor narra",
+  "alternativas": [
+   "experiências de sucesso de outros clientes com a empresa.",
+   "diversas tarefas a serem realizadas num dia de trabalho.",
+   "percalços e prejuízos que podem ocorrer com a compra.",
+   "problemas que teve ao longo da sua jornada na firma.",
+   "segredos da gerência e demais funcionários da companhia."
+  ],
+  "correta": 0,
+  "comentario": "No storytelling de vendas, contar casos reais de clientes que tiveram sucesso com o produto gera identificação e confiança, além de funcionar como prova social. Narrar prejuízos da compra (C) ou problemas pessoais na empresa (D) afasta o cliente. Revelar segredos internos (E) é antiético, e listar tarefas do dia (B) não tem relação com a necessidade do cliente.",
+  "dificuldade": 1
+ }
+]

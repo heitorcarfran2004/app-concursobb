@@ -1,0 +1,382 @@
+[
+  {
+    "id": "in-ing-01",
+    "materia": "ingles",
+    "assunto": "Compreensão geral",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O principal objetivo do texto é",
+    "texto_apoio": "DIGITAL BANKS AND THE UNBANKED\n\nOver the past decade, digital banks have transformed the way millions of people in emerging markets manage their money. Unlike traditional institutions, which rely on extensive branch networks, these companies operate almost entirely through smartphone apps. This model allows them to cut costs dramatically and, in many cases, offer accounts with no monthly fees.\n\nThe impact has been particularly strong among people who were previously excluded from the formal financial system. For them, opening an account no longer requires a trip to a branch, a proof of income or a minimum deposit. As a result, the number of adults with access to a bank account has grown significantly in several countries.\n\nHowever, rapid growth brings its own challenges. Profitability remains elusive for many digital banks, since low fees also mean low revenue per customer. Some have responded by expanding into lending, a move that increases income but also exposes them to credit risk. Regulators, meanwhile, are paying closer attention to how these firms protect customer data and manage defaults.\n\nWhether digital banks will eventually replace traditional ones is still an open question. What seems certain is that they have forced the entire industry to rethink how it serves its clients.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "defender a substituição imediata dos bancos tradicionais pelos bancos digitais.",
+      "criticar os órgãos reguladores por dificultarem o crescimento dos bancos digitais.",
+      "ensinar ao leitor como abrir uma conta em um banco digital pelo celular.",
+      "demonstrar que os bancos digitais são mais lucrativos do que os tradicionais.",
+      "discutir a expansão dos bancos digitais, seus efeitos sobre a inclusão financeira e os desafios que enfrentam."
+    ],
+    "correta": 4,
+    "comentario": "O texto apresenta o modelo dos bancos digitais, seu impacto sobre pessoas antes excluídas do sistema financeiro (parágrafo 2) e os desafios de lucratividade, risco de crédito e regulação (parágrafo 3). A substituição dos bancos tradicionais é tratada como “an open question”, não como algo defendido. Os reguladores são apenas mencionados como mais atentos, sem crítica. O texto também não é um tutorial e afirma que a lucratividade “remains elusive”.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ing-02",
+    "materia": "ingles",
+    "assunto": "Vocabulário no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Profitability remains elusive for many digital banks” (parágrafo 3), a palavra “elusive” significa",
+    "texto_apoio": "DIGITAL BANKS AND THE UNBANKED\n\nOver the past decade, digital banks have transformed the way millions of people in emerging markets manage their money. Unlike traditional institutions, which rely on extensive branch networks, these companies operate almost entirely through smartphone apps. This model allows them to cut costs dramatically and, in many cases, offer accounts with no monthly fees.\n\nThe impact has been particularly strong among people who were previously excluded from the formal financial system. For them, opening an account no longer requires a trip to a branch, a proof of income or a minimum deposit. As a result, the number of adults with access to a bank account has grown significantly in several countries.\n\nHowever, rapid growth brings its own challenges. Profitability remains elusive for many digital banks, since low fees also mean low revenue per customer. Some have responded by expanding into lending, a move that increases income but also exposes them to credit risk. Regulators, meanwhile, are paying closer attention to how these firms protect customer data and manage defaults.\n\nWhether digital banks will eventually replace traditional ones is still an open question. What seems certain is that they have forced the entire industry to rethink how it serves its clients.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "garantida.",
+      "irrelevante.",
+      "crescente.",
+      "ilegal.",
+      "difícil de alcançar."
+    ],
+    "correta": 4,
+    "comentario": "“Elusive” descreve algo difícil de obter ou de agarrar. O próprio texto explica o motivo: tarifas baixas geram pouca receita por cliente, por isso o lucro não chega facilmente. “Garantida” e “crescente” contradizem essa explicação. “Irrelevante” não se sustenta, já que os bancos buscam ativamente aumentar a receita, e nada no texto sugere ilegalidade.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-03",
+    "materia": "ingles",
+    "assunto": "Referência pronominal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “For them, opening an account no longer requires a trip to a branch” (parágrafo 2), o pronome “them” refere-se a",
+    "texto_apoio": "DIGITAL BANKS AND THE UNBANKED\n\nOver the past decade, digital banks have transformed the way millions of people in emerging markets manage their money. Unlike traditional institutions, which rely on extensive branch networks, these companies operate almost entirely through smartphone apps. This model allows them to cut costs dramatically and, in many cases, offer accounts with no monthly fees.\n\nThe impact has been particularly strong among people who were previously excluded from the formal financial system. For them, opening an account no longer requires a trip to a branch, a proof of income or a minimum deposit. As a result, the number of adults with access to a bank account has grown significantly in several countries.\n\nHowever, rapid growth brings its own challenges. Profitability remains elusive for many digital banks, since low fees also mean low revenue per customer. Some have responded by expanding into lending, a move that increases income but also exposes them to credit risk. Regulators, meanwhile, are paying closer attention to how these firms protect customer data and manage defaults.\n\nWhether digital banks will eventually replace traditional ones is still an open question. What seems certain is that they have forced the entire industry to rethink how it serves its clients.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "digital banks.",
+      "people who were previously excluded from the formal financial system.",
+      "traditional institutions.",
+      "smartphone apps.",
+      "regulators."
+    ],
+    "correta": 1,
+    "comentario": "“Them” retoma o termo mais próximo que faz sentido: “people who were previously excluded from the formal financial system”, citado na frase anterior. São essas pessoas que agora podem abrir uma conta sem ir a uma agência. Bancos, instituições tradicionais e aplicativos não “abrem contas” para si mesmos nesse contexto, e os reguladores só aparecem no parágrafo seguinte.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ing-04",
+    "materia": "ingles",
+    "assunto": "Conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O conectivo “However”, no início do parágrafo 3, pode ser substituído, sem alteração de sentido, por",
+    "texto_apoio": "DIGITAL BANKS AND THE UNBANKED\n\nOver the past decade, digital banks have transformed the way millions of people in emerging markets manage their money. Unlike traditional institutions, which rely on extensive branch networks, these companies operate almost entirely through smartphone apps. This model allows them to cut costs dramatically and, in many cases, offer accounts with no monthly fees.\n\nThe impact has been particularly strong among people who were previously excluded from the formal financial system. For them, opening an account no longer requires a trip to a branch, a proof of income or a minimum deposit. As a result, the number of adults with access to a bank account has grown significantly in several countries.\n\nHowever, rapid growth brings its own challenges. Profitability remains elusive for many digital banks, since low fees also mean low revenue per customer. Some have responded by expanding into lending, a move that increases income but also exposes them to credit risk. Regulators, meanwhile, are paying closer attention to how these firms protect customer data and manage defaults.\n\nWhether digital banks will eventually replace traditional ones is still an open question. What seems certain is that they have forced the entire industry to rethink how it serves its clients.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "Nevertheless",
+      "Therefore",
+      "Moreover",
+      "For instance",
+      "Likewise"
+    ],
+    "correta": 0,
+    "comentario": "“However” introduz contraste: depois dos benefícios descritos no parágrafo 2, o texto passa aos problemas. “Nevertheless” (no entanto, apesar disso) tem o mesmo valor de oposição. “Therefore” indica conclusão, “Moreover” acrescenta informação, “For instance” introduz exemplo e “Likewise” indica semelhança — nenhum deles expressa contraste.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-05",
+    "materia": "ingles",
+    "assunto": "Compreensão de detalhe",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "De acordo com o texto, a expansão dos bancos digitais para a concessão de empréstimos",
+    "texto_apoio": "DIGITAL BANKS AND THE UNBANKED\n\nOver the past decade, digital banks have transformed the way millions of people in emerging markets manage their money. Unlike traditional institutions, which rely on extensive branch networks, these companies operate almost entirely through smartphone apps. This model allows them to cut costs dramatically and, in many cases, offer accounts with no monthly fees.\n\nThe impact has been particularly strong among people who were previously excluded from the formal financial system. For them, opening an account no longer requires a trip to a branch, a proof of income or a minimum deposit. As a result, the number of adults with access to a bank account has grown significantly in several countries.\n\nHowever, rapid growth brings its own challenges. Profitability remains elusive for many digital banks, since low fees also mean low revenue per customer. Some have responded by expanding into lending, a move that increases income but also exposes them to credit risk. Regulators, meanwhile, are paying closer attention to how these firms protect customer data and manage defaults.\n\nWhether digital banks will eventually replace traditional ones is still an open question. What seems certain is that they have forced the entire industry to rethink how it serves its clients.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "eliminou o problema de lucratividade dessas instituições.",
+      "foi imposta pelos órgãos reguladores.",
+      "aumenta a receita, mas expõe essas instituições ao risco de crédito.",
+      "reduziu o risco de inadimplência dos clientes.",
+      "é uma prática restrita aos bancos tradicionais."
+    ],
+    "correta": 2,
+    "comentario": "O texto diz que emprestar é “a move that increases income but also exposes them to credit risk”, ou seja, gera receita e, ao mesmo tempo, risco. A lucratividade continua “elusive” para muitos, então o problema não foi eliminado. Não há menção a imposição dos reguladores, e o risco de inadimplência aumenta, em vez de diminuir. O próprio trecho mostra bancos digitais fazendo empréstimos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-06",
+    "materia": "ingles",
+    "assunto": "Compreensão de detalhe",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Segundo o texto, a elevação da taxa de juros pelos bancos centrais",
+    "texto_apoio": "THE INTEREST RATE DILEMMA\n\nWhen prices rise across the economy, central banks usually respond by raising interest rates. The logic is straightforward: higher rates make borrowing more expensive, which discourages consumers from buying on credit and companies from taking out loans to expand. With less money chasing the same amount of goods, the pressure on prices tends to ease.\n\nThis tool, however, is far from painless. Higher borrowing costs can slow down economic activity, and if rates stay high for too long, unemployment may rise. Central bankers therefore face a delicate balancing act: tighten too little, and inflation persists; tighten too much, and the economy may fall into recession.\n\nTiming adds another layer of difficulty. Changes in interest rates take months, sometimes more than a year, to be fully felt in the economy. This means that decisions must be based on forecasts rather than on current data alone. If the forecasts turn out to be wrong, the central bank may find itself fighting yesterday's problem.\n\nCommunication has thus become as important as the decisions themselves. By clearly explaining its intentions, a central bank can influence expectations, and expectations, in turn, shape how businesses set prices and how workers negotiate wages.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "estimula o consumo a crédito e os investimentos das empresas.",
+      "produz efeitos imediatos, logo no mês seguinte à decisão.",
+      "é uma ferramenta sem efeitos colaterais para a atividade econômica.",
+      "tende a reduzir a pressão sobre os preços, mas pode desacelerar a economia e elevar o desemprego.",
+      "dispensa previsões, pois se baseia apenas em dados atuais."
+    ],
+    "correta": 3,
+    "comentario": "O parágrafo 1 explica que juros mais altos desestimulam o crédito e aliviam os preços; o parágrafo 2 diz que a medida “is far from painless”, podendo desacelerar a economia e aumentar o desemprego. O crédito é desestimulado, não estimulado. O parágrafo 3 afirma que os efeitos levam meses, às vezes mais de um ano, e que as decisões dependem de previsões, “rather than on current data alone”.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ing-07",
+    "materia": "ingles",
+    "assunto": "Vocabulário no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “This tool, however, is far from painless” (parágrafo 2), a expressão “far from painless” significa que a ferramenta",
+    "texto_apoio": "THE INTEREST RATE DILEMMA\n\nWhen prices rise across the economy, central banks usually respond by raising interest rates. The logic is straightforward: higher rates make borrowing more expensive, which discourages consumers from buying on credit and companies from taking out loans to expand. With less money chasing the same amount of goods, the pressure on prices tends to ease.\n\nThis tool, however, is far from painless. Higher borrowing costs can slow down economic activity, and if rates stay high for too long, unemployment may rise. Central bankers therefore face a delicate balancing act: tighten too little, and inflation persists; tighten too much, and the economy may fall into recession.\n\nTiming adds another layer of difficulty. Changes in interest rates take months, sometimes more than a year, to be fully felt in the economy. This means that decisions must be based on forecasts rather than on current data alone. If the forecasts turn out to be wrong, the central bank may find itself fighting yesterday's problem.\n\nCommunication has thus become as important as the decisions themselves. By clearly explaining its intentions, a central bank can influence expectations, and expectations, in turn, shape how businesses set prices and how workers negotiate wages.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "está longe de ser isenta de efeitos negativos.",
+      "é extremamente eficaz.",
+      "demora a ser aplicada.",
+      "é bem aceita pela população.",
+      "é tecnicamente complexa."
+    ],
+    "correta": 0,
+    "comentario": "“Painless” significa sem dor, sem custo; “far from” quer dizer longe de. Assim, a ferramenta está longe de ser indolor, isto é, traz efeitos negativos — o que o texto confirma ao citar desaceleração e desemprego. A expressão não trata de eficácia, tempo de aplicação, popularidade ou complexidade técnica.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-08",
+    "materia": "ingles",
+    "assunto": "Interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A expressão “fighting yesterday’s problem” (parágrafo 3) sugere que o banco central pode",
+    "texto_apoio": "THE INTEREST RATE DILEMMA\n\nWhen prices rise across the economy, central banks usually respond by raising interest rates. The logic is straightforward: higher rates make borrowing more expensive, which discourages consumers from buying on credit and companies from taking out loans to expand. With less money chasing the same amount of goods, the pressure on prices tends to ease.\n\nThis tool, however, is far from painless. Higher borrowing costs can slow down economic activity, and if rates stay high for too long, unemployment may rise. Central bankers therefore face a delicate balancing act: tighten too little, and inflation persists; tighten too much, and the economy may fall into recession.\n\nTiming adds another layer of difficulty. Changes in interest rates take months, sometimes more than a year, to be fully felt in the economy. This means that decisions must be based on forecasts rather than on current data alone. If the forecasts turn out to be wrong, the central bank may find itself fighting yesterday's problem.\n\nCommunication has thus become as important as the decisions themselves. By clearly explaining its intentions, a central bank can influence expectations, and expectations, in turn, shape how businesses set prices and how workers negotiate wages.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "estar enfrentando um problema que surgiu na véspera da decisão.",
+      "ter de corrigir, no dia seguinte, uma decisão mal comunicada.",
+      "estar repetindo, de propósito, estratégias bem-sucedidas no passado.",
+      "estar combatendo uma situação que já mudou quando a medida começa a fazer efeito.",
+      "estar lidando com dívidas acumuladas por governos anteriores."
+    ],
+    "correta": 3,
+    "comentario": "Como os juros levam meses para agir, as decisões se baseiam em previsões; se elas falharem, quando a medida surtir efeito o cenário já será outro. “Yesterday’s problem” é uma imagem para um problema ultrapassado, não literalmente de ontem. Não há menção a correção de comunicação, a repetição deliberada de estratégias ou a dívidas de governos.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-ing-09",
+    "materia": "ingles",
+    "assunto": "Referência pronominal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “higher rates make borrowing more expensive, which discourages consumers from buying on credit” (parágrafo 1), o pronome “which” refere-se",
+    "texto_apoio": "THE INTEREST RATE DILEMMA\n\nWhen prices rise across the economy, central banks usually respond by raising interest rates. The logic is straightforward: higher rates make borrowing more expensive, which discourages consumers from buying on credit and companies from taking out loans to expand. With less money chasing the same amount of goods, the pressure on prices tends to ease.\n\nThis tool, however, is far from painless. Higher borrowing costs can slow down economic activity, and if rates stay high for too long, unemployment may rise. Central bankers therefore face a delicate balancing act: tighten too little, and inflation persists; tighten too much, and the economy may fall into recession.\n\nTiming adds another layer of difficulty. Changes in interest rates take months, sometimes more than a year, to be fully felt in the economy. This means that decisions must be based on forecasts rather than on current data alone. If the forecasts turn out to be wrong, the central bank may find itself fighting yesterday's problem.\n\nCommunication has thus become as important as the decisions themselves. By clearly explaining its intentions, a central bank can influence expectations, and expectations, in turn, shape how businesses set prices and how workers negotiate wages.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "ao encarecimento do crédito.",
+      "aos consumidores.",
+      "às empresas.",
+      "à lógica mencionada no início da frase.",
+      "à alta generalizada dos preços."
+    ],
+    "correta": 0,
+    "comentario": "Nessa construção, “which” retoma toda a ideia da oração anterior: o fato de os juros altos tornarem o empréstimo mais caro. É esse encarecimento que desestimula consumidores e empresas. Consumidores e empresas são justamente os afetados, e não o referente. “The logic” apenas introduz a explicação, e a alta dos preços é o problema que se quer combater, não o que desestimula o crédito.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-ing-10",
+    "materia": "ingles",
+    "assunto": "Conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “expectations, in turn, shape how businesses set prices” (parágrafo 4), a expressão “in turn” equivale a",
+    "texto_apoio": "THE INTEREST RATE DILEMMA\n\nWhen prices rise across the economy, central banks usually respond by raising interest rates. The logic is straightforward: higher rates make borrowing more expensive, which discourages consumers from buying on credit and companies from taking out loans to expand. With less money chasing the same amount of goods, the pressure on prices tends to ease.\n\nThis tool, however, is far from painless. Higher borrowing costs can slow down economic activity, and if rates stay high for too long, unemployment may rise. Central bankers therefore face a delicate balancing act: tighten too little, and inflation persists; tighten too much, and the economy may fall into recession.\n\nTiming adds another layer of difficulty. Changes in interest rates take months, sometimes more than a year, to be fully felt in the economy. This means that decisions must be based on forecasts rather than on current data alone. If the forecasts turn out to be wrong, the central bank may find itself fighting yesterday's problem.\n\nCommunication has thus become as important as the decisions themselves. By clearly explaining its intentions, a central bank can influence expectations, and expectations, in turn, shape how businesses set prices and how workers negotiate wages.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "em vez disso.",
+      "apesar disso.",
+      "por sua vez.",
+      "por exemplo.",
+      "em resumo."
+    ],
+    "correta": 2,
+    "comentario": "“In turn” indica encadeamento: o banco central influencia as expectativas, e estas, por sua vez, influenciam preços e salários. “Em vez disso” corresponderia a “instead”; “apesar disso”, a “nevertheless”; “por exemplo”, a “for instance”; e “em resumo”, a “in short”.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-11",
+    "materia": "ingles",
+    "assunto": "Compreensão geral",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A ideia central do texto é que",
+    "texto_apoio": "THE WEAKEST LINK\n\nBanks spend billions every year on cybersecurity, yet the most common attacks do not target their systems directly. Instead, criminals target customers. Phishing messages, which imitate official communications, try to persuade people to click on fraudulent links or share their passwords. Because these messages are increasingly well written, even careful users can be fooled.\n\nIn response, many banks have adopted multi-factor authentication, which requires customers to confirm their identity in more than one way, such as a password combined with a code sent to their phone. Some institutions also use behavioral analysis: if a customer who usually makes small transfers suddenly tries to send a large sum at midnight, the system may block the transaction until it is confirmed.\n\nSuch measures are effective, but they can also frustrate legitimate customers, who may see their payments delayed. Striking the right balance between security and convenience is one of the industry's greatest challenges.\n\nExperts agree on one point: technology alone cannot solve the problem. Unless customers learn to recognize suspicious messages, criminals will keep finding new ways to exploit human trust.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "os sistemas dos bancos são invadidos com frequência pelos criminosos.",
+      "a autenticação em múltiplos fatores eliminou as fraudes bancárias.",
+      "os clientes cuidadosos nunca são enganados por mensagens falsas.",
+      "apesar dos investimentos em segurança, os clientes continuam sendo o principal alvo dos criminosos.",
+      "a tecnologia, sozinha, é suficiente para resolver o problema das fraudes."
+    ],
+    "correta": 3,
+    "comentario": "O texto afirma que os ataques mais comuns “do not target their systems directly” e que os criminosos miram os clientes; conclui que, sem a conscientização do cliente, os golpes continuarão. Por isso, a invasão frequente de sistemas contraria o texto. As medidas são “effective”, mas nada indica que eliminaram fraudes. O texto diz que “even careful users can be fooled” e que “technology alone cannot solve the problem”.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ing-12",
+    "materia": "ingles",
+    "assunto": "Conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em “Instead, criminals target customers” (parágrafo 1), a palavra “Instead” indica",
+    "texto_apoio": "THE WEAKEST LINK\n\nBanks spend billions every year on cybersecurity, yet the most common attacks do not target their systems directly. Instead, criminals target customers. Phishing messages, which imitate official communications, try to persuade people to click on fraudulent links or share their passwords. Because these messages are increasingly well written, even careful users can be fooled.\n\nIn response, many banks have adopted multi-factor authentication, which requires customers to confirm their identity in more than one way, such as a password combined with a code sent to their phone. Some institutions also use behavioral analysis: if a customer who usually makes small transfers suddenly tries to send a large sum at midnight, the system may block the transaction until it is confirmed.\n\nSuch measures are effective, but they can also frustrate legitimate customers, who may see their payments delayed. Striking the right balance between security and convenience is one of the industry's greatest challenges.\n\nExperts agree on one point: technology alone cannot solve the problem. Unless customers learn to recognize suspicious messages, criminals will keep finding new ways to exploit human trust.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "adição de uma informação ao que foi dito antes.",
+      "consequência do investimento dos bancos em segurança.",
+      "exemplificação de um tipo de ataque aos sistemas.",
+      "concessão em relação ao alto investimento dos bancos.",
+      "substituição: em vez de atacar os sistemas, os criminosos miram os clientes."
+    ],
+    "correta": 4,
+    "comentario": "“Instead” significa “em vez disso”: a frase anterior diz que os ataques não visam os sistemas, e “Instead” apresenta o que ocorre no lugar disso — os clientes são o alvo. Não há soma de informações nem exemplo de ataque a sistemas. O texto não apresenta a mudança de alvo como consequência dos investimentos, e a ideia de concessão já está em “yet”, na frase anterior.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-13",
+    "materia": "ingles",
+    "assunto": "Conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Unless customers learn to recognize suspicious messages, criminals will keep finding new ways” (parágrafo 4), “Unless” pode ser traduzido por",
+    "texto_apoio": "THE WEAKEST LINK\n\nBanks spend billions every year on cybersecurity, yet the most common attacks do not target their systems directly. Instead, criminals target customers. Phishing messages, which imitate official communications, try to persuade people to click on fraudulent links or share their passwords. Because these messages are increasingly well written, even careful users can be fooled.\n\nIn response, many banks have adopted multi-factor authentication, which requires customers to confirm their identity in more than one way, such as a password combined with a code sent to their phone. Some institutions also use behavioral analysis: if a customer who usually makes small transfers suddenly tries to send a large sum at midnight, the system may block the transaction until it is confirmed.\n\nSuch measures are effective, but they can also frustrate legitimate customers, who may see their payments delayed. Striking the right balance between security and convenience is one of the industry's greatest challenges.\n\nExperts agree on one point: technology alone cannot solve the problem. Unless customers learn to recognize suspicious messages, criminals will keep finding new ways to exploit human trust.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "Desde que",
+      "A menos que",
+      "Assim que",
+      "Embora",
+      "Porque"
+    ],
+    "correta": 1,
+    "comentario": "“Unless” expressa condição negativa: os criminosos continuarão encontrando brechas se os clientes não aprenderem a reconhecer mensagens suspeitas. “A menos que” traduz exatamente essa ideia. “Desde que”, no sentido condicional, equivale a “provided that” e inverteria o sentido. “Assim que” é temporal (“as soon as”), “Embora” é concessivo (“although”) e “Porque” é causal (“because”).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-14",
+    "materia": "ingles",
+    "assunto": "Compreensão de detalhe",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Segundo o texto, a análise comportamental pode levar o sistema a bloquear uma transação quando",
+    "texto_apoio": "THE WEAKEST LINK\n\nBanks spend billions every year on cybersecurity, yet the most common attacks do not target their systems directly. Instead, criminals target customers. Phishing messages, which imitate official communications, try to persuade people to click on fraudulent links or share their passwords. Because these messages are increasingly well written, even careful users can be fooled.\n\nIn response, many banks have adopted multi-factor authentication, which requires customers to confirm their identity in more than one way, such as a password combined with a code sent to their phone. Some institutions also use behavioral analysis: if a customer who usually makes small transfers suddenly tries to send a large sum at midnight, the system may block the transaction until it is confirmed.\n\nSuch measures are effective, but they can also frustrate legitimate customers, who may see their payments delayed. Striking the right balance between security and convenience is one of the industry's greatest challenges.\n\nExperts agree on one point: technology alone cannot solve the problem. Unless customers learn to recognize suspicious messages, criminals will keep finding new ways to exploit human trust.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "o cliente utiliza uma senha combinada com um código.",
+      "o cliente faz pequenas transferências durante o dia.",
+      "a operação foge ao padrão habitual do cliente.",
+      "a mensagem recebida imita uma comunicação oficial.",
+      "o pagamento é feito por um cliente legítimo."
+    ],
+    "correta": 2,
+    "comentario": "O exemplo do texto é o de um cliente que costuma fazer transferências pequenas e, de repente, tenta enviar uma grande quantia à meia-noite: é a quebra do padrão que dispara o bloqueio. Senha com código descreve a autenticação em múltiplos fatores, não a análise comportamental. Pequenas transferências diurnas são o comportamento habitual. Mensagens que imitam comunicações oficiais são o phishing, e o fato de o cliente ser legítimo não é motivo de bloqueio, embora possa ocorrer atraso.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ing-15",
+    "materia": "ingles",
+    "assunto": "Vocabulário no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Striking the right balance between security and convenience is one of the industry’s greatest challenges” (parágrafo 3), “Striking the right balance” significa",
+    "texto_apoio": "THE WEAKEST LINK\n\nBanks spend billions every year on cybersecurity, yet the most common attacks do not target their systems directly. Instead, criminals target customers. Phishing messages, which imitate official communications, try to persuade people to click on fraudulent links or share their passwords. Because these messages are increasingly well written, even careful users can be fooled.\n\nIn response, many banks have adopted multi-factor authentication, which requires customers to confirm their identity in more than one way, such as a password combined with a code sent to their phone. Some institutions also use behavioral analysis: if a customer who usually makes small transfers suddenly tries to send a large sum at midnight, the system may block the transaction until it is confirmed.\n\nSuch measures are effective, but they can also frustrate legitimate customers, who may see their payments delayed. Striking the right balance between security and convenience is one of the industry's greatest challenges.\n\nExperts agree on one point: technology alone cannot solve the problem. Unless customers learn to recognize suspicious messages, criminals will keep finding new ways to exploit human trust.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "alcançar o equilíbrio adequado.",
+      "romper o equilíbrio adequado.",
+      "cobrar pelo equilíbrio adequado.",
+      "anunciar o equilíbrio adequado.",
+      "abandonar a busca pelo equilíbrio."
+    ],
+    "correta": 0,
+    "comentario": "A expressão “strike a balance” significa encontrar ou alcançar um equilíbrio. O contexto confirma: o desafio é conciliar segurança e conveniência sem frustrar clientes legítimos. O sentido literal de “strike” (bater, golpear) leva ao distrator “romper”, que contradiz a ideia de desafio a ser cumprido. As demais opções não correspondem a nenhum sentido da expressão.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-16",
+    "materia": "ingles",
+    "assunto": "Compreensão de detalhe",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Segundo o texto, os títulos verdes diferem dos títulos convencionais quanto",
+    "texto_apoio": "GREEN BONDS\n\nGreen bonds are debt securities issued to finance projects with environmental benefits, such as renewable energy plants, clean transportation or energy-efficient buildings. Like conventional bonds, they pay investors a fixed income over a set period. The difference lies in how the money raised is used.\n\nThe market for these instruments has expanded rapidly since the first issues in the late 2000s. Governments, banks and corporations have all joined in, attracted by growing demand from investors who want their portfolios to reflect environmental concerns. In some cases, issuers have even obtained slightly lower borrowing costs, a benefit sometimes called the “greenium”.\n\nCritics, nevertheless, warn about “greenwashing” — the practice of presenting an investment as more environmentally friendly than it really is. Without clear standards and independent verification, a bond may carry a green label while financing projects of doubtful value. To address this concern, several countries have developed official taxonomies that define which activities qualify as sustainable.\n\nFor banks, green finance represents both an opportunity and a responsibility. It opens new lines of business, but it also requires careful analysis to ensure that promises made to investors are actually kept.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "ao pagamento de renda fixa aos investidores.",
+      "ao prazo de pagamento definido.",
+      "à destinação dos recursos captados.",
+      "ao tipo de emissor autorizado.",
+      "à ausência de risco para os investidores."
+    ],
+    "correta": 2,
+    "comentario": "O texto é explícito: “The difference lies in how the money raised is used”, isto é, no uso do dinheiro captado, destinado a projetos ambientais. A renda fixa e o prazo definido são justamente pontos em comum (“Like conventional bonds, they pay investors a fixed income over a set period”). Governos, bancos e empresas emitem ambos, e o texto não afirma que títulos verdes são livres de risco.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ing-17",
+    "materia": "ingles",
+    "assunto": "Compreensão de detalhe",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "De acordo com o texto, “greenwashing” é",
+    "texto_apoio": "GREEN BONDS\n\nGreen bonds are debt securities issued to finance projects with environmental benefits, such as renewable energy plants, clean transportation or energy-efficient buildings. Like conventional bonds, they pay investors a fixed income over a set period. The difference lies in how the money raised is used.\n\nThe market for these instruments has expanded rapidly since the first issues in the late 2000s. Governments, banks and corporations have all joined in, attracted by growing demand from investors who want their portfolios to reflect environmental concerns. In some cases, issuers have even obtained slightly lower borrowing costs, a benefit sometimes called the “greenium”.\n\nCritics, nevertheless, warn about “greenwashing” — the practice of presenting an investment as more environmentally friendly than it really is. Without clear standards and independent verification, a bond may carry a green label while financing projects of doubtful value. To address this concern, several countries have developed official taxonomies that define which activities qualify as sustainable.\n\nFor banks, green finance represents both an opportunity and a responsibility. It opens new lines of business, but it also requires careful analysis to ensure that promises made to investors are actually kept.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "a verificação independente dos projetos financiados por títulos verdes.",
+      "a apresentação de um investimento como mais sustentável do que ele realmente é.",
+      "a classificação oficial das atividades consideradas sustentáveis.",
+      "o custo de captação mais baixo obtido por alguns emissores.",
+      "a exigência de que os bancos financiem apenas projetos ambientais."
+    ],
+    "correta": 1,
+    "comentario": "O texto define “greenwashing” como “the practice of presenting an investment as more environmentally friendly than it really is”. A verificação independente e as taxonomias oficiais são remédios contra o problema, não o próprio problema. O custo de captação menor é o “greenium”, e não há menção a exigência de que bancos financiem só projetos ambientais.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-18",
+    "materia": "ingles",
+    "assunto": "Referência pronominal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Like conventional bonds, they pay investors a fixed income over a set period” (parágrafo 1), o pronome “they” refere-se a",
+    "texto_apoio": "GREEN BONDS\n\nGreen bonds are debt securities issued to finance projects with environmental benefits, such as renewable energy plants, clean transportation or energy-efficient buildings. Like conventional bonds, they pay investors a fixed income over a set period. The difference lies in how the money raised is used.\n\nThe market for these instruments has expanded rapidly since the first issues in the late 2000s. Governments, banks and corporations have all joined in, attracted by growing demand from investors who want their portfolios to reflect environmental concerns. In some cases, issuers have even obtained slightly lower borrowing costs, a benefit sometimes called the “greenium”.\n\nCritics, nevertheless, warn about “greenwashing” — the practice of presenting an investment as more environmentally friendly than it really is. Without clear standards and independent verification, a bond may carry a green label while financing projects of doubtful value. To address this concern, several countries have developed official taxonomies that define which activities qualify as sustainable.\n\nFor banks, green finance represents both an opportunity and a responsibility. It opens new lines of business, but it also requires careful analysis to ensure that promises made to investors are actually kept.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "conventional bonds.",
+      "projects.",
+      "investors.",
+      "renewable energy plants.",
+      "green bonds."
+    ],
+    "correta": 4,
+    "comentario": "“They” retoma “green bonds”, sujeito do parágrafo: os títulos verdes pagam renda fixa, assim como os convencionais. “Conventional bonds” aparece dentro da comparação introduzida por “Like” e não é o sujeito de “pay”. Projetos e usinas não pagam renda aos investidores, e “investors” é o objeto que recebe o pagamento.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-19",
+    "materia": "ingles",
+    "assunto": "Vocabulário no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “To address this concern, several countries have developed official taxonomies” (parágrafo 3), “To address this concern” significa",
+    "texto_apoio": "GREEN BONDS\n\nGreen bonds are debt securities issued to finance projects with environmental benefits, such as renewable energy plants, clean transportation or energy-efficient buildings. Like conventional bonds, they pay investors a fixed income over a set period. The difference lies in how the money raised is used.\n\nThe market for these instruments has expanded rapidly since the first issues in the late 2000s. Governments, banks and corporations have all joined in, attracted by growing demand from investors who want their portfolios to reflect environmental concerns. In some cases, issuers have even obtained slightly lower borrowing costs, a benefit sometimes called the “greenium”.\n\nCritics, nevertheless, warn about “greenwashing” — the practice of presenting an investment as more environmentally friendly than it really is. Without clear standards and independent verification, a bond may carry a green label while financing projects of doubtful value. To address this concern, several countries have developed official taxonomies that define which activities qualify as sustainable.\n\nFor banks, green finance represents both an opportunity and a responsibility. It opens new lines of business, but it also requires careful analysis to ensure that promises made to investors are actually kept.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "Para divulgar essa preocupação.",
+      "Para transferir essa preocupação aos investidores.",
+      "Para justificar essa preocupação.",
+      "Para enfrentar essa preocupação.",
+      "Para registrar essa preocupação em documento oficial."
+    ],
+    "correta": 3,
+    "comentario": "O verbo “address”, aplicado a um problema ou preocupação, significa lidar com ele ou enfrentá-lo. As taxonomias oficiais são criadas para combater o greenwashing, definindo o que é realmente sustentável. O falso cognato com “endereçar” pode levar a “transferir” ou “registrar”, mas nenhuma dessas leituras faz sentido. Divulgar ou justificar a preocupação também não corresponde à função das taxonomias.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ing-20",
+    "materia": "ingles",
+    "assunto": "Compreensão de detalhe",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Segundo o texto, o termo “greenium” refere-se",
+    "texto_apoio": "GREEN BONDS\n\nGreen bonds are debt securities issued to finance projects with environmental benefits, such as renewable energy plants, clean transportation or energy-efficient buildings. Like conventional bonds, they pay investors a fixed income over a set period. The difference lies in how the money raised is used.\n\nThe market for these instruments has expanded rapidly since the first issues in the late 2000s. Governments, banks and corporations have all joined in, attracted by growing demand from investors who want their portfolios to reflect environmental concerns. In some cases, issuers have even obtained slightly lower borrowing costs, a benefit sometimes called the “greenium”.\n\nCritics, nevertheless, warn about “greenwashing” — the practice of presenting an investment as more environmentally friendly than it really is. Without clear standards and independent verification, a bond may carry a green label while financing projects of doubtful value. To address this concern, several countries have developed official taxonomies that define which activities qualify as sustainable.\n\nFor banks, green finance represents both an opportunity and a responsibility. It opens new lines of business, but it also requires careful analysis to ensure that promises made to investors are actually kept.\n\n(Original text written for study purposes.)",
+    "alternativas": [
+      "a um rendimento mais alto garantido aos investidores de títulos verdes.",
+      "ao custo de captação ligeiramente menor obtido por alguns emissores de títulos verdes.",
+      "a uma taxa extra cobrada dos investidores que compram títulos verdes.",
+      "ao selo oficial que certifica um título como sustentável.",
+      "ao prêmio pago por governos às empresas que emitem títulos verdes."
+    ],
+    "correta": 1,
+    "comentario": "O texto diz que alguns emissores obtiveram “slightly lower borrowing costs, a benefit sometimes called the greenium”. O benefício é de quem emite, não de quem investe; por isso a ideia de rendimento mais alto para o investidor é o contrário. A palavra lembra “premium” (prêmio), o que torna plausíveis as opções de taxa extra ou prêmio governamental, mas nenhuma delas aparece no texto. O selo verde é mencionado em outro contexto, no do greenwashing.",
+    "dificuldade": 3
+  }
+]

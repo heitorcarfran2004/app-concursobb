@@ -1,0 +1,1200 @@
+[
+ {
+  "id": "bb2021ti-1",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um argumento utilizado no texto para explicar o relativo sucesso do ensino remoto durante a pandemia é:",
+  "texto_apoio": "Lições após um ano de ensino remoto na pandemia\n\n[1] No momento em que se tornam ainda mais complexas as discussões sobre a volta às aulas presenciais, o ensino remoto continua a ser a rotina de muitas famílias, atualmente.\n\n[2] Mas um ano sem precedentes na história veio acompanhado de lições inéditas para professores, alunos e estudiosos. Diante do pouco acesso a planos de dados ou a dispositivos, a alternativa de muitas famílias e professores tem sido se conectar regularmente via aplicativos de mensagens.\n\n[3] Uma pesquisa apontou que 83% dos professores mantinham contato com seus alunos por meio dos aplicativos de mensagens, muito mais do que pelas próprias plataformas de aprendizagem. Esse uso foi uma grande surpresa, mas é porque não temos outras ferramentas de massificação. A maior parte do ensino foi feita pelo celular e, geralmente, por um celular compartilhado (entre vários membros da família), o que é algo muito desafiador.\n\n[4] Outro aspecto a ser considerado é que, felizmente, mensagens direcionadas são uma forma relativamente barata de comunicação. A importância de cultivar interações entre os estudantes, mesmo que eles não estejam no mesmo ambiente físico, também é uma forma de motivá-los e melhorar seus resultados. Recentemente, uma pesquisadora afirmou que “Aprendemos que precisamos dos demais: comparar estratégias, falar com alunos, com outros professores e dar mais oportunidades de trabalho coletivo, mesmo que seja cada um na sua casa. Além disso, a pandemia ressaltou a importância do vínculo anterior entre escolas e comunidades”.\n\n[5] Embora seja difícil prever exatamente como o fechamento das escolas vai afetar o desenvolvimento futuro dos alunos, educadores internacionais estimam que estudantes da educação básica já foram impactados. É preciso pensar em como agrupar esses alunos e averiguar os que tiveram ensino mínimo ou nulo e decidir como enfrentar essa ruptura, com aulas ou encontros extras, com anos (letivos) de transição.\n\nIDOETA, P.A. 8 lições após um ano de ensino remoto na pandemia. BBC/UOL, 2021. Adaptado.",
+  "alternativas": [
+   "O baixo custo relacionado ao uso de aplicativos de mensagens.",
+   "O uso de plataformas de aprendizagem de alta tecnologia.",
+   "A oportunidade de utilização de imagens e áudios disponíveis na rede.",
+   "A possibilidade de aprofundamento dos conteúdos de várias disciplinas.",
+   "A qualidade do acesso às atividades devido à alta conectividade."
+  ],
+  "correta": 0,
+  "comentario": "No parágrafo 4, o texto afirma que “mensagens direcionadas são uma forma relativamente barata de comunicação”, e o parágrafo 3 mostra que os aplicativos de mensagens foram o principal canal. O baixo custo é, portanto, o argumento apresentado. A alternativa B contradiz o texto, que diz que as plataformas de aprendizagem foram pouco usadas. A alternativa E também contradiz o texto, que fala em “pouco acesso a planos de dados”. C e D trazem ideias que não aparecem no texto.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-2",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No parágrafo 5, depois da afirmação de que educadores internacionais estimam que estudantes da educação básica já foram impactados pela falta de escolarização, desenvolve-se a ideia de que",
+  "texto_apoio": "Lições após um ano de ensino remoto na pandemia\n\n[1] No momento em que se tornam ainda mais complexas as discussões sobre a volta às aulas presenciais, o ensino remoto continua a ser a rotina de muitas famílias, atualmente.\n\n[2] Mas um ano sem precedentes na história veio acompanhado de lições inéditas para professores, alunos e estudiosos. Diante do pouco acesso a planos de dados ou a dispositivos, a alternativa de muitas famílias e professores tem sido se conectar regularmente via aplicativos de mensagens.\n\n[3] Uma pesquisa apontou que 83% dos professores mantinham contato com seus alunos por meio dos aplicativos de mensagens, muito mais do que pelas próprias plataformas de aprendizagem. Esse uso foi uma grande surpresa, mas é porque não temos outras ferramentas de massificação. A maior parte do ensino foi feita pelo celular e, geralmente, por um celular compartilhado (entre vários membros da família), o que é algo muito desafiador.\n\n[4] Outro aspecto a ser considerado é que, felizmente, mensagens direcionadas são uma forma relativamente barata de comunicação. A importância de cultivar interações entre os estudantes, mesmo que eles não estejam no mesmo ambiente físico, também é uma forma de motivá-los e melhorar seus resultados. Recentemente, uma pesquisadora afirmou que “Aprendemos que precisamos dos demais: comparar estratégias, falar com alunos, com outros professores e dar mais oportunidades de trabalho coletivo, mesmo que seja cada um na sua casa. Além disso, a pandemia ressaltou a importância do vínculo anterior entre escolas e comunidades”.\n\n[5] Embora seja difícil prever exatamente como o fechamento das escolas vai afetar o desenvolvimento futuro dos alunos, educadores internacionais estimam que estudantes da educação básica já foram impactados. É preciso pensar em como agrupar esses alunos e averiguar os que tiveram ensino mínimo ou nulo e decidir como enfrentar essa ruptura, com aulas ou encontros extras, com anos (letivos) de transição.\n\nIDOETA, P.A. 8 lições após um ano de ensino remoto na pandemia. BBC/UOL, 2021. Adaptado.",
+  "alternativas": [
+   "o ensino remoto mediado por tecnologia permitiu a continuidade da escolarização durante a pandemia.",
+   "os alunos que foram prejudicados por esse processo precisarão ter aulas ou encontros extras para enfrentar essa ruptura.",
+   "a alternativa mais produtiva para realizar o ensino remoto tem sido a conexão via aplicativos de mensagens.",
+   "os professores, em sua grande maioria, mantiveram contato com os alunos por meio dos aplicativos de mensagens.",
+   "o celular, muitas vezes compartilhado pela família, foi a ferramenta mais utilizada para efetivar as atividades de ensino remoto."
+  ],
+  "correta": 1,
+  "comentario": "Logo após citar o impacto sobre os estudantes, o parágrafo 5 propõe averiguar quem teve ensino mínimo ou nulo e “decidir como enfrentar essa ruptura, com aulas ou encontros extras”. Isso corresponde à alternativa B. As alternativas C, D e E trazem informações verdadeiras, mas elas estão nos parágrafos 2 e 3, não no desenvolvimento do parágrafo 5. A alternativa A não é a ideia desenvolvida ali.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-3",
+  "materia": "portugues",
+  "assunto": "Conectivos e relações semânticas",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No trecho “A importância de cultivar interações entre os estudantes, mesmo que eles não estejam no mesmo ambiente físico” (parágrafo 4), a expressão destacada (mesmo que) estabelece com a oração principal a relação de",
+  "texto_apoio": "Lições após um ano de ensino remoto na pandemia\n\n[1] No momento em que se tornam ainda mais complexas as discussões sobre a volta às aulas presenciais, o ensino remoto continua a ser a rotina de muitas famílias, atualmente.\n\n[2] Mas um ano sem precedentes na história veio acompanhado de lições inéditas para professores, alunos e estudiosos. Diante do pouco acesso a planos de dados ou a dispositivos, a alternativa de muitas famílias e professores tem sido se conectar regularmente via aplicativos de mensagens.\n\n[3] Uma pesquisa apontou que 83% dos professores mantinham contato com seus alunos por meio dos aplicativos de mensagens, muito mais do que pelas próprias plataformas de aprendizagem. Esse uso foi uma grande surpresa, mas é porque não temos outras ferramentas de massificação. A maior parte do ensino foi feita pelo celular e, geralmente, por um celular compartilhado (entre vários membros da família), o que é algo muito desafiador.\n\n[4] Outro aspecto a ser considerado é que, felizmente, mensagens direcionadas são uma forma relativamente barata de comunicação. A importância de cultivar interações entre os estudantes, mesmo que eles não estejam no mesmo ambiente físico, também é uma forma de motivá-los e melhorar seus resultados. Recentemente, uma pesquisadora afirmou que “Aprendemos que precisamos dos demais: comparar estratégias, falar com alunos, com outros professores e dar mais oportunidades de trabalho coletivo, mesmo que seja cada um na sua casa. Além disso, a pandemia ressaltou a importância do vínculo anterior entre escolas e comunidades”.\n\n[5] Embora seja difícil prever exatamente como o fechamento das escolas vai afetar o desenvolvimento futuro dos alunos, educadores internacionais estimam que estudantes da educação básica já foram impactados. É preciso pensar em como agrupar esses alunos e averiguar os que tiveram ensino mínimo ou nulo e decidir como enfrentar essa ruptura, com aulas ou encontros extras, com anos (letivos) de transição.\n\nIDOETA, P.A. 8 lições após um ano de ensino remoto na pandemia. BBC/UOL, 2021. Adaptado.",
+  "alternativas": [
+   "condição",
+   "concessão",
+   "comparação",
+   "conformidade",
+   "proporcionalidade"
+  ],
+  "correta": 1,
+  "comentario": "“Mesmo que” é uma locução conjuntiva concessiva, equivalente a “embora” ou “ainda que”. Ela apresenta um obstáculo (não estarem no mesmo ambiente) que não impede o fato principal (a importância de cultivar interações). O erro mais comum é confundir com condição (“se”, “caso”), mas a concessão admite o fato contrário sem anular a afirmação principal. Comparação, conformidade e proporcionalidade usam outros conectivos (como, conforme, à medida que).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-4",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O trecho em que a palavra destacada evidencia a opinião do autor do texto é:",
+  "texto_apoio": "Lições após um ano de ensino remoto na pandemia\n\n[1] No momento em que se tornam ainda mais complexas as discussões sobre a volta às aulas presenciais, o ensino remoto continua a ser a rotina de muitas famílias, atualmente.\n\n[2] Mas um ano sem precedentes na história veio acompanhado de lições inéditas para professores, alunos e estudiosos. Diante do pouco acesso a planos de dados ou a dispositivos, a alternativa de muitas famílias e professores tem sido se conectar regularmente via aplicativos de mensagens.\n\n[3] Uma pesquisa apontou que 83% dos professores mantinham contato com seus alunos por meio dos aplicativos de mensagens, muito mais do que pelas próprias plataformas de aprendizagem. Esse uso foi uma grande surpresa, mas é porque não temos outras ferramentas de massificação. A maior parte do ensino foi feita pelo celular e, geralmente, por um celular compartilhado (entre vários membros da família), o que é algo muito desafiador.\n\n[4] Outro aspecto a ser considerado é que, felizmente, mensagens direcionadas são uma forma relativamente barata de comunicação. A importância de cultivar interações entre os estudantes, mesmo que eles não estejam no mesmo ambiente físico, também é uma forma de motivá-los e melhorar seus resultados. Recentemente, uma pesquisadora afirmou que “Aprendemos que precisamos dos demais: comparar estratégias, falar com alunos, com outros professores e dar mais oportunidades de trabalho coletivo, mesmo que seja cada um na sua casa. Além disso, a pandemia ressaltou a importância do vínculo anterior entre escolas e comunidades”.\n\n[5] Embora seja difícil prever exatamente como o fechamento das escolas vai afetar o desenvolvimento futuro dos alunos, educadores internacionais estimam que estudantes da educação básica já foram impactados. É preciso pensar em como agrupar esses alunos e averiguar os que tiveram ensino mínimo ou nulo e decidir como enfrentar essa ruptura, com aulas ou encontros extras, com anos (letivos) de transição.\n\nIDOETA, P.A. 8 lições após um ano de ensino remoto na pandemia. BBC/UOL, 2021. Adaptado.",
+  "alternativas": [
+   "“o ensino remoto continua a ser a rotina de muitas famílias, atualmente.” (parágrafo 1) – destaque: atualmente",
+   "“tem sido se conectar regularmente via aplicativos de mensagens” (parágrafo 2) – destaque: regularmente",
+   "“A maior parte do ensino foi feita pelo celular e, geralmente, por um celular” (parágrafo 3) – destaque: geralmente",
+   "“felizmente, mensagens direcionadas são uma forma relativamente barata de comunicação” (parágrafo 4) – destaque: felizmente",
+   "“Embora seja difícil prever exatamente” (parágrafo 5) – destaque: exatamente"
+  ],
+  "correta": 3,
+  "comentario": "“Felizmente” é um advérbio modalizador: expressa a avaliação subjetiva do autor sobre o fato (ele considera positivo que as mensagens sejam baratas). Os demais advérbios indicam circunstâncias objetivas: tempo (atualmente), frequência (regularmente, geralmente) ou precisão (exatamente). Nenhum deles revela julgamento de valor do autor.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-5",
+  "materia": "portugues",
+  "assunto": "Concordância verbal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A concordância verbal está de acordo com as exigências da norma-padrão da língua portuguesa na forma verbal destacada em:",
+  "alternativas": [
+   "Aspiram-se a bons cargos nas empresas para que seja possível superar os problemas causados pela inflação. (Aspiram-se)",
+   "Com a chegada da pandemia causada pela Covid-19 fazem dois anos que não viajo nas férias escolares. (fazem)",
+   "Nos últimos anos, combatem-se batalhas comerciais cotidianamente, devido às barreiras econômicas. (combatem-se)",
+   "Em várias regiões do nosso país, existe problemas a serem resolvidos em todas as diversas áreas do conhecimento. (existe)",
+   "Para garantir a aprendizagem dos estudantes, precisam-se de equipamentos digitais capazes de atender a demandas escolares. (precisam-se)"
+  ],
+  "correta": 2,
+  "comentario": "Em “combatem-se batalhas”, o verbo é transitivo direto e o “se” é partícula apassivadora: batalhas são combatidas, logo o verbo concorda com o sujeito plural “batalhas”. Em A e E, os verbos são transitivos indiretos (aspirar a, precisar de), o “se” é índice de indeterminação do sujeito e o verbo fica no singular (aspira-se, precisa-se). Em B, “fazer” indicando tempo decorrido é impessoal: “faz dois anos”. Em D, “existir” é pessoal e deve concordar com “problemas”: existem.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-6",
+  "materia": "portugues",
+  "assunto": "Concordância nominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "De acordo com a norma-padrão da língua portuguesa, a concordância do termo em destaque está plenamente respeitada em:",
+  "alternativas": [
+   "A capacitação dos técnicos e o atendimento aos trabalhadores da área da saúde precisam ser desenvolvidos em todo o país. (desenvolvidos)",
+   "As famílias dos alunos e os professores da rede pública das diferentes regiões brasileiras devem ser acolhidas pelas direções das escolas. (acolhidas)",
+   "O estudo das diferentes disciplinas e a realização de provas bimestrais, após a chegada da Covid-19, têm sido planejadas com muito cuidado. (planejadas)",
+   "O tratamento das doenças respiratórias e a vacinação de toda a população devem ser implementadas pelos órgãos responsáveis. (implementadas)",
+   "Os arquivos escolares e as notas dos estudantes necessitam ser guardadas com o maior sigilo para recuperação no futuro. (guardadas)"
+  ],
+  "correta": 0,
+  "comentario": "Quando o particípio se refere a um sujeito composto por núcleos de gêneros diferentes, ele vai para o masculino plural. Em A, “capacitação” (feminino) e “atendimento” (masculino) levam a “desenvolvidos”, correto. Em B, famílias + professores exigiria “acolhidos”; em C, estudo + realização exigiria “planejados”; em D, tratamento + vacinação exigiria “implementados”; em E, arquivos + notas exigiria “guardados”. O erro típico é concordar só com o núcleo mais próximo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-7",
+  "materia": "portugues",
+  "assunto": "Colocação pronominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O pronome oblíquo átono em destaque está colocado de acordo com a norma-padrão em:",
+  "alternativas": [
+   "No processo ensino-aprendizagem, o objetivo deve ser desenvolver aptidões para que os alunos sempre mantenham-se em dia com os avanços da ciência.",
+   "Se reclama muito das dificuldades do ensino remoto devido a problemas de conexão.",
+   "Os profissionais da educação nunca cansam-se de estudar os conteúdos que possam interessar os alunos nas aulas.",
+   "Para garantir o progresso dos estudantes, os professores sempre dedicam-se a pesquisar novos métodos de ensino.",
+   "Quando as escolas se preocuparem em empregar novas metodologias no ensino-aprendizagem, alcançarão melhores resultados."
+  ],
+  "correta": 4,
+  "comentario": "Em E, a conjunção subordinativa “quando” é fator de próclise, e o pronome aparece corretamente antes do verbo: “se preocuparem”. Em A, “para que” e “sempre” exigem próclise (“se mantenham”); em C, a palavra negativa “nunca” exige “nunca se cansam”; em D, o advérbio “sempre” atrai o pronome (“sempre se dedicam”). Em B, a norma-padrão não admite iniciar a frase com pronome oblíquo átono: “Reclama-se”.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-8",
+  "materia": "portugues",
+  "assunto": "Crase",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "De acordo com a norma-padrão da língua portuguesa, o uso do acento grave indicativo da crase é obrigatório na palavra destacada em:",
+  "alternativas": [
+   "A prática de ensino remoto levou as famílias a situações difíceis de comunicação com as instituições de ensino. (a situações)",
+   "As aulas remotas surgem como uma alternativa para a redução dos impactos negativos no processo de aprendizagem. (a redução)",
+   "As escolas e os professores foram levados a essa prática de ensino remoto, em função da chegada inesperada do vírus. (a essa)",
+   "O interesse pelo ensino on-line não tem diminuído porque começou a ser considerado a única opção de escolarização durante a pandemia. (a única)",
+   "Os bons resultados de desempenho dos alunos são obtidos graças a dedicação dos professores no ensino on-line. (a dedicação)"
+  ],
+  "correta": 4,
+  "comentario": "A locução “graças a” exige a preposição “a”, e “dedicação” é palavra feminina determinada pelo artigo “a”: “graças à dedicação”. Em A, “a” diante de palavra no plural sem artigo (“situações”) é só preposição. Em B, “para a redução” já tem a preposição “para”, não “a”. Em C, não há crase antes do pronome demonstrativo “essa”. Em D, “a única opção” é artigo, pois “considerado” não pede preposição ali.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-9",
+  "materia": "portugues",
+  "assunto": "Pontuação",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "De acordo com a norma-padrão da língua portuguesa, o emprego adequado da vírgula está plenamente atendido em:",
+  "alternativas": [
+   "O ensino remoto, com a pandemia de Covid-19 passou a fazer parte do processo de escolarização em todo o Brasil.",
+   "A melhor fase do ensino on-line tem sido vivida, atualmente embora permaneça a dúvida se é possível ensinar às crianças de forma remota.",
+   "Como o país não tinha experiências significativas no ensino remoto, precisou aderir à prática de forma emergencial.",
+   "A qualidade do ensino remoto era questionada, no passado porém o aprendizado conta com tecnologias que garantem ótimos resultados.",
+   "Um grande número de pesquisadores tem procurado avaliar, quais são as vantagens e desvantagens da educação a distância."
+  ],
+  "correta": 2,
+  "comentario": "Em C, a oração subordinada adverbial causal anteposta (“Como o país não tinha...”) é corretamente separada da principal por vírgula. Em A, falta a vírgula que fecharia o termo intercalado “com a pandemia de Covid-19”. Em B e D, as vírgulas estão mal posicionadas: deveriam isolar o advérbio e anteceder o conectivo (“atualmente, embora”; “no passado, porém”). Em E, a vírgula separa indevidamente o verbo “avaliar” de seu complemento.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-10",
+  "materia": "portugues",
+  "assunto": "Coesão referencial",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A palavra ou a expressão a que se refere o termo em destaque está corretamente explicitada entre colchetes em:",
+  "texto_apoio": "Lições após um ano de ensino remoto na pandemia\n\n[1] No momento em que se tornam ainda mais complexas as discussões sobre a volta às aulas presenciais, o ensino remoto continua a ser a rotina de muitas famílias, atualmente.\n\n[2] Mas um ano sem precedentes na história veio acompanhado de lições inéditas para professores, alunos e estudiosos. Diante do pouco acesso a planos de dados ou a dispositivos, a alternativa de muitas famílias e professores tem sido se conectar regularmente via aplicativos de mensagens.\n\n[3] Uma pesquisa apontou que 83% dos professores mantinham contato com seus alunos por meio dos aplicativos de mensagens, muito mais do que pelas próprias plataformas de aprendizagem. Esse uso foi uma grande surpresa, mas é porque não temos outras ferramentas de massificação. A maior parte do ensino foi feita pelo celular e, geralmente, por um celular compartilhado (entre vários membros da família), o que é algo muito desafiador.\n\n[4] Outro aspecto a ser considerado é que, felizmente, mensagens direcionadas são uma forma relativamente barata de comunicação. A importância de cultivar interações entre os estudantes, mesmo que eles não estejam no mesmo ambiente físico, também é uma forma de motivá-los e melhorar seus resultados. Recentemente, uma pesquisadora afirmou que “Aprendemos que precisamos dos demais: comparar estratégias, falar com alunos, com outros professores e dar mais oportunidades de trabalho coletivo, mesmo que seja cada um na sua casa. Além disso, a pandemia ressaltou a importância do vínculo anterior entre escolas e comunidades”.\n\n[5] Embora seja difícil prever exatamente como o fechamento das escolas vai afetar o desenvolvimento futuro dos alunos, educadores internacionais estimam que estudantes da educação básica já foram impactados. É preciso pensar em como agrupar esses alunos e averiguar os que tiveram ensino mínimo ou nulo e decidir como enfrentar essa ruptura, com aulas ou encontros extras, com anos (letivos) de transição.\n\nIDOETA, P.A. 8 lições após um ano de ensino remoto na pandemia. BBC/UOL, 2021. Adaptado.",
+  "alternativas": [
+   "“83% dos professores mantinham contato com seus alunos por meio dos aplicativos” (parágrafo 3) – seus [pesquisadores]",
+   "“Esse uso foi uma grande surpresa, mas é porque não temos outras ferramentas” (parágrafo 3) – Esse uso [contato]",
+   "“Aprendemos que precisamos dos demais” (parágrafo 4) – demais [resultados]",
+   "“averiguar os que tiveram ensino mínimo ou nulo e decidir” (parágrafo 5) – os [alunos]",
+   "“decidir como enfrentar essa ruptura, com aulas ou encontros extras” (parágrafo 5) – essa ruptura [desenvolvimento]"
+  ],
+  "correta": 3,
+  "comentario": "Em “averiguar os que tiveram ensino mínimo ou nulo”, o pronome “os” retoma “esses alunos”, citados imediatamente antes. Em A, “seus” refere-se aos professores, não a pesquisadores. Em B, “esse uso” retoma o uso dos aplicativos de mensagens. Em C, “os demais” são as outras pessoas (alunos, professores), não resultados. Em E, “essa ruptura” é a interrupção do ensino causada pelo fechamento das escolas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-11",
+  "materia": "ingles",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "The main purpose of the text is to",
+  "texto_apoio": "COVID-19 Economy: Expert insights on what you need to know\n\n[1] As we practice social distancing and businesses struggle to adapt, it’s no secret the unique challenges of Covid-19 are profoundly shaping our economic climate. U.S. Bank financial industry and regulatory affairs expert Robert Schell explains what you need to know in this uncertain time.\n\n• Don’t panic while things are “on pause”\n[2] Imagine clicking the pause button on your favorite TV show. Whether you stopped to make dinner or put kids to bed, hitting pause gives you time to tackle what matters most. Today’s economy is similar. While we prioritize health and safety, typical activities like driving to work, eating at restaurants, traveling and attending sporting events are on hold. This widespread social distancing takes a toll on our economy, putting strain on businesses and individuals alike.\n\n[3] Keep your financial habits as normal as possible during this time. Make online purchases, order takeout, pay bills and buy groceries. These everyday purchases put money back into the economy and prevent it from dipping further into a recession.\n\n• Low interest rates could help make ends meet\n[4] In March, the Federal Reserve cut rates drastically to boost economic activity and make borrowing more affordable. For you, this means interest rates are low for credit cards, loans and lines of credit, and even fixed-rate mortgages. Consider taking advantage of these low rates if you need extra help paying your bills, keeping your business running or withstanding a period of unemployment.\n\n• Spend on small businesses\n[5] Looking to make a positive impact? Supporting small businesses is an easy and powerful way to help. You can order takeout, tip generously or donate to your local brick-and-mortar retail store, if they provide that option. Your support makes a big impact for struggling business owners.\n\n• Prior economic strength may help us bounce back\n[6] The thriving economy of 2019 isn’t just a distant, bittersweet memory. When our health is no longer at risk and social distancing mandates begin to diminish, we’ll slowly start to rebuild. The stability, low unemployment rate and upward-trending market we experienced prior to Covid-19 puts us in a good position to kick-start economic activity and rebound more quickly.\n\nAvailable at <https://www.usbank.com>. Retrieved on: Jul. 20, 2021. Adapted.",
+  "alternativas": [
+   "share ideas on how people can cope with the challenges brought by the pandemic.",
+   "teach people how to practice social distancing while shopping at local businesses.",
+   "encourage people to take loans in order to make donations to brick-and-mortar retail stores.",
+   "let people know that health concerns are not as important as taking care of one’s finances.",
+   "suggest that people should engage in diversified activities instead of watching too much TV."
+  ],
+  "correta": 0,
+  "comentario": "O texto reúne dicas de um especialista (não entrar em pânico, manter hábitos de consumo, aproveitar juros baixos, apoiar pequenos negócios) para lidar com os desafios econômicos da pandemia, o que corresponde à alternativa A. A alternativa C distorce o texto: ele sugere empréstimos para pagar contas, não para fazer doações. D contraria o texto, que prioriza saúde e segurança. B e E se apegam a detalhes (distanciamento, a metáfora da TV) que não são o objetivo principal.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-12",
+  "materia": "ingles",
+  "assunto": "Vocabulário",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the 1st paragraph, in the fragment “it’s no secret the unique challenges of Covid-19 are profoundly shaping our economic climate”, the expression it’s no secret (that) means",
+  "texto_apoio": "COVID-19 Economy: Expert insights on what you need to know\n\n[1] As we practice social distancing and businesses struggle to adapt, it’s no secret the unique challenges of Covid-19 are profoundly shaping our economic climate. U.S. Bank financial industry and regulatory affairs expert Robert Schell explains what you need to know in this uncertain time.\n\n• Don’t panic while things are “on pause”\n[2] Imagine clicking the pause button on your favorite TV show. Whether you stopped to make dinner or put kids to bed, hitting pause gives you time to tackle what matters most. Today’s economy is similar. While we prioritize health and safety, typical activities like driving to work, eating at restaurants, traveling and attending sporting events are on hold. This widespread social distancing takes a toll on our economy, putting strain on businesses and individuals alike.\n\n[3] Keep your financial habits as normal as possible during this time. Make online purchases, order takeout, pay bills and buy groceries. These everyday purchases put money back into the economy and prevent it from dipping further into a recession.\n\n• Low interest rates could help make ends meet\n[4] In March, the Federal Reserve cut rates drastically to boost economic activity and make borrowing more affordable. For you, this means interest rates are low for credit cards, loans and lines of credit, and even fixed-rate mortgages. Consider taking advantage of these low rates if you need extra help paying your bills, keeping your business running or withstanding a period of unemployment.\n\n• Spend on small businesses\n[5] Looking to make a positive impact? Supporting small businesses is an easy and powerful way to help. You can order takeout, tip generously or donate to your local brick-and-mortar retail store, if they provide that option. Your support makes a big impact for struggling business owners.\n\n• Prior economic strength may help us bounce back\n[6] The thriving economy of 2019 isn’t just a distant, bittersweet memory. When our health is no longer at risk and social distancing mandates begin to diminish, we’ll slowly start to rebuild. The stability, low unemployment rate and upward-trending market we experienced prior to Covid-19 puts us in a good position to kick-start economic activity and rebound more quickly.\n\nAvailable at <https://www.usbank.com>. Retrieved on: Jul. 20, 2021. Adapted.",
+  "alternativas": [
+   "it’s common knowledge.",
+   "it’s never been said before.",
+   "it’s partially true.",
+   "it’s a bad idea.",
+   "it’s an important revelation."
+  ],
+  "correta": 0,
+  "comentario": "“It’s no secret that...” significa que algo é amplamente conhecido, “todo mundo sabe que...”, ou seja, “it’s common knowledge”. As alternativas B e E vão no sentido oposto, sugerindo novidade ou revelação. C e D não têm relação com o sentido da expressão.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-13",
+  "materia": "ingles",
+  "assunto": "Formação de palavras",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the 1st paragraph, the word uncertain, in the fragment “in this uncertain time”, is formed with the prefix un-. A pair of words formed with prefixes that convey the same meaning is:",
+  "texto_apoio": "COVID-19 Economy: Expert insights on what you need to know\n\n[1] As we practice social distancing and businesses struggle to adapt, it’s no secret the unique challenges of Covid-19 are profoundly shaping our economic climate. U.S. Bank financial industry and regulatory affairs expert Robert Schell explains what you need to know in this uncertain time.\n\n• Don’t panic while things are “on pause”\n[2] Imagine clicking the pause button on your favorite TV show. Whether you stopped to make dinner or put kids to bed, hitting pause gives you time to tackle what matters most. Today’s economy is similar. While we prioritize health and safety, typical activities like driving to work, eating at restaurants, traveling and attending sporting events are on hold. This widespread social distancing takes a toll on our economy, putting strain on businesses and individuals alike.\n\n[3] Keep your financial habits as normal as possible during this time. Make online purchases, order takeout, pay bills and buy groceries. These everyday purchases put money back into the economy and prevent it from dipping further into a recession.\n\n• Low interest rates could help make ends meet\n[4] In March, the Federal Reserve cut rates drastically to boost economic activity and make borrowing more affordable. For you, this means interest rates are low for credit cards, loans and lines of credit, and even fixed-rate mortgages. Consider taking advantage of these low rates if you need extra help paying your bills, keeping your business running or withstanding a period of unemployment.\n\n• Spend on small businesses\n[5] Looking to make a positive impact? Supporting small businesses is an easy and powerful way to help. You can order takeout, tip generously or donate to your local brick-and-mortar retail store, if they provide that option. Your support makes a big impact for struggling business owners.\n\n• Prior economic strength may help us bounce back\n[6] The thriving economy of 2019 isn’t just a distant, bittersweet memory. When our health is no longer at risk and social distancing mandates begin to diminish, we’ll slowly start to rebuild. The stability, low unemployment rate and upward-trending market we experienced prior to Covid-19 puts us in a good position to kick-start economic activity and rebound more quickly.\n\nAvailable at <https://www.usbank.com>. Retrieved on: Jul. 20, 2021. Adapted.",
+  "alternativas": [
+   "doubtful / joblessness",
+   "unique / only",
+   "impossible / discourage",
+   "certainty / envision",
+   "inside / intimate"
+  ],
+  "correta": 2,
+  "comentario": "O prefixo un- tem sentido de negação/oposição. Em “impossible” (im-) e “discourage” (dis-), os prefixos também expressam negação ou oposição. Em A, as palavras são formadas por sufixos (-ful, -less, -ness), não por prefixos. Em B, “unique” não contém o prefixo un- de negação e “only” não tem prefixo. Em D, “certainty” tem sufixo, e em E, “in-” de “inside” indica lugar e “intimate” não é formado por prefixo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-14",
+  "materia": "ingles",
+  "assunto": "Referência pronominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the 3rd paragraph, in the fragment “These everyday purchases put money back into the economy and prevent it from dipping further into a recession”, the pronoun it refers to",
+  "texto_apoio": "COVID-19 Economy: Expert insights on what you need to know\n\n[1] As we practice social distancing and businesses struggle to adapt, it’s no secret the unique challenges of Covid-19 are profoundly shaping our economic climate. U.S. Bank financial industry and regulatory affairs expert Robert Schell explains what you need to know in this uncertain time.\n\n• Don’t panic while things are “on pause”\n[2] Imagine clicking the pause button on your favorite TV show. Whether you stopped to make dinner or put kids to bed, hitting pause gives you time to tackle what matters most. Today’s economy is similar. While we prioritize health and safety, typical activities like driving to work, eating at restaurants, traveling and attending sporting events are on hold. This widespread social distancing takes a toll on our economy, putting strain on businesses and individuals alike.\n\n[3] Keep your financial habits as normal as possible during this time. Make online purchases, order takeout, pay bills and buy groceries. These everyday purchases put money back into the economy and prevent it from dipping further into a recession.\n\n• Low interest rates could help make ends meet\n[4] In March, the Federal Reserve cut rates drastically to boost economic activity and make borrowing more affordable. For you, this means interest rates are low for credit cards, loans and lines of credit, and even fixed-rate mortgages. Consider taking advantage of these low rates if you need extra help paying your bills, keeping your business running or withstanding a period of unemployment.\n\n• Spend on small businesses\n[5] Looking to make a positive impact? Supporting small businesses is an easy and powerful way to help. You can order takeout, tip generously or donate to your local brick-and-mortar retail store, if they provide that option. Your support makes a big impact for struggling business owners.\n\n• Prior economic strength may help us bounce back\n[6] The thriving economy of 2019 isn’t just a distant, bittersweet memory. When our health is no longer at risk and social distancing mandates begin to diminish, we’ll slowly start to rebuild. The stability, low unemployment rate and upward-trending market we experienced prior to Covid-19 puts us in a good position to kick-start economic activity and rebound more quickly.\n\nAvailable at <https://www.usbank.com>. Retrieved on: Jul. 20, 2021. Adapted.",
+  "alternativas": [
+   "money",
+   "purchases",
+   "recession",
+   "economy",
+   "back"
+  ],
+  "correta": 3,
+  "comentario": "O que “afunda ainda mais numa recessão” é a economia: as compras colocam dinheiro de volta na economia e evitam que ela (it = the economy) entre mais fundo na recessão. “Purchases” está no plural e seria retomado por “them”. “Money” não afunda em recessão, e “recession” não pode afundar em si mesma.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-15",
+  "materia": "ingles",
+  "assunto": "Tempos verbais",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the 4th paragraph, in the fragment “In March, the Federal Reserve cut rates drastically to boost economic activity”, the verb cut indicates a",
+  "texto_apoio": "COVID-19 Economy: Expert insights on what you need to know\n\n[1] As we practice social distancing and businesses struggle to adapt, it’s no secret the unique challenges of Covid-19 are profoundly shaping our economic climate. U.S. Bank financial industry and regulatory affairs expert Robert Schell explains what you need to know in this uncertain time.\n\n• Don’t panic while things are “on pause”\n[2] Imagine clicking the pause button on your favorite TV show. Whether you stopped to make dinner or put kids to bed, hitting pause gives you time to tackle what matters most. Today’s economy is similar. While we prioritize health and safety, typical activities like driving to work, eating at restaurants, traveling and attending sporting events are on hold. This widespread social distancing takes a toll on our economy, putting strain on businesses and individuals alike.\n\n[3] Keep your financial habits as normal as possible during this time. Make online purchases, order takeout, pay bills and buy groceries. These everyday purchases put money back into the economy and prevent it from dipping further into a recession.\n\n• Low interest rates could help make ends meet\n[4] In March, the Federal Reserve cut rates drastically to boost economic activity and make borrowing more affordable. For you, this means interest rates are low for credit cards, loans and lines of credit, and even fixed-rate mortgages. Consider taking advantage of these low rates if you need extra help paying your bills, keeping your business running or withstanding a period of unemployment.\n\n• Spend on small businesses\n[5] Looking to make a positive impact? Supporting small businesses is an easy and powerful way to help. You can order takeout, tip generously or donate to your local brick-and-mortar retail store, if they provide that option. Your support makes a big impact for struggling business owners.\n\n• Prior economic strength may help us bounce back\n[6] The thriving economy of 2019 isn’t just a distant, bittersweet memory. When our health is no longer at risk and social distancing mandates begin to diminish, we’ll slowly start to rebuild. The stability, low unemployment rate and upward-trending market we experienced prior to Covid-19 puts us in a good position to kick-start economic activity and rebound more quickly.\n\nAvailable at <https://www.usbank.com>. Retrieved on: Jul. 20, 2021. Adapted.",
+  "alternativas": [
+   "habitual action repeatedly carried out by the Federal Reserve to address certain economic situations.",
+   "future action to be carried out by the Federal Reserve to address possible problems.",
+   "promised action to be carried out by the Federal Reserve to address the present economic challenges.",
+   "one-time action carried out by the Federal Reserve to address the present situation.",
+   "current action carried out by the Federal Reserve to address a permanent situation."
+  ],
+  "correta": 3,
+  "comentario": "“Cut” é verbo irregular com a mesma forma no presente e no passado; aqui, a marca temporal “In March” mostra que é Simple Past: uma ação pontual, concluída, tomada para enfrentar a situação da pandemia. A alternativa A trataria o verbo como presente habitual, o que não combina com “In March”. B e C indicam futuro ou promessa, e E fala em situação permanente, o que o texto não diz.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-16",
+  "materia": "matematica",
+  "assunto": "Razão e proporção",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um escriturário mantém um desempenho de preencher 30 relatórios por hora e faz uma pausa de 10 minutos às 13h. Durante a pausa, seu chefe pergunta a que horas receberá todos os relatórios preenchidos. Se falta apenas 1 relatório e meio, e o escriturário pretende manter seu desempenho, a partir de que horas o chefe pode contar com todos os relatórios preenchidos?",
+  "alternativas": [
+   "13h02min",
+   "13h03min",
+   "13h10min",
+   "13h12min",
+   "13h13min"
+  ],
+  "correta": 4,
+  "comentario": "A 30 relatórios por hora, cada relatório leva 60/30 = 2 minutos, então 1,5 relatório leva 3 minutos. A pausa vai de 13h00 a 13h10, e só depois ele volta a trabalhar: 13h10 + 3 min = 13h13. O erro típico é esquecer a pausa e marcar 13h03 (B), ou somar a pausa sem o tempo de trabalho (C).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-17",
+  "materia": "matematica",
+  "assunto": "Porcentagem",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Durante um atendimento, o cliente de um banco relata ao gerente de atendimento sua disponibilidade para investir R$ 400.000,00. O gerente tem ao seu dispor 5 opções de investimento: renda fixa, CDB, fundo de ações, LCI e LCA. Ao cliente foi oferecida uma carteira diversificada de 20%, 10%, 30%, 15% e 25%, respectivamente. Sendo assim, verifica-se que o valor sugerido para",
+  "alternativas": [
+   "renda fixa foi de R$ 80.000,00",
+   "CDB foi de R$ 60.000,00",
+   "fundo de ações foi de R$ 40.000,00",
+   "LCI foi de R$ 100.000,00",
+   "LCA foi de R$ 120.000,00"
+  ],
+  "correta": 0,
+  "comentario": "Renda fixa: 20% de 400.000 = 80.000, que confere com a alternativa A. Os demais valores corretos seriam CDB 10% = 40.000, ações 30% = 120.000, LCI 15% = 60.000 e LCA 25% = 100.000. As alternativas erradas trocam os percentuais entre os investimentos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-18",
+  "materia": "matematica",
+  "assunto": "Função exponencial e logaritmo",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um fungo está se alastrando na parede, e a área contaminada pelo fungo varia no tempo de acordo com a função A: [0, ∞) → ℝ, dada por A(t) = A0 · b^t, em que b ∈ ℝ é uma constante maior que 1; A0 é a área da parede contaminada no instante inicial; e A(t) é a área contaminada após t dias. De acordo com esse modelo, depois de quantos dias a área contaminada estará triplicada?",
+  "alternativas": [
+   "raiz de índice b de 3 (b√3)",
+   "raiz cúbica de b (³√b)",
+   "log_b 3 (logaritmo de 3 na base b)",
+   "log_3 b (logaritmo de b na base 3)",
+   "log_b (1/3)"
+  ],
+  "correta": 2,
+  "comentario": "Queremos A(t) = 3·A0, ou seja, A0·b^t = 3·A0, o que dá b^t = 3. Pela definição de logaritmo, t = log_b 3. A alternativa D inverte base e logaritmando. A alternativa E daria b^t = 1/3, um valor negativo de t, que corresponderia à área reduzida a um terço.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-19",
+  "materia": "matematica",
+  "assunto": "Calendário e restos (MDC/MMC)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um casal está muito apaixonado, mas devido à distância de suas casas e ao regime de trabalho dos dois, eles não conseguem se encontrar com a frequência de que gostariam. A moça só tem folga aos sábados, e o rapaz trabalha três dias seguidos, folgando no quarto dia. Se hoje é terça-feira e é dia de folga do rapaz, quantas folgas dele cairão no sábado nos próximos 365 dias?",
+  "alternativas": [
+   "4",
+   "8",
+   "12",
+   "13",
+   "15"
+  ],
+  "correta": 3,
+  "comentario": "Contando hoje (terça) como dia 0, as folgas caem nos dias 4, 8, 12, ... e os sábados nos dias 4, 11, 18, ... Logo, o primeiro sábado de folga é o dia 4, e as coincidências se repetem a cada MMC(4, 7) = 28 dias: dias 4, 32, 60, ..., 4 + 28k. Queremos 4 + 28k ≤ 365, ou seja, k ≤ 12,9, então k vai de 0 a 12: são 13 folgas no sábado. Quem esquece o k = 0 marca 12.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021ti-20",
+  "materia": "matematica",
+  "assunto": "Problemas de rendimento (trabalho conjunto)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "André, Bianca e Carol precisam pintar um painel de 50 m². Para pintar 1 m², André gasta 12 minutos, Bianca gasta 20 minutos, e Carol, 15 minutos. Supondo-se que os três pintaram, juntos, o mesmo painel, sem fazer pausas e a velocidades constantes, quanto tempo eles levaram para a conclusão da tarefa?",
+  "alternativas": [
+   "3h 40min",
+   "4h 10min",
+   "5h 50min",
+   "6h",
+   "6h 20min"
+  ],
+  "correta": 1,
+  "comentario": "Somam-se as velocidades: 1/12 + 1/20 + 1/15 = (5 + 3 + 4)/60 = 12/60 = 1/5 m² por minuto. Juntos, eles pintam 1 m² a cada 5 minutos, então 50 m² levam 250 minutos = 4h10min. O erro comum é somar ou tirar a média dos tempos em vez de somar as velocidades.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-21",
+  "materia": "atualidades",
+  "assunto": "Fintechs",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Fintechs são empresas que",
+  "alternativas": [
+   "funcionam com o principal objetivo de compartilhar dados cadastrais entre diferentes instituições financeiras autorizadas pelo Banco Central do Brasil (BCB).",
+   "prestam serviços ao BCB, notadamente a preparação de Relatórios contendo dados e informações sobre as operações de crédito e de câmbio de todas as instituições financeiras.",
+   "prestam serviços ao BCB, notadamente a criação de sistemas de informações on-line que permitem o compartilhamento de dados entre diversos órgãos reguladores, como o próprio BCB, a Comissão de Valores Mobiliários (CVM) e a Superintendência de Seguros Privados (Susep).",
+   "empregam tecnologias digitais de última geração e oferecem serviços financeiros à margem do sistema bancário tradicional, estando, portanto, livres da regulação do BCB.",
+   "atuam por meio de plataformas on-line, lançando inovações no mercado financeiro, mediante uso intenso de tecnologias digitais com elevado potencial de criação de novos modelos de negócios."
+  ],
+  "correta": 4,
+  "comentario": "Fintechs são empresas que inovam no mercado financeiro por meio de plataformas digitais, criando novos modelos de negócio (pagamentos, crédito, contas digitais etc.). A alternativa D é a pegadinha: fintechs que exercem atividades financeiras precisam de autorização e são reguladas pelo BCB (por exemplo, SCD e SEP). A alternativa A descreve o Open Banking, e B se aproxima do Registrato. As fintechs não existem para prestar serviços ao BCB.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-22",
+  "materia": "atualidades",
+  "assunto": "Registrato",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Nos últimos anos, o Banco Central do Brasil (BCB), visando a aprimorar a transparência e a segurança na inter-relação entre as instituições financeiras e os clientes, tem procurado introduzir novos sistemas de informação por meio de tecnologias digitais. Um desses sistemas, administrados pelo BCB, permite aos cidadãos terem acesso pela internet, de forma rápida e segura, a Relatórios contendo informações sobre seus relacionamentos com as instituições financeiras, suas operações de crédito e operações de câmbio. Trata-se do sistema denominado",
+  "alternativas": [
+   "Pix",
+   "Blockchain",
+   "Registrato",
+   "Bitcoin",
+   "Certificação Digital"
+  ],
+  "correta": 2,
+  "comentario": "O Registrato é o sistema do BCB que permite ao cidadão consultar gratuitamente, pela internet, relatórios sobre seus relacionamentos com instituições financeiras, empréstimos e financiamentos (SCR), operações de câmbio e chaves Pix. O Pix é o meio de pagamento instantâneo. Blockchain é uma tecnologia de registro distribuído, e Bitcoin é um criptoativo. A Certificação Digital é um mecanismo de autenticação, não um relatório do BCB.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-23",
+  "materia": "atualidades",
+  "assunto": "Pix",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um dos objetivos almejados pelo Banco Central do Brasil, ao criar o Pix, é",
+  "alternativas": [
+   "reduzir a velocidade de circulação da moeda.",
+   "inibir a concorrência bancária.",
+   "aumentar os fluxos de pagamento com cartões eletrônicos.",
+   "disseminar os fluxos de pagamento de forma eletrônica.",
+   "aumentar o número de intermediários financeiros envolvidos nos fluxos de pagamentos."
+  ],
+  "correta": 3,
+  "comentario": "O Pix foi criado para estimular a eletronização dos pagamentos, reduzir o uso de dinheiro em espécie, baratear as transações e aumentar a concorrência e a inclusão financeira. Por isso, a resposta é D. As alternativas A, B e E são o oposto do objetivo: o Pix acelera os pagamentos, estimula a concorrência e reduz intermediários. O Pix também não busca aumentar o uso de cartões; ele é uma alternativa a eles.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-24",
+  "materia": "atualidades",
+  "assunto": "Open banking",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O Conselho Monetário Nacional e o Banco Central do Brasil (BCB) vêm estabelecendo novas regras no Sistema Financeiro Nacional. Uma delas abre a possibilidade de clientes de produtos financeiros permitirem o compartilhamento de dados cadastrais entre diferentes instituições financeiras autorizadas pelo BCB, bem como a movimentação de suas contas bancárias a partir de diferentes plataformas, e não apenas pelo aplicativo ou site do banco. A essa nova modalidade denomina-se",
+  "alternativas": [
+   "Fintech",
+   "Open banking",
+   "Shadow banking",
+   "Internet banking",
+   "Pix"
+  ],
+  "correta": 1,
+  "comentario": "O Open Banking (hoje chamado Open Finance) permite que o cliente autorize o compartilhamento padronizado de seus dados e serviços entre instituições autorizadas, inclusive para iniciar pagamentos a partir de outras plataformas. Shadow banking é a intermediação financeira feita fora do sistema bancário regulado. Internet banking é apenas o canal on-line do próprio banco. Fintech é um tipo de empresa, e Pix é um meio de pagamento.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-25",
+  "materia": "atualidades",
+  "assunto": "Funções da moeda",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O texto seguinte trata de uma das funções da moeda.\n\n“As economias – as ‘economias reais’ – são sistemas de escambo vastos. O problema é que a história mostra que, sem o dinheiro, esses sistemas não acontecem. Até mesmo quando as economias ‘revertem para o escambo’, como parece ter ocorrido na Europa na Idade Média, elas não abandonam de fato o uso do dinheiro. Elas apenas deixam de usar o dinheiro vivo. Na Idade Média, por exemplo, todos continuaram calculando o valor de ferramentas e gado na antiga moeda romana, mesmo que ela já não circulasse mais.” (Graeber, D. Dívida: os primeiros 5.000 anos. São Paulo: Três Estrelas, 2016.)\n\nNo trecho citado, o autor destaca que, na Idade Média, a antiga moeda romana continuou exercendo a função de",
+  "alternativas": [
+   "débito",
+   "crédito",
+   "meio de troca",
+   "unidade de conta",
+   "reserva de valor"
+  ],
+  "correta": 3,
+  "comentario": "A moeda tem três funções clássicas: meio de troca, unidade de conta e reserva de valor. Como a moeda romana não circulava mais, ela não servia como meio de troca, mas continuava sendo usada para “calcular o valor” de bens, o que é justamente a função de unidade de conta (medida comum de valor). Reserva de valor seria guardar a moeda para uso futuro, algo que o texto não menciona. Débito e crédito não são funções da moeda.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-26",
+  "materia": "estatistica",
+  "assunto": "Média ponderada e porcentagem",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Uma central de assistência técnica de celulares trabalha com três modelos de um mesmo fabricante. Para melhor organizar seu sistema, foi medido o tempo de serviço para o conserto de cada aparelho, desde a chegada do pedido de manutenção até a entrega do aparelho consertado, e cada um desses prazos foi classificado como Curto, Médio ou Longo. A distribuição dos tempos de serviço para cada modelo em 2020 foi:\n\nModelo A: Curto 10%, Médio 20%, Longo 70%\nModelo B: Curto 20%, Médio 50%, Longo 30%\nModelo C: Curto 40%, Médio 20%, Longo 40%\n\nConsiderando-se que, ao longo do ano de 2020, essa empresa reparou 1.000 unidades do modelo A, 600 unidades do modelo B e 400 unidades do modelo C, qual foi a porcentagem desses atendimentos, nesse período, que tiveram tempo de serviço Curto ou Médio?",
+  "alternativas": [
+   "29%",
+   "48%",
+   "52%",
+   "58%",
+   "96%"
+  ],
+  "correta": 1,
+  "comentario": "Curto ou Médio por modelo: A = 30% de 1.000 = 300; B = 70% de 600 = 420; C = 60% de 400 = 240. O total é 960 de 2.000 aparelhos, ou seja, 48%. A alternativa C (52%) é o complemento, isto é, a proporção de tempos Longos. Tirar a média simples dos percentuais sem ponderar pelas quantidades também leva ao erro.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-27",
+  "materia": "estatistica",
+  "assunto": "Distribuição binomial",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um certo sistema anti-incêndio funciona com 3 sensores acoplados de temperatura, de maneira a minimizar as chances de mau funcionamento. O alarme desse sistema soa sempre que grandes variações de temperatura são detectadas por, pelo menos, 2 desses 3 sensores. Considerando-se que a probabilidade de um sensor não reagir corretamente a uma grande variação de temperatura é 1/5, qual a probabilidade de esse sistema não disparar o alarme em uma situação de grande variação de temperatura?",
+  "alternativas": [
+   "1/125",
+   "5/125",
+   "12/125",
+   "13/125",
+   "16/125"
+  ],
+  "correta": 3,
+  "comentario": "O alarme não dispara quando no máximo 1 sensor detecta, ou seja, quando pelo menos 2 falham. P(exatamente 2 falham) = C(3,2)·(1/5)²·(4/5) = 3·4/125 = 12/125. P(3 falham) = (1/5)³ = 1/125. Somando, 13/125. Quem esquece o caso das três falhas marca 12/125; quem esquece o fator combinatório 3 chega a 5/125.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-28",
+  "materia": "estatistica",
+  "assunto": "Variância e covariância",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Sejam X e Y duas variáveis aleatórias com as seguintes informações sobre as variâncias: (i) Var(X) = 4; (ii) Var(Y) = 9; (iii) Var(X+Y) = 9. Qual é o valor da covariância entre X e Y?",
+  "alternativas": [
+   "−4",
+   "−2",
+   "0",
+   "6",
+   "36"
+  ],
+  "correta": 1,
+  "comentario": "Usa-se Var(X+Y) = Var(X) + Var(Y) + 2·Cov(X,Y). Então 9 = 4 + 9 + 2·Cov, o que dá 2·Cov = −4 e Cov = −2. A alternativa A esquece de dividir por 2. A alternativa C supõe independência, o que não é compatível com Var(X+Y) diferente de 13.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-29",
+  "materia": "estatistica",
+  "assunto": "Coeficiente de variação",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um pesquisador recebeu os dados de uma amostra de tamanho 100 de uma população e calculou a média amostral μ, o desvio padrão amostral σ e o coeficiente de variação amostral CV = σ/μ. Antes de iniciar a análise, ele foi informado de que os dados dessa amostra estavam todos errados, mas que podiam ser corrigidos somando-se 3 a cada um dos dados que recebeu. Após fazer tal correção, o valor do coeficiente de variação amostral passou a ser",
+  "alternativas": [
+   "3σ/(μ + 3)",
+   "300σ/(μ + 300)",
+   "σ/(μ + 3)",
+   "σ/(μ + 300)",
+   "σ/(μ + 0,03)"
+  ],
+  "correta": 2,
+  "comentario": "Somar uma constante a todos os dados desloca a média na mesma constante (nova média = μ + 3), mas não altera a dispersão: o desvio padrão continua σ. Logo, o novo CV = σ/(μ + 3). O erro típico é achar que o desvio padrão também muda (alternativa A, que seria o efeito de multiplicar os dados, e não de somar) ou confundir o tamanho da amostra (100) com a constante somada.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-30",
+  "materia": "estatistica",
+  "assunto": "Probabilidade da interseção",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A relação do cliente com o sistema bancário tradicional vem passando por transformações nos últimos cinco anos com o crescimento dos bancos digitais. Para analisar o perfil desses clientes, uma agência bancária analisou os seguintes dados de uma pesquisa amostral sobre bancos digitais:\n\n“Em relação a bancos digitais, você...”: 45% já ouviu falar; 19% sabe como funciona; 14% possui relacionamento; 22% não conhece.\n\n“Entre aqueles que têm relacionamento com bancos digitais (14%), os principais motivos para iniciar esse relacionamento foram...” (várias respostas possíveis): valores das tarifas 44%; pela inovação de ser um banco 100% digital 39%; indicação de amigo/parente/conhecido 22%; por ser diferente de outros bancos 16%; para dividir o dinheiro em várias contas 16%; para resolver tudo pela internet 41%; para ter mais uma fonte de crédito (cartão e limite) 28%; para poder focar em investimentos 20%; por estar insatisfeito com banco atual (não digital) 12%; pela propaganda do banco 12%.\n\n(Fonte: Instituto QualiBest, 2019. Adaptado.)\n\nEscolhendo-se ao acaso um dos entrevistados dessa pesquisa, qual é, aproximadamente, a probabilidade de esse cliente ter um relacionamento com banco digital e de ter apresentado como motivo para iniciar esse relacionamento a facilidade de poder resolver tudo pela internet?",
+  "alternativas": [
+   "5,7%",
+   "6,2%",
+   "6,4%",
+   "7,2%",
+   "7,8%"
+  ],
+  "correta": 0,
+  "comentario": "Trata-se da probabilidade da interseção: P(relacionamento e motivo internet) = P(relacionamento) · P(motivo internet | relacionamento) = 0,14 · 0,41 = 0,0574, ou aproximadamente 5,7%. O percentual de 41% é condicional, pois vale apenas entre quem já tem relacionamento, e por isso precisa ser multiplicado por 14%. Usar outro motivo, como 44%, dá 6,2%, que é uma das alternativas erradas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-31",
+  "materia": "bancarios",
+  "assunto": "Responsabilidade socioambiental",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Sr. Z resolve empreender na área agrícola, estabelecendo sua sede no interior do Brasil onde seus estudos identificaram uma maior necessidade de empregos. Após realizar as contratações de praxe, inicia suas atividades, gerando um forte crescimento na região onde atua. Não desejando aumentar o número de empregados, diante dos custos fixos da mão de obra, resolve ampliar sua produção, negociando com pequenos empreendimentos locais. Necessitando de aporte financeiro, ele apresenta pedido de empréstimo ao Banco Y, que encaminha equipe de auditoria à sede do pretendente. Para surpresa de todos, a auditoria constata, em vários pequenos empreendimentos, trabalho infantil não autorizado pela legislação e, por força disso, propõe que o empréstimo seja negado. Nos termos da Política de Responsabilidade Socioambiental do Banco do Brasil, constatado idêntico ilícito por parte de fornecedor, ocorreria a",
+  "alternativas": [
+   "manutenção do vínculo contratual, por ser relação exterior.",
+   "suspensão do vínculo até regularização dos atos.",
+   "majoração dos juros do empréstimo, pelo risco aumentado.",
+   "análise da relação temporal com o Banco e o valor dos investimentos.",
+   "decisão de realizar o empréstimo, para bater as metas gerenciais."
+  ],
+  "correta": 1,
+  "comentario": "A Política de Responsabilidade Socioambiental do BB prevê que fornecedores flagrados em práticas como trabalho infantil ou análogo ao escravo tenham o vínculo suspenso até a regularização. A alternativa A ignora que a política alcança a cadeia de fornecedores. As alternativas C, D e E tratam uma violação de direitos humanos como mera questão de preço, relacionamento ou meta comercial, o que contraria a política.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-32",
+  "materia": "bancarios",
+  "assunto": "Sigilo bancário (LC 105/2001)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "T é agente fiscal da União Federal, atuando em grupo especial que monitora devedores qualificados. Após divisão interna de trabalho, T fica com a responsabilidade de fiscalizar cinco contribuintes específicos, pois são habituais interessados em procedimentos administrativos, cujo valor é superior a milhões de reais. O trabalho iniciou com o mapeamento das instituições financeiras que mantêm relacionamento negocial com os cinco contribuintes. Ficou apurado que são relevantes os Bancos Z, Y e W, em expressivas movimentações, incluindo depósitos, saques e aplicações financeiras, além de remessas para o exterior. Os dados levantados, no entanto, não são específicos, mas apenas resultado de análise de estatísticas do Banco Central. Para ter acesso ao banco de dados de cada contribuinte, T deve realizar alguns outros atos. Nos termos da Lei Complementar nº 105/2001, os agentes fiscais tributários da União poderão examinar documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósitos e aplicações financeiras,",
+  "alternativas": [
+   "havendo processo fiscal em curso.",
+   "autorizados pelo Banco Central.",
+   "após diligências locais.",
+   "mediante convênios com instituições financeiras privadas.",
+   "livremente"
+  ],
+  "correta": 0,
+  "comentario": "O art. 6º da LC 105/2001 permite que as autoridades fiscais examinem dados bancários sem ordem judicial, desde que haja processo administrativo ou procedimento fiscal em curso e o exame seja considerado indispensável pela autoridade competente. O acesso não é livre (E) e não depende de autorização do Banco Central (B), de diligências locais (C) ou de convênios com os bancos (D). As informações obtidas continuam protegidas por sigilo fiscal.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-33",
+  "materia": "bancarios",
+  "assunto": "Copom e taxa Selic",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No Brasil, a fixação da taxa básica de juros da economia (a Selic) está sob a alçada do",
+  "alternativas": [
+   "Comitê de Política Monetária",
+   "Conselho Monetário Nacional",
+   "Ministério da Economia",
+   "Banco do Brasil",
+   "mercado financeiro"
+  ],
+  "correta": 0,
+  "comentario": "O Copom, órgão do Banco Central formado pela diretoria colegiada do BC, define a meta da taxa Selic em reuniões periódicas (8 por ano). O CMN fixa a meta de inflação, mas não a Selic, e essa é a confusão mais comum. O Ministério da Economia e o Banco do Brasil não têm essa competência. O mercado forma a taxa Selic efetiva, mas ela é conduzida pelo BC para ficar próxima da meta definida pelo Copom.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-34",
+  "materia": "bancarios",
+  "assunto": "Segmentação de mercado (varejo bancário)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Se o planejamento estratégico do Banco do Brasil fixar, como meta prioritária, a expansão de suas operações no varejo bancário, o público-alvo serão as(os)",
+  "alternativas": [
+   "companhias de grande porte",
+   "governos nas esferas federal, estadual e municipal",
+   "exportadores",
+   "importadores",
+   "clientes individuais"
+  ],
+  "correta": 4,
+  "comentario": "O varejo bancário atende um grande número de clientes com operações de valor relativamente pequeno e padronizadas, sobretudo pessoas físicas e pequenas empresas (clientes individuais). Grandes companhias são atendidas pelo atacado (corporate). Governos formam o segmento de setor público, e exportadores e importadores são atendidos por áreas de comércio exterior.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-35",
+  "materia": "bancarios",
+  "assunto": "Prevenção à lavagem de dinheiro (Carta-Circular 4.001/2020)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "K pretende realizar atividades financeiras no Brasil, buscando maximizar os lucros dos seus inúmeros clientes sediados no exterior. A quase totalidade dos investidores atua nos denominados “paraísos fiscais”. De acordo com as regras da Carta-Circular nº 4.001/2020, do Banco Central do Brasil, essas operações devem ser monitoradas na seguinte categoria:",
+  "alternativas": [
+   "custos de empresas",
+   "operações de crédito",
+   "contratos operacionais",
+   "atividades internacionais",
+   "investimentos mercadológicos"
+  ],
+  "correta": 3,
+  "comentario": "A Carta-Circular 4.001/2020 lista operações e situações que podem indicar lavagem de dinheiro ou financiamento do terrorismo, organizadas em categorias. Transações com clientes ou recursos ligados a países ou dependências de tributação favorecida (paraísos fiscais) ficam na categoria de situações relacionadas a atividades internacionais. As demais alternativas não correspondem às categorias da norma para esse caso.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-36",
+  "materia": "ti",
+  "assunto": "Aprendizado de máquina (métricas)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao tentar resolver um problema de aprendizado de máquina que separava um evento entre duas classes, um desenvolvedor encontrou uma acurácia de exatamente 90%. Analisando a matriz de confusão, o desenvolvedor constatou que os verdadeiros positivos eram 14169, que os verdadeiros negativos eram 15360, os falsos positivos eram 1501, e os falsos negativos eram",
+  "alternativas": [
+   "1778",
+   "1779",
+   "1780",
+   "1781",
+   "1782"
+  ],
+  "correta": 2,
+  "comentario": "Acurácia = (VP + VN) / total. Os acertos são 14169 + 15360 = 29529; se isso é 90% do total, o total é 29529 / 0,9 = 32810. Tirando os acertos e os falsos positivos: FN = 32810 − 29529 − 1501 = 1780. As alternativas vizinhas testam erros de arredondamento ou de conta. Confundir a acurácia com precisão ou recall também leva a valores errados.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-38",
+  "materia": "ti",
+  "assunto": "SQL",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Para gerar um gráfico de dispersão, um programador precisava consultar duas tabelas, T1 e T2. Ele decidiu, então, usar um LEFT JOIN, como em\n\nSELECT * FROM T1 LEFT JOIN T2 USING (CHAVE);\n\nEssa consulta resultou em 214 linhas. Por motivos de segurança, ele fez outra consulta semelhante, apenas trocando o LEFT JOIN por um JOIN, e essa segunda consulta resultou em 190 linhas. O que pode explicar corretamente a quantidade diferente de linhas nas consultas realizadas?",
+  "alternativas": [
+   "CHAVE é a chave primária de T1, mas apenas um campo da chave primária de T2.",
+   "CHAVE é a chave primária de T2, mas apenas um campo da chave primária de T1.",
+   "T1 possui linhas cujo valor de CHAVE não está presente na T2.",
+   "T2 possui linhas cujo valor de CHAVE não está presente na T1.",
+   "T2 possui linhas com todas as chaves presentes em T1, mas com campos nulos."
+  ],
+  "correta": 2,
+  "comentario": "O LEFT JOIN devolve todas as linhas de T1, inclusive as que não têm correspondência em T2 (com NULL nas colunas de T2). O JOIN (INNER) devolve só os pares que casam. As 24 linhas a mais vêm, portanto, de linhas de T1 cuja CHAVE não existe em T2. Linhas de T2 sem correspondência em T1 (D) não aparecem em nenhuma das duas consultas. As alternativas A e B afetariam a multiplicidade das duas consultas igualmente, sem explicar a diferença. (Gabarito alterado para C após recursos.)",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-39",
+  "materia": "ti",
+  "assunto": "Python (Pandas)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao analisar um conjunto de dados com Python, um programador resolveu usar um dataframe Pandas de nome dp para guardá-los. Em um certo momento, ele resolveu que precisaria usar, apenas, quatro colunas de dados do dataframe: \"pais\", \"ano\", \"renda per capita\" e \"expectativa de vida\". Que fragmento de código Python 3 deve ser usado para selecionar, apenas, essas quatro colunas do dataframe dp?",
+  "alternativas": [
+   "dp[\"pais\",\"ano\",\"expectativa de vida\",\"renda per capita\"]",
+   "dp[[\"pais\",\"ano\",\"expectativa de vida\",\"renda per capita\"]]",
+   "dp(\"pais\",\"ano\",\"expectativa de vida\",\"renda per capita\")",
+   "dp([\"pais\",\"ano\",\"expectativa de vida\",\"renda per capita\"])",
+   "dp[dp[\"pais\",\"ano\",\"expectativa de vida\",\"renda per capita\"]]"
+  ],
+  "correta": 1,
+  "comentario": "Para selecionar várias colunas de um DataFrame, passa-se uma lista de nomes dentro do operador de indexação: dp[[...]], com colchetes duplos (o externo é a indexação e o interno é a lista). Em A, os nomes separados por vírgula formam uma tupla, que o Pandas interpreta como um único rótulo e gera KeyError. C e D tentam “chamar” o DataFrame como função, o que não é permitido. E mistura indexação booleana com uma seleção inválida.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-40",
+  "materia": "ti",
+  "assunto": "SQL (restrições de integridade)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao coletar dados em um sistema compatível com SQL 2008 para fazer uma análise de dados, um programador percebeu que havia dois campos, data_de_nascimento e data_de_emissão_RG, em que o valor de data_de_emissão_RG sempre deve ser mais recente que data_de_nascimento. Percebeu, porém, que em 10% das linhas acontecia o inverso. Ele corrigiu os dados nessas linhas, mas, preocupado que tal problema voltasse a acontecer, resolveu solicitar ao DBA uma alteração da tabela, de forma que data_de_emissão_RG sempre tivesse que ser mais recente que data_de_nascimento. O DBA atendeu adequadamente a esse pedido por meio de uma restrição em SQL 2008 do tipo",
+  "alternativas": [
+   "CHECK",
+   "INSPECT",
+   "TEST",
+   "VALIDATE",
+   "VERIFY"
+  ],
+  "correta": 0,
+  "comentario": "A restrição CHECK impõe uma condição booleana que toda linha deve satisfazer, por exemplo: ALTER TABLE t ADD CONSTRAINT ck_datas CHECK (data_de_emissao_RG > data_de_nascimento). As demais palavras (INSPECT, TEST, VALIDATE, VERIFY) não são tipos de restrição no padrão SQL. As restrições do padrão são NOT NULL, UNIQUE, PRIMARY KEY, FOREIGN KEY e CHECK.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-41",
+  "materia": "ti",
+  "assunto": "TypeScript (generics)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere o fragmento de código TypeScript a seguir.\n\nconst a = <T extends {b: string}>(obj: T) => { <código removido> };\n\nCom relação ao código apresentado acima, a(o)",
+  "alternativas": [
+   "função a() retorna um objeto do tipo string.",
+   "variável a é uma lista de objetos do tipo string.",
+   "variável a é um dicionário cujas chaves são objetos do tipo string.",
+   "objeto que for passado para a função a() deve ter um campo b do tipo string.",
+   "valor retornado pela função a() é um objeto que estende um objeto do tipo string."
+  ],
+  "correta": 3,
+  "comentario": "A variável a guarda uma arrow function genérica. O tipo T é restrito por “extends {b: string}”, então o argumento obj precisa ter, no mínimo, uma propriedade b do tipo string (pode ter outras). Nada se sabe sobre o retorno, porque o corpo foi removido, o que elimina A e E. A variável a não é lista nem dicionário (B e C).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-42",
+  "materia": "ti",
+  "assunto": "Python (NumPy)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere o código Python a seguir.\n\nimport numpy as np\na = np.array([[1,2,3],[4,5,6],[7,8,9]])\nprint (a[a>5])\n\nO que será exibido após esse código ser executado?",
+  "alternativas": [
+   "[[False False False]\n [False False True]\n [True True True]]",
+   "[[False False False]\n [False False 6]\n [7 8 9]]",
+   "[[] [6] [7 8 9]]",
+   "[False False False False False 6 7 8 9]",
+   "[6 7 8 9]"
+  ],
+  "correta": 4,
+  "comentario": "a > 5 gera uma máscara booleana do mesmo formato da matriz. Usar essa máscara como índice (indexação booleana) devolve um array unidimensional só com os elementos em que a máscara é True, na ordem de varredura por linhas: [6 7 8 9]. A alternativa A mostraria apenas print(a > 5). As alternativas B, C e D imaginam que a forma da matriz é preservada, mas a indexação booleana sempre “achata” o resultado.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-43",
+  "materia": "ti",
+  "assunto": "Python (NumPy)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere o código Python a seguir.\n\nimport numpy as np\nvalorAplicado = np.array([5000, 6000, 7000, 8000])\ntaxaJuros = np.array([1, 2, 3, 4])\nresultado = valorAplicado * taxaJuros\n\nAo executar o código acima, o valor final da variável resultado será",
+  "alternativas": [
+   "70000",
+   "260000",
+   "[ 5000 12000 21000 32000]",
+   "[[ 5000 10000 15000 20000]\n [ 6000 12000 18000 24000]\n [ 7000 14000 21000 28000]\n [ 8000 16000 24000 32000]]",
+   "[[ 5000  6000  7000  8000]\n [10000 12000 14000 16000]\n [15000 18000 21000 24000]\n [20000 24000 28000 32000]]"
+  ],
+  "correta": 2,
+  "comentario": "Em NumPy, o operador * entre arrays de mesmo formato faz a multiplicação elemento a elemento: 5000·1, 6000·2, 7000·3 e 8000·4 = [5000 12000 21000 32000]. O produto escalar (np.dot) daria 70000 (A). As matrizes de D e E seriam o produto externo (np.outer), que não é o que * faz com vetores 1D do mesmo tamanho.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-44",
+  "materia": "ti",
+  "assunto": "Aprendizado de máquina (classificação)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um pesquisador conseguiu uma base de dados que mostrava terrenos classificados de acordo com: características físicas; tipo de negócio a ser nele implantado; risco esperado, que compreendia os rótulos alto, médio, baixo ou nenhum. Decidiu, então, usar um algoritmo de aprendizado de máquina que, a partir das características físicas do terreno e do tipo de negócio a ser nele implantado, aprenderia a determinar o risco esperado, enquadrando o terreno em questão em um daqueles rótulos. Nesse cenário, que algoritmo de aprendizado de máquina é indicado para resolver esse problema?",
+  "alternativas": [
+   "PCA",
+   "K-NN",
+   "DBSCAN",
+   "K-Medoids",
+   "Redes de Kohonen"
+  ],
+  "correta": 1,
+  "comentario": "Há dados rotulados e o objetivo é prever uma classe (alto, médio, baixo ou nenhum): é um problema de classificação supervisionada. O K-NN (k vizinhos mais próximos) é um classificador supervisionado. PCA é redução de dimensionalidade. DBSCAN e K-Medoids são algoritmos de agrupamento (não supervisionados), e as Redes de Kohonen (mapas auto-organizáveis) também são, em geral, não supervisionadas.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-45",
+  "materia": "ti",
+  "assunto": "SQL (DDL)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Após um treinamento em SQL padrão 2008, compatível com ambiente MS SQL Server 2008, um escriturário do Banco Z precisou criar uma tabela de fornecedores com os campos CNPJ, nome do fornecedor e país de origem. As características da tabela são:\n- o campo CNPJ é chave primária e contém 14 caracteres, que devem ser apenas numéricos (\"0\" a \"9\"), e o caractere zero \"0\" não pode ser ignorado, seja qual for a posição dele (início, meio ou fim da chave);\n- o campo NOME contém 20 caracteres e aceita valor nulo;\n- o campo PAIS contém 15 caracteres e não aceita valor nulo.\n\nNesse contexto, o comando SQL 2008 que cria uma tabela com as características descritas acima é",
+  "alternativas": [
+   "CREATE TABLE Fornecedores (CNPJ INTEGER PRIMARY KEY, NOME VARCHAR(20) ACCEPT NULL, PAIS VARCHAR(15) NOT NULL)",
+   "CREATE TABLE Fornecedores (CNPJ CHAR(14) PRIMARY KEY, NOME VARCHAR(20), PAIS VARCHAR(15) NOT NULL)",
+   "CREATE TABLE Fornecedores (CNPJ CHAR(14) NOT NULL, NOME VARCHAR(20) NOT NULL, PAIS VARCHAR(15))",
+   "CREATE TABLE Fornecedores (CNPJ CHAR(14), NOME VARCHAR(20) NOT NULL, PAIS VARCHAR(15) NOT NULL), PRIMARY KEY (CNPJ)",
+   "CREATE TABLE Fornecedores (CNPJ INTEGER(14) NOT NULL, NOME VARCHAR(20), PAIS VARCHAR(15) NOT NULL), PRIMARY KEY (CNPJ)"
+  ],
+  "correta": 1,
+  "comentario": "Como os zeros à esquerda não podem ser perdidos, o CNPJ deve ser texto de tamanho fixo, CHAR(14), e não um tipo numérico (INTEGER descartaria os zeros iniciais), o que elimina A e E. NOME aceita nulo, que é o padrão quando não se escreve NOT NULL, e PAIS precisa de NOT NULL. A alternativa B atende a tudo. C não define chave primária e inverte a nulidade de NOME e PAIS. D põe NOT NULL em NOME e deixa PRIMARY KEY fora dos parênteses, com sintaxe inválida. ACCEPT NULL (A) também não existe em SQL.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-46",
+  "materia": "ti",
+  "assunto": "Banco de dados (views)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Para que fosse mais fácil entender um sistema em desenvolvimento, um desenvolvedor usou um modelo de dados relacional (protótipo) mais simples do que o do banco de dados do sistema corporativo original, sendo que ambos utilizavam o mesmo SGBD PostgreSQL. Cabe ressaltar que esse protótipo utilizava apenas um subconjunto dos dados do sistema corporativo original e realizava apenas consultas. Uma forma de garantir que os dados desse protótipo estejam sempre completamente atualizados em relação aos dados reais, com baixo impacto tanto na operação quanto no desempenho do sistema corporativo original, é",
+  "alternativas": [
+   "criar apenas VIEWS no protótipo, definidas com consultas sobre as tabelas do sistema corporativo original.",
+   "implantar TRIGGERS a cada INSERT, em todas as tabelas do sistema corporativo original, atualizando as tabelas do protótipo.",
+   "implantar TRIGGERS de atualização a cada SELECT, em todas as tabelas do protótipo.",
+   "particionar as tabelas da base do sistema corporativo original escolhendo um RANGE adequado ao trabalho do protótipo.",
+   "utilizar DUMP da base do sistema corporativo original e PSQL para a base do protótipo, a cada seção de trabalho, para atualizar a base do protótipo."
+  ],
+  "correta": 0,
+  "comentario": "Uma VIEW (não materializada) é uma consulta armazenada: sempre que é lida, busca os dados atuais das tabelas de origem. Assim, o protótipo fica sempre em dia sem copiar dados e sem alterar o sistema original. Triggers em todas as tabelas do sistema original (B) aumentam o custo de cada escrita e ainda deixariam de fora UPDATE e DELETE. O PostgreSQL não tem trigger de SELECT (C). Particionar (D) mexe na estrutura do sistema de produção. O DUMP (E) é pesado e deixa os dados desatualizados entre as cargas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-47",
+  "materia": "ti",
+  "assunto": "TypeScript (DOM e seletores CSS)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere o código HTML a seguir.\n\n<!doctype html>\n<html lang=\"pt-br\">\n<head>\n<script src=\"script.js\"></script>\n</head>\n<body>\n<form>\nTexto: <input type='text' name='texto' id='idTexto' class='classe-input' value='Texto inicial'><br>\n<input type='submit' value='Envia'>\n</form>\n</body>\n</html>\n\nConsidere, também, o arquivo TypeScript script.ts, listado a seguir, que irá gerar o arquivo script.js no mesmo diretório do arquivo HTML apresentado acima.\n\nonload = (event) => {\n    const texto = document.querySelector('???') as HTMLInputElement;\n    console.log('Texto inicial: ', texto.value);\n};\n\nQue texto o programador deverá utilizar no lugar de ???, no código do arquivo TypeScript script.ts, para exibir o valor do campo HTML input na console?",
+  "alternativas": [
+   "#classe-input",
+   "#idTexto",
+   "#texto",
+   ".idTexto",
+   ".texto"
+  ],
+  "correta": 1,
+  "comentario": "querySelector usa seletores CSS: # seleciona pelo atributo id e . seleciona pela classe. O input tem id=\"idTexto\" e class=\"classe-input\", então funcionariam \"#idTexto\" ou \".classe-input\"; entre as opções, só \"#idTexto\" está correta. \"#classe-input\" usa o prefixo de id com o nome da classe. \"#texto\" e \".texto\" usam o atributo name, que exigiria o seletor [name=\"texto\"]. \".idTexto\" trata o id como classe.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-48",
+  "materia": "ti",
+  "assunto": "TypeScript (reduce)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Em TypeScript 4, é possível usar o seguinte fragmento de código:\n\n// definir x\nconst y = (...args: number[]) => args.reduce(x, 0);\n\nQue fragmento de código apresenta uma versão compilável e executável da definição de x que poderia aparecer no lugar do comentário \"// definir x\"?",
+  "alternativas": [
+   "const x = 1;",
+   "const x = [1,2,3];",
+   "const x = (a:number) => [a*2];",
+   "const x = (a:number[]) => a[0];",
+   "const x = (a:number,b:number) => a+b;"
+  ],
+  "correta": 4,
+  "comentario": "O primeiro argumento de reduce deve ser uma função redutora (acumulador, valorAtual) => novoAcumulador. Com valor inicial 0 (número), o acumulador é number e a função deve retornar number. A alternativa E, (a, b) => a + b, soma todos os argumentos. A e B não são funções. C retorna um array, incompatível com o acumulador numérico. D espera um array como primeiro parâmetro, mas recebe um número.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-49",
+  "materia": "ti",
+  "assunto": "Data Warehouse (modelagem dimensional)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao desenvolver um Data Warehouse para o Banco W, um programador decidiu criar um modelo conceitual com base no modelo estrela para cada fato analisado. Ao criar a primeira tabela fato, relativa ao valor e ao prazo de empréstimos, foram identificadas as seguintes dimensões, com os seus atributos descritos em parênteses: tempo (dia, mês e ano), agência (estado, cidade, bairro e número da agência), produto (nome do produto e juros do produto) e cliente (conta e nome do cliente). Segundo as regras e as práticas da modelagem dimensional, e usando a granularidade mais baixa, que atributos devem constar da tabela fato?",
+  "alternativas": [
+   "fato_id, dia, mes, ano, estado, cidade, bairro, numero_agencia, nome_produto, juros_mensais_produto, conta_cliente, nome_cliente, valor_emprestimo, prazo_emprestimo",
+   "fato_id, emprestimo_id, valor_emprestimo, prazo_emprestimo",
+   "fato_id, tempo_id, agencia_id, produto_id, cliente_id, emprestimo_id",
+   "fato_id, tempo_id, agencia_id, produto_id, cliente_id, dia, mes, ano, estado, cidade, bairro, numero_agencia, nome_produto, juros_mensais_produto, conta_cliente, nome_cliente, valor_emprestimo, prazo_emprestimo",
+   "fato_id, tempo_id, agencia_id, produto_id, cliente_id, valor_emprestimo, prazo_emprestimo"
+  ],
+  "correta": 4,
+  "comentario": "No esquema estrela, a tabela fato guarda as chaves estrangeiras de cada dimensão (tempo_id, agencia_id, produto_id, cliente_id) e as medidas numéricas do fato (valor e prazo do empréstimo). Os atributos descritivos ficam nas tabelas de dimensão. A alternativa A desnormaliza tudo dentro do fato, e D ainda repete os atributos junto com as chaves. B não tem as ligações com as dimensões, e C não tem as medidas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-50",
+  "materia": "ti",
+  "assunto": "Java (polimorfismo e métodos estáticos)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Sejam as seguintes classes Java:\n\npublic class Va1 {\n    public static String getStr() {\n        return \"abcdefghijklmnop\";\n    }\n    public String ini(String s, int cpr) {\n        return s.substring(0, cpr);\n    }\n    public String fin(String s, int cpr) {\n        return ini(s, cpr)+s.substring(s.length()-cpr, s.length());\n    }\n}\n\npublic class Va2 extends Va1 {\n    public static String getStr() {\n        return \"0123456789ABCDEF\";\n    }\n    public String ini(String s, int cpr) {\n        return s.substring(s.length()-cpr, s.length());\n    }\n    public static void main(String[] args) {\n        Va1 o=new Va2();\n        System.out.println(o.fin(o.getStr(), 5));\n    }\n}\n\nO que será exibido no console quando o método main for executado?",
+  "alternativas": [
+   "0123BCDE",
+   "BCDEFBCDEF",
+   "01234BCDEF",
+   "abcdelmnop",
+   "lmnoplmnop"
+  ],
+  "correta": 4,
+  "comentario": "Métodos estáticos não são sobrescritos, apenas ocultados: o.getStr() é resolvido pelo tipo declarado de o (Va1) e retorna \"abcdefghijklmnop\". Já ini é um método de instância, e a chamada dentro de fin usa ligação dinâmica: executa Va2.ini, que devolve os últimos 5 caracteres, \"lmnop\". O restante de fin concatena de novo os últimos 5, \"lmnop\", resultando em \"lmnoplmnop\". Quem aplica polimorfismo ao método estático chega a B, e quem ignora a sobrescrita de ini chega a D.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021ti-53",
+  "materia": "ti",
+  "assunto": "Algoritmos de busca",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Desejam-se realizar buscas nas seguintes coleções de dados, representadas na linguagem Java:\nI - Um array de 1.000 números inteiros ordenados de forma decrescente;\nII - Uma lista encadeada desordenada e alocada dinamicamente, cujos 1.000 nós contêm strings (uma string por nó);\nIII - Uma lista encadeada, alocada dinamicamente, cujos 1.000 nós contêm números decimais (um número double por nó) ordenados de forma ascendente.\n\nLevando-se em consideração a exequibilidade e a eficiência, quais métodos de busca devem ser empregados, respectivamente, em cada um dos três casos acima?",
+  "alternativas": [
+   "I – sequencial; II – sequencial; III – binária",
+   "I – binária; II – sequencial; III – sequencial",
+   "I – binária; II – sequencial; III – binária",
+   "I – sequencial; II – sequencial; III – sequencial",
+   "I – sequencial; II – binária; III – binária"
+  ],
+  "correta": 1,
+  "comentario": "A busca binária exige dados ordenados e acesso direto a qualquer posição. O array ordenado (I) atende às duas condições, e a ordem decrescente só inverte a comparação. A lista desordenada (II) só admite busca sequencial. Na lista encadeada ordenada (III), mesmo com os dados em ordem, não há acesso direto ao elemento do meio: chegar até ele custa O(n), então a busca binária perde a vantagem e a sequencial é a adequada. O erro típico é achar que “ordenado” basta para usar a busca binária.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-54",
+  "materia": "ti",
+  "assunto": "Java (ordem de inicialização)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "As classes Java a seguir são públicas e ocupam arquivos separados.\n\npublic class Tst {\n\n    int ini=0,fim=25;\n\n    void print() {\n        System.out.println(ini+fim);\n    }\n\n    {\n        ini=fim%7;\n        fim=ini*3;\n    }\n\n    Tst(int a, int b) {\n        ini+=a;\n        fim+=b;\n    }\n\n    {\n        ini/=2;\n        fim+=10;\n    }\n}\n\npublic class Main {\n\n    public static void main(String[] args) {\n        new Tst(4, -4).print();\n    }\n}\n\nO que será exibido no console quando o método main for executado?",
+  "alternativas": [
+   "0",
+   "10",
+   "24",
+   "25",
+   "33"
+  ],
+  "correta": 2,
+  "comentario": "Em Java, ao criar o objeto, os inicializadores de campo e os blocos de instância rodam na ordem em que aparecem no código, e só depois vem o corpo do construtor. Campos: ini = 0, fim = 25. Primeiro bloco: ini = 25 % 7 = 4, fim = 4·3 = 12. Segundo bloco: ini = 4/2 = 2, fim = 22. Construtor: ini = 2 + 4 = 6, fim = 22 − 4 = 18. Imprime 6 + 18 = 24. O erro comum é executar o construtor antes dos blocos ou ignorar o segundo bloco por ele aparecer depois do construtor.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021ti-55",
+  "materia": "ti",
+  "assunto": "Algoritmos de ordenação",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um professor preparou uma série de experimentos para avaliar três algoritmos de ordenação: o da bolha, o de ordenação por inserção e o de ordenação por seleção. Ele escreveu três métodos Java, um para cada algoritmo. Todos recebem como único parâmetro um array de inteiros (int vet[] = {81,15,4,20,7,47,14,20,4}), que será ordenado em ordem crescente. Cada método exibe a configuração do array ao término de cada iteração do comando de repetição mais externo (os três algoritmos são compostos por dois comandos de repetição aninhados). As configurações das três primeiras iterações de cada algoritmo foram:\n\nAlgoritmo 1:\n4 15 81 20 7 47 14 20 4\n4 4 81 20 7 47 14 20 15\n4 4 7 20 81 47 14 20 15\n\nAlgoritmo 2:\n15 81 4 20 7 47 14 20 4\n4 15 81 20 7 47 14 20 4\n4 15 20 81 7 47 14 20 4\n\nAlgoritmo 3:\n15 4 20 7 47 14 20 4 81\n4 15 7 20 14 20 4 47 81\n4 7 15 14 20 4 20 47 81\n\nAs configurações 1, 2 e 3 correspondem, respectivamente, aos algoritmos",
+  "alternativas": [
+   "da bolha, de seleção e de inserção",
+   "da bolha, de inserção e de seleção",
+   "de seleção, de inserção e da bolha",
+   "de seleção, da bolha e de inserção",
+   "de inserção, de seleção e da bolha"
+  ],
+  "correta": 2,
+  "comentario": "No Algoritmo 1, a cada passo o menor elemento restante é trocado para a próxima posição da esquerda (o 81 troca com o primeiro 4, depois o 15 troca com o outro 4), o que caracteriza a seleção. No Algoritmo 2, o prefixo à esquerda vai ficando ordenado com a inserção de um elemento por vez (15 81 → 4 15 81 → 4 15 20 81), o que caracteriza a inserção. No Algoritmo 3, os maiores valores “sobem” para o fim a cada passada (81, depois 47, depois 20), comportamento típico da bolha. Portanto, seleção, inserção e bolha.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-57",
+  "materia": "ti",
+  "assunto": "Big Data (preparação de dados)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Na etapa de preparação de dados em um ambiente de Big Data, pode ocorrer o aparecimento de dados ruidosos, que são dados fora de sentido no ambiente do Big Data e que não podem ser interpretados pelo sistema. Uma forma de reduzir esse efeito, e até eliminá-lo, é utilizar um método de suavização de dados, que minimiza os efeitos causados pelos dados ruidosos. Esse método consiste em",
+  "alternativas": [
+   "agrupar dados semelhantes em clusters, verificar os dados que se apresentam como ruidosos e não os inserir no ambiente de Big Data, substituindo cada um desses dados ruidosos pelo valor NULL.",
+   "criar um cubo de dados multidimensional para acelerar a identificação e a eliminação dos dados ruidosos encontrados, e, neste caso, os dados assumem valores predefinidos no momento do pré-processamento.",
+   "dividir os valores dos dados originais em pequenos intervalos, denominados compartimentos, e, em seguida, substituí-los por um valor geral, ou genérico, calculado para cada compartimento específico.",
+   "executar uma fusão de dados, tendo como base dados vizinhos, e obter novas variáveis que irão preencher os espaços incoerentes dentro do Big Data, eliminando o ruído.",
+   "realizar uma ação de Data Mining com atributos que se pareçam com dados ruidosos, gerando novos atributos, classificados como atributos “fantasmas”, sem valor para o tratamento do Big Data."
+  ],
+  "correta": 2,
+  "comentario": "A técnica descrita em C é o binning (discretização em compartimentos): os valores são ordenados, divididos em faixas (bins) e substituídos pela média, pela mediana ou pelos limites da faixa, o que suaviza o ruído. O clustering pode ajudar a detectar outliers, mas substituir tudo por NULL (A) não é suavização. Cubos OLAP (B) servem para análise, não para limpeza. D e E descrevem procedimentos que não correspondem às técnicas clássicas de suavização.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-58",
+  "materia": "ti",
+  "assunto": "Swift",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um programador de aplicativos para dispositivos Apple com iOS recebeu a seguinte parte de um código, escrito na linguagem Swift:\n\nvar i:Int\nvar texto:String\nvar num:Int=0\nvar frase:String=\"\"\nfor i in 1...3\n{ num = num+1+i*2\n  switch num{\n    case 2...6:  texto = \"a \"\n    case 7...9:   texto = \"casa \"\n    case 10...13:  texto = \"carro \"\n    case 14...16:  texto = \"eh \"\n    case 17...20:   texto = \"o \"\n    case 21...23:   texto = \"forte \"\n    default:\n      texto = \"não eh \"  }\nfrase = frase+texto }\nprint (frase)\n\nA execução dessa parte do código produz como resposta",
+  "alternativas": [
+   "o carro eh",
+   "a casa eh",
+   "o carro não eh",
+   "a casa eh forte",
+   "o carro eh forte"
+  ],
+  "correta": 1,
+  "comentario": "O laço roda para i = 1, 2 e 3, acumulando num. i = 1: num = 0 + 1 + 2 = 3, que cai em 2...6 e gera \"a \". i = 2: num = 3 + 1 + 4 = 8, em 7...9, gera \"casa \". i = 3: num = 8 + 1 + 6 = 15, em 14...16, gera \"eh \". A frase final é \"a casa eh\". O erro comum é não acumular num (recalcular só 1 + i·2) ou executar uma quarta iteração, já que 1...3 é um intervalo fechado com três valores.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-59",
+  "materia": "ti",
+  "assunto": "Desenvolvimento iOS (Xcode)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O desenvolvimento de um aplicativo bancário para dispositivos móveis exige que se dedique atenção à parte visual do mesmo, que vai depender, também, do modelo do aparelho e do tipo de sistema operacional (SO) que esteja rodando nele. Caso um desenvolvedor de aplicativos para um iPhone com SO iOS precise fazer a programação visual das telas desses aplicativos, que ferramenta do Xcode 10 ele deve utilizar?",
+  "alternativas": [
+   "Interface Builder",
+   "Bundle Identifier",
+   "Organizer Interface",
+   "Apple LLVM",
+   "Instruments"
+  ],
+  "correta": 0,
+  "comentario": "O Interface Builder é o editor visual do Xcode para montar telas (storyboards e arquivos XIB) arrastando componentes e definindo restrições de layout. O Bundle Identifier é o identificador único do app, não uma ferramenta. O Apple LLVM é o compilador. O Instruments serve para analisar desempenho e memória. O Organizer cuida de arquivamento e distribuição dos builds.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-60",
+  "materia": "ti",
+  "assunto": "Ansible (DevOps)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Em um ambiente Cluster, há um servidor Linux que tem o Ansible instalado. Para construir um arquivo YAML que informe os passos que o Ansible realizará automaticamente na conexão com os servidores que fazem parte do Cluster, além de executar um conjunto de tarefas solicitadas, o administrador desse servidor deve seguir o padrão",
+  "alternativas": [
+   "Apache-Start",
+   "Nodel",
+   "Playbook",
+   "Taskbook",
+   "Tower"
+  ],
+  "correta": 2,
+  "comentario": "No Ansible, o playbook é o arquivo YAML que descreve os hosts-alvo e a sequência de tarefas (tasks) a executar neles. “Taskbook” é uma distração com nome parecido, e as tarefas ficam dentro do playbook. O Ansible Tower (hoje AWX/Automation Controller) é a interface web de gerenciamento, não o formato do arquivo. Apache-Start e Nodel não são conceitos do Ansible.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-61",
+  "materia": "ti",
+  "assunto": "Kotlin",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Foi solicitado a um programador de sistemas de informação que transformasse uma classe escrita em Java em uma classe equivalente, para ser executada em um programa Kotlin. O código da classe Java é:\n\npublic class AlunoJava{\n    private String codigo;\n    private String nome;\n    private int numero=0;\n    private String texto= \"EscolaX\";\n    public AlunoJava (String codigo,String nome)\n        { this.codigo = codigo;\n          this.nome = nome; }\n}\n\nA classe em Kotlin equivalente à classe Java acima é",
+  "alternativas": [
+   "public class AlunoKotlin (private String: nome , private String: codigo )\n    { private:\n      numero int = 0\n      texto String = \"EscolaX\" }",
+   "public class AlunoKotlin (private var nome; codigo: String)\n    { private var numero = 0\n      private var texto = \"EscolaX\" }",
+   "class AlunoKotlin (val nome: String, val codigo: String)\n    { private this.nome = nome\n      private this.codigo=codigo\n      private var int numero = 0\n      private var String texto = \"EscolaX\" }",
+   "class AlunoKotlin (var nome: String, var codigo: String)\n    { private var numero = 0\n      private var texto = \"EscolaX\"\n      private AlunoKotlin.nome, AlunoKotlin.codigo }",
+   "class AlunoKotlin (private val nome: String, private val codigo: String)\n    { private var numero = 0\n      private var texto = \"EscolaX\" }"
+  ],
+  "correta": 4,
+  "comentario": "Em Kotlin, o construtor primário pode declarar e inicializar propriedades direto na assinatura da classe: “private val nome: String” cria um campo privado atribuído pelo construtor, o que equivale aos this.x = x do Java. Os demais campos são declarados com var e tipo inferido (numero = 0, texto = \"EscolaX\"). A e C usam a sintaxe de tipos do Java (tipo antes do nome) e construções inexistentes. B separa parâmetros com ponto e vírgula e deixa nome sem tipo. D declara propriedades públicas e termina com uma linha inválida.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-62",
+  "materia": "ti",
+  "assunto": "Busca binária (complexidade)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O gerente de uma agência bancária recebe, diariamente, solicitações de seus clientes e as armazena, com um código numérico crescente, num vetor de solicitações. Em alguns casos, por emergência ou prioridade legal, é preciso localizar determinado código numérico para atender à solicitação correspondente antes das demais. A equipe de TI concluiu que uma solução seria permitir a realização de uma busca binária sobre o vetor de solicitações ordenado pelos seus códigos numéricos. Considerando a existência de N solicitações, a quantidade de iterações necessárias para localizar determinado código numérico no vetor de solicitações, utilizando a busca binária, no pior caso, é",
+  "alternativas": [
+   "⌊log2 N⌋, em que a notação ⌊x⌋ significa maior inteiro menor ou igual a x",
+   "1 + ⌊log2 N⌋, em que a notação ⌊x⌋ significa maior inteiro menor ou igual a x",
+   "1 + ⌊log2 N⌋, em que a notação ⌊x⌋ significa menor inteiro maior ou igual a x",
+   "2^N",
+   "2^(N−1)"
+  ],
+  "correta": 1,
+  "comentario": "A cada iteração, a busca binária descarta metade do intervalo. No pior caso, o número de comparações é 1 + ⌊log2 N⌋ (piso). Exemplo: com N = 8, os intervalos ficam 8 → 4 → 2 → 1, o que dá 4 iterações = 1 + 3. A alternativa A esquece a última comparação. A alternativa C descreve o símbolo com o sentido de teto, o que é incorreto. As alternativas D e E são exponenciais, típicas de algoritmos muito piores até que a busca sequencial.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-63",
+  "materia": "ti",
+  "assunto": "Busca sequencial",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Em uma agência bancária, as filas de atendimento são ordenadas da esquerda para a direita, e o gerente percebeu a presença equivocada de um idoso, com a senha 52, na fila de atendimento não preferencial. Ele resolveu fazer uma busca no sistema para saber se a senha 52 ainda estava ativa nessa fila. Considerando o uso de um algoritmo de busca sequencial otimizado, partindo da esquerda para a direita, e as sequências hipotéticas das senhas da fila de atendimento não preferencial e suas regras de ordenação (quem está à esquerda é atendido antes de quem está à direita), o menor número de comparações para o gerente conhecer o resultado de sua busca ocorre em",
+  "alternativas": [
+   "Sequência ordenada crescentemente: 23; 45; 81; 97; 112; 138; 154",
+   "Sequência ordenada crescentemente: 13; 25; 37; 44; 52; 78; 83; 91",
+   "Sequência ordenada crescentemente: 17; 28; 32; 49; 67; 85; 94; 103",
+   "Sequência desordenada: 27; 95; 148; 117; 33; 59; 52",
+   "Sequência desordenada: 32; 48; 12; 55; 93; 27; 66"
+  ],
+  "correta": 0,
+  "comentario": "Na busca sequencial otimizada sobre dados ordenados, a busca para assim que encontra um valor maior que o procurado. Em A, compara-se 23, 45 e 81; como 81 > 52, conclui-se em 3 comparações que 52 não está na fila. Em B, 52 é encontrado na 5ª comparação. Em C, a busca para no 67, também na 5ª. Nas sequências desordenadas (D e E), é preciso percorrer até achar o valor ou até o fim: 7 comparações em ambas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-64",
+  "materia": "ti",
+  "assunto": "Ordenação por inserção (complexidade)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Dentre os problemas identificados pela gerência de um banco comercial, está a localização das contas dos seus titulares nas listagens e nos relatórios impressos. Um especialista de TI sugeriu ordenar as contas por meio dos CPF dos seus n titulares antes das impressões. Dentre alguns algoritmos pré-selecionados, o especialista escolheu o algoritmo de ordenação por inserção, no qual o consumo de tempo é, no melhor caso, proporcional a",
+  "alternativas": [
+   "n log n",
+   "log n",
+   "n²",
+   "n",
+   "1"
+  ],
+  "correta": 3,
+  "comentario": "O melhor caso da ordenação por inserção ocorre quando o vetor já está ordenado: cada elemento é comparado uma única vez com o anterior e nenhum deslocamento é feito, o que dá tempo linear, O(n). O pior caso e o caso médio são O(n²), a confusão mais comum. O(n log n) é o custo típico de merge sort e heap sort. Log n e tempo constante são impossíveis, porque é preciso ao menos ler os n elementos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-65",
+  "materia": "ti",
+  "assunto": "Banco de dados NoSQL",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um banco comercial deseja obter um tipo de banco de dados NoSQL que trate os dados extraídos de redes sociais, de modo a formar uma coleção (collection) interconectada. Nessa coleção, os dados são organizados em vértices ou objetos (O) e em relacionamentos, que são relações (R) ou arestas. Nesse modelo, os dados seriam apresentados da seguinte forma:\n\nO:Usuario{u1:Joao, u2:Jose, u3:Maria, u4:Claudio}\nO:Escola{e1:UFRJ, e2:URGS, e3:IFB}\nR:Estudaem{re1=u1:e2;re2=u2:e2;re3=u3:e1;re4=u4:e3}\nR:Amigode{ra1=u1:u2;ra2=u1:u3;ra3=u2:u3}\n\nO banco de dados NoSQL que representa essa situação deve ter uma estrutura do tipo",
+  "alternativas": [
+   "Distribuided Hashing",
+   "Consistent Hashing",
+   "Document Oriented",
+   "Graph Oriented",
+   "Vector Clock"
+  ],
+  "correta": 3,
+  "comentario": "Vértices (nós) ligados por arestas (relacionamentos) definem um banco orientado a grafos, como o Neo4j, ideal para redes sociais. O modelo orientado a documentos (C) guarda documentos JSON/BSON sem relacionamentos como elementos principais. Consistent hashing, hashing distribuído e vector clock são técnicas internas de particionamento e versionamento em sistemas distribuídos, não modelos de dados.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-66",
+  "materia": "ti",
+  "assunto": "MongoDB",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um administrador de um banco de dados construído por meio do MongoDB inseriu dados em uma coleção (collection) de dados da seguinte forma:\n\ndb.fornecedores.insert( {\n    codigo: \"thx1138\",\n    nome: \"Roupas Syfy ltda\",\n    pais: \"Arabia Saudita\"  } )\n\nPosteriormente, esse administrador construiu uma consulta que retornou apenas o nome, sem repetição, de todos os países que fazem parte dessa coleção (collection). O comando utilizado para tal consulta foi",
+  "alternativas": [
+   "db.fornecedores.find(\"pais\")",
+   "db.fornecedores.find().pretty({\"pais\":1})",
+   "db.fornecedores.find().sort({\"pais\":1})",
+   "db.fornecedores.distinct({\"pais\":0})",
+   "db.fornecedores.distinct( \"pais\" )"
+  ],
+  "correta": 4,
+  "comentario": "O método distinct(campo) devolve um array com os valores distintos do campo informado na coleção, que é exatamente “os países, sem repetição”. Em D, distinct recebe um documento de projeção em vez do nome do campo, o que não é válido. find com sort (C) apenas ordena os documentos completos, com repetição. pretty() (B) só formata a saída. find(\"pais\") (A) não é um filtro válido.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-67",
+  "materia": "ti",
+  "assunto": "Data Warehouse (cubo de dados)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Uma empresa precisa implementar um sistema Big Data para controlar a movimentação dos produtos que a empresa oferece. Esse sistema precisa estar com a configuração de dados como sendo um fato, que seria um evento de ocorrência, como, por exemplo: as compras de um determinado insumo, em um determinado fornecedor e em um determinado instante. Para tal finalidade, esse sistema a ser implementado deverá estar organizado segundo a configuração de",
+  "alternativas": [
+   "Cubo de dados",
+   "Tuplas estáticas",
+   "Matriz de ocorrência",
+   "Documentos lineares",
+   "Subconjunto de atributos"
+  ],
+  "correta": 0,
+  "comentario": "Na modelagem multidimensional, um fato (a compra) é analisado segundo várias dimensões (insumo, fornecedor, tempo), e essa organização é representada por um cubo de dados, em que cada célula guarda as medidas do fato para uma combinação de dimensões. As demais alternativas não são estruturas padrão de modelagem para análise de fatos e dimensões.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021ti-68",
+  "materia": "ti",
+  "assunto": "Estrutura de dados (pilha)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Em um treinamento de pessoal de TI, para facilitar o aprendizado sobre o funcionamento da estrutura de dados PILHA, utilizou-se o jogo das trocas, com as seguintes regras:\n- Para começar o jogo, o jogador recebe duas pilhas, P1 e P2.\n- P1 está preenchida com quatro fichas, identificadas por nomes fictícios e empilhadas em ordem alfabética CRESCENTE a partir do topo.\n- P2 está inicialmente vazia.\n- Uma ficha desempilhada de P1 é imediatamente empilhada em P2.\n- A operação (P2,pop) acarreta impressão do nome que está na ficha desempilhada e descarte da ficha.\n- Para ganhar o jogo, o jogador precisa determinar corretamente, dentre sequências derivadas da sequência inicial, por troca da posição de seus elementos, qual delas poderia ser impressa com essas operações.\n\nNo início do jogo, foram dadas as pilhas P2, vazia, e P1 preenchida com as seguintes operações de empilhamento: push(P1,Zeus); push(P1,Hades); push(P1,Cibele); push(P1,Apolo).\n\nConsiderando-se esse cenário, qual seria a sequência possível de ser impressa, da esquerda para a direita, de acordo com as regras do jogo?",
+  "alternativas": [
+   "Apolo, Zeus, Cibele, Hades",
+   "Hades, Apolo, Zeus, Cibele",
+   "Zeus, Cibele, Apolo, Hades",
+   "Hades, Apolo, Cibele, Zeus",
+   "Cibele, Hades, Apolo, Zeus"
+  ],
+  "correta": 4,
+  "comentario": "As fichas saem de P1 na ordem Apolo, Cibele, Hades, Zeus e passam por P2, que também é uma pilha. Para E: move Apolo e Cibele para P2 e imprime Cibele; move Hades e imprime Hades; imprime Apolo (agora no topo de P2); move Zeus e imprime Zeus. Nas outras opções, algum nome precisaria sair de P2 estando abaixo de outro. Em B e D, depois de imprimir Hades, Cibele fica sobre Apolo, então Apolo não pode ser o próximo. Em A, depois de Zeus, Hades está sobre Cibele. Em C, Zeus só sai depois de todos terem sido empilhados em P2, e então Hades estaria no topo.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021ti-69",
+  "materia": "ti",
+  "assunto": "Bubble Sort",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "As agências bancárias negociam seguros residenciais com seus clientes e, muitas vezes, precisam arquivar cópias de forma ordenada. O gerente de uma agência precisava ordenar um vetor de documentos referentes a esses seguros, e o seu adjunto, da área de TI, o aconselhou a usar o algoritmo de ordenação Bubble Sort. Utilizando-se o algoritmo sugerido, qual será a quantidade de trocas de posições realizadas para ordenar, de modo crescente, o vetor de números de contrato (77, 51, 11, 37, 29, 13, 21)?",
+  "alternativas": [
+   "14",
+   "15",
+   "16",
+   "17",
+   "18"
+  ],
+  "correta": 2,
+  "comentario": "No Bubble Sort, cada troca de vizinhos corrige exatamente uma inversão, então o total de trocas é o número de pares fora de ordem. 77 é maior que os 6 seguintes (6); 51 é maior que 11, 37, 29, 13 e 21 (5); 11 não gera inversões (0); 37 é maior que 29, 13 e 21 (3); 29 é maior que 13 e 21 (2); 13 e 21 estão em ordem (0). Total: 6 + 5 + 3 + 2 = 16 trocas. Simular passada a passada leva ao mesmo resultado, mas é mais fácil errar a contagem.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021ti-70",
+  "materia": "ti",
+  "assunto": "Estrutura de dados (fila)",
+  "cargo": "ti",
+  "origem": "BB 2021 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Implementa-se uma estrutura de FILA de números inteiros com suas duas operações tradicionais: ENFILEIRAR(Z), que ocorre quando um cliente recebe uma senha Z e entra na FILA; e DESENFILEIRAR( ), que ocorre quando um cliente sai da FILA e retorna o número da senha. A representação do estado da FILA lista os elementos de forma que o primeiro elemento, da esquerda para a direita, é o mais antigo presente na FILA. Considere uma FILA que começa vazia e realiza as seguintes operações:\n\nENFILEIRAR(8) → ENFILEIRAR(9) → DESENFILEIRAR( ) → ENFILEIRAR(10) → ENFILEIRAR(11) → ENFILEIRAR(DESENFILEIRAR( )) → ENFILEIRAR(12) → DESENFILEIRAR( ) → ENFILEIRAR(13) → DESENFILEIRAR( )\n\nApós realizar as operações acima, a FILA estará no estado",
+  "alternativas": [
+   "10 – 11 – 12",
+   "9 – 12 – 13",
+   "9 – 10 – 11",
+   "8 – 10 – 11",
+   "8 – 9 – 10"
+  ],
+  "correta": 1,
+  "comentario": "Simulando a fila (FIFO): [8] → [8,9] → sai 8: [9] → [9,10] → [9,10,11] → sai 9 e volta ao fim: [10,11,9] → [10,11,9,12] → sai 10: [11,9,12] → [11,9,12,13] → sai 11: [9,12,13]. O estado final é 9 – 12 – 13. O ponto-chave é ENFILEIRAR(DESENFILEIRAR( )), que tira o mais antigo (9) e o recoloca no fim. Tratar a estrutura como pilha (LIFO) leva às alternativas erradas.",
+  "dificuldade": 2
+ }
+]

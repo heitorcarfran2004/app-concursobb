@@ -1,0 +1,1165 @@
+[
+ {
+  "id": "bb2023ti-1",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O trecho do texto que resume o objetivo do “empreendedorismo social” é",
+  "texto_apoio": "Empreendedorismo social: um caminho para quem quer mudar o mundo\n\n[1] Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social.\n\n[2] Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação.\n\n[3] Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social.\n\n[4] Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis.\n\n[5] Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social.\n\n[6] Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.\n\nMENDES, T. Na prática, 7 jul. 2022. Adaptado.",
+  "alternativas": [
+   "“A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social”. (parágrafo 1)",
+   "“os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação”. (parágrafo 2)",
+   "“ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade”. (parágrafo 4)",
+   "“Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias”. (parágrafo 5)",
+   "“o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação”. (parágrafo 6)"
+  ],
+  "correta": 0,
+  "comentario": "A palavra “meta” no parágrafo 1 sinaliza exatamente o objetivo do empreendedorismo social: transformar a realidade, promover bem-estar e agregar valor social. A alternativa B trata da forma de avaliar o desempenho, não do objetivo. A C lista características da iniciativa, e as alternativas D e E falam do perfil do profissional que quer atuar na área. O erro típico é escolher um trecho verdadeiro do texto que, porém, responde a outra pergunta.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-2",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O texto explica que o empreendedorismo social se diferencia do conceito de negócio social porque o primeiro procura",
+  "texto_apoio": "Empreendedorismo social: um caminho para quem quer mudar o mundo\n\n[1] Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social.\n\n[2] Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação.\n\n[3] Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social.\n\n[4] Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis.\n\n[5] Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social.\n\n[6] Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.\n\nMENDES, T. Na prática, 7 jul. 2022. Adaptado.",
+  "alternativas": [
+   "criar profissionais especializados na sua área de atuação.",
+   "excluir do processo a parcela mais carente da população.",
+   "seguir a lógica tradicional do mercado de ações.",
+   "ter como objetivo produzir retorno financeiro.",
+   "transformar a sociedade por meio da inovação."
+  ],
+  "correta": 4,
+  "comentario": "O parágrafo 3 afirma que “o empreendedorismo social cria valor por meio da inovação, que gera uma transformação social”, o que corresponde à alternativa E. Seguir a lógica tradicional do mercado (C) é característica do negócio social, não do empreendedorismo social. O texto diz expressamente que o foco “não é o retorno financeiro” (D). As alternativas A e B não têm apoio no texto; a B chega a contradizê-lo.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-3",
+  "materia": "portugues",
+  "assunto": "Semântica / sinonímia",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No trecho “está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais” (parágrafo 1), a palavra “alavancar” pode ser substituída, sem prejuízo do sentido do texto, por",
+  "texto_apoio": "Empreendedorismo social: um caminho para quem quer mudar o mundo\n\n[1] Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social.\n\n[2] Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação.\n\n[3] Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social.\n\n[4] Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis.\n\n[5] Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social.\n\n[6] Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.\n\nMENDES, T. Na prática, 7 jul. 2022. Adaptado.",
+  "alternativas": [
+   "comprovar",
+   "defender",
+   "impulsionar",
+   "modificar",
+   "subsidiar"
+  ],
+  "correta": 2,
+  "comentario": "“Alavancar” significa dar impulso, fazer crescer ou avançar, e por isso “impulsionar” é o sinônimo adequado. “Defender” (B) é uma armadilha comum: quem defende uma causa não necessariamente a faz avançar. “Subsidiar” (E) tem sentido de financiar, que é mais restrito, e “modificar” e “comprovar” fogem do sentido.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-4",
+  "materia": "portugues",
+  "assunto": "Conectivos (concessão)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No trecho “Ainda que não exista uma concepção única sobre o empreendedorismo social” (parágrafo 1), a expressão “Ainda que” pode ser substituída, sem prejuízo do sentido do texto, por",
+  "texto_apoio": "Empreendedorismo social: um caminho para quem quer mudar o mundo\n\n[1] Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social.\n\n[2] Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação.\n\n[3] Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social.\n\n[4] Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis.\n\n[5] Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social.\n\n[6] Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.\n\nMENDES, T. Na prática, 7 jul. 2022. Adaptado.",
+  "alternativas": [
+   "À medida que",
+   "Contanto que",
+   "De modo que",
+   "Mesmo que",
+   "Por causa de"
+  ],
+  "correta": 3,
+  "comentario": "“Ainda que” é uma locução concessiva: apresenta um fato que não impede o que se afirma em seguida. “Mesmo que” tem o mesmo valor concessivo e também pede o subjuntivo (“exista”). “À medida que” indica proporção, “Contanto que” indica condição, “De modo que” indica consequência e “Por causa de” indica causa. Todas essas mudariam o sentido da frase.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-5",
+  "materia": "portugues",
+  "assunto": "Semântica / sinonímia",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No trecho “Ainda que não exista uma concepção única” (parágrafo 1), a palavra “concepção” pode ser substituída, sem prejuízo do sentido do texto, por",
+  "texto_apoio": "Empreendedorismo social: um caminho para quem quer mudar o mundo\n\n[1] Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social.\n\n[2] Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação.\n\n[3] Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social.\n\n[4] Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis.\n\n[5] Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social.\n\n[6] Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.\n\nMENDES, T. Na prática, 7 jul. 2022. Adaptado.",
+  "alternativas": [
+   "compreensão",
+   "conciliação",
+   "convivência",
+   "capacidade",
+   "semelhança"
+  ],
+  "correta": 0,
+  "comentario": "No contexto, “concepção” significa o modo de entender ou definir algo, isto é, uma noção ou compreensão do conceito. Por isso “compreensão” mantém o sentido: não há uma forma única de entender o empreendedorismo social. As demais alternativas (conciliação, convivência, capacidade, semelhança) não expressam a ideia de entendimento ou definição.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-6",
+  "materia": "portugues",
+  "assunto": "Concordância nominal",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A palavra destacada (entre colchetes) atende às exigências de concordância de acordo com a norma-padrão da língua portuguesa em:",
+  "alternativas": [
+   "A administração de empresas de tecnologia e o marketing profissional estão [envolvidos] na promoção de novos negócios na área econômica.",
+   "A assistência social às pessoas carentes e os cuidados com o aparecimento de novas doenças são [necessárias] para manter a saúde da população.",
+   "A iniciativa de implementar mudanças nas empresas e o sucesso ao alcançar êxito são [comemoradas] pelos funcionários.",
+   "O financiamento de projetos e a assistência aos necessitados, [desejadas] pelos empreendedores sociais, precisam da atenção redobrada dos responsáveis.",
+   "A vacinação de toda a população e a intensificação dos estudos sobre a pandemia devem ser [implementados] pelas autoridades."
+  ],
+  "correta": 0,
+  "comentario": "Quando o predicativo ou particípio se refere a núcleos de gêneros diferentes (um feminino e um masculino) e vem depois deles, a concordância se faz no masculino plural. Em A, “administração” (fem.) + “marketing” (masc.) → “envolvidos”, o que está correto. Pelo mesmo raciocínio, B pediria “necessários” e C “comemorados”, e em D, com “financiamento” + “assistência”, o correto seria “desejados”. Em E os dois núcleos são femininos (“vacinação” e “intensificação”), o que exige “implementadas”.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-7",
+  "materia": "portugues",
+  "assunto": "Coesão referencial",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No trecho “os empreendimentos sociais analisam seu desempenho” (parágrafo 2), a palavra “seu” se refere a",
+  "texto_apoio": "Empreendedorismo social: um caminho para quem quer mudar o mundo\n\n[1] Ainda que não exista uma concepção única sobre o empreendedorismo social, de forma geral, o conceito está relacionado ao ato de empreender ou inovar com o objetivo de alavancar causas sociais e ambientais. A meta é transformar uma realidade, promover o bem-estar da sociedade e agregar valor com cunho social.\n\n[2] Um empreendedor social produz bens e serviços que irão impactar positivamente a comunidade em que ele está inserido e solucionar algum problema ou necessidade daquele grupo. Apesar de poder ter retorno financeiro, os empreendimentos sociais analisam seu desempenho a partir do impacto social gerado por sua atuação.\n\n[3] Vale ressaltar que, apesar de apresentarem muitas similaridades, empreendedorismo social e negócio social não são sinônimos. O empreendedorismo social cria valor por meio da inovação, que gera uma transformação social. O foco não é o retorno financeiro, mas a resolução de problemas sociais e o impacto positivo. Enquanto isso, os negócios sociais seguem a lógica tradicional do mercado, porém com a ambição de gerar valor social.\n\n[4] Cinco características também são essenciais para a iniciativa: ser inovadora; realizável; autossustentável; contar com a participação de diversos segmentos da sociedade, incluindo as pessoas impactadas; e promover impacto social com resultados mensuráveis.\n\n[5] Quem tem interesse de atuar nessa área precisa trabalhar em grupo e formar parcerias, saber lidar bem com as pessoas e buscar formas de trazer resultados de impacto social.\n\n[6] Além disso, o profissional precisa ter flexibilidade e vontade de explorar, pois é possível que ele acabe exercendo um papel que não seja necessariamente na sua área de formação, ou que sua atuação se transforme rapidamente, por conta do dinamismo e das necessidades do negócio.\n\nMENDES, T. Na prática, 7 jul. 2022. Adaptado.",
+  "alternativas": [
+   "problema",
+   "comunidade",
+   "daquele grupo",
+   "retorno financeiro",
+   "empreendimentos sociais"
+  ],
+  "correta": 4,
+  "comentario": "O possessivo “seu” retoma o sujeito da própria oração: são os empreendimentos sociais que analisam o próprio desempenho. As demais opções são termos que aparecem antes no parágrafo, e é por isso que elas atraem quem busca o antecedente mais próximo, mas nenhuma delas “tem” desempenho no sentido do texto. Nesse tipo de questão, ajuda perguntar “desempenho de quem?”.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-8",
+  "materia": "portugues",
+  "assunto": "Crase",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "De acordo com a norma-padrão da língua portuguesa, o uso do acento grave indicativo da crase é obrigatório na palavra “a” destacada (entre colchetes) em:",
+  "alternativas": [
+   "A descrição detalhada de um empreendimento [a] ser realizado é uma necessidade para a aprovação de sua realização.",
+   "A divulgação do concurso levou muitas pessoas a se candidatarem [a] vaga mais concorrida na empresa.",
+   "A tentativa de obter a isenção fiscal é buscada [a] todo custo pelos responsáveis da instituição.",
+   "O sucesso de uma empresa deve ser atribuído [a] gestores competentes.",
+   "O uso de recursos digitais levou os jovens estudiosos [a] uma nova forma de aprendizagem em diferentes áreas."
+  ],
+  "correta": 1,
+  "comentario": "Em B, “candidatar-se a” exige a preposição “a”, e “vaga” é palavra feminina determinada pelo artigo “a” (“a vaga mais concorrida”), o que resulta em “à vaga”. Em A o “a” vem antes de verbo (“a ser”), e não há crase antes de verbo. Em C, “a todo custo” antecede palavra masculina. Em D, “gestores” é masculino plural, sem artigo feminino. Em E, antes do artigo indefinido “uma” não ocorre crase.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-9",
+  "materia": "portugues",
+  "assunto": "Pontuação (vírgula)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O emprego da vírgula atende às exigências da norma-padrão da língua portuguesa em:",
+  "alternativas": [
+   "A execução de novas tarefas em um supermercado, envolve a disposição dos funcionários de aceitarem as mudanças propostas pelo RH.",
+   "Ao consultar os fornecedores de produtos para suas lojas, os responsáveis por esse departamento devem ser cuidadosos.",
+   "A escolha do funcionário para proferir uma palestra em nome da empresa, compete à administração da instituição.",
+   "O profissional interessado em mudanças na sua área de atuação deve estudar, com antecedência as suas possibilidades de crescimento.",
+   "Para desenvolver projetos cabe ao gerente da organização, a iniciativa de implementar novas técnicas à disposição dos empreendedores."
+  ],
+  "correta": 1,
+  "comentario": "Em B, a oração reduzida de infinitivo (“Ao consultar os fornecedores...”) vem anteposta à principal, e a vírgula que a isola está correta. Em A e em C a vírgula separa o sujeito do verbo (“...supermercado, envolve”; “...empresa, compete”), o que é erro clássico. Em D, o adjunto “com antecedência” foi aberto por vírgula mas não foi fechado. Em E, a vírgula separa o verbo “cabe” de seu sujeito “a iniciativa”, e faltaria vírgula após a oração adverbial inicial.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-10",
+  "materia": "portugues",
+  "assunto": "Colocação pronominal",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O pronome oblíquo “se” foi colocado na posição correta, segundo as exigências da norma-padrão da língua portuguesa, em:",
+  "alternativas": [
+   "A área da saúde não encontra-se atendida em regiões afastadas dos grandes centros urbanos nem em comunidades que vivem nas periferias das cidades.",
+   "A preocupação com o meio ambiente tem sido um dos segmentos mais relevantes do empreendedorismo social, porque destina-se a transformar positivamente a sociedade.",
+   "Governantes que têm como missão viabilizar o acesso universal à educação pública de qualidade sempre preocupam-se com ações de inovação e empreendedorismo.",
+   "Para uma iniciativa de empreendedorismo destinada à formação de educadores tornar-se produtiva, é preciso identificar as necessidades do público-alvo de cada comunidade.",
+   "Quando os profissionais que atuam na área de empreendedorismo social sentem-se desanimados, é preciso que eles avaliem todo o progresso que ajudaram a desenvolver."
+  ],
+  "correta": 3,
+  "comentario": "Em D, o pronome está ligado a um infinitivo (“tornar-se”) sem nenhuma palavra atrativa antes, e a ênclise é correta. Nas demais há palavras que atraem o pronome e exigem próclise: o advérbio de negação “não” (A: “não se encontra”), a conjunção subordinativa “porque” (B: “porque se destina”), o advérbio “sempre” (C: “sempre se preocupam”) e a conjunção “quando” (E: “quando... se sentem”).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-11",
+  "materia": "ingles",
+  "assunto": "Reading comprehension",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "The main purpose of the text is to",
+  "texto_apoio": "From Bartering to Bitcoin (by Rich Beattie)\n\n[1] What we call “money” has always been a moving target. It changes appearance and value. Here are five key developments in the history of money that have impacted how we earn, save and spend today.\n\n[2] Cash Cows - Before humans had money, they had stuff. In ancient times, when you had stuff other people wanted, you bartered it for stuff you wanted. Around 9000 BC, the most popular commodities included things like cattle, sheep and camels. This was fine when people bartered close to home, but bulky creatures are cumbersome and difficult to transport. As people started to venture farther afield to trade, a more portable option became essential.\n\n[3] In 1200 BC people started using cowries—the shells of marine mollusks taken from oceans. They were recognized as precious, and their use spread across Asia, Africa, Oceania and Europe. Having been in use for centuries — even into the 20th century in some places—cowries win the prize as the world’s longest-running currency.\n\n[4] Three Coins in the Fountain - The issue with bartering became assigning value: Just how much was a cowrie or a cow worth? So, agreeing on the value of money became essential. It was the Lydians, around 600 BC, who get credit for a critical step in this process: fashioning the first known coins, which were made of a gold and silver alloy.\n\n[5] The metal used to make a coin—along with its weight—was important, as it denoted the money’s value. Moreover, as coins gained popularity, so did the idea of adorning them with locally inspired designs. Coins were money, but they now doubled as a historic record. Eventually, they took on even more uses: People flipped them to make decisions and tossed them into wells while making wishes. They may be used less in 2020, but coins have been an integral part of our culture for centuries.\n\n[6] The Paper Chase - Coins were obviously lighter and easier to transport than cows, but carrying bags of heavy metal still wasn’t very practical. China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money. It was super-light and could feature even richer designs than coins, and it promised a certain amount of purchasing power.\n\n[7] Gold Rush - One of the problems, though, was that counterfeiters had great success with paper bills. The bigger problem came when governments faced economic crises; it was far too easy to print more paper money, which led to skyrocketing inflation. Paper needed a backup—something universally valued yet not easily replicated. Something like gold.\n\n[8] The “gold standard” let governments create a fixed price for this precious metal that was tied directly to the value of their currency. In the United States, the idea took root in the late 17th century, and it spread to Europe in the 19th century. But confidence in the gold standard crumbled during World War I, and it soon became apparent that in order to thrive, currencies needed the freedom to fluctuate dynamically against each other. The gold standard was dropped in the United States in 1933, and a global economy started to take shape.\n\n[9] The E-Buck Stops Here? - Cows, cowries, coins, paper, gold: Money has always had a physical presence. But today, it is quickly evolving into numbers that float through the ether. This modern era of money began in 1946 with the first bank-issued charge card. Credit cards followed some 12 years later, still related to dollars. However, technology, with cryptocurrencies like Bitcoin, is changing the world’s definition of “money.”\n\n[10] Now, social media companies and entire countries are considering digital currencies of their own. Meanwhile, artificial intelligence is growing ever-smarter, and perhaps one day soon your budget and expenses will be managing themselves. The debate rages about exactly where we are headed, but with history as our guide, the one thing we can absolutely count on is the inevitability of change.\n\nAvailable at: synchronybank.com/blog/brief-history-of-money. Adapted.",
+  "alternativas": [
+   "present a brief history of money.",
+   "relate the history of money with wars.",
+   "regret society’s attitude regarding money.",
+   "deny the importance of money to humankind.",
+   "describe the relevance of money in the world."
+  ],
+  "correta": 0,
+  "comentario": "O texto anuncia “five key developments in the history of money” e percorre escambo, conchas, moedas, papel-moeda, padrão-ouro e dinheiro digital, ou seja, apresenta um breve histórico do dinheiro. A guerra aparece só de passagem (WWI), então B é restrita demais. Não há lamento (C) nem negação da importância do dinheiro (D). A alternativa E é genérica e não descreve o fio cronológico que organiza o texto.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-12",
+  "materia": "ingles",
+  "assunto": "Referência pronominal",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the fragment in the fourth paragraph of the text, “It was the Lydians, around 600 BC, who get credit for a critical step in this process: fashioning the first known coins, which were made of a gold and silver alloy”, the words “who” and “which” refer respectively to:",
+  "texto_apoio": "From Bartering to Bitcoin (by Rich Beattie)\n\n[1] What we call “money” has always been a moving target. It changes appearance and value. Here are five key developments in the history of money that have impacted how we earn, save and spend today.\n\n[2] Cash Cows - Before humans had money, they had stuff. In ancient times, when you had stuff other people wanted, you bartered it for stuff you wanted. Around 9000 BC, the most popular commodities included things like cattle, sheep and camels. This was fine when people bartered close to home, but bulky creatures are cumbersome and difficult to transport. As people started to venture farther afield to trade, a more portable option became essential.\n\n[3] In 1200 BC people started using cowries—the shells of marine mollusks taken from oceans. They were recognized as precious, and their use spread across Asia, Africa, Oceania and Europe. Having been in use for centuries — even into the 20th century in some places—cowries win the prize as the world’s longest-running currency.\n\n[4] Three Coins in the Fountain - The issue with bartering became assigning value: Just how much was a cowrie or a cow worth? So, agreeing on the value of money became essential. It was the Lydians, around 600 BC, who get credit for a critical step in this process: fashioning the first known coins, which were made of a gold and silver alloy.\n\n[5] The metal used to make a coin—along with its weight—was important, as it denoted the money’s value. Moreover, as coins gained popularity, so did the idea of adorning them with locally inspired designs. Coins were money, but they now doubled as a historic record. Eventually, they took on even more uses: People flipped them to make decisions and tossed them into wells while making wishes. They may be used less in 2020, but coins have been an integral part of our culture for centuries.\n\n[6] The Paper Chase - Coins were obviously lighter and easier to transport than cows, but carrying bags of heavy metal still wasn’t very practical. China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money. It was super-light and could feature even richer designs than coins, and it promised a certain amount of purchasing power.\n\n[7] Gold Rush - One of the problems, though, was that counterfeiters had great success with paper bills. The bigger problem came when governments faced economic crises; it was far too easy to print more paper money, which led to skyrocketing inflation. Paper needed a backup—something universally valued yet not easily replicated. Something like gold.\n\n[8] The “gold standard” let governments create a fixed price for this precious metal that was tied directly to the value of their currency. In the United States, the idea took root in the late 17th century, and it spread to Europe in the 19th century. But confidence in the gold standard crumbled during World War I, and it soon became apparent that in order to thrive, currencies needed the freedom to fluctuate dynamically against each other. The gold standard was dropped in the United States in 1933, and a global economy started to take shape.\n\n[9] The E-Buck Stops Here? - Cows, cowries, coins, paper, gold: Money has always had a physical presence. But today, it is quickly evolving into numbers that float through the ether. This modern era of money began in 1946 with the first bank-issued charge card. Credit cards followed some 12 years later, still related to dollars. However, technology, with cryptocurrencies like Bitcoin, is changing the world’s definition of “money.”\n\n[10] Now, social media companies and entire countries are considering digital currencies of their own. Meanwhile, artificial intelligence is growing ever-smarter, and perhaps one day soon your budget and expenses will be managing themselves. The debate rages about exactly where we are headed, but with history as our guide, the one thing we can absolutely count on is the inevitability of change.\n\nAvailable at: synchronybank.com/blog/brief-history-of-money. Adapted.",
+  "alternativas": [
+   "BC – coins",
+   "600 BC – first",
+   "600 BC – coins",
+   "Lydians – coins",
+   "Lydians – known"
+  ],
+  "correta": 3,
+  "comentario": "O pronome relativo “who” refere-se a pessoas: são os Lydians que recebem o crédito. Já “which” retoma coisas, aqui “the first known coins”, que eram feitas de liga de ouro e prata. As alternativas com “600 BC” confundem o aposto de tempo com o antecedente. “First” e “known” são apenas adjetivos que modificam “coins”.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-13",
+  "materia": "ingles",
+  "assunto": "Reading comprehension",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the sixth paragraph of the text, the author mentions that paper money first circulated in",
+  "texto_apoio": "From Bartering to Bitcoin (by Rich Beattie)\n\n[1] What we call “money” has always been a moving target. It changes appearance and value. Here are five key developments in the history of money that have impacted how we earn, save and spend today.\n\n[2] Cash Cows - Before humans had money, they had stuff. In ancient times, when you had stuff other people wanted, you bartered it for stuff you wanted. Around 9000 BC, the most popular commodities included things like cattle, sheep and camels. This was fine when people bartered close to home, but bulky creatures are cumbersome and difficult to transport. As people started to venture farther afield to trade, a more portable option became essential.\n\n[3] In 1200 BC people started using cowries—the shells of marine mollusks taken from oceans. They were recognized as precious, and their use spread across Asia, Africa, Oceania and Europe. Having been in use for centuries — even into the 20th century in some places—cowries win the prize as the world’s longest-running currency.\n\n[4] Three Coins in the Fountain - The issue with bartering became assigning value: Just how much was a cowrie or a cow worth? So, agreeing on the value of money became essential. It was the Lydians, around 600 BC, who get credit for a critical step in this process: fashioning the first known coins, which were made of a gold and silver alloy.\n\n[5] The metal used to make a coin—along with its weight—was important, as it denoted the money’s value. Moreover, as coins gained popularity, so did the idea of adorning them with locally inspired designs. Coins were money, but they now doubled as a historic record. Eventually, they took on even more uses: People flipped them to make decisions and tossed them into wells while making wishes. They may be used less in 2020, but coins have been an integral part of our culture for centuries.\n\n[6] The Paper Chase - Coins were obviously lighter and easier to transport than cows, but carrying bags of heavy metal still wasn’t very practical. China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money. It was super-light and could feature even richer designs than coins, and it promised a certain amount of purchasing power.\n\n[7] Gold Rush - One of the problems, though, was that counterfeiters had great success with paper bills. The bigger problem came when governments faced economic crises; it was far too easy to print more paper money, which led to skyrocketing inflation. Paper needed a backup—something universally valued yet not easily replicated. Something like gold.\n\n[8] The “gold standard” let governments create a fixed price for this precious metal that was tied directly to the value of their currency. In the United States, the idea took root in the late 17th century, and it spread to Europe in the 19th century. But confidence in the gold standard crumbled during World War I, and it soon became apparent that in order to thrive, currencies needed the freedom to fluctuate dynamically against each other. The gold standard was dropped in the United States in 1933, and a global economy started to take shape.\n\n[9] The E-Buck Stops Here? - Cows, cowries, coins, paper, gold: Money has always had a physical presence. But today, it is quickly evolving into numbers that float through the ether. This modern era of money began in 1946 with the first bank-issued charge card. Credit cards followed some 12 years later, still related to dollars. However, technology, with cryptocurrencies like Bitcoin, is changing the world’s definition of “money.”\n\n[10] Now, social media companies and entire countries are considering digital currencies of their own. Meanwhile, artificial intelligence is growing ever-smarter, and perhaps one day soon your budget and expenses will be managing themselves. The debate rages about exactly where we are headed, but with history as our guide, the one thing we can absolutely count on is the inevitability of change.\n\nAvailable at: synchronybank.com/blog/brief-history-of-money. Adapted.",
+  "alternativas": [
+   "Italy",
+   "China",
+   "England",
+   "Australia",
+   "Germany"
+  ],
+  "correta": 1,
+  "comentario": "O parágrafo 6 diz: “China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money”. Nenhum dos outros países é citado no texto. É uma questão de localização direta de informação.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-14",
+  "materia": "ingles",
+  "assunto": "Conectivos",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the fragment in the seventh paragraph of the text “One of the problems, though, was that counterfeiters had great success with paper bills”, the word “though” is associated with the idea of",
+  "texto_apoio": "From Bartering to Bitcoin (by Rich Beattie)\n\n[1] What we call “money” has always been a moving target. It changes appearance and value. Here are five key developments in the history of money that have impacted how we earn, save and spend today.\n\n[2] Cash Cows - Before humans had money, they had stuff. In ancient times, when you had stuff other people wanted, you bartered it for stuff you wanted. Around 9000 BC, the most popular commodities included things like cattle, sheep and camels. This was fine when people bartered close to home, but bulky creatures are cumbersome and difficult to transport. As people started to venture farther afield to trade, a more portable option became essential.\n\n[3] In 1200 BC people started using cowries—the shells of marine mollusks taken from oceans. They were recognized as precious, and their use spread across Asia, Africa, Oceania and Europe. Having been in use for centuries — even into the 20th century in some places—cowries win the prize as the world’s longest-running currency.\n\n[4] Three Coins in the Fountain - The issue with bartering became assigning value: Just how much was a cowrie or a cow worth? So, agreeing on the value of money became essential. It was the Lydians, around 600 BC, who get credit for a critical step in this process: fashioning the first known coins, which were made of a gold and silver alloy.\n\n[5] The metal used to make a coin—along with its weight—was important, as it denoted the money’s value. Moreover, as coins gained popularity, so did the idea of adorning them with locally inspired designs. Coins were money, but they now doubled as a historic record. Eventually, they took on even more uses: People flipped them to make decisions and tossed them into wells while making wishes. They may be used less in 2020, but coins have been an integral part of our culture for centuries.\n\n[6] The Paper Chase - Coins were obviously lighter and easier to transport than cows, but carrying bags of heavy metal still wasn’t very practical. China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money. It was super-light and could feature even richer designs than coins, and it promised a certain amount of purchasing power.\n\n[7] Gold Rush - One of the problems, though, was that counterfeiters had great success with paper bills. The bigger problem came when governments faced economic crises; it was far too easy to print more paper money, which led to skyrocketing inflation. Paper needed a backup—something universally valued yet not easily replicated. Something like gold.\n\n[8] The “gold standard” let governments create a fixed price for this precious metal that was tied directly to the value of their currency. In the United States, the idea took root in the late 17th century, and it spread to Europe in the 19th century. But confidence in the gold standard crumbled during World War I, and it soon became apparent that in order to thrive, currencies needed the freedom to fluctuate dynamically against each other. The gold standard was dropped in the United States in 1933, and a global economy started to take shape.\n\n[9] The E-Buck Stops Here? - Cows, cowries, coins, paper, gold: Money has always had a physical presence. But today, it is quickly evolving into numbers that float through the ether. This modern era of money began in 1946 with the first bank-issued charge card. Credit cards followed some 12 years later, still related to dollars. However, technology, with cryptocurrencies like Bitcoin, is changing the world’s definition of “money.”\n\n[10] Now, social media companies and entire countries are considering digital currencies of their own. Meanwhile, artificial intelligence is growing ever-smarter, and perhaps one day soon your budget and expenses will be managing themselves. The debate rages about exactly where we are headed, but with history as our guide, the one thing we can absolutely count on is the inevitability of change.\n\nAvailable at: synchronybank.com/blog/brief-history-of-money. Adapted.",
+  "alternativas": [
+   "time",
+   "addition",
+   "condition",
+   "emphasis",
+   "opposition"
+  ],
+  "correta": 4,
+  "comentario": "Usado no meio da frase, entre vírgulas, “though” equivale a “however” (“porém”, “no entanto”) e introduz um contraste com o parágrafo anterior, que elogiava o papel-moeda. Por isso a ideia é de oposição. Não indica tempo, adição nem condição. Às vezes é confundido com ênfase, mas sua função aqui é adversativa.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-15",
+  "materia": "ingles",
+  "assunto": "Reading comprehension",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "In the tenth paragraph, the author of the text predicts that there are chances artificial intelligence will be able to",
+  "texto_apoio": "From Bartering to Bitcoin (by Rich Beattie)\n\n[1] What we call “money” has always been a moving target. It changes appearance and value. Here are five key developments in the history of money that have impacted how we earn, save and spend today.\n\n[2] Cash Cows - Before humans had money, they had stuff. In ancient times, when you had stuff other people wanted, you bartered it for stuff you wanted. Around 9000 BC, the most popular commodities included things like cattle, sheep and camels. This was fine when people bartered close to home, but bulky creatures are cumbersome and difficult to transport. As people started to venture farther afield to trade, a more portable option became essential.\n\n[3] In 1200 BC people started using cowries—the shells of marine mollusks taken from oceans. They were recognized as precious, and their use spread across Asia, Africa, Oceania and Europe. Having been in use for centuries — even into the 20th century in some places—cowries win the prize as the world’s longest-running currency.\n\n[4] Three Coins in the Fountain - The issue with bartering became assigning value: Just how much was a cowrie or a cow worth? So, agreeing on the value of money became essential. It was the Lydians, around 600 BC, who get credit for a critical step in this process: fashioning the first known coins, which were made of a gold and silver alloy.\n\n[5] The metal used to make a coin—along with its weight—was important, as it denoted the money’s value. Moreover, as coins gained popularity, so did the idea of adorning them with locally inspired designs. Coins were money, but they now doubled as a historic record. Eventually, they took on even more uses: People flipped them to make decisions and tossed them into wells while making wishes. They may be used less in 2020, but coins have been an integral part of our culture for centuries.\n\n[6] The Paper Chase - Coins were obviously lighter and easier to transport than cows, but carrying bags of heavy metal still wasn’t very practical. China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money. It was super-light and could feature even richer designs than coins, and it promised a certain amount of purchasing power.\n\n[7] Gold Rush - One of the problems, though, was that counterfeiters had great success with paper bills. The bigger problem came when governments faced economic crises; it was far too easy to print more paper money, which led to skyrocketing inflation. Paper needed a backup—something universally valued yet not easily replicated. Something like gold.\n\n[8] The “gold standard” let governments create a fixed price for this precious metal that was tied directly to the value of their currency. In the United States, the idea took root in the late 17th century, and it spread to Europe in the 19th century. But confidence in the gold standard crumbled during World War I, and it soon became apparent that in order to thrive, currencies needed the freedom to fluctuate dynamically against each other. The gold standard was dropped in the United States in 1933, and a global economy started to take shape.\n\n[9] The E-Buck Stops Here? - Cows, cowries, coins, paper, gold: Money has always had a physical presence. But today, it is quickly evolving into numbers that float through the ether. This modern era of money began in 1946 with the first bank-issued charge card. Credit cards followed some 12 years later, still related to dollars. However, technology, with cryptocurrencies like Bitcoin, is changing the world’s definition of “money.”\n\n[10] Now, social media companies and entire countries are considering digital currencies of their own. Meanwhile, artificial intelligence is growing ever-smarter, and perhaps one day soon your budget and expenses will be managing themselves. The debate rages about exactly where we are headed, but with history as our guide, the one thing we can absolutely count on is the inevitability of change.\n\nAvailable at: synchronybank.com/blog/brief-history-of-money. Adapted.",
+  "alternativas": [
+   "manage bank accounts.",
+   "prevent money changes.",
+   "eliminate exchange rates.",
+   "control financial resources.",
+   "avoid inflation and corruption."
+  ],
+  "correta": 3,
+  "comentario": "O texto diz: “perhaps one day soon your budget and expenses will be managing themselves”. Orçamento e despesas gerenciando-se sozinhos equivale a controlar recursos financeiros (D). A alternativa A é mais específica do que o texto, que não menciona contas bancárias. O autor diz, pelo contrário, que a mudança é inevitável, o que descarta B. O texto também não fala de câmbio nem de corrupção.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-16",
+  "materia": "matematica",
+  "assunto": "Raciocínio lógico (condicionais)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um grande banco formará uma comissão que será comandada por três de suas funcionárias, Alice, Beatriz e Carla. Nessa comissão, uma delas será a presidente, outra será a gerente, e outra, a coordenadora. A distribuição desses cargos deverá, necessariamente, considerar as quatro seguintes restrições:\nI) Se Carla for a gerente, então Beatriz terá de ser a presidente;\nII) Se Alice for a presidente, então Carla terá de ser a gerente;\nIII) Se Beatriz não for a coordenadora, então Alice terá de ser a gerente;\nIV) Se Carla for a coordenadora, então Beatriz terá de ser a gerente.\nNessas circunstâncias, os respectivos cargos de Alice, Beatriz e Carla serão",
+  "alternativas": [
+   "gerente, coordenadora e presidente",
+   "gerente, presidente e coordenadora",
+   "coordenadora, presidente e gerente",
+   "presidente, gerente e coordenadora",
+   "presidente, coordenadora e gerente"
+  ],
+  "correta": 0,
+  "comentario": "Teste cada distribuição. Em B, D e E, Carla é coordenadora com Beatriz fora da gerência, ou Alice é presidente com Carla fora da gerência, e em cada caso alguma regra (IV ou II) é violada. Em C (Alice coordenadora, Beatriz presidente, Carla gerente), Beatriz não é coordenadora, então pela regra III Alice teria de ser gerente, o que falha. Em A (Alice gerente, Beatriz coordenadora, Carla presidente), nenhuma condição de I, II ou IV é ativada, e III é vacuamente verdadeira porque Beatriz é coordenadora. Por isso A é a única distribuição válida.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-17",
+  "materia": "matematica",
+  "assunto": "Função quadrática",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Uma fábrica vende mensalmente 200 malas a R$ 300,00 cada. O departamento de vendas trabalha com a hipótese de que cada aumento de R$ 10,00 no preço de cada mala implica a venda mensal de 20 malas a menos. Por exemplo, em um mês em que cada mala foi vendida por R$ 320,00, foram vendidas 160 malas. Suponha que a hipótese esteja correta e que, em um determinado mês, cada mala foi vendida por (300 + 10x) reais, sendo x o número inteiro de aumentos de R$ 10,00, tal que 0 < x < 10.\nNesse mês, com a venda dessas malas, o valor y, em reais, arrecadado, em função de x, é dado por",
+  "alternativas": [
+   "y = -200x² - 5800x + 63600",
+   "y = -200x² - 4000x + 63600",
+   "y = -200x² - 5800x + 60000",
+   "y = -200x² - 4800x + 60800",
+   "y = -200x² - 4000x + 60000"
+  ],
+  "correta": 4,
+  "comentario": "A receita é preço × quantidade: y = (300 + 10x)(200 - 20x). Expandindo, 60000 - 6000x + 2000x - 200x² = -200x² - 4000x + 60000. Como conferência, com x = 0 a receita deve ser 300 × 200 = 60000, o que elimina A, B e D. Entre C e E, o coeficiente de x é -6000 + 2000 = -4000.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-18",
+  "materia": "matematica",
+  "assunto": "Progressão aritmética",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No primeiro dia de agosto, foram registradas 180 reclamações em um órgão de defesa do consumidor. No segundo dia, foram registradas 184 reclamações.\nSupondo-se que há reclamações todos os dias e que cada dia tenha 4 reclamações a mais do que o dia anterior, durante todos os 31 dias do mês de agosto, o total de reclamações registradas será igual a",
+  "alternativas": [
+   "7.108",
+   "7.440",
+   "7.860",
+   "8.184",
+   "8.880"
+  ],
+  "correta": 1,
+  "comentario": "É uma PA com a1 = 180, r = 4 e n = 31. O último termo é a31 = 180 + 30 × 4 = 300. A soma é S = (a1 + a31) × n / 2 = (180 + 300) × 31 / 2 = 240 × 31 = 7.440. Um erro comum é usar 31 × 4 no último termo, o que dá 304 e uma soma maior.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-19",
+  "materia": "matematica",
+  "assunto": "Problemas com sistemas",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Em um pacote, há algumas cédulas de R$ 10,00, algumas de R$ 20,00, algumas de R$ 50,00 e nada mais. Ao todo, são 68 cédulas, que totalizam R$ 1.380,00. Sabe-se que, contando só as cédulas de R$ 50,00, obtém-se R$ 550,00, e contando só as cédulas de R$ 20,00, obtém-se R$ 520,00.\nNesse pacote, o número de cédulas de R$ 10,00 é igual a",
+  "alternativas": [
+   "26",
+   "31",
+   "37",
+   "39",
+   "42"
+  ],
+  "correta": 1,
+  "comentario": "Há 550/50 = 11 cédulas de R$ 50 e 520/20 = 26 de R$ 20. Sobram 68 - 11 - 26 = 31 cédulas de R$ 10. Conferindo pelo valor: 1380 - 550 - 520 = 310 reais, que correspondem a 31 cédulas de R$ 10. A alternativa A (26) é o número de cédulas de R$ 20, uma distração comum.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-20",
+  "materia": "matematica",
+  "assunto": "Frações e tempo",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Agora, são H horas e M minutos. Considerando-se apenas as 24 horas do dia de hoje, 3/7 do tempo que já se passou correspondem exatamente ao tempo que falta para a meia-noite.\nDessa forma, H + M é igual a",
+  "alternativas": [
+   "19",
+   "24",
+   "37",
+   "64",
+   "96"
+  ],
+  "correta": 3,
+  "comentario": "Seja t o tempo já passado, em horas. Então 24 - t = (3/7)t, o que dá 24 = (10/7)t e t = 16,8 h. Como 0,8 h = 48 min, são 16h48. Logo, H + M = 16 + 48 = 64. O erro típico é tratar 16,8 como 16h80 ou somar 16 + 8.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-21",
+  "materia": "atualidades",
+  "assunto": "Bancos digitais",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A principal característica dos bancos exclusivamente digitais é a",
+  "alternativas": [
+   "oferta de produtos e serviços por meio digital.",
+   "oferta de serviços por meio de agências bancárias.",
+   "oferta de todos os serviços operados pelos bancos múltiplos.",
+   "ausência de operações com moeda estrangeira.",
+   "cobrança de taxas similares às cobradas pelos bancos tradicionais."
+  ],
+  "correta": 0,
+  "comentario": "Bancos exclusivamente digitais operam sem agências físicas e oferecem produtos e serviços por canais digitais (aplicativo, internet), o que corresponde à alternativa A. A alternativa B descreve o oposto. Eles não oferecem necessariamente todos os serviços de um banco múltiplo (C), podem operar com câmbio (D) e costumam cobrar tarifas menores que os bancos tradicionais (E).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-22",
+  "materia": "atualidades",
+  "assunto": "Shadow banking",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No Sistema Financeiro Nacional, identificam-se os bancos-sombra (shadow banks) como bancos que",
+  "alternativas": [
+   "possuem diversos tipos de carteiras em suas operações ativas.",
+   "se especializam em transações financeiras como bancos estrangeiros.",
+   "se concentram em transações financeiras no mercado local.",
+   "realizam operações financeiras à margem do sistema de regulação e supervisão do Banco Central do Brasil.",
+   "se originam a partir de indivíduos que se associam para prestar serviços financeiros a seus associados."
+  ],
+  "correta": 3,
+  "comentario": "O “sistema bancário sombra” reúne entidades que fazem intermediação financeira parecida com a de bancos (crédito, transformação de prazos), mas fora do alcance da regulação e supervisão bancária, que no Brasil cabe ao Banco Central. A alternativa A descreve bancos múltiplos. A E descreve cooperativas de crédito, que são reguladas. As alternativas B e C não caracterizam o conceito.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-23",
+  "materia": "atualidades",
+  "assunto": "Funções da moeda",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao longo das crises financeiras agudas, em que se observam elevada incerteza e temor em relação à solvência de empresas e bancos, a extrema preferência por liquidez tende a fazer com que os agentes econômicos aumentem as práticas de entesouramento.\nNesse contexto, a moeda assume, precipuamente, a função de",
+  "alternativas": [
+   "meio de financiamento dos investimentos",
+   "meio de troca",
+   "unidade de conta",
+   "escambo",
+   "reserva de valor"
+  ],
+  "correta": 4,
+  "comentario": "Entesourar significa guardar moeda em vez de gastá-la ou investi-la. Nesse caso a moeda é usada como reserva de valor, uma forma de preservar poder de compra para o futuro diante da incerteza. “Meio de troca” é o uso da moeda nas transações correntes, e “unidade de conta” é seu papel como medida de preços. Escambo é justamente a troca sem moeda, e “financiamento de investimentos” não é uma das funções clássicas da moeda.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-24",
+  "materia": "atualidades",
+  "assunto": "Economia digital (marketplace)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A economia digital propiciou a criação de um modelo de negócios em que uma empresa gerencia uma plataforma digital por meio da qual diversas empresas, concorrentes ou não, ofertam e vendem produtos e serviços on-line num ambiente que se assemelha a um shopping virtual.\nA plataforma digital descrita acima é denominada",
+  "alternativas": [
+   "startup",
+   "marketplace",
+   "fintech",
+   "mobile banking",
+   "internet banking"
+  ],
+  "correta": 1,
+  "comentario": "Marketplace é a plataforma que reúne vários vendedores num mesmo ambiente on-line, como um shopping virtual (exemplos: Mercado Livre, Amazon). Startup é uma empresa nascente e inovadora, de qualquer modelo de negócio. Fintech é uma empresa de tecnologia financeira. Mobile banking e internet banking são canais de atendimento bancário.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-25",
+  "materia": "atualidades",
+  "assunto": "Blockchain",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No sistema financeiro contemporâneo, o uso de tecnologias blockchain é considerado revolucionário, porque",
+  "alternativas": [
+   "possibilita o armazenamento e compartilhamento de dados de forma distribuída, criptografada e sem a intermediação de terceiros.",
+   "envolve múltiplos intermediários financeiros, mas mantém a centralização das informações em apenas um deles.",
+   "permite a quebra do sigilo inerente às transações financeiras.",
+   "elimina as práticas ilegais em curso nas transações financeiras, por meio do uso de linguagem criptografada.",
+   "privilegia a linguagem analógica, em detrimento da digital."
+  ],
+  "correta": 0,
+  "comentario": "Blockchain é um registro distribuído (ledger) replicado entre vários nós, protegido por criptografia e validado por consenso, e dispensa um intermediário central de confiança. A alternativa B descreve o contrário, pois há descentralização. Blockchain não serve para quebrar sigilo (C) e não elimina ilegalidades (D), já que criptografia não impede fraudes nos usos da rede. A alternativa E não tem sentido.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-26",
+  "materia": "estatistica",
+  "assunto": "Distribuição normal",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A distribuição das alturas dos atletas de vôlei de uma determinada seleção é normal. Sabe-se que 5% dos atletas têm altura superior a 200 cm, e 2,5% têm altura inferior a 192,8 cm.\nO desvio padrão, em centímetros, dessa distribuição é de, aproximadamente,\nDado: considere que a variável aleatória Z tem distribuição normal padrão (Z ~ N(0;1)); Prob(Z > 1,64) = 5%; e Prob(Z > 1,96) = 2,5%.",
+  "alternativas": [
+   "2",
+   "4",
+   "8",
+   "16",
+   "64"
+  ],
+  "correta": 0,
+  "comentario": "Pelos dados, 200 = μ + 1,64σ e 192,8 = μ - 1,96σ (pela simetria, 2,5% abaixo corresponde a z = -1,96). Subtraindo uma equação da outra: 7,2 = 3,6σ, logo σ = 2 cm e μ ≈ 196,7 cm. Quem usa o mesmo sinal nos dois z ou esquece a simetria chega a valores absurdos. A alternativa B (4) seria a variância, e não o desvio padrão.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-27",
+  "materia": "estatistica",
+  "assunto": "Distribuição amostral da média",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Uma população é formada por quatro números, quais sejam, 2, 5, 10, 15, de modo que a média vale 8, e a variância, 24,5.\nConsiderando-se todas as possíveis amostras aleatórias simples, com reposição, de tamanho 2 dessa população, a variância da distribuição amostral das médias é de",
+  "alternativas": [
+   "3,50",
+   "4,94",
+   "12,25",
+   "24,50",
+   "32,67"
+  ],
+  "correta": 2,
+  "comentario": "Com reposição, as observações são independentes, e a variância da média amostral é σ²/n = 24,5/2 = 12,25. O fator de correção para população finita, (N - n)/(N - 1), só entraria em amostragem sem reposição: 12,25 × 2/3 ≈ 8,17, valor que nem está entre as opções. A alternativa D repete a variância populacional, esquecendo de dividir por n.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-28",
+  "materia": "estatistica",
+  "assunto": "Probabilidade (permutações caóticas)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Após uma festa de casamento, a anfitriã percebeu que foram esquecidos quatro telefones celulares. Na manhã seguinte, enviou uma mensagem para o grupo de convidados pelo WhatsApp sobre o esquecimento, e apenas quatro pessoas não responderam, fazendo com que ela presumisse, corretamente, que estas quatro pessoas seriam os proprietários dos telefones. Para devolvê-los, a anfitriã preparou quatro envelopes, cada um contendo um dos endereços desses quatro proprietários. Ato contínuo, colocou aleatoriamente cada celular em um envelope e os despachou para uma entrega expressa.\nA probabilidade de que apenas um desses quatro convidados tenha recebido o seu próprio celular é de",
+  "alternativas": [
+   "3/4",
+   "2/3",
+   "1/2",
+   "3/8",
+   "1/3"
+  ],
+  "correta": 4,
+  "comentario": "Há 4! = 24 distribuições possíveis. Para que exatamente uma pessoa receba o próprio celular, escolhe-se quem acerta (4 modos) e os outros 3 devem todos errar, o que é uma permutação caótica de 3: D3 = 2 modos. Isso dá 4 × 2 = 8 casos favoráveis, e a probabilidade é 8/24 = 1/3. O erro comum é calcular 4 × (1/4) × (3/4)³, tratando os eventos como independentes.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2023ti-29",
+  "materia": "estatistica",
+  "assunto": "Média ponderada",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere que, em uma agência bancária, o tempo médio que um cliente aguardou para começar a ser atendido, na primeira semana de um determinado mês de 2022, foi de 8min 30s e, na semana seguinte, esse tempo médio passou para 5min 30s. Considere, ainda, que na primeira semana foram atendidos 2.700 clientes, e na segunda semana, 1.350 clientes.\nO tempo médio de espera para um cliente começar a ser atendido no caixa, considerando essas duas semanas, foi de, aproximadamente,",
+  "alternativas": [
+   "5min 50s",
+   "6min 30s",
+   "6min 50s",
+   "7min 30s",
+   "7min 50s"
+  ],
+  "correta": 3,
+  "comentario": "É preciso ponderar pelo número de clientes. A primeira semana tem o dobro de clientes da segunda (2.700 = 2 × 1.350), então a média é (2 × 8,5 + 1 × 5,5)/3 = 22,5/3 = 7,5 min, ou seja, 7min 30s. A média simples, (8,5 + 5,5)/2 = 7 min, ignora os pesos e não está entre as opções. Como a primeira semana pesa mais, o resultado fica mais perto de 8min 30s.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-30",
+  "materia": "estatistica",
+  "assunto": "Teorema de Bayes",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Para melhorar a educação financeira de seus clientes quanto ao uso do crédito, um banco contratou uma empresa de análise de risco, que classifica os clientes quanto à propensão de usar o cheque especial, em dois tipos: A e B, sendo o tipo A propenso a usar o cheque especial, e o tipo B, a não usar o cheque especial. Para uma determinada agência, um estudo da empresa mostrou que a probabilidade de um cliente tipo A usar o cheque especial, em um intervalo de um ano, é de 80%. Já para o tipo B, a probabilidade de usar é de 10%, no mesmo intervalo de tempo. Considere que, nessa agência, 30% dos clientes são considerados do tipo A.\nNesse contexto, se um cliente entrou no cheque especial, a probabilidade de que seja do tipo A, é de, aproximadamente,",
+  "alternativas": [
+   "65%",
+   "70%",
+   "77%",
+   "82%",
+   "85%"
+  ],
+  "correta": 2,
+  "comentario": "Pelo teorema de Bayes: P(usar) = 0,3 × 0,8 + 0,7 × 0,1 = 0,24 + 0,07 = 0,31. Então P(A | usar) = 0,24/0,31 ≈ 0,774, ou seja, cerca de 77%. O erro típico é responder 80%, que é P(usar | A), invertendo a condicional.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-31",
+  "materia": "bancarios",
+  "assunto": "Taxa de juros real",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao decidir pela aplicação em um ativo financeiro, os investidores levam em conta a chamada taxa de juros real ex-ante.\nSe eles considerarem a taxa de juros SELIC, o índice da taxa de juros real ex-ante para os próximos 12 meses é entendido como o índice da",
+  "alternativas": [
+   "SELIC nominal esperada para os próximos 12 meses, descontado o índice da variação cambial esperada para os próximos 12 meses.",
+   "SELIC nominal esperada para os próximos 12 meses, descontado o índice da inflação esperada para os próximos 12 meses.",
+   "SELIC nominal acumulada nos últimos 12 meses, descontado o índice de variação cambial acumulada nos últimos 12 meses.",
+   "SELIC nominal acumulada nos últimos 12 meses, descontado o índice da inflação acumulada nos últimos 12 meses.",
+   "SELIC nominal acumulada nos últimos 12 meses, descontado o índice de impostos acumulados nos últimos 12 meses, incidentes sobre os rendimentos do ativo."
+  ],
+  "correta": 1,
+  "comentario": "“Ex-ante” significa “antes do fato”, isto é, com base em expectativas. A taxa real ex-ante é a taxa nominal esperada descontada da inflação esperada para o mesmo período: (1 + i)/(1 + πe) - 1. A alternativa D descreve a taxa real ex-post, calculada com dados passados. As alternativas com câmbio ou impostos confundem juros real com outros ajustes.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-32",
+  "materia": "bancarios",
+  "assunto": "Mercado cambial",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "As operações diárias de compra e venda de divisas estrangeiras (dólares, euros, libras esterlinas, dentre outras) são parte integrante do mercado",
+  "alternativas": [
+   "monetário",
+   "cambial",
+   "acionário",
+   "creditício",
+   "de trabalho"
+  ],
+  "correta": 1,
+  "comentario": "O mercado cambial é onde se negociam moedas estrangeiras, trocando-as pela moeda nacional. O mercado monetário trata de operações de curtíssimo prazo para controle da liquidez (títulos públicos, compromissadas). O acionário negocia ações e o creditício concentra os empréstimos e financiamentos. “Mercado de trabalho” nem faz parte do sistema financeiro.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-33",
+  "materia": "bancarios",
+  "assunto": "Paridade de juros e fluxo de capitais",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A equação da paridade dos juros, a descoberto, estabelece que:\ntaxa de juros interna – taxa de juros externa = expectativas de depreciação da moeda nacional em relação ao Dólar americano + risco-país\nAdmita-se que a deterioração de indicadores macroeconômicos fundamentais no Brasil, como o déficit fiscal e o déficit em transações correntes do balanço de pagamentos, provoque o aumento do risco-país e a fuga de capitais estrangeiros do Brasil.\nSe a equação de paridade dos juros for aplicada ao caso brasileiro, supondo-se que todos os demais indicadores econômicos permaneçam constantes, para que os influxos de capitais estrangeiros no Brasil voltem a se estabilizar, será necessário",
+  "alternativas": [
+   "aumentar o risco-país.",
+   "aumentar a taxa de juros externa.",
+   "aumentar a taxa de juros interna.",
+   "reduzir a taxa de juros interna.",
+   "depreciar o Real brasileiro em relação ao Dólar americano."
+  ],
+  "correta": 2,
+  "comentario": "Se o risco-país aumenta no lado direito da equação e o resto fica constante, o diferencial de juros (interna - externa) precisa crescer para restabelecer a igualdade e voltar a atrair capital. Como a taxa externa não é controlada pelo Brasil, a saída é elevar a taxa de juros interna. Reduzir juros (D) agravaria a fuga de capitais. Aumentar o risco-país (A) é o próprio problema, e a depreciação (E) é consequência da fuga, não um instrumento de estabilização na equação.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-34",
+  "materia": "bancarios",
+  "assunto": "Resultado fiscal primário",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere-se a execução, em determinado ano, do orçamento público consolidado do Brasil. Se, no final desse mesmo ano, o total das despesas primárias relativas a gastos em custeio e investimento – excluídas as despesas de juros incidentes sobre o estoque da dívida pública – tiver sido superior ao total das receitas de impostos arrecadados, o governo brasileiro terá fechado o ano com",
+  "alternativas": [
+   "déficit fiscal primário",
+   "déficit fiscal nominal",
+   "superávit fiscal primário",
+   "superávit fiscal nominal",
+   "orçamento equilibrado"
+  ],
+  "correta": 0,
+  "comentario": "O resultado primário compara receitas e despesas não financeiras, ou seja, exclui os juros da dívida. Se as despesas primárias superam as receitas, há déficit primário. O resultado nominal incluiria os juros, que o enunciado exclui expressamente, por isso B e D não se aplicam. Superávit (C) exigiria receitas maiores que as despesas.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-35",
+  "materia": "bancarios",
+  "assunto": "Sigilo bancário (LC 105/2001)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um pesquisador na área de finanças públicas e privadas atua, também, como consultor de negócios. Em determinado momento, recebe proposta para assessorar empresário que deseja constituir sociedade para negociar informações constantes de dados de instituições financeiras. Tal atividade não é autorizada pela legislação. O pesquisador aduz que, consoante a Lei Complementar nº 105/2001, devem observar o sigilo em suas operações ativas e passivas e serviços prestados diversas instituições financeiras, dentre as quais administradoras de",
+  "alternativas": [
+   "imóveis urbanos",
+   "locação de móveis",
+   "empréstimo de automóveis",
+   "bens antigos de raridade comprovada",
+   "mercado de balcão organizado"
+  ],
+  "correta": 4,
+  "comentario": "O art. 1º, § 1º, da LC 105/2001 lista as instituições financeiras sujeitas ao sigilo. Entre elas estão bancos, corretoras, distribuidoras, sociedades de crédito, cooperativas, bolsas e “entidades de liquidação e compensação” e também as “administradoras de mercado de balcão organizado”. As demais alternativas descrevem atividades comerciais sem natureza financeira, que não constam do rol da lei.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-36",
+  "materia": "ti",
+  "assunto": "Python (Scikit-learn)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Analise o código a seguir, feito em Python com o Scikit-learn.\n\nimport numpy as np\nimport sklearn.linear_model as skl\nbase = np.array([1, 2, 3, 4, 5, 6])\nx = base.reshape((-1, 1))\ny = base*2+3\n# a fazer\nprint('a', model.coef_[0])\nprint('b', model.intercept_)\n\nA partir desse código, um programador quer obter os parâmetros a e b da equação y = ax + b, por meio de uma regressão linear, usando, para isso, os dados nos vetores x e y definidos no programa. Qual linha de código deve substituir o comentário # a fazer de modo a realizar essa regressão linear?",
+  "alternativas": [
+   "model = skl.lr(x, y)",
+   "model = skl.lr().fit(x, y)",
+   "model = skl.LinearRegression(x, y)",
+   "model = skl.LinearRegression([x, y])",
+   "model = skl.LinearRegression().fit(x, y)"
+  ],
+  "correta": 4,
+  "comentario": "No scikit-learn, primeiro se instancia o estimador (LinearRegression(), sem os dados) e depois se ajusta o modelo com .fit(X, y). O método fit devolve o próprio objeto já treinado, que passa a ter coef_ (aqui [2.]) e intercept_ (3.). Não existe classe “lr” no módulo, o que elimina A e B. O construtor de LinearRegression recebe hiperparâmetros, e não os dados, por isso C e D estão erradas.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-37",
+  "materia": "ti",
+  "assunto": "Swift",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Em um programa em Swift, o programador deseja incluir o resultado de uma operação dentro de uma string. Nesse contexto, considere o seguinte código:\n\nlet quantidade = 4\nlet valor = 10\n\nDado o código acima, o programador deseja uma string saida cujo valor seja\n\"valor total = 40\"\nPara isso, o programador deve utilizar o seguinte fragmento de código Swift:",
+  "alternativas": [
+   "let saida := \"valor total = \\(quantidade*valor)\"",
+   "let saida := \"valor total = \\{quantidade*valor}\"",
+   "let saida = \"valor total = %[quantidade*valor]\"",
+   "let saida = \"valor total = \\(quantidade*valor)\"",
+   "let saida = \"valor total = \\[quantidade*valor]\""
+  ],
+  "correta": 3,
+  "comentario": "Em Swift, a interpolação de strings usa a sintaxe \\(expressão) dentro do literal, e a declaração de constante usa “let nome = valor”. O operador “:=” não existe em Swift, o que elimina A e B. As formas \\{ }, %[ ] e \\[ ] não são sintaxe de interpolação. O resultado é “valor total = 40”.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-38",
+  "materia": "ti",
+  "assunto": "Java (interfaces)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um programador foi instruído pelo seu gerente a implementar, em Java, uma classe MemoriaCalculoVenda que implementasse a interface MemoriaCalculo, já criada pela organização e que representa as exigências da organização para classes que implementam memórias de cálculo. Nesse cenário, com que fragmento de código o programador deve começar, de forma correta, a implementação da classe?",
+  "alternativas": [
+   "class MemoriaCalculoVenda extends MemoriaCalculo",
+   "class MemoriaCalculoVenda implements MemoriaCalculo",
+   "class MemoriaCalculoVenda imports MemoriaCalculo",
+   "class MemoriaCalculoVenda inherits MemoriaCalculo",
+   "class MemoriaCalculoVenda uses MemoriaCalculo"
+  ],
+  "correta": 1,
+  "comentario": "Em Java, uma classe realiza uma interface com a palavra-chave implements. A palavra extends serve para herdar de outra classe, ou para uma interface estender outra interface. As palavras-chave imports (existe apenas import, para pacotes), inherits e uses não existem na declaração de classes Java.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-39",
+  "materia": "ti",
+  "assunto": "Dado, informação e conhecimento",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "No processo de aprendizagem de máquina, busca-se identificar padrões compreensíveis em bases de dados. Desse modo, supõe-se a existência de uma hierarquia de três níveis: a base, com os itens elementares, captados e armazenados por recursos de Tecnologia da Informação; o nível intermediário, no qual esses itens são processados, com significados e contextos bem definidos; e o nível mais alto, contendo os padrões ou os conjuntos cuja formulação pode envolver ou relacionar os níveis inferiores.\nOs três níveis dessa hierarquia, listados, respectivamente, da base para o nível mais alto, são:",
+  "alternativas": [
+   "conhecimento, informação e dado",
+   "dado, conhecimento e informação",
+   "dado, informação e conhecimento",
+   "informação, conhecimento e dado",
+   "informação, dado e conhecimento"
+  ],
+  "correta": 2,
+  "comentario": "Na hierarquia clássica (pirâmide DIKW), dados são itens brutos e elementares. A informação é o dado processado, com significado e contexto. O conhecimento corresponde aos padrões e relações extraídos da informação. Portanto, da base ao topo: dado → informação → conhecimento. As demais alternativas trocam a ordem desses níveis.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-40",
+  "materia": "ti",
+  "assunto": "TypeScript",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Analise com atenção o código a seguir, escrito em TypeScript 4.0.\n\nfunction segredo(a: number[]) {\n    return a.map(x=>x*2);\n}\n\nconsole.log(segredo([1,2,3]));\n\nO que será exibido no console quando o código acima for executado?",
+  "alternativas": [
+   "\"Executed JavaScript Failed:\"",
+   "[2, 4, 6]",
+   "[6]",
+   "6",
+   "12"
+  ],
+  "correta": 1,
+  "comentario": "O método map aplica a função a cada elemento e devolve um novo array do mesmo tamanho. Aplicando x => x*2 a [1, 2, 3], obtém-se [2, 4, 6]. O código é válido em TypeScript, pois os tipos são coerentes, e por isso não há erro. As alternativas D (6) e E (12) confundem map com reduce, que acumularia os valores em soma.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-41",
+  "materia": "ti",
+  "assunto": "Processamento de linguagem natural",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Uma organização decidiu monitorar a opinião do público sobre ela nas redes sociais. Para isso, processou as mensagens com referências ao seu nome, a fim de possibilitar o uso de uma técnica de processamento de linguagem natural conhecida como análise de sentimentos.\nApós transformar cada mensagem em uma string, um dos passos importantes nessa técnica é a tokenização, que consiste em",
+  "alternativas": [
+   "colocar todos os caracteres da mensagem em minúsculas.",
+   "colocar todos os verbos da mensagem no infinitivo.",
+   "dividir o texto da mensagem em palavras isoladas.",
+   "eliminar todos os marcadores HTML ou XML da mensagem.",
+   "substituir todos os caracteres acentuados da mensagem por suas versões sem acento."
+  ],
+  "correta": 2,
+  "comentario": "Tokenizar é segmentar o texto em unidades (tokens), normalmente palavras, e às vezes pontuação ou subpalavras. As outras alternativas também são etapas de pré-processamento, mas com outros nomes. Converter para minúsculas é normalização (lowercasing). Levar verbos ao infinitivo é lematização. Remover tags é limpeza, e remover acentos é normalização de caracteres.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-42",
+  "materia": "ti",
+  "assunto": "Aprendizado de máquina",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Sabendo que existe, na organização em que trabalha, uma base de dados formada por uma grande tabela que contém apenas o id do cliente e colunas do tipo booleano indicando se um cliente possuía ou já tinha possuído cada produto da organização, um funcionário de TI resolveu dividir os clientes em grupos apenas com base nessa informação, utilizando aprendizado de máquina.\nPara essa tarefa, o funcionário de TI deve utilizar o aprendizado de máquina",
+  "alternativas": [
+   "independente",
+   "não supervisionado",
+   "por recompensa",
+   "por reforço",
+   "supervisionado"
+  ],
+  "correta": 1,
+  "comentario": "Dividir clientes em grupos sem um rótulo prévio (não existe coluna de “classe correta”) é agrupamento (clustering), tarefa típica de aprendizado não supervisionado. O supervisionado exige exemplos rotulados. Aprendizado por reforço, ou “por recompensa”, envolve um agente que interage com um ambiente. “Independente” não é uma categoria de aprendizado.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-43",
+  "materia": "ti",
+  "assunto": "Big Data",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Organizações modernas estão sujeitas a uma grande quantidade de dados, principalmente se tratam com grandes quantidades de clientes. Muitas das demandas de tecnologia de informação a que essas organizações estão submetidas passaram a ser organizadas e tratadas dentro do conceito de Big Data.\nAlém do grande volume de dados, o Big Data, em sua definição original, considera também a(s) seguinte(s) propriedade(s):",
+  "alternativas": [
+   "falta de qualidade, apenas",
+   "variedade, apenas",
+   "velocidade, apenas",
+   "variedade e velocidade",
+   "velocidade e falta de qualidade"
+  ],
+  "correta": 3,
+  "comentario": "A definição original de Big Data (Doug Laney, Gartner, 2001) tem os 3 Vs: volume, variedade e velocidade. Veracidade, valor e outros Vs foram acrescentados depois. “Falta de qualidade” não faz parte da definição original. As alternativas com “apenas” deixam de fora um dos Vs.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-44",
+  "materia": "ti",
+  "assunto": "Redução de dimensionalidade",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao fazer a preparação para analisar dados em um banco de dados típico de Big Data, um profissional de TI percebeu que o número de atributos, ou colunas, era muito maior do que poderia processar com a ferramenta de análise disponível, sendo necessário, portanto, utilizar uma técnica de redução de dados para prepará-los para análise.\nUma técnica indicada, nesse caso, é a",
+  "alternativas": [
+   "Amostragem Aleatória",
+   "Amostragem Estratificada",
+   "Análise de Componentes Principais",
+   "Deduplicação",
+   "Imputação"
+  ],
+  "correta": 2,
+  "comentario": "O problema está no excesso de colunas, e a solução é reduzir a dimensionalidade. A PCA (Análise de Componentes Principais) combina os atributos em poucos componentes que preservam a maior parte da variância. As amostragens (A e B) reduzem o número de linhas, não de colunas. Deduplicação remove registros repetidos, e imputação preenche valores ausentes.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-45",
+  "materia": "ti",
+  "assunto": "Python (Pandas)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ao programar em Python com Pandas, é possível usar máscaras para selecionar linhas específicas, de acordo com um padrão. Nesse cenário, analise o seguinte código:\n\nimport pandas as pd\ndata = {'x':[1,2,3], 'y':[3, 7, 11], 'z': [False, True, False]}\ndf = pd.DataFrame(data)\nm = df['z'] == False\nef = df[m]\n# a fazer\nprint(ff)\n\nAo executar esse código, deseja-se obter a seguinte saída:\n\n   x   y\n0  1   3\n2  3  11\n\nO fragmento de código que deve substituir o comentário # a fazer para obter a saída desejada é",
+  "alternativas": [
+   "ff = ef['x','y']",
+   "ff = ef[] == 'x' or 'y'",
+   "ff = ef[['x','y']]",
+   "ff = ef.cols('x','y')",
+   "ff = ef.cols(['x','y'])"
+  ],
+  "correta": 2,
+  "comentario": "A máscara m mantém só as linhas em que z é False (índices 0 e 2). Para selecionar várias colunas de um DataFrame, passa-se uma lista de nomes dentro dos colchetes: ef[['x','y']]. A forma ef['x','y'] procura uma única coluna cujo nome é a tupla ('x','y') e gera KeyError. DataFrame não tem método cols, e a alternativa B é sintaxe inválida.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-46",
+  "materia": "ti",
+  "assunto": "Android",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um programador recebeu a incumbência de desenvolver uma aplicação móvel segundo a API 30 do Android, correspondente ao Android 11. Seguindo as melhores práticas, cada tela dessa aplicação, incluindo sua funcionalidade, foi construída como um módulo único e autônomo, totalmente independente de outros módulos similares.\nEsse módulo único e autônomo é conhecido como",
+  "alternativas": [
+   "activity",
+   "content provider",
+   "fragment",
+   "intent",
+   "manifest"
+  ],
+  "correta": 0,
+  "comentario": "No Android, uma Activity representa uma tela com sua interface e comportamento, e é um componente autônomo que o sistema pode iniciar isoladamente. O fragment também representa parte da interface, mas não é independente, pois precisa estar hospedado em uma Activity. Por isso não atende ao “totalmente independente”. Content provider compartilha dados, intent é a mensagem que ativa componentes e o manifest é o arquivo de configuração do app.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-47",
+  "materia": "ti",
+  "assunto": "React Native",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O React Native 0.59 introduziu o conceito de Hooks.\nEntre os Hooks, tem-se o useState, que permite",
+  "alternativas": [
+   "calcular o estado de um CEP ou ZIP de acordo com o Locale.",
+   "chamar estados específicos do engine React para alterar seu comportamento.",
+   "declarar uma classe que segue o padrão de design state.",
+   "criar uma enumeration que representa estados.",
+   "manter um estado local em uma função de um componente funcional."
+  ],
+  "correta": 4,
+  "comentario": "O hook useState permite que componentes funcionais tenham estado local. A chamada const [valor, setValor] = useState(inicial) devolve o valor atual e uma função para atualizá-lo, o que provoca nova renderização. Antes dos Hooks, só componentes de classe tinham estado. As alternativas C e D confundem com o padrão de projeto State e com enums, e A e B não têm relação com o hook.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-48",
+  "materia": "ti",
+  "assunto": "Android (Java)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Durante o desenvolvimento de uma aplicação mobile em Java para Android, um programador detectou a necessidade de alterar o texto de um widget da classe TextView, chamado resultado, para \"Sucesso!\".\nPara realizar essa ação, esse programador deve usar o seguinte fragmento de código:",
+  "alternativas": [
+   "TextView resultado = \"Sucesso!\";",
+   "resultado := \"Sucesso!\";",
+   "resultado.setValue(\"Sucesso!\");",
+   "resultado.setText(\"Sucesso!\");",
+   "resultado = TextView.setValue(\"Sucesso!\");"
+  ],
+  "correta": 3,
+  "comentario": "TextView expõe o método setText(CharSequence) para alterar o texto exibido, por isso resultado.setText(\"Sucesso!\") é o correto. A alternativa A tenta atribuir uma String a uma variável do tipo TextView, o que é erro de tipo. O operador := não existe em Java. TextView não tem método setValue, nem como método de instância nem como método estático.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-49",
+  "materia": "ti",
+  "assunto": "Ansible",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Ansible é uma ferramenta configurável por playbooks, escritos em YAML.\nUm playbook é composto de",
+  "alternativas": [
+   "plays, que são sequências de modules que, por sua vez, chamam tasks.",
+   "plays, que são sequências de tasks que, por sua vez, chamam modules.",
+   "tasks, que são sequências de modules que, por sua vez, chamam plays.",
+   "tasks, que são sequências de plays que, por sua vez, chamam modules.",
+   "modules, que são sequências de tasks que, por sua vez, chamam play."
+  ],
+  "correta": 1,
+  "comentario": "A hierarquia do Ansible é playbook → plays → tasks → modules. Um playbook contém um ou mais plays. Cada play mapeia um grupo de hosts a uma lista ordenada de tasks, e cada task chama um módulo (por exemplo apt, copy, service). As outras alternativas invertem essa ordem.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-50",
+  "materia": "ti",
+  "assunto": "Kotlin",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Kotlin é uma linguagem de programação usada no desenvolvimento Android.\nEntre suas características, está um grau de compatibilidade com Java, que permite",
+  "alternativas": [
+   "chamar funções feitas em Java, apenas, mas não permite que suas funções Kotlin sejam chamadas por Java.",
+   "ler dados que foram salvos por apps Java, apenas.",
+   "ler e escrever dados que podem ser lidos e escritos por apps Java, apenas.",
+   "ter suas funções chamadas por Java, apenas, mas não consegue chamar funções feitas em Java.",
+   "construir apps com código parcialmente em Java e parcialmente em Kotlin, sem restrições."
+  ],
+  "correta": 4,
+  "comentario": "Kotlin é 100% interoperável com Java. Código Kotlin chama código Java e vice-versa, e os dois compilam para bytecode da JVM, por isso um mesmo projeto pode misturar arquivos .java e .kt. As alternativas A e D limitam a interoperabilidade a um único sentido, e B e C a reduzem a troca de dados. Todas descrevem uma compatibilidade menor que a real.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-51",
+  "materia": "ti",
+  "assunto": "Python (NumPy)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A seguir, é apresentado um fragmento de código em Python.\n\nimport numpy as np\nb = np.array([[1,2,3,5]])\nc = b.transpose()\nprint(b.dot(c),sum(b),sum(c))\n\nO fragmento de código acima provoca a seguinte saída:",
+  "alternativas": [
+   "39 [11] [11]",
+   "39 [1 2 3 5] 11",
+   "[39] [1 2 3 5] 11",
+   "[[39]] [11] [11]",
+   "[[39]] [1 2 3 5] [11]"
+  ],
+  "correta": 4,
+  "comentario": "b tem forma 1×4 e c = bᵀ tem forma 4×1. O produto b.dot(c) é uma matriz 1×1: [[1+4+9+25]] = [[39]]. A função sum usada é a embutida do Python, que itera sobre as linhas do array. b tem uma única linha, então sum(b) = [1 2 3 5]. c tem 4 linhas de 1 elemento, então sum(c) = [1]+[2]+[3]+[5] = [11], um array de um elemento. Quem confunde com np.sum, que soma tudo, tende a escolher saídas com escalares.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2023ti-52",
+  "materia": "ti",
+  "assunto": "Banco de dados NoSQL",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere uma empresa que possui dados de clientes, todos bem definidos e estruturados (ex: CPF, nome, e-mail, endereço), armazenados em um banco de dados relacional. Uma oportunidade surge para a empresa enriquecer esse banco de dados com dados de outra natureza, porém não muito bem definidos e pouco estruturados.\nUma solução pode ser adotar um banco de dados NoSQL, de tal forma que:",
+  "alternativas": [
+   "a ausência de um esquema de dados bem definido para os dados necessários de um cliente possa ser corretamente modelada e implementada em um gerenciador de banco de dados adequado.",
+   "a linguagem SQL utilizada para acesso aos dados dos clientes possa ser substituída por outra linguagem de acesso a dados organizados em tabelas segundo o modelo relacional, porém com maior eficiência.",
+   "esse novo banco de dados relacional possa ser melhorado, com os dados não muito bem definidos, sem um esquema rígido.",
+   "o gerenciador de banco de dados relacional utilizado possa ser atualizado para uma versão mais recente, que não utilize a linguagem SQL.",
+   "os atributos que hoje representam chaves primárias e estrangeiras sejam mais bem controlados."
+  ],
+  "correta": 0,
+  "comentario": "A vantagem central dos bancos NoSQL (documentos, chave-valor etc.) é a flexibilidade de esquema, que permite armazenar dados semiestruturados ou sem esquema fixo, exatamente o caso descrito. As alternativas B, C e D continuam falando de modelo ou SGBD relacional, o que contradiz a ideia de NoSQL. Controlar chaves primárias e estrangeiras (E) é justamente um ponto forte do modelo relacional.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-53",
+  "materia": "ti",
+  "assunto": "SQL",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Uma empresa de investimentos financeiros busca identificar novas oportunidades de negócio para pessoas jurídicas, em especial dentre aquelas que têm como característica a adoção de governança ambiental, social e corporativa (conhecida como ESG, uma sigla em inglês). Considere que existe um banco de dados nessa empresa com as seguintes tabelas (todas as chaves primárias são numéricas):\n\nEmpresa (CNPJ, razaoSocial, endereco)\nCaracteristica (cod, sigla, nome)\nTem (CNPJ, cod)\n\nQue comando SELECT do SQL retorna apenas o CNPJ e a razão social das empresas que não têm \"ESG\" como característica?",
+  "alternativas": [
+   "SELECT * FROM Empresa WHERE Caracteristica.Sigla <> 'ESG'",
+   "SELECT E.CNPJ, E.razaoSocial FROM Empresa E JOIN Tem T ON (E.CNPJ = T.CNPJ) WHERE Tem.cod = 'ESG'",
+   "SELECT E.CNPJ, E.razaoSocial FROM Empresa E JOIN Tem T ON (E.CNPJ = T.CNPJ) JOIN Caracteristica C ON (C.cod = T.cod) WHERE C.nome <> 'ESG'",
+   "SELECT E.CNPJ, E.razaoSocial FROM Empresa E WHERE E.CNPJ NOT IN (SELECT T.CNPJ FROM Tem T JOIN Caracteristica C ON (T.cod = C.cod) WHERE C.sigla = 'ESG')",
+   "SELECT Empresa.* FROM Empresa, Tem WHERE Empresa.CNPJ = Tem.cod AND Tem.cod <> 'ESG'"
+  ],
+  "correta": 3,
+  "comentario": "A subconsulta encontra os CNPJs que têm a característica de sigla ESG, e o NOT IN mantém as demais empresas, inclusive as que não têm característica nenhuma. A alternativa C é a armadilha clássica: ela devolve toda empresa que tenha alguma característica diferente de ESG, incluindo empresas que também são ESG, além de comparar nome em vez de sigla. A alternativa A usa uma tabela que não está no FROM, B busca justamente as que têm ESG (e compara cod numérico com texto) e E faz a junção pela coluna errada.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-54",
+  "materia": "ti",
+  "assunto": "Banco de dados (índices)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um banco de dados (BD) persiste dados de forma organizada e controlada. Em adição, um BD deve prover recursos para permitir que consultas que necessitem de velocidade (baixo tempo de resposta) no acesso aos dados possam ter um bom desempenho.\nUm dos recursos que um profissional de tecnologia da informação tem à disposição para configurar um BD, de modo a melhorar o desempenho de consultas selecionadas, é a criação de",
+  "alternativas": [
+   "regras de integridade",
+   "visões não materializadas",
+   "índices",
+   "sequências",
+   "gatilhos"
+  ],
+  "correta": 2,
+  "comentario": "Índices são estruturas auxiliares (por exemplo, árvores B+ ou hash) que permitem localizar registros sem varrer a tabela inteira, o que reduz o tempo de resposta das consultas. Regras de integridade e gatilhos garantem consistência e podem até deixar as escritas mais lentas. Visões não materializadas são apenas consultas armazenadas, recalculadas a cada uso, e sequências geram valores numéricos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-55",
+  "materia": "ti",
+  "assunto": "SQL",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O banco de dados de uma empresa que comercializa seguros pessoais possui as seguintes tabelas:\n\nPessoa (email, nome, unidadeFederativaNascimento, faixaEtaria)\nUF (sigla, nome)\nFaixa (nome, menorIdade, maiorIdade)\n\nA coluna \"unidadeFederativaNascimento\" da tabela Pessoa é uma chave estrangeira que referencia a coluna \"sigla\" da tabela UF; a coluna \"faixaEtaria\" da tabela Pessoa é uma chave estrangeira que aponta para a coluna \"nome\" da tabela Faixa.\nA tabela Faixa possui os seguintes dados (nome | menorIdade | maiorIdade):\nJovens | não informada | 19\nAdultos | 20 | 59\nIdosos | 60 | não informada\n\nConsidere o seguinte comando:\n\nSELECT COUNT(*)\nFROM Pessoa P, Faixa F\nWHERE P.faixaEtaria = F.nome\n  AND P.unidadeFederativaNascimento = 'RJ'\n  AND F.maiorIdade <= 19\n\nEsse comando SQL",
+  "alternativas": [
+   "apresenta quantas são as pessoas que estão na tabela Pessoa, que são jovens e que nasceram no estado do Rio de Janeiro.",
+   "apresenta o nome e o email de jovens nascidos no Rio de Janeiro.",
+   "agrupa pessoas por faixa etária e mostra quantos são os grupos com pessoas nascidas no Rio de Janeiro.",
+   "realiza uma operação equivalente à união de dois outros comandos SQL.",
+   "agrupa pessoas por UF e mostra quantos são os grupos com jovens."
+  ],
+  "correta": 0,
+  "comentario": "A junção liga cada pessoa à sua faixa. O filtro F.maiorIdade <= 19 só é satisfeito pela faixa “Jovens”, já que para “Idosos” maiorIdade é nulo e a comparação com NULL não é verdadeira. Com a condição UF = RJ, COUNT(*) conta os jovens nascidos no RJ. A consulta devolve um número, e não nome e e-mail (B). Não há GROUP BY (C, E) nem UNION (D).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023ti-56",
+  "materia": "ti",
+  "assunto": "SQL (produto cartesiano)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O banco de dados de uma empresa de investimentos financeiros possui as seguintes tabelas:\n\nEmpresa (CNPJ, razaoSocial, endereco)\nUF (sigla, nome)\n\nO que o comando SQL \"SELECT CNPJ, sigla FROM Empresa, UF\" recupera desse banco de dados?",
+  "alternativas": [
+   "A sigla da UF das sedes das empresas cadastradas.",
+   "Alguns pares de CNPJ e sigla, onde o nome da UF é igual à razão social da empresa.",
+   "O CNPJ das empresas cadastradas cuja sigla de UF esteja na tabela UF.",
+   "Pares de CNPJ e sigla de todas as empresas cadastradas com as UFs de suas respectivas sedes.",
+   "Todos os pares de CNPJ e sigla possíveis, de todas as empresas e de todas as UFs cadastradas."
+  ],
+  "correta": 4,
+  "comentario": "Listar duas tabelas no FROM sem condição de junção no WHERE produz o produto cartesiano: cada empresa é combinada com todas as UFs. Com 10 empresas e 27 UFs, por exemplo, seriam 270 linhas. Não existe nenhuma relação entre Empresa e UF no esquema, pois endereco não é chave estrangeira, e por isso as alternativas que falam em “UF da sede” (A, D) ou em comparação de nomes (B) não se sustentam.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-57",
+  "materia": "ti",
+  "assunto": "SGBD",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um Sistema Gerenciador de Banco de Dados (SGBD) é um software bastante utilizado em empresas que precisam armazenar, tratar e utilizar dados em geral. O SGBD é especializado em realizar atividades relacionadas aos dados.\nUma das várias funcionalidades que um SGBD pode executar é",
+  "alternativas": [
+   "alertar os administradores da infraestrutura de TI de uma empresa quando há vírus circulando na rede.",
+   "controlar que usuários podem ter acesso a que dados.",
+   "estimular os gestores de uma empresa a compartilhar dados em benefício de todos.",
+   "garantir a sequência de execução de programas, em especial quando há dependências de dados entre eles.",
+   "identificar que dados importantes ao processo decisório de uma empresa estão ausentes e deveriam ser coletados."
+  ],
+  "correta": 1,
+  "comentario": "O controle de acesso (autenticação, GRANT/REVOKE, papéis e privilégios) é uma função clássica do SGBD, junto com integridade, concorrência e recuperação. Detectar vírus na rede (A) é papel de antivírus ou IDS. Estimular gestores (C) e identificar dados ausentes para decisão (E) são questões organizacionais. Orquestrar a execução de programas (D) é tarefa de escalonadores ou do sistema operacional.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-58",
+  "materia": "ti",
+  "assunto": "SQL",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "A CNAE (Classificação Nacional de Atividades Econômicas), de responsabilidade do IBGE, possui códigos que são utilizados para caracterizar as atividades econômicas das empresas no Brasil. Por exemplo: empresas da área de construção de edifícios utilizam o CNAE de código 4120-4/00 para caracterizar a sua atividade econômica principal. Considere que existe um banco de dados em uma empresa, que concede empréstimos a outras empresas, com as seguintes tabelas:\n\nEmpresa (CNPJ, razaoSocial, endereco, atividade)\nCNAE (codigo, descricao)\n\nA coluna \"atividade\" da tabela Empresa é uma chave estrangeira que referencia a coluna \"codigo\" da tabela CNAE. Que comando SELECT do SQL retorna apenas o CNPJ e a razão social das empresas cuja atividade econômica principal é a construção de edifícios (código 4120-4/00)?",
+  "alternativas": [
+   "SELECT * FROM Empresa E, CNAE C WHERE E.atividade = C.codigo",
+   "SELECT * FROM Empresa WHERE atividade = 'construção de edifícios'",
+   "SELECT CNPJ, razaoSocial FROM CNAE WHERE codigo = '4120-4/00'",
+   "SELECT CNPJ, razaoSocial FROM Empresa E, CNAE C WHERE E.atividade = C.codigo AND C.codigo = 'construção de edifícios'",
+   "SELECT CNPJ, razaoSocial FROM Empresa WHERE atividade = '4120-4/00'"
+  ],
+  "correta": 4,
+  "comentario": "Como a coluna atividade já guarda o código CNAE, basta filtrar Empresa por atividade = '4120-4/00' e projetar CNPJ e razaoSocial, sem precisar de junção. As alternativas A e B usam SELECT *, que traz colunas além das pedidas, e B ainda compara o código com a descrição. A C consulta colunas que não existem na tabela CNAE. A D compara codigo com um texto descritivo, e por isso não retornaria nada.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-59",
+  "materia": "ti",
+  "assunto": "Banco de dados NoSQL",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere um cenário no qual uma empresa de investimentos financeiros tenha realizado uma campanha para que seus colaboradores indicassem outras pessoas que pudessem vir a estar interessadas em seus produtos e serviços. Esses colaboradores também foram estimulados a informar a sua ligação com as pessoas indicadas (ex: amigo, irmão, primo) e as eventuais ligações entre as pessoas indicadas. Estes relacionamentos são importantes para a definição da próxima campanha dessa empresa.\nO banco de dados NoSQL mais indicado para representar esses dados é o que utiliza o modelo",
+  "alternativas": [
+   "chave/valor",
+   "orientado a colunas",
+   "orientado a documentos",
+   "orientado a grafos",
+   "relacional"
+  ],
+  "correta": 3,
+  "comentario": "Quando o foco está nos relacionamentos entre entidades (pessoas ligadas por amizade, parentesco etc.), o modelo de grafos é o mais adequado. Pessoas viram nós e ligações viram arestas com propriedades, como o tipo de vínculo, e as travessias são eficientes (por exemplo, no Neo4j). Chave/valor, colunas e documentos não representam relacionamentos de forma nativa. Relacional (E) nem é um modelo NoSQL.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-60",
+  "materia": "ti",
+  "assunto": "TypeScript",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "O código abaixo está em linguagem TypeScript, cuja tipagem é estática.\n\nlet fraseLegal = 'Bom dia!';\nfraseLegal = 9.5;\n\nAnalisando o código apresentado, tem-se que a TypeScript",
+  "alternativas": [
+   "não realiza a inferência de tipo, por isso, o código apresentado vai rodar sem erro.",
+   "realiza a inferência de tipo, por isso, o código apresentado vai rodar sem erro.",
+   "realiza a inferência de tipo, por isso, aceita a atribuição do tipo number para um tipo string sem gerar erro de compilação do código apresentado.",
+   "realiza a inferência de tipo, por isso, não aceita a atribuição do tipo number para um tipo string, o que vai gerar um erro de compilação do código apresentado.",
+   "não diferencia valores ponto flutuante (decimal) de valores inteiros, por isso, o código apresentado vai rodar sem erro."
+  ],
+  "correta": 3,
+  "comentario": "Ao inicializar fraseLegal com 'Bom dia!', o TypeScript infere o tipo string. A atribuição seguinte de 9.5 (number) gera o erro de compilação “Type 'number' is not assignable to type 'string'”. É verdade que TypeScript não distingue inteiro de decimal, pois tudo é number, mas isso não resolve o conflito com string, então E está errada. A e B ignoram a inferência de tipos, e C tira dela a conclusão errada.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-61",
+  "materia": "ti",
+  "assunto": "Python (NumPy)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Em uma base de dados (dataset) com avaliações sobre a qualidade de um determinado produto, o campo stars tem um valor de 1 a 5. Na fase de pré-processamento, decidiu-se criar o campo sentimento com valores bom ou ruim, e utilizando-se da biblioteca NumPy, escreveu-se o comando abaixo:\n\ndataset['sentimento'] = np.where(dataset['stars'] >= 4, 'bom', 'ruim')\n\nQuanto aos valores do campo sentimento, o referido comando atribuirá o valor",
+  "alternativas": [
+   "bom, para stars entre 2 e 5",
+   "bom, para stars 4 e 5",
+   "bom, para stars 3 e 4",
+   "ruim, para stars 4 e 5",
+   "ruim, para stars entre 1 e 4"
+  ],
+  "correta": 1,
+  "comentario": "np.where(condição, x, y) devolve x onde a condição é verdadeira e y onde é falsa. Com stars >= 4, as notas 4 e 5 recebem 'bom' e as notas 1, 2 e 3 recebem 'ruim'. A alternativa E erra ao incluir a nota 4 em “ruim”, e D inverte os rótulos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-62",
+  "materia": "ti",
+  "assunto": "Mineração de dados",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Um profissional de TI está trabalhando com um grande banco de dados (Big Data), realizando uma análise prévia da base de dados, com o objetivo de identificar anomalias ou resultados raros, de forma a tratá-los ou descartá-los para utilização. Esse profissional está realizando a seguinte tarefa:",
+  "alternativas": [
+   "Agrupamento dos dados",
+   "Análise de associações dos dados",
+   "Análise de segmentação dos dados",
+   "Análise de outliers (pontos fora da curva) ou detecção de desvios",
+   "Classificação dos dados e das anomalias"
+  ],
+  "correta": 3,
+  "comentario": "Identificar valores anômalos ou raros é a análise de outliers, também chamada de detecção de anomalias ou de desvios. Agrupamento e segmentação formam grupos de itens semelhantes. Análise de associação busca regras do tipo “quem compra X compra Y”. Classificação atribui rótulos a partir de um modelo treinado, e não é a etapa exploratória descrita.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023ti-64",
+  "materia": "ti",
+  "assunto": "Java (herança e polimorfismo)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Sejam as seguintes classes Java, que ocupam arquivos separados:\n\npublic class CAx {\n    protected int a;\n    protected int b;\n\n    public CAx() {\n        a*=2;\n        b*=3;\n    }\n    {\n        a=1;\n        b=2;\n    }\n    public int op1(int x) {\n        return op2(x)+op3(x)+b;\n    }\n    public int op2(int x) {\n        return x+a;\n    }\n    public static int op3(int x) {\n        return x*2;\n    }\n}\n\npublic class CBy extends CAx {\n    protected int a;\n\n    public CBy() {\n        a+=3;\n        b+=3;\n    }\n    public int op2(int x) {\n        return x-a;\n    }\n    public static int op3(int x) {\n        return x*3;\n    }\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        CAx o=new CBy();\n        System.out.println(o.op1(2));\n    }\n}\n\nO que será exibido no console quando o método main for executado?",
+  "alternativas": [
+   "10",
+   "12",
+   "14",
+   "18",
+   "20"
+  ],
+  "correta": 1,
+  "comentario": "Ao criar CBy, primeiro roda a parte de CAx. O bloco de inicialização de instância executa antes do corpo do construtor (a=1, b=2), e depois o construtor de CAx faz a=2, b=6. Em seguida, o construtor de CBy altera o seu próprio campo a, que oculta o de CAx: CBy.a = 0+3 = 3, e b = 6+3 = 9. Em op1(2): op2 é sobrescrito e resolvido dinamicamente em CBy (2-3 = -1). op3 é estático, então não há polimorfismo e dentro de CAx chama CAx.op3 (2*2 = 4). Somando b = 9: -1 + 4 + 9 = 12. Quem aplica polimorfismo ao método estático chega a 14.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2023ti-65",
+  "materia": "ti",
+  "assunto": "Java (exceções)",
+  "cargo": "ti",
+  "origem": "BB 2023 - Cesgranrio - Agente de Tecnologia",
+  "enunciado": "Considere as seguintes classes Java, que ocupam arquivos separados:\n\npublic class Pa {\n    String x,y,z;\n    String r=\"vazio\";\n\n    public Pa(String s1,String s2, String s3) throws Exception {\n        x=s1;\n        y=s2;\n        z=s3;\n\n        try {\n            if(x==null || y==null || z==null)\n                throw new Exception();\n        }\n        catch(Exception e) {\n            z=\"a\";\n            throw e;\n        }\n        finally {\n            if(x==null)\n                x=\"***\";\n            if(y==null)\n                y=\"***\";\n            if(z==null)\n                z=\"***\";\n        }\n    }\n\n    public String get() {\n        return r;\n    }\n}\n\npublic class Qb extends Pa {\n\n    public Qb(String s1,String s2, String s3) throws Exception {\n        super(s1,s2,s3);\n        r=x+y+z;\n    }\n}\n\npublic class Main {\n\n    public static void main(String[] args) {\n        Pa o=null;\n\n        try {\n            o=new Qb(\"a\",\"\",\"c\");\n        }\n        catch (Exception e) {\n            System.out.print(\"***Erro***\");\n        }\n        finally {\n            if(o!=null)\n                System.out.print(o.get());\n        }\n    }\n}\n\nO que será exibido no console quando o método main for executado?",
+  "alternativas": [
+   "ac",
+   "a***a",
+   "a***c",
+   "***Erro***",
+   "vazio"
+  ],
+  "correta": 0,
+  "comentario": "O segundo argumento é a string vazia \"\", e não null. Por isso nenhuma das variáveis é nula, nenhuma exceção é lançada e o finally não altera nada. O construtor de Qb então faz r = \"a\" + \"\" + \"c\" = \"ac\", e o finally do main imprime o.get(), ou seja, “ac”. O erro típico é tratar \"\" como null, o que levaria ao caminho do catch e às alternativas com *** ou “Erro”.",
+  "dificuldade": 2
+ }
+]

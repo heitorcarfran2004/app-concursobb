@@ -1,0 +1,632 @@
+[
+  {
+    "id": "in-atu-01",
+    "materia": "atualidades",
+    "assunto": "Bancos digitais",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente pretende transferir parte de suas aplicações para uma instituição 100% digital, que opera sem agências físicas, e pergunta ao escriturário se seus recursos terão a mesma proteção de um banco tradicional. A orientação correta é que",
+    "alternativas": [
+      "instituições digitais não são autorizadas nem fiscalizadas pelo Banco Central",
+      "os recursos em instituições digitais são garantidos pelo Tesouro Nacional",
+      "a proteção depende do tipo de autorização e do produto: depósitos e títulos cobertos de instituição autorizada como banco contam com o FGC, enquanto saldos em conta de pagamento de instituição de pagamento não têm essa cobertura",
+      "a ausência de agências físicas impede a instituição de oferecer CDB e conta corrente",
+      "toda instituição digital é automaticamente coberta pelo FGC, independentemente do tipo de autorização"
+    ],
+    "correta": 2,
+    "comentario": "“Banco digital” é expressão de mercado, não categoria jurídica: a instituição pode ter autorização de banco ou ser, por exemplo, instituição de pagamento. Se for banco, os depósitos e títulos cobertos, como o CDB, contam com o FGC nos limites vigentes. Saldo em conta de pagamento não é depósito e não tem essa garantia, embora seja patrimônio separado por lei. As instituições digitais são autorizadas e supervisionadas pelo Banco Central, e a falta de agências não as impede de oferecer produtos bancários. O Tesouro não garante esses recursos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-02",
+    "materia": "atualidades",
+    "assunto": "Fintechs de crédito — SCD e SEP",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um empreendedor pergunta ao escriturário a diferença entre a Sociedade de Crédito Direto (SCD) e a Sociedade de Empréstimo entre Pessoas (SEP), fintechs de crédito reguladas pelo Banco Central. A diferença correta é que",
+    "alternativas": [
+      "a SCD capta depósitos à vista do público, e a SEP capta depósitos de poupança",
+      "a SCD empresta com recursos próprios, enquanto a SEP intermedeia empréstimos entre credores e devedores por meio de plataforma eletrônica",
+      "a SCD é supervisionada pela CVM, e a SEP, pela Susep",
+      "a SEP empresta exclusivamente com capital próprio, e a SCD atua apenas como plataforma de intermediação",
+      "ambas dispensam autorização do Banco Central por operarem apenas pela internet"
+    ],
+    "correta": 1,
+    "comentario": "As fintechs de crédito regulamentadas pelo CMN se dividem em duas modalidades. A SCD realiza operações de crédito com recursos próprios, por plataforma eletrônica. A SEP faz a intermediação: conecta quem quer emprestar a quem quer tomar crédito, no chamado peer-to-peer lending. Nenhuma delas capta depósitos do público, ambas precisam de autorização do Banco Central e são supervisionadas por ele, não pela CVM ou pela Susep. Trocar as funções das duas é o erro que a questão explora.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-03",
+    "materia": "atualidades",
+    "assunto": "Pix Automático",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma academia cliente do banco quer receber as mensalidades dos alunos de forma recorrente, sem precisar enviar cobrança todo mês. O escriturário apresenta o Pix Automático, disponível desde junho de 2025, cuja característica é",
+    "alternativas": [
+      "depender de cartão de crédito vinculado à chave Pix do pagador",
+      "permitir que a academia debite qualquer valor da conta do aluno sem autorização prévia",
+      "funcionar apenas para pagamentos entre pessoas físicas",
+      "exigir que o aluno agende manualmente, a cada mês, uma nova transferência",
+      "o pagador autoriza previamente, uma única vez, débitos periódicos, que passam a ocorrer automaticamente sem necessidade de autenticar cada pagamento"
+    ],
+    "correta": 4,
+    "comentario": "No Pix Automático, lançado pelo Banco Central em 16 de junho de 2025, o pagador dá autorização prévia e específica, uma única vez, no aplicativo de sua instituição. A partir daí, os débitos periódicos ocorrem automaticamente, sem autenticação a cada transação, e o serviço é gratuito para o pagador. É voltado a cobranças recorrentes de empresas, como contas de consumo, mensalidades escolares e academias. Nada disso dispensa a autorização do pagador, e o produto não depende de cartão de crédito. O agendamento manual mensal é justamente o que ele substitui.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-04",
+    "materia": "atualidades",
+    "assunto": "Pix Cobrança",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma loja cliente quer emitir cobranças via Pix com data de vencimento, cálculo automático de juros e multa por atraso e concessão de desconto para pagamento antecipado, de forma semelhante a um boleto. A funcionalidade adequada é o",
+    "alternativas": [
+      "Mecanismo Especial de Devolução (MED)",
+      "Pix por chave aleatória, que dispensa a geração de QR Code",
+      "Pix Saque, que permite ao cliente retirar dinheiro em espécie",
+      "Pix Cobrança, por meio de QR Code que pode conter data de vencimento, juros, multa e descontos",
+      "Pix Troco, que devolve em espécie a diferença de uma compra"
+    ],
+    "correta": 3,
+    "comentario": "O Pix Cobrança permite gerar QR Code para pagamento imediato ou com vencimento futuro, com cálculo automático de juros, multa, abatimentos e descontos, e por isso funciona como alternativa ao boleto. Pix Saque e Pix Troco servem para obter dinheiro em espécie em estabelecimentos participantes. O MED é o mecanismo de devolução em casos de fraude ou falha operacional. A chave aleatória identifica a conta, mas não carrega informações de vencimento e encargos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-05",
+    "materia": "atualidades",
+    "assunto": "MED — Mecanismo Especial de Devolução",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente foi vítima de golpe e fez um Pix para um estelionatário. Ela pergunta ao escriturário se há como tentar reaver o dinheiro. A orientação correta sobre o Mecanismo Especial de Devolução (MED) do Pix é que ele",
+    "alternativas": [
+      "pode ser acionado em casos de fundada suspeita de fraude, golpe ou falha operacional, permitindo o bloqueio de recursos na conta recebedora e sua eventual devolução",
+      "garante a devolução integral do valor em qualquer caso, inclusive quando a conta recebedora não tiver saldo",
+      "pode ser usado para desfazer compras em que o cliente simplesmente se arrependeu ou ficou insatisfeito com o produto",
+      "só pode ser acionado mediante boletim de ocorrência e ordem judicial",
+      "se aplica apenas a transferências feitas por TED"
+    ],
+    "correta": 0,
+    "comentario": "O MED permite à instituição do pagador solicitar o bloqueio dos recursos na conta recebedora e sua devolução quando há fundada suspeita de fraude, golpe ou falha operacional. Desde 2025, a contestação pode ser feita por autoatendimento no aplicativo, o que acelera o bloqueio. A devolução depende da existência de saldo na conta recebedora, e por isso não é garantida. O MED não serve para desacordos comerciais ou arrependimento, que devem ser resolvidos com o vendedor, e não exige ordem judicial. É mecanismo exclusivo do Pix.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-06",
+    "materia": "atualidades",
+    "assunto": "Pix — limites noturnos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pessoa física quer aumentar imediatamente seu limite de Pix no período noturno para fazer uma transferência de valor alto naquela mesma noite. Considerando as regras de segurança do Pix estabelecidas pelo Banco Central, o escriturário deve informar que",
+    "alternativas": [
+      "o Pix não pode ser utilizado entre 20h e 6h",
+      "o aumento de limite noturno só pode ser feito presencialmente na agência do Banco Central",
+      "o limite noturno é fixo e não pode ser alterado pelo cliente em nenhuma hipótese",
+      "o aumento de limite é sempre imediato, desde que solicitado pelo aplicativo",
+      "pedidos de aumento de limite feitos pelos canais digitais não são efetivados de imediato, havendo prazo mínimo entre a solicitação e a efetivação, enquanto reduções de limite podem ser imediatas"
+    ],
+    "correta": 4,
+    "comentario": "Como medida contra golpes e sequestros, o Banco Central estabeleceu limite padrão de R$ 1.000 por transação para pessoas físicas entre 20h e 6h e determinou que aumentos de limite solicitados por canais digitais sejam efetivados em prazo mínimo de 24 horas (até 48 horas), e não instantaneamente. Reduções, que aumentam a segurança, podem ser imediatas. O Pix funciona 24 horas, inclusive à noite, apenas com limites mais baixos. O cliente pode ajustar seus limites, e o pedido é feito à própria instituição, não ao Banco Central.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-07",
+    "materia": "atualidades",
+    "assunto": "Open Finance — iniciação de pagamento",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao finalizar uma compra em uma loja virtual, um cliente escolhe pagar via Pix diretamente pelo site, sem abrir o aplicativo do banco para copiar código ou chave, apenas confirmando a operação em sua instituição. Esse serviço, viabilizado pelo Open Finance, é chamado de",
+    "alternativas": [
+      "iniciação de transação de pagamento",
+      "portabilidade de salário",
+      "débito automático em conta",
+      "compartilhamento de dados cadastrais",
+      "câmbio pronto"
+    ],
+    "correta": 0,
+    "comentario": "No Open Finance, o iniciador de transação de pagamento (ITP) é a instituição que, com consentimento do cliente, inicia um pagamento, como um Pix, a partir da conta mantida em outra instituição, sem que o cliente precise acessar o aplicativo dela para preencher os dados. O cliente apenas autentica e confirma a operação na instituição detentora da conta. A portabilidade de salário e o débito automático são serviços distintos e anteriores ao Open Finance. Compartilhar dados cadastrais não movimenta recursos, e câmbio pronto é operação de troca de moedas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-08",
+    "materia": "atualidades",
+    "assunto": "Open Finance — benefícios",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pergunta ao escriturário qual é a principal vantagem, para ele, de compartilhar seus dados financeiros por meio do Open Finance. A resposta mais adequada é que",
+    "alternativas": [
+      "o banco de origem passa a ser obrigado a reduzir suas tarifas a zero",
+      "o cliente passa a ter acesso a informações financeiras de outros correntistas",
+      "o compartilhamento dispensa a análise de crédito em qualquer instituição",
+      "outras instituições podem conhecer melhor seu histórico e oferecer produtos e condições mais adequadas, o que estimula a concorrência",
+      "o cliente passa a ter seus depósitos garantidos pelo Tesouro Nacional"
+    ],
+    "correta": 3,
+    "comentario": "O Open Finance permite que o cliente, com seu consentimento, leve seus dados e seu histórico a outras instituições. Com mais informação, elas podem avaliar melhor o perfil do cliente e oferecer crédito, investimentos e serviços em condições mais vantajosas, o que aumenta a concorrência. O sistema não zera tarifas, não altera garantias de depósitos e não elimina a análise de crédito, só a torna mais bem informada. Cada cliente compartilha apenas os próprios dados.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-09",
+    "materia": "atualidades",
+    "assunto": "Drex — piloto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma conversa sobre inovação, um cliente pergunta ao escriturário o que o Banco Central testou na primeira fase do piloto do Drex. Segundo o relatório oficial dessa fase, o foco dos testes foi",
+    "alternativas": [
+      "permitir que qualquer cidadão abrisse carteira digital diretamente no Banco Central",
+      "extinguir o Pix e transferir todas as transações para o Drex",
+      "substituir integralmente o papel-moeda por uma criptomoeda descentralizada",
+      "criar uma nova moeda com valor flutuante em relação ao real",
+      "verificar soluções de privacidade e de programabilidade em operações de entrega contra pagamento (DvP) envolvendo títulos públicos federais tokenizados"
+    ],
+    "correta": 4,
+    "comentario": "A primeira fase do piloto do Drex, iniciada em 2023, testou funcionalidades de privacidade e programabilidade em operações de entrega contra pagamento (DvP) com títulos públicos federais tokenizados, com participação de instituições selecionadas. Não se tratava de substituir o papel-moeda, nem de criar moeda com valor flutuante ou criptoativo descentralizado. O piloto envolveu instituições participantes, não abertura de carteiras para o público, e o Drex não foi concebido para extinguir o Pix.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-atu-10",
+    "materia": "atualidades",
+    "assunto": "Drex e criptoativos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente acredita que o Drex é “a criptomoeda do governo, igual ao bitcoin”. O escriturário esclarece corretamente que",
+    "alternativas": [
+      "o Drex é iniciativa do Banco Central, instituição que responde pela moeda nacional, ao passo que criptoativos como o bitcoin não têm emissor central nem lastro em moeda soberana",
+      "o Drex e o bitcoin são emitidos pelo Banco Central, diferindo apenas no nome",
+      "o Drex é emitido por bancos privados, sem participação do Banco Central",
+      "ambos têm cotação garantida pelo FGC",
+      "o bitcoin é moeda de curso legal no Brasil, e o Drex é uma criptomoeda privada"
+    ],
+    "correta": 0,
+    "comentario": "O Drex é um projeto conduzido pelo Banco Central, autoridade responsável pela moeda nacional, e sua concepção parte do real. O bitcoin, por outro lado, é criptoativo descentralizado, sem emissor central, e seu preço oscila livremente conforme oferta e demanda. O bitcoin não é moeda de curso legal no Brasil, e o Drex não é criptomoeda privada nem projeto sem participação do Banco Central. O FGC não garante a cotação de nenhum ativo.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-11",
+    "materia": "atualidades",
+    "assunto": "Criptoativos — regulação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pergunta ao escriturário qual órgão regula as corretoras de criptoativos (exchanges) no Brasil. Considerando a Lei nº 14.478/2022 e o Decreto nº 11.563/2023, a resposta correta é que",
+    "alternativas": [
+      "o Banco Central foi designado para regular, autorizar e supervisionar as prestadoras de serviços de ativos virtuais, preservada a competência da CVM sobre ativos que sejam valores mobiliários",
+      "a Receita Federal é o órgão regulador e autorizador das exchanges",
+      "a Susep regula as exchanges, por equiparar criptoativos a seguros",
+      "a CVM regula todas as operações com criptoativos, inclusive as que não são valores mobiliários",
+      "não há qualquer regulação, pois criptoativos estão fora do alcance da lei brasileira"
+    ],
+    "correta": 0,
+    "comentario": "A Lei nº 14.478/2022 estabeleceu diretrizes para a prestação de serviços de ativos virtuais, e o Decreto nº 11.563/2023 atribuiu ao Banco Central a competência para regular, autorizar e supervisionar as prestadoras desses serviços. O decreto preservou a competência da CVM sobre ativos que se caracterizem como valores mobiliários, ainda que representados em tokens. Por isso, é falso dizer que a CVM regula tudo ou que não há regulação. Susep e Receita não são reguladores do setor, embora a Receita exija declarações de natureza tributária.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-12",
+    "materia": "atualidades",
+    "assunto": "Prestadoras de serviços de ativos virtuais",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente investe em criptoativos por meio de uma exchange e pergunta ao escriturário o que mudou com a regulamentação publicada pelo Banco Central em novembro de 2025 para as prestadoras de serviços de ativos virtuais. A informação correta é que",
+    "alternativas": [
+      "as exchanges passaram a ter os saldos dos clientes cobertos pelo FGC",
+      "a regulamentação transferiu a supervisão das exchanges para a Susep",
+      "os criptoativos passaram a ser moeda de curso legal no país",
+      "as exchanges foram proibidas de operar no Brasil",
+      "essas empresas passam a depender de autorização do Banco Central para funcionar, submetendo-se a regras de governança, segregação patrimonial e prevenção à lavagem de dinheiro"
+    ],
+    "correta": 4,
+    "comentario": "Em novembro de 2025, o Banco Central publicou as Resoluções BCB nº 519, 520 e 521, que tratam da autorização das sociedades prestadoras de serviços de ativos virtuais, de suas regras de funcionamento, com segregação dos ativos dos clientes, governança e prevenção à lavagem de dinheiro, e da inclusão de certas operações com ativos virtuais no mercado de câmbio. Operar passa a depender de autorização do Banco Central. Os criptoativos não viraram moeda de curso legal, os saldos não passaram a ter garantia do FGC, e as exchanges não foram proibidas nem transferidas à Susep.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-13",
+    "materia": "atualidades",
+    "assunto": "Golpe da falsa central",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente relata ao escriturário que recebeu ligação de alguém que se apresentou como funcionário do banco, informou uma “compra suspeita” e pediu que ele transferisse o saldo para uma “conta segura” e informasse sua senha. A orientação correta é que",
+    "alternativas": [
+      "o cliente deve transferir o saldo, desde que a conta segura esteja no mesmo banco",
+      "o cliente deve retornar a ligação para o número que apareceu no identificador de chamadas",
+      "trata-se de golpe, pois o banco não pede senhas nem solicita transferências para contas de segurança; o cliente deve desligar e contatar o banco pelos canais oficiais",
+      "o procedimento é padrão em casos de compras suspeitas e deve ser seguido",
+      "o cliente deve informar apenas a senha do cartão, mas não a da conta"
+    ],
+    "correta": 2,
+    "comentario": "O golpe da falsa central usa engenharia social: o criminoso se passa por funcionário, cria senso de urgência e induz a vítima a informar senhas ou transferir recursos. Bancos não pedem senhas completas e não solicitam transferências para “contas seguras”. A conduta correta é encerrar a ligação e procurar o banco pelos canais oficiais, como o número do verso do cartão. O número exibido na chamada pode ser falsificado (spoofing), por isso retornar a ligação para ele não é seguro, e nenhuma senha deve ser fornecida.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-14",
+    "materia": "atualidades",
+    "assunto": "Phishing, smishing e vishing",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente recebeu um SMS informando que seus pontos do cartão iriam expirar, com um link para “resgatar agora” que levava a uma página idêntica à do banco pedindo dados do cartão. Esse tipo de fraude, praticada por mensagem de texto, é conhecido como",
+    "alternativas": [
+      "vishing",
+      "chargeback",
+      "ransomware",
+      "smishing",
+      "sniffing"
+    ],
+    "correta": 3,
+    "comentario": "Smishing é o phishing por SMS: mensagem com link fraudulento que leva a página falsa para capturar dados. Vishing é a variante por voz, em ligações telefônicas. Ransomware é código malicioso que sequestra dados e exige resgate, e sniffing é a interceptação do tráfego de rede. Chargeback é a contestação de uma compra no cartão, procedimento legítimo e não golpe.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-15",
+    "materia": "atualidades",
+    "assunto": "Golpe da mão fantasma",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente idoso conta que um suposto técnico do banco o orientou por telefone a instalar um aplicativo no celular para “atualizar a segurança”. Depois disso, viu transações sendo feitas sozinhas em seu aplicativo bancário. Esse golpe, conhecido como “mão fantasma”, caracteriza-se por",
+    "alternativas": [
+      "clonar o chip da vítima por meio da operadora de telefonia",
+      "usar maquininha de cartão com visor danificado para cobrar valor maior",
+      "falsificar boletos com código de barras adulterado",
+      "induzir a vítima a instalar aplicativo de acesso remoto, permitindo que o criminoso controle o aparelho e movimente a conta",
+      "interceptar o cartão físico da vítima durante a entrega pelos Correios"
+    ],
+    "correta": 3,
+    "comentario": "No golpe da mão fantasma, o criminoso convence a vítima a instalar um aplicativo de acesso remoto e passa a controlar o aparelho à distância, realizando transações no aplicativo bancário como se fosse o titular. Clonar o chip na operadora é o SIM swap, outro tipo de fraude. Interceptar cartões, adulterar boletos e usar maquininha com visor danificado também são golpes, mas com mecanismos diferentes. A prevenção passa por nunca instalar aplicativos a pedido de supostos funcionários.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-16",
+    "materia": "atualidades",
+    "assunto": "SIM swap",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente percebe que seu celular ficou sem sinal de repente e, horas depois, descobre que seus aplicativos de mensagens e de banco foram acessados por terceiros. O escriturário identifica sinais do golpe de SIM swap, que consiste em",
+    "alternativas": [
+      "transferir o número de telefone da vítima para outro chip, controlado pelo criminoso, que passa a receber códigos de verificação enviados por SMS",
+      "instalar um vírus que criptografa os arquivos do celular e exige resgate",
+      "enviar boletos falsos por e-mail com código de barras adulterado",
+      "clonar a tarja magnética do cartão em caixas eletrônicos",
+      "criar perfis falsos em redes sociais para vender produtos inexistentes"
+    ],
+    "correta": 0,
+    "comentario": "No SIM swap, o fraudador obtém, geralmente com dados pessoais da vítima e às vezes com participação de terceiros, a transferência do número de telefone para um chip sob seu controle. Com isso passa a receber SMS de verificação e pode redefinir senhas e acessar contas. A perda súbita de sinal é sinal típico. Por isso, recomenda-se preferir autenticação por aplicativo ou token a códigos por SMS. Criptografar arquivos e exigir resgate é ransomware, e as demais opções descrevem outros golpes.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-17",
+    "materia": "atualidades",
+    "assunto": "Deepfake e biometria",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O banco reforçou os procedimentos de abertura de conta digital após tentativas de fraude com vídeos e imagens gerados por inteligência artificial que imitavam o rosto de clientes reais. A medida mais adequada para mitigar esse risco é",
+    "alternativas": [
+      "substituir toda verificação por uma pergunta de segurança simples",
+      "dispensar a verificação de identidade para clientes que informarem CPF válido",
+      "exigir apenas que o cliente envie foto do documento, sem imagem do rosto",
+      "adotar biometria com prova de vida (liveness), combinada com outras camadas de verificação, capaz de detectar imagens sintéticas ou reproduzidas",
+      "aceitar qualquer selfie enviada, desde que a imagem esteja em alta resolução"
+    ],
+    "correta": 3,
+    "comentario": "Deepfakes e imagens sintéticas podem enganar sistemas que apenas comparam fotos. A prova de vida (liveness) verifica se há uma pessoa real presente no momento da captura, e deve ser combinada com outras camadas, como validação de documentos, análise do dispositivo e de comportamento. Alta resolução não garante autenticidade, e perguntas simples de segurança são fáceis de burlar. Dispensar a verificação ou usar só a foto do documento facilitaria a abertura de contas fraudulentas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-18",
+    "materia": "atualidades",
+    "assunto": "Contas laranja",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um jovem cliente conta ao escriturário que recebeu proposta para “alugar” sua conta bancária: receberia uma quantia por mês para deixar terceiros movimentarem valores por ela. A orientação correta é que",
+    "alternativas": [
+      "ceder a conta é permitido para parentes até o segundo grau",
+      "a prática é lícita se a conta for digital",
+      "ceder a conta a terceiros pode torná-lo “conta laranja”, usada para receber recursos de golpes e lavagem, expondo-o a responsabilização e ao encerramento da conta",
+      "a prática é permitida, desde que o valor recebido seja declarado no imposto de renda",
+      "não há riscos, pois apenas o terceiro responde pelas operações"
+    ],
+    "correta": 2,
+    "comentario": "Contas de terceiros, conhecidas como contas laranja ou contas de passagem, são usadas por criminosos para receber o dinheiro de golpes, como fraudes via Pix, e dificultar o rastreamento, alimentando a lavagem de dinheiro. Quem cede a conta pode responder civil e criminalmente, ter a conta encerrada e seus dados incluídos em bases de fraude compartilhadas pelas instituições. Declarar o valor ao Fisco não legitima a prática, e não há exceção para contas digitais ou parentes.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-19",
+    "materia": "atualidades",
+    "assunto": "IA e decisões automatizadas — LGPD",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente teve pedido de crédito recusado automaticamente por um modelo de inteligência artificial do banco e quer entender a decisão. De acordo com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018), o cliente",
+    "alternativas": [
+      "não tem direito a nenhuma informação, pois modelos de IA são protegidos por sigilo absoluto",
+      "tem direito de exigir a aprovação do crédito, já que a decisão automatizada é proibida",
+      "tem direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado que afetem seus interesses, e a receber informações claras sobre os critérios utilizados, observados os segredos comercial e industrial",
+      "só pode questionar a decisão perante a CVM",
+      "tem direito a receber o código-fonte completo do modelo utilizado"
+    ],
+    "correta": 2,
+    "comentario": "O art. 20 da LGPD garante ao titular o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado que afetem seus interesses, incluindo decisões de perfil de crédito. O § 1º obriga o controlador a fornecer informações claras e adequadas sobre os critérios e procedimentos utilizados, observados os segredos comercial e industrial. Por isso, não há direito ao código-fonte, e também não há sigilo absoluto. Decisões automatizadas não são proibidas, e o direito à revisão não significa direito à aprovação. A CVM não é o órgão competente.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-atu-20",
+    "materia": "atualidades",
+    "assunto": "Segurança cibernética",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em treinamento interno, o escriturário aprende que as instituições autorizadas pelo Banco Central devem manter política de segurança cibernética. Está de acordo com a regulamentação e com as boas práticas afirmar que essa política deve",
+    "alternativas": [
+      "ser elaborada apenas depois que ocorrer o primeiro incidente relevante",
+      "prever procedimentos e controles para prevenir, detectar e reduzir vulnerabilidades a incidentes, além de planos de ação e resposta a incidentes",
+      "transferir integralmente ao prestador de serviço em nuvem a responsabilidade pela segurança dos dados",
+      "dispensar testes e registros de incidentes quando a instituição utilizar serviços em nuvem",
+      "ser mantida em sigilo inclusive da alta administração, para evitar vazamentos"
+    ],
+    "correta": 1,
+    "comentario": "A regulamentação do CMN exige que as instituições financeiras tenham política de segurança cibernética aprovada pela alta administração, com procedimentos e controles para prevenir, detectar e reduzir vulnerabilidades, plano de ação e resposta a incidentes e registro dos incidentes relevantes. A política deve ser preventiva, e não reativa, e precisa do envolvimento da alta administração. A contratação de nuvem não exime a instituição de responsabilidade: ela continua respondendo pelo cumprimento das normas e deve avaliar os prestadores.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-21",
+    "materia": "atualidades",
+    "assunto": "Ransomware",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A área de tecnologia do banco alertou os funcionários sobre ataques em que criminosos criptografam os arquivos da empresa e exigem pagamento, geralmente em criptoativos, para liberar o acesso. Esse tipo de ataque é denominado",
+    "alternativas": [
+      "spoofing",
+      "ransomware",
+      "phishing",
+      "engenharia social reversa",
+      "negação de serviço (DDoS)"
+    ],
+    "correta": 1,
+    "comentario": "Ransomware é o código malicioso que sequestra dados, normalmente por criptografia, e exige resgate para devolvê-los. Phishing é técnica de enganar a vítima para obter dados ou induzi-la a clicar em links, e muitas vezes é a porta de entrada do ransomware, mas não se confunde com ele. Spoofing é a falsificação de identidade, como número de telefone ou e-mail. O ataque DDoS sobrecarrega sistemas para torná-los indisponíveis, sem sequestrar dados.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-22",
+    "materia": "atualidades",
+    "assunto": "LGPD — incidente de segurança",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um banco identificou um vazamento de dados pessoais de clientes que pode acarretar risco ou dano relevante aos titulares. Segundo a Lei Geral de Proteção de Dados, o controlador deve",
+    "alternativas": [
+      "comunicar o incidente somente ao Coaf",
+      "manter o incidente em sigilo para preservar a imagem da instituição",
+      "aguardar reclamação formal dos clientes antes de adotar qualquer medida",
+      "apagar os registros do incidente para evitar responsabilização",
+      "comunicar a ocorrência à Autoridade Nacional de Proteção de Dados (ANPD) e aos titulares afetados"
+    ],
+    "correta": 4,
+    "comentario": "O art. 48 da LGPD determina que o controlador comunique à ANPD e ao titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares. A comunicação deve conter, entre outros elementos, a natureza dos dados afetados, os riscos e as medidas adotadas. Ocultar o incidente, esperar reclamações ou apagar registros contraria a lei e agrava a responsabilidade. O Coaf trata de lavagem de dinheiro, não de proteção de dados.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-23",
+    "materia": "atualidades",
+    "assunto": "ESG — conceito",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente investidor pergunta ao escriturário o que significa a sigla ESG, muito citada em relatórios de bancos e empresas. A resposta correta é que ESG se refere a critérios",
+    "alternativas": [
+      "de eficiência, segurança e garantia de depósitos bancários",
+      "ambientais, sociais e de governança considerados na gestão e na avaliação de empresas e investimentos",
+      "exclusivamente ambientais, ligados à emissão de carbono",
+      "de estabilidade de preços, emprego e crescimento definidos pelo Copom",
+      "econômicos, estratégicos e gerenciais de curto prazo"
+    ],
+    "correta": 1,
+    "comentario": "ESG vem do inglês Environmental, Social and Governance: critérios ambientais, sociais e de governança usados para avaliar como empresas e investimentos lidam com riscos e oportunidades nessas dimensões. Não se restringe à questão ambiental, pois inclui temas sociais, como relações de trabalho e inclusão, e de governança, como ética, transparência e controles. As demais alternativas usam expansões inventadas da sigla ou conceitos sem relação com ela.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-24",
+    "materia": "atualidades",
+    "assunto": "Greenwashing",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa divulga amplamente que seus produtos são “100% sustentáveis”, sem apresentar dados verificáveis, enquanto mantém práticas ambientais inadequadas. Essa conduta é chamada de",
+    "alternativas": [
+      "crédito de carbono",
+      "finanças de impacto",
+      "greenwashing",
+      "green bond",
+      "compliance ambiental"
+    ],
+    "correta": 2,
+    "comentario": "Greenwashing é a prática de transmitir uma imagem ambientalmente responsável que não corresponde à realidade, por meio de alegações vagas, exageradas ou não comprovadas. Green bonds são títulos de dívida cujos recursos são destinados a projetos com benefício ambiental. Compliance ambiental é a conformidade efetiva com normas ambientais, o oposto da conduta descrita. Créditos de carbono e finanças de impacto são instrumentos e abordagens legítimos de finanças sustentáveis.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-25",
+    "materia": "atualidades",
+    "assunto": "Títulos verdes",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa cliente quer captar recursos no mercado para financiar a construção de uma usina solar e pergunta ao escriturário sobre os chamados títulos verdes (green bonds). A característica central desses títulos é",
+    "alternativas": [
+      "a cobertura do FGC para qualquer valor investido",
+      "a destinação dos recursos captados a projetos com benefícios ambientais, com compromissos de transparência e relato sobre o uso dos recursos",
+      "a garantia de rentabilidade superior à de títulos convencionais, assegurada pelo governo",
+      "o fato de serem emitidos exclusivamente pelo Banco Central",
+      "a isenção automática de todos os tributos para qualquer investidor"
+    ],
+    "correta": 1,
+    "comentario": "Os títulos verdes são títulos de dívida, como debêntures, cujo diferencial é o compromisso de aplicar os recursos em projetos com benefício ambiental, como energia renovável e eficiência energética. Normalmente há relatórios sobre o uso dos recursos e, muitas vezes, avaliação externa. A rentabilidade depende das condições de mercado e do emissor e não é garantida pelo governo. Não há isenção tributária automática por serem verdes, não são emitidos pelo Banco Central e não têm cobertura geral do FGC.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-26",
+    "materia": "atualidades",
+    "assunto": "Risco climático",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em relatório de gestão de riscos, um banco menciona dois tipos de risco climático: o decorrente de eventos como enchentes e secas severas, que danificam garantias e afetam a capacidade de pagamento de clientes, e o decorrente da mudança para uma economia de baixo carbono, que pode desvalorizar ativos de setores intensivos em emissões. Esses riscos são denominados, respectivamente,",
+    "alternativas": [
+      "risco de mercado e risco de liquidez",
+      "risco reputacional e risco legal",
+      "risco de transição e risco físico",
+      "risco operacional e risco de crédito",
+      "risco físico e risco de transição"
+    ],
+    "correta": 4,
+    "comentario": "A regulamentação e a literatura de finanças sustentáveis distinguem o risco climático físico, ligado a eventos climáticos extremos ou a mudanças de longo prazo nos padrões do clima, do risco climático de transição, ligado ao processo de mudança para uma economia de baixo carbono, por alterações regulatórias, tecnológicas e de mercado. A ordem inversa é o erro que a questão explora. Esses riscos podem se manifestar como risco de crédito, de mercado, operacional ou reputacional, mas as categorias listadas nas demais alternativas não são as denominações usadas para eles.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-atu-27",
+    "materia": "atualidades",
+    "assunto": "Copom e transmissão da política monetária",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pergunta ao escriturário por que o Banco Central eleva a taxa Selic quando a inflação está acima da meta. O mecanismo que explica essa decisão é que a alta da Selic tende a",
+    "alternativas": [
+      "reduzir os preços por determinação legal imediata sobre os produtos",
+      "encarecer o crédito e estimular a poupança, reduzindo a demanda agregada e aliviando a pressão sobre os preços",
+      "aumentar a oferta de moeda em circulação, o que reduz a inflação",
+      "baratear o crédito, aumentando o consumo e reduzindo os preços",
+      "elevar diretamente os salários, compensando a perda de poder de compra"
+    ],
+    "correta": 1,
+    "comentario": "A Selic é o principal instrumento da política monetária. Ao elevá-la, o Banco Central encarece o crédito e aumenta a atratividade da poupança e das aplicações, o que desestimula consumo e investimento e reduz a demanda agregada, aliviando as pressões inflacionárias. Também atua pelo canal das expectativas e pelo câmbio. Juros mais altos encarecem, e não barateiam, o crédito, e reduzem a moeda em circulação em vez de aumentá-la. A Selic não controla preços por imposição legal nem reajusta salários.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-28",
+    "materia": "atualidades",
+    "assunto": "Selic meta e operações compromissadas",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um estudante pergunta ao escriturário como o Banco Central faz com que a taxa de juros do mercado interbancário fique próxima da meta definida pelo Copom. A explicação correta é que o Banco Central",
+    "alternativas": [
+      "altera diariamente a meta para a inflação definida pelo CMN",
+      "fixa por decreto a taxa de juros de todos os empréstimos bancários",
+      "compra ações na bolsa de valores para reduzir a liquidez",
+      "realiza operações de mercado aberto, especialmente operações compromissadas com títulos públicos federais, ajustando a liquidez do sistema para que a taxa Selic efetiva fique próxima da meta",
+      "determina que o Tesouro Nacional pague juros diretamente aos bancos"
+    ],
+    "correta": 3,
+    "comentario": "O Copom define a meta para a Selic, e a mesa de operações do Banco Central atua no mercado aberto, principalmente com operações compromissadas lastreadas em títulos públicos federais, retirando ou injetando liquidez para que a taxa Selic efetiva, apurada no Selic, fique próxima da meta. O BC não fixa por decreto as taxas dos empréstimos bancários, que variam conforme risco e custos. A compra de ações não é instrumento de política monetária no Brasil. O Tesouro não paga juros aos bancos a mando do BC, e a meta de inflação é do CMN, sem ajustes diários.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-atu-29",
+    "materia": "atualidades",
+    "assunto": "Meta de inflação contínua",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente leu que o Brasil adotou um sistema de “meta contínua” de inflação e pergunta ao escriturário como funciona. Conforme o Decreto nº 12.079/2024 e a decisão do CMN, a meta, de 3% com intervalo de tolerância de 1,5 ponto percentual para cima ou para baixo, é considerada descumprida quando",
+    "alternativas": [
+      "a taxa Selic fica abaixo da inflação por dois meses seguidos",
+      "a inflação de um único mês fica acima do intervalo de tolerância",
+      "a inflação do ano-calendário, apurada em dezembro, fica acima de 3%",
+      "a inflação acumulada em doze meses, medida pelo IPCA, permanece fora do intervalo de tolerância por seis meses consecutivos",
+      "o IGP-M acumulado em doze meses supera 4,5%"
+    ],
+    "correta": 3,
+    "comentario": "Pelo regime de meta contínua, em vigor desde 2025, a inflação acumulada em doze meses, medida pelo IPCA, é verificada todo mês, e não mais só no fim do ano-calendário. A meta é considerada descumprida quando esse acumulado fica fora do intervalo de tolerância por seis meses consecutivos. Nesse caso, o Banco Central deve divulgar nota e carta aberta explicando as causas, as providências e o prazo esperado de retorno à meta. O índice oficial é o IPCA, não o IGP-M, e a relação entre Selic e inflação não define descumprimento.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-30",
+    "materia": "atualidades",
+    "assunto": "IPCA",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pergunta ao escriturário qual índice de preços é utilizado oficialmente no Brasil para aferir o cumprimento da meta para a inflação e qual instituição o calcula. A resposta correta é",
+    "alternativas": [
+      "o IGP-M, calculado pelo Banco Central",
+      "o IPCA, calculado pelo IBGE",
+      "o IPCA, calculado pelo Banco Central",
+      "o INPC, calculado pela Fundação Getulio Vargas",
+      "o IGP-DI, calculado pelo Tesouro Nacional"
+    ],
+    "correta": 1,
+    "comentario": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA), calculado pelo IBGE, é o índice oficial usado no regime de metas para a inflação. O IGP-M e o IGP-DI são calculados pela Fundação Getulio Vargas e têm forte influência de preços no atacado; o IGP-M é muito usado em contratos de aluguel. O INPC também é calculado pelo IBGE, mas com foco em famílias de renda mais baixa. O Banco Central não calcula o IPCA: ele usa o índice para conduzir a política monetária.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-atu-31",
+    "materia": "atualidades",
+    "assunto": "Inflação de demanda e de custos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Após uma forte seca, o preço de alimentos e da energia elétrica subiu, elevando os custos de produção de diversas empresas, que repassaram os aumentos aos consumidores. Esse tipo de inflação é classificado como",
+    "alternativas": [
+      "inflação de custos, provocada por choques de oferta que elevam os custos de produção",
+      "inflação inercial, decorrente exclusivamente de contratos indexados",
+      "deflação, pois a seca reduz a produção",
+      "inflação de demanda, provocada pelo excesso de consumo em relação à capacidade produtiva",
+      "hiperinflação, por envolver mais de um setor da economia"
+    ],
+    "correta": 0,
+    "comentario": "A inflação de custos ocorre quando o aumento dos custos de produção, como insumos, energia e alimentos, é repassado aos preços, e costuma resultar de choques de oferta, como eventos climáticos. A inflação de demanda decorre de demanda agregada superior à capacidade de oferta da economia, o que não é o caso descrito. A inflação inercial resulta da indexação e da propagação da inflação passada. Deflação é queda generalizada de preços, e hiperinflação se refere a taxas extremamente elevadas, não ao número de setores afetados.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-32",
+    "materia": "atualidades",
+    "assunto": "Juros real e nominal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente aplicou recursos em um título que rendeu 10% em um ano, período em que a inflação foi de 4%. Ele pergunta ao escriturário qual foi seu ganho real aproximado. Considerando a relação entre taxa nominal, taxa real e inflação, a resposta correta é",
+    "alternativas": [
+      "aproximadamente 5,77%, obtido por (1,10 ÷ 1,04) − 1",
+      "exatamente 10%, pois a inflação não afeta o rendimento",
+      "exatamente 6%, obtido pela subtração 10% − 4%",
+      "exatamente 14%, obtido pela soma 10% + 4%",
+      "aproximadamente 2,5%, obtido pela divisão 10% ÷ 4%"
+    ],
+    "correta": 0,
+    "comentario": "A relação de Fisher estabelece que (1 + taxa nominal) = (1 + taxa real) × (1 + inflação). Assim, taxa real = 1,10 ÷ 1,04 − 1 ≈ 0,0577, isto é, cerca de 5,77% ao ano. A subtração simples, 10% − 4% = 6%, é apenas uma aproximação que superestima o ganho real. Somar as taxas ou dividi-las não tem fundamento financeiro. E ignorar a inflação desconsidera a perda de poder de compra do dinheiro.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-33",
+    "materia": "atualidades",
+    "assunto": "Marketplaces bancários",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O aplicativo de um banco passou a oferecer um marketplace com produtos de lojas parceiras, como eletrônicos e passagens. Um cliente comprou um produto que não foi entregue e pergunta ao escriturário se o banco tem alguma responsabilidade. Considerando o Código de Defesa do Consumidor, a orientação mais adequada é que",
+    "alternativas": [
+      "o cliente perde a proteção do CDC por ter comprado dentro de aplicativo bancário",
+      "o banco só responde se o produto tiver sido pago com cartão de crédito",
+      "o banco nunca tem responsabilidade, pois apenas disponibiliza o espaço digital",
+      "somente a CVM pode analisar reclamações envolvendo marketplaces bancários",
+      "o banco integra a cadeia de fornecimento ao intermediar a venda em sua plataforma e pode responder solidariamente, conforme o caso, pelos danos ao consumidor"
+    ],
+    "correta": 4,
+    "comentario": "O CDC estabelece a responsabilidade solidária dos fornecedores que participam da cadeia de consumo (arts. 7º, parágrafo único, e 25, § 1º). Ao ofertar produtos de parceiros em sua plataforma, cobrando por isso ou obtendo vantagem, o banco pode ser considerado integrante dessa cadeia e responder conforme as circunstâncias. Por isso, afirmar que ele nunca responde é incorreto. A compra por aplicativo não afasta o CDC, a CVM não trata de relações de consumo em marketplaces, e a responsabilidade não depende do meio de pagamento.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-34",
+    "materia": "atualidades",
+    "assunto": "Banking as a Service",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma rede varejista passou a oferecer contas digitais e cartões aos clientes dentro do próprio aplicativo, utilizando a infraestrutura e as licenças de uma instituição autorizada pelo Banco Central. Esse modelo de negócio é conhecido como",
+    "alternativas": [
+      "cooperativa de crédito de livre admissão",
+      "sandbox regulatório, ambiente de testes supervisionado pelo Banco Central",
+      "Banking as a Service (BaaS), base das chamadas finanças embutidas (embedded finance)",
+      "correspondente cambial, especializado em operações com moeda estrangeira",
+      "banco de investimento, especializado em mercado de capitais"
+    ],
+    "correta": 2,
+    "comentario": "No Banking as a Service, uma instituição autorizada oferece sua infraestrutura e seus serviços regulados, em geral por meio de APIs, para que empresas não financeiras integrem produtos financeiros às suas jornadas, o que se chama embedded finance. A responsabilidade regulatória permanece com a instituição autorizada. O sandbox regulatório é um ambiente controlado para testar inovações. Correspondente cambial, cooperativa de crédito e banco de investimento são figuras diferentes, que não descrevem o modelo apresentado.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-atu-35",
+    "materia": "atualidades",
+    "assunto": "Sandbox regulatório",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma startup desenvolveu um produto financeiro inovador que ainda não se encaixa perfeitamente nas regras vigentes. O escriturário comenta que ela poderia participar de um sandbox regulatório, que consiste em",
+    "alternativas": [
+      "programa de financiamento público para startups do setor financeiro",
+      "autorização definitiva para operar sem qualquer supervisão",
+      "ambiente controlado em que empresas testam, por tempo determinado e sob supervisão do regulador, produtos e serviços inovadores, com requisitos regulatórios diferenciados",
+      "regime de recuperação judicial para instituições financeiras",
+      "plataforma para negociação de criptoativos entre pessoas físicas"
+    ],
+    "correta": 2,
+    "comentario": "O sandbox regulatório, adotado no Brasil pelo Banco Central, pela CVM e pela Susep, é um ambiente experimental em que empresas testam modelos de negócio inovadores por prazo determinado, sob regras diferenciadas e supervisão próxima do regulador. Isso permite avaliar riscos e benefícios antes de uma regulamentação definitiva. Não é autorização permanente nem dispensa supervisão, e não se confunde com linha de financiamento, plataforma de negociação de criptoativos ou regime de recuperação.",
+    "dificuldade": 2
+  }
+]

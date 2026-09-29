@@ -1,0 +1,1272 @@
+[
+ {
+  "id": "bb2023b-1",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O trecho que explica o modo como se elabora uma deep fake é:",
+  "texto_apoio": "Entenda o que é deep fake e saiba como se proteger\n\n[1] Vídeos que viralizam nas redes sociais mostrando figuras públicas em situações quase inacreditáveis são verdadeiros? Afinal de contas tudo parece tão real... A resposta é não, pois se trata de uma “deep fake”, “falsificação profunda” em português, que, como a tradução indica, é tão bem feita que pode enganar até os mais atentos. Segundo estudo de uma empresa de segurança, 65% dos brasileiros ignoram a sua existência e 71% não reconhecem quando um vídeo foi editado digitalmente usando essa técnica.\n\n[2] O que muita gente não sabe, porém, é que esse tipo de golpe, além de manipular vídeos com celebridades e políticos famosos, também prejudica empresas e cidadãos comuns, que podem ser envolvidos em fraudes de identidade e extorsões.\n\n[3] “Deep fake pode ser definida como a criação de vídeos e áudios falsos por meio de inteligência artificial”, explica um especialista de segurança cibernética e fraude. A prática costuma utilizar um vídeo de referência e a face (ou corpo) de outra pessoa, que não fazia parte do vídeo original. Criam-se áudios falsos, fazendo a inteligência artificial aprender como uma pessoa fala e, a partir daí, obter uma montagem com outras falas, inclusive alterando os lábios para acompanhar as palavras que são ditas.\n\n[4] Esse processo vem evoluindo rapidamente, tornando cada vez mais difícil a sua identificação. Isso ocorre porque as novas redes neurais (sistemas de computação que funcionam como neurônios do cérebro humano), a evolução da capacidade de processamento e a redução de custos da computação em nuvem têm facilitado o acesso a essa tecnologia, contribuindo para aumentar a qualidade dos vídeos.\n\n[5] No entanto, os criminosos não precisam de tanto conhecimento e tecnologia para aplicar seus golpes. Isso porque deep fakes criadas para serem distribuídas por apps de mensagens não exigem tanta qualidade. O perigo é que, para o cidadão comum, a deep fake pode ser o ponto de partida para uma fraude financeira, entre outros problemas.\n\n[6] A recomendação para pessoas físicas se protegerem é diminuir a exposição de fotos com rostos e vídeos pessoais na internet. “As redes sociais devem se manter configuradas como privadas, já que fotos, áudios ou vídeos disponíveis publicamente podem ser utilizados para alimentar a inteligência artificial e engendrar deep fakes.”\n\n[7] Além disso, ao receber um vídeo suspeito, observe se o rosto e os lábios da pessoa se movem em conjunto com o que ela diz. Preste atenção se a fala parece contínua ou se em algum momento apresenta cortes entre uma palavra e outra. E considere o contexto — ainda que tecnicamente o vídeo esteja muito bem manipulado, avalie se faz sentido que aquela pessoa diga o que parece dizer naquele momento.\n\n(Disponível em: estudio.folha.uol.com.br. Acesso em: 20 out. 2022. Adaptado.)",
+  "alternativas": [
+   "“Segundo estudo de uma empresa de segurança, 65% dos brasileiros ignoram a sua existência e 71% não reconhecem quando um vídeo foi editado digitalmente usando essa técnica.” (parágrafo 1)",
+   "“O que muita gente não sabe, porém, é que esse tipo de golpe, além de manipular vídeos com celebridades e políticos famosos, também prejudica empresas e cidadãos comuns, que podem ser envolvidos em fraudes de identidade e extorsões.” (parágrafo 2)",
+   "“A prática costuma utilizar um vídeo de referência e a face (ou corpo) de outra pessoa, que não fazia parte do vídeo original. Criam-se áudios falsos, fazendo a inteligência artificial aprender como uma pessoa fala e, a partir daí, obter uma montagem com outras falas, inclusive alterando os lábios” (parágrafo 3)",
+   "“Isso ocorre porque as novas redes neurais (sistemas de computação que funcionam como neurônios do cérebro humano), a evolução da capacidade de processamento e a redução de custos da computação em nuvem têm facilitado o acesso a essa tecnologia” (parágrafo 4)",
+   "“As redes sociais devem se manter configuradas como privadas, já que fotos, áudios ou vídeos disponíveis publicamente podem ser utilizados para alimentar a inteligência artificial e engendrar deep fakes.” (parágrafo 6)"
+  ],
+  "correta": 2,
+  "comentario": "O parágrafo 3 descreve o procedimento: usa-se um vídeo de referência, insere-se o rosto ou corpo de outra pessoa e cria-se áudio falso com IA, ajustando os lábios às falas. Esse é o 'modo como se elabora' a deep fake. O parágrafo 1 traz dados estatísticos, o 2 fala das vítimas, o 4 explica por que a técnica evoluiu (causas) e o 6 dá recomendação de proteção. O erro típico é escolher (D), que fala de tecnologia, mas explica a evolução, não o processo de criação.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-2",
+  "materia": "portugues",
+  "assunto": "Progressão temática",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Na progressão temática do texto, depois de citar as novas tecnologias que permitem a produção de vídeos falsificados — as deep fakes (parágrafo 4) —, desenvolve-se a ideia de que",
+  "texto_apoio": "Entenda o que é deep fake e saiba como se proteger\n\n[1] Vídeos que viralizam nas redes sociais mostrando figuras públicas em situações quase inacreditáveis são verdadeiros? Afinal de contas tudo parece tão real... A resposta é não, pois se trata de uma “deep fake”, “falsificação profunda” em português, que, como a tradução indica, é tão bem feita que pode enganar até os mais atentos. Segundo estudo de uma empresa de segurança, 65% dos brasileiros ignoram a sua existência e 71% não reconhecem quando um vídeo foi editado digitalmente usando essa técnica.\n\n[2] O que muita gente não sabe, porém, é que esse tipo de golpe, além de manipular vídeos com celebridades e políticos famosos, também prejudica empresas e cidadãos comuns, que podem ser envolvidos em fraudes de identidade e extorsões.\n\n[3] “Deep fake pode ser definida como a criação de vídeos e áudios falsos por meio de inteligência artificial”, explica um especialista de segurança cibernética e fraude. A prática costuma utilizar um vídeo de referência e a face (ou corpo) de outra pessoa, que não fazia parte do vídeo original. Criam-se áudios falsos, fazendo a inteligência artificial aprender como uma pessoa fala e, a partir daí, obter uma montagem com outras falas, inclusive alterando os lábios para acompanhar as palavras que são ditas.\n\n[4] Esse processo vem evoluindo rapidamente, tornando cada vez mais difícil a sua identificação. Isso ocorre porque as novas redes neurais (sistemas de computação que funcionam como neurônios do cérebro humano), a evolução da capacidade de processamento e a redução de custos da computação em nuvem têm facilitado o acesso a essa tecnologia, contribuindo para aumentar a qualidade dos vídeos.\n\n[5] No entanto, os criminosos não precisam de tanto conhecimento e tecnologia para aplicar seus golpes. Isso porque deep fakes criadas para serem distribuídas por apps de mensagens não exigem tanta qualidade. O perigo é que, para o cidadão comum, a deep fake pode ser o ponto de partida para uma fraude financeira, entre outros problemas.\n\n[6] A recomendação para pessoas físicas se protegerem é diminuir a exposição de fotos com rostos e vídeos pessoais na internet. “As redes sociais devem se manter configuradas como privadas, já que fotos, áudios ou vídeos disponíveis publicamente podem ser utilizados para alimentar a inteligência artificial e engendrar deep fakes.”\n\n[7] Além disso, ao receber um vídeo suspeito, observe se o rosto e os lábios da pessoa se movem em conjunto com o que ela diz. Preste atenção se a fala parece contínua ou se em algum momento apresenta cortes entre uma palavra e outra. E considere o contexto — ainda que tecnicamente o vídeo esteja muito bem manipulado, avalie se faz sentido que aquela pessoa diga o que parece dizer naquele momento.\n\n(Disponível em: estudio.folha.uol.com.br. Acesso em: 20 out. 2022. Adaptado.)",
+  "alternativas": [
+   "os usuários devem reduzir a postagem de fotos, áudios ou vídeos para evitar alimentar a produção de deep fakes.",
+   "os vídeos falsificados prejudicam celebridades, mas também trazem efeitos negativos a empresas e cidadãos comuns.",
+   "a tecnologia que permite a falsificação de vídeos se utiliza de inteligência artificial para criar áudios falsos que substituem os verdadeiros.",
+   "mais da metade dos brasileiros não conseguem reconhecer se um vídeo foi falsificado por meio da técnica de deep fake.",
+   "a “falsificação profunda” é uma expressão para designar o fenômeno das deep fakes na língua portuguesa."
+  ],
+  "correta": 0,
+  "comentario": "Após o parágrafo 4, o texto passa ao perigo para o cidadão comum (parágrafo 5) e, em seguida, às recomendações de proteção (parágrafos 6 e 7), entre elas diminuir a exposição de fotos, áudios e vídeos. Por isso a correta é (A). As alternativas (B), (D) e (E) retomam ideias que aparecem ANTES do parágrafo 4 (parágrafos 1 e 2), e (C) resume o parágrafo 3. A pegadinha é marcar uma ideia verdadeira no texto, mas fora da sequência pedida.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-3",
+  "materia": "portugues",
+  "assunto": "Sinonímia",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "No trecho “alimentar a inteligência artificial e engendrar deep fakes” (parágrafo 6), a palavra engendrar pode ser substituída, sem prejuízo do sentido do texto, por",
+  "texto_apoio": "Entenda o que é deep fake e saiba como se proteger\n\n[1] Vídeos que viralizam nas redes sociais mostrando figuras públicas em situações quase inacreditáveis são verdadeiros? Afinal de contas tudo parece tão real... A resposta é não, pois se trata de uma “deep fake”, “falsificação profunda” em português, que, como a tradução indica, é tão bem feita que pode enganar até os mais atentos. Segundo estudo de uma empresa de segurança, 65% dos brasileiros ignoram a sua existência e 71% não reconhecem quando um vídeo foi editado digitalmente usando essa técnica.\n\n[2] O que muita gente não sabe, porém, é que esse tipo de golpe, além de manipular vídeos com celebridades e políticos famosos, também prejudica empresas e cidadãos comuns, que podem ser envolvidos em fraudes de identidade e extorsões.\n\n[3] “Deep fake pode ser definida como a criação de vídeos e áudios falsos por meio de inteligência artificial”, explica um especialista de segurança cibernética e fraude. A prática costuma utilizar um vídeo de referência e a face (ou corpo) de outra pessoa, que não fazia parte do vídeo original. Criam-se áudios falsos, fazendo a inteligência artificial aprender como uma pessoa fala e, a partir daí, obter uma montagem com outras falas, inclusive alterando os lábios para acompanhar as palavras que são ditas.\n\n[4] Esse processo vem evoluindo rapidamente, tornando cada vez mais difícil a sua identificação. Isso ocorre porque as novas redes neurais (sistemas de computação que funcionam como neurônios do cérebro humano), a evolução da capacidade de processamento e a redução de custos da computação em nuvem têm facilitado o acesso a essa tecnologia, contribuindo para aumentar a qualidade dos vídeos.\n\n[5] No entanto, os criminosos não precisam de tanto conhecimento e tecnologia para aplicar seus golpes. Isso porque deep fakes criadas para serem distribuídas por apps de mensagens não exigem tanta qualidade. O perigo é que, para o cidadão comum, a deep fake pode ser o ponto de partida para uma fraude financeira, entre outros problemas.\n\n[6] A recomendação para pessoas físicas se protegerem é diminuir a exposição de fotos com rostos e vídeos pessoais na internet. “As redes sociais devem se manter configuradas como privadas, já que fotos, áudios ou vídeos disponíveis publicamente podem ser utilizados para alimentar a inteligência artificial e engendrar deep fakes.”\n\n[7] Além disso, ao receber um vídeo suspeito, observe se o rosto e os lábios da pessoa se movem em conjunto com o que ela diz. Preste atenção se a fala parece contínua ou se em algum momento apresenta cortes entre uma palavra e outra. E considere o contexto — ainda que tecnicamente o vídeo esteja muito bem manipulado, avalie se faz sentido que aquela pessoa diga o que parece dizer naquele momento.\n\n(Disponível em: estudio.folha.uol.com.br. Acesso em: 20 out. 2022. Adaptado.)",
+  "alternativas": [
+   "arquitetar",
+   "distribuir",
+   "fraudar",
+   "repetir",
+   "utilizar"
+  ],
+  "correta": 0,
+  "comentario": "Engendrar significa criar, inventar, produzir, maquinar — sentido equivalente a 'arquitetar'. No texto, as fotos e vídeos públicos alimentam a IA para produzir deep fakes. 'Distribuir' e 'utilizar' tratam do uso posterior do vídeo, não de sua criação; 'fraudar' muda a classe semântica (o objeto não é fraudado, é criado); 'repetir' não tem relação com o verbo.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-4",
+  "materia": "portugues",
+  "assunto": "Relações lógicas (conectivos)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "No trecho “que, como a tradução indica, é tão bem feita que pode enganar até os mais atentos” (parágrafo 1), as palavras “tão” e “que” contribuem para expressar, entre as duas ideias, a relação lógica de",
+  "texto_apoio": "Entenda o que é deep fake e saiba como se proteger\n\n[1] Vídeos que viralizam nas redes sociais mostrando figuras públicas em situações quase inacreditáveis são verdadeiros? Afinal de contas tudo parece tão real... A resposta é não, pois se trata de uma “deep fake”, “falsificação profunda” em português, que, como a tradução indica, é tão bem feita que pode enganar até os mais atentos. Segundo estudo de uma empresa de segurança, 65% dos brasileiros ignoram a sua existência e 71% não reconhecem quando um vídeo foi editado digitalmente usando essa técnica.\n\n[2] O que muita gente não sabe, porém, é que esse tipo de golpe, além de manipular vídeos com celebridades e políticos famosos, também prejudica empresas e cidadãos comuns, que podem ser envolvidos em fraudes de identidade e extorsões.\n\n[3] “Deep fake pode ser definida como a criação de vídeos e áudios falsos por meio de inteligência artificial”, explica um especialista de segurança cibernética e fraude. A prática costuma utilizar um vídeo de referência e a face (ou corpo) de outra pessoa, que não fazia parte do vídeo original. Criam-se áudios falsos, fazendo a inteligência artificial aprender como uma pessoa fala e, a partir daí, obter uma montagem com outras falas, inclusive alterando os lábios para acompanhar as palavras que são ditas.\n\n[4] Esse processo vem evoluindo rapidamente, tornando cada vez mais difícil a sua identificação. Isso ocorre porque as novas redes neurais (sistemas de computação que funcionam como neurônios do cérebro humano), a evolução da capacidade de processamento e a redução de custos da computação em nuvem têm facilitado o acesso a essa tecnologia, contribuindo para aumentar a qualidade dos vídeos.\n\n[5] No entanto, os criminosos não precisam de tanto conhecimento e tecnologia para aplicar seus golpes. Isso porque deep fakes criadas para serem distribuídas por apps de mensagens não exigem tanta qualidade. O perigo é que, para o cidadão comum, a deep fake pode ser o ponto de partida para uma fraude financeira, entre outros problemas.\n\n[6] A recomendação para pessoas físicas se protegerem é diminuir a exposição de fotos com rostos e vídeos pessoais na internet. “As redes sociais devem se manter configuradas como privadas, já que fotos, áudios ou vídeos disponíveis publicamente podem ser utilizados para alimentar a inteligência artificial e engendrar deep fakes.”\n\n[7] Além disso, ao receber um vídeo suspeito, observe se o rosto e os lábios da pessoa se movem em conjunto com o que ela diz. Preste atenção se a fala parece contínua ou se em algum momento apresenta cortes entre uma palavra e outra. E considere o contexto — ainda que tecnicamente o vídeo esteja muito bem manipulado, avalie se faz sentido que aquela pessoa diga o que parece dizer naquele momento.\n\n(Disponível em: estudio.folha.uol.com.br. Acesso em: 20 out. 2022. Adaptado.)",
+  "alternativas": [
+   "adição",
+   "condição",
+   "contradição",
+   "consequência",
+   "temporalidade"
+  ],
+  "correta": 3,
+  "comentario": "A estrutura correlativa 'tão ... que' introduz oração subordinada adverbial consecutiva: a falsificação é tão bem feita que, em consequência, engana até os mais atentos. A causa é a qualidade; o efeito é o engano. Não há soma de ideias (adição), hipótese (condição), oposição (contradição) nem marcação de tempo.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-5",
+  "materia": "portugues",
+  "assunto": "Concordância verbal",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "De acordo com as regras de concordância verbal da norma-padrão da língua portuguesa, a forma verbal destacada (conferem-se, atribuem-se, recomendam-se, necessitam-se, avaliarem-se) está empregada corretamente em:",
+  "alternativas": [
+   "No mundo dominado pela tecnologia, conferem-se aos softwares de manipulação de dados importante papel no processo de controle da informação.",
+   "Em todos os estudos comportamentais, atribuem-se aos jovens uma dependência crescente das redes sociais, tendo em vista a sua necessidade permanente de relacionamento.",
+   "Ao receber algum vídeo suspeito de deep fake, recomendam-se alguns cuidados especiais, como a análise do rosto e dos lábios, para identificar se eles se movem em conjunto com o que é falado.",
+   "Para identificar se os vídeos falsos apresentam cortes entre uma palavra e outra, ou outros defeitos de edição, necessitam-se de instrumentos sofisticados de diagnóstico tecnológico.",
+   "Uma das formas de identificar a manipulação de vídeos é considerar o contexto, para avaliarem-se, com muito cuidado e precisão, se as falas dos personagens mantêm coerência com a realidade."
+  ],
+  "correta": 2,
+  "comentario": "Na voz passiva sintética (VTD + se), o verbo concorda com o sujeito: 'recomendam-se alguns cuidados' = 'alguns cuidados são recomendados' — correto. Em (A) e (B), os sujeitos são singulares ('importante papel', 'uma dependência'), logo 'confere-se' e 'atribui-se'; 'aos softwares' e 'aos jovens' são objetos indiretos. Em (D), 'necessitar de' é transitivo indireto: o 'se' é índice de indeterminação e o verbo fica no singular ('necessita-se de'). Em (E), o sujeito é uma oração ('se as falas...'), exigindo singular ('avaliar-se').",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-6",
+  "materia": "portugues",
+  "assunto": "Concordância nominal",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "De acordo com as regras de concordância nominal da norma-padrão da língua portuguesa, a palavra destacada (causadoras, básicas, impeditivas, atentas, interessadas) está empregada corretamente em:",
+  "alternativas": [
+   "A necessidade que as famílias têm de economizar recursos e o desejo de conseguir emprego são causadoras de muita ansiedade nos tempos atuais.",
+   "A correta instalação da rede elétrica e a qualidade do material utilizado na construção dos prédios são básicas para evitar problemas no futuro.",
+   "A fraude na veiculação da informação e o prejuízo que fake news causam no debate das grandes questões nacionais são impeditivas para o avanço da reflexão sobre o país.",
+   "As empresas fabricantes de produtos que empregam alta tecnologia e os profissionais dessas empresas estão sempre atentas quanto à qualidade dos materiais que veiculam.",
+   "Os estudiosos nas áreas de tecnologia e de comunicação e as empresas de e-commerce estão interessadas na ampliação do uso da internet em nossa sociedade."
+  ],
+  "correta": 1,
+  "comentario": "Predicativo referente a sujeito composto vai para o plural e, se houver núcleos de gêneros diferentes, para o masculino plural. Em (B), os núcleos 'instalação' e 'qualidade' são femininos, então 'básicas' está certo. Em (A) e (C) há feminino + masculino (necessidade/desejo; fraude/prejuízo), exigindo 'causadores' e 'impeditivos'. Em (D) e (E), empresas + profissionais e estudiosos + empresas também pedem masculino: 'atentos' e 'interessados'.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-7",
+  "materia": "portugues",
+  "assunto": "Coesão referencial",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "No texto, o referente da palavra em destaque está corretamente explicitado, entre colchetes, no trecho do",
+  "texto_apoio": "Entenda o que é deep fake e saiba como se proteger\n\n[1] Vídeos que viralizam nas redes sociais mostrando figuras públicas em situações quase inacreditáveis são verdadeiros? Afinal de contas tudo parece tão real... A resposta é não, pois se trata de uma “deep fake”, “falsificação profunda” em português, que, como a tradução indica, é tão bem feita que pode enganar até os mais atentos. Segundo estudo de uma empresa de segurança, 65% dos brasileiros ignoram a sua existência e 71% não reconhecem quando um vídeo foi editado digitalmente usando essa técnica.\n\n[2] O que muita gente não sabe, porém, é que esse tipo de golpe, além de manipular vídeos com celebridades e políticos famosos, também prejudica empresas e cidadãos comuns, que podem ser envolvidos em fraudes de identidade e extorsões.\n\n[3] “Deep fake pode ser definida como a criação de vídeos e áudios falsos por meio de inteligência artificial”, explica um especialista de segurança cibernética e fraude. A prática costuma utilizar um vídeo de referência e a face (ou corpo) de outra pessoa, que não fazia parte do vídeo original. Criam-se áudios falsos, fazendo a inteligência artificial aprender como uma pessoa fala e, a partir daí, obter uma montagem com outras falas, inclusive alterando os lábios para acompanhar as palavras que são ditas.\n\n[4] Esse processo vem evoluindo rapidamente, tornando cada vez mais difícil a sua identificação. Isso ocorre porque as novas redes neurais (sistemas de computação que funcionam como neurônios do cérebro humano), a evolução da capacidade de processamento e a redução de custos da computação em nuvem têm facilitado o acesso a essa tecnologia, contribuindo para aumentar a qualidade dos vídeos.\n\n[5] No entanto, os criminosos não precisam de tanto conhecimento e tecnologia para aplicar seus golpes. Isso porque deep fakes criadas para serem distribuídas por apps de mensagens não exigem tanta qualidade. O perigo é que, para o cidadão comum, a deep fake pode ser o ponto de partida para uma fraude financeira, entre outros problemas.\n\n[6] A recomendação para pessoas físicas se protegerem é diminuir a exposição de fotos com rostos e vídeos pessoais na internet. “As redes sociais devem se manter configuradas como privadas, já que fotos, áudios ou vídeos disponíveis publicamente podem ser utilizados para alimentar a inteligência artificial e engendrar deep fakes.”\n\n[7] Além disso, ao receber um vídeo suspeito, observe se o rosto e os lábios da pessoa se movem em conjunto com o que ela diz. Preste atenção se a fala parece contínua ou se em algum momento apresenta cortes entre uma palavra e outra. E considere o contexto — ainda que tecnicamente o vídeo esteja muito bem manipulado, avalie se faz sentido que aquela pessoa diga o que parece dizer naquele momento.\n\n(Disponível em: estudio.folha.uol.com.br. Acesso em: 20 out. 2022. Adaptado.)",
+  "alternativas": [
+   "parágrafo 1 – “65% dos brasileiros ignoram a sua existência e 71% não reconhecem quando um vídeo foi editado” [empresa de segurança] (palavra destacada: sua)",
+   "parágrafo 4 – “tornando cada vez mais difícil a sua identificação.” [palavras] (palavra destacada: sua)",
+   "parágrafo 4 – “têm facilitado o acesso a essa tecnologia” [computação em nuvem] (palavra destacada: essa)",
+   "parágrafo 4 – “Isso ocorre porque as novas redes neurais” [esse processo] (palavra destacada: Isso)",
+   "parágrafo 5 – “não precisam de tanto conhecimento e tecnologia para aplicar seus golpes.” [criminosos] (palavra destacada: seus)"
+  ],
+  "correta": 4,
+  "comentario": "Em (E), 'seus golpes' são os golpes dos criminosos, sujeito da oração — referência correta. Em (A), 'sua existência' é a existência da deep fake, não da empresa. Em (B), 'sua identificação' remete a 'esse processo' (a deep fake), não a 'palavras'. Em (C), 'essa tecnologia' é a própria tecnologia de deep fake, e não a computação em nuvem. Em (D), 'Isso' retoma a ideia de o processo evoluir e ficar mais difícil de identificar, não apenas 'esse processo'.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-8",
+  "materia": "portugues",
+  "assunto": "Crase",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "De acordo com a norma-padrão da língua portuguesa, o uso do acento grave indicativo da crase é obrigatório na palavra 'a' destacada em:",
+  "alternativas": [
+   "A capacidade criativa do brasileiro é um privilégio que leva soluções favoráveis a empresas de diferentes setores.",
+   "A segurança em saúde e a violência são temas que a maioria da população considera como os maiores obstáculos a serem superados.",
+   "As ações de inclusão social colocaram o nosso país em um patamar superior em relação a outros países, em diferentes épocas.",
+   "O objetivo das instituições que se preocupam com o bem-estar de seus funcionários é ajudá-los a cuidarem de sua saúde.",
+   "Os empresários passaram a dar mais atenção a função que sua organização desempenha na sociedade."
+  ],
+  "correta": 4,
+  "comentario": "'Dar atenção a' exige a preposição 'a', e 'função' é palavra feminina determinada ('a função que...'), logo ocorre a + a = 'à função'. Em (A), 'a empresas' está no singular diante de plural, indicando só preposição (sem artigo). Em (B), 'a serem' antecede verbo; em (C), 'a outros' antecede palavra masculina; em (D), 'a cuidarem' também antecede verbo — nesses casos não há crase.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-9",
+  "materia": "portugues",
+  "assunto": "Pontuação (vírgula)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "De acordo com a norma-padrão da língua portuguesa, o emprego da vírgula está correto em:",
+  "alternativas": [
+   "Os produtos comercializados nos mercados deverão apresentar embalagens adaptadas em seus rótulos até o próximo ano atendendo, à expectativa do cliente na busca de uma dieta saudável.",
+   "A tabela de informação nutricional, passará a conter informações gráficas nítidas e legíveis com o objetivo de preservar a compreensão das informações.",
+   "As indústrias alimentícias estão sendo obrigadas, pelos órgãos fiscalizadores a se adequarem à legislação em vigor para que não sejam multadas.",
+   "A partir da promulgação de lei no próximo ano, os rótulos de alimentos e bebidas deverão esclarecer os consumidores sobre a existência de substâncias alergênicas.",
+   "Vários economistas recomendam, que os consumidores tenham precaução ao utilizar seus cartões de crédito devido à possibilidade de aumentarem seu endividamento."
+  ],
+  "correta": 3,
+  "comentario": "Em (D), a vírgula isola corretamente o adjunto adverbial deslocado para o início da frase ('A partir da promulgação de lei no próximo ano'). Em (A), a vírgula separa o verbo 'atendendo' de seu complemento. Em (B), separa sujeito e verbo, o que é proibido. Em (C), a expressão intercalada 'pelos órgãos fiscalizadores' foi aberta mas não fechada com vírgula. Em (E), a vírgula separa o verbo 'recomendam' de sua oração objetiva direta.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-10",
+  "materia": "portugues",
+  "assunto": "Colocação pronominal",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O pronome oblíquo átono está empregado de acordo com a norma-padrão em:",
+  "alternativas": [
+   "Convidaremo-lo para experimentar algumas novidades tecnológicas em oferta no interior da loja.",
+   "Aquele funcionário, que foi aprovado no exame seletivo de uma instituição, para o cargo de tecnólogo, estava em dúvida em aceitá-lo.",
+   "Os profissionais da informática, ao serem entrevistados sobre sua carreira, nunca cansavam-se de citar as fontes em que poderiam encontrar novos conteúdos de interesse para a sua área.",
+   "Quando os produtos tecnológicos mantêm-se nas prateleiras das lojas por muito tempo, é sinal de que despertaram pouca atenção das pessoas ou que o preço cobrado estava além das possibilidades de compra dos interessados.",
+   "Se os pesquisadores especializados em conserto de computadores ou outros dispositivos eletrônicos conservarem-se atualizados, a ciência que se dedica ao tratamento da informação apresentará maior progresso."
+  ],
+  "correta": 1,
+  "comentario": "Em (B), a ênclise ao infinitivo ('aceitá-lo') é correta, pois não há fator de próclise obrigatório antes dele. Em (A), com verbo no futuro do presente e sem atrator, a norma exige mesóclise: 'Convidá-lo-emos'. Em (C), o advérbio de negação 'nunca' atrai o pronome: 'nunca se cansavam'. Em (D) e (E), as conjunções subordinativas 'quando' e 'se' também exigem próclise: 'se mantêm' e 'se conservarem'.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-11",
+  "materia": "ingles",
+  "assunto": "Interpretação de texto (inglês)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "The main purpose of the text is to describe the association between",
+  "texto_apoio": "Impacts of new age technology\n\n[1] New age technologies such as Artificial Intelligence (AI) and Machine Learning (ML) have radically transformed the way banking works today. Thanks to AI, it is possible to conduct real-time data analysis from a large volume of data sets and provide customized solutions to banking customers.\n\n[2] With powerful AI tools, banks can make informed decisions faster by using predictive analysis, which is the central point of AI and ML. As soon as a potential customer searches for something online, the AI tools pick it up and serve related content that leads to quick sales. This improves customer service tremendously as customers find tailor-made solutions without much human intervention.\n\n[3] Banks’ lending processes have also improved considerably as they can analyze customers’ spending patterns, study different customer data points, and determine borrowers’ credit conditions. So, there is much less paperwork.\n\n[4] Customer-centric banking has become indispensable with the introduction of different kinds of software that utilize Natural Language Processing (NLP) to read, process and understand text and speech. Banks have successfully installed digital tools to answer customer questions, which has helped them reduce the time and effort of human capital and provide quick and consistent service. Using those resources, banks are expected to save $7.3 billion in operational costs.\n\n[5] The changing profile of banking depends a lot on the Internet-age generation. Their expectations from their banks to provide an omni-digital experience have enabled the shift, allowing them to fulfil their banking needs sitting from a remote location. Appropriately, banks quickly jumped onto the digitalization movement and refreshed their services in line with their requirements.\n\n[6] Mobile banking, for example, is very popular among millennials. An Insider Intelligence’s Mobile Banking Competitive Edge study indicated that a surprising 97% of them use mobile banking! Transferring funds, checking their transactions online, downloading their account statements or even applying for a loan is possible through a click of fingers on their mobile phones. This has also eliminated the need for physical branches, enabling banks to operate in a lean manner and cut unnecessary costs.\n\n[7] The usage of credit cards, debit cards, mobile banking apps, mobile wallets, third-party payment apps, etc., have all increased considerably, indicating an essential shift in the customers’ preferences. Banks have modernized their processes and broken the barriers between the different entities involved, such as branches, ATMs, and online banking, to create a continuous flow for their customers.\n\n[8] The changing customer profile inclines towards bringing both physical and digital worlds closer, and this is influencing the finance and banking sector favorably. Banks give attention to this need for digitalization to retain their customers in the long run.\n\n[9] The pandemic of Covid-19 helped the banking industry to depend heavily on digital technology and tech-enabled systems to stay alive. The result of the pandemic, however, resulted in new beginnings in the form of huge digital transformation and newer business models for the banks.\n\n[10] The favorable impact of technology is obvious across banking institutions. Even though the banking arena has advanced in achieving digital involvement, many more unexploited opportunities exist for banks. The banks must maintain the sanctity of their customers’ data and serve them with better solutions without having to sacrifice their security. The few challenges the banking sector still has are data breaches or escapes, lack of e-banking knowledge amongst their customers, and the permanent technological landscape that requires constant training and updating. Plausible solutions to the above are available with a positive partnership between all stakeholders involved, such as government, industry professionals and, of course, different banking institutions.\n\n(Available at: idfcfirstbank.com. Retrieved on: Dec. 9, 2022. Adapted.)",
+  "alternativas": [
+   "banking publicity and profits",
+   "digital technology and banking",
+   "banking hierarchy and efficiency",
+   "banking processes and corruption",
+   "banking tradition and customers’ confidence"
+  ],
+  "correta": 1,
+  "comentario": "O texto inteiro trata do impacto de tecnologias como IA, ML, NLP, mobile banking e da digitalização sobre o setor bancário — ou seja, a relação entre tecnologia digital e bancos. Não fala de publicidade e lucros, de hierarquia, de corrupção, nem de tradição bancária. O título ('Impacts of new age technology') já indica o tema central.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-12",
+  "materia": "ingles",
+  "assunto": "Referência pronominal (inglês)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "In the fragment in the second paragraph of the text, “With powerful AI tools, banks can make informed decisions faster by using predictive analysis, which is the central point of AI and ML”, the word “which” refers to",
+  "texto_apoio": "Impacts of new age technology\n\n[1] New age technologies such as Artificial Intelligence (AI) and Machine Learning (ML) have radically transformed the way banking works today. Thanks to AI, it is possible to conduct real-time data analysis from a large volume of data sets and provide customized solutions to banking customers.\n\n[2] With powerful AI tools, banks can make informed decisions faster by using predictive analysis, which is the central point of AI and ML. As soon as a potential customer searches for something online, the AI tools pick it up and serve related content that leads to quick sales. This improves customer service tremendously as customers find tailor-made solutions without much human intervention.\n\n[3] Banks’ lending processes have also improved considerably as they can analyze customers’ spending patterns, study different customer data points, and determine borrowers’ credit conditions. So, there is much less paperwork.\n\n[4] Customer-centric banking has become indispensable with the introduction of different kinds of software that utilize Natural Language Processing (NLP) to read, process and understand text and speech. Banks have successfully installed digital tools to answer customer questions, which has helped them reduce the time and effort of human capital and provide quick and consistent service. Using those resources, banks are expected to save $7.3 billion in operational costs.\n\n[5] The changing profile of banking depends a lot on the Internet-age generation. Their expectations from their banks to provide an omni-digital experience have enabled the shift, allowing them to fulfil their banking needs sitting from a remote location. Appropriately, banks quickly jumped onto the digitalization movement and refreshed their services in line with their requirements.\n\n[6] Mobile banking, for example, is very popular among millennials. An Insider Intelligence’s Mobile Banking Competitive Edge study indicated that a surprising 97% of them use mobile banking! Transferring funds, checking their transactions online, downloading their account statements or even applying for a loan is possible through a click of fingers on their mobile phones. This has also eliminated the need for physical branches, enabling banks to operate in a lean manner and cut unnecessary costs.\n\n[7] The usage of credit cards, debit cards, mobile banking apps, mobile wallets, third-party payment apps, etc., have all increased considerably, indicating an essential shift in the customers’ preferences. Banks have modernized their processes and broken the barriers between the different entities involved, such as branches, ATMs, and online banking, to create a continuous flow for their customers.\n\n[8] The changing customer profile inclines towards bringing both physical and digital worlds closer, and this is influencing the finance and banking sector favorably. Banks give attention to this need for digitalization to retain their customers in the long run.\n\n[9] The pandemic of Covid-19 helped the banking industry to depend heavily on digital technology and tech-enabled systems to stay alive. The result of the pandemic, however, resulted in new beginnings in the form of huge digital transformation and newer business models for the banks.\n\n[10] The favorable impact of technology is obvious across banking institutions. Even though the banking arena has advanced in achieving digital involvement, many more unexploited opportunities exist for banks. The banks must maintain the sanctity of their customers’ data and serve them with better solutions without having to sacrifice their security. The few challenges the banking sector still has are data breaches or escapes, lack of e-banking knowledge amongst their customers, and the permanent technological landscape that requires constant training and updating. Plausible solutions to the above are available with a positive partnership between all stakeholders involved, such as government, industry professionals and, of course, different banking institutions.\n\n(Available at: idfcfirstbank.com. Retrieved on: Dec. 9, 2022. Adapted.)",
+  "alternativas": [
+   "powerful tools",
+   "modern banks",
+   "predictive analysis",
+   "informed decisions",
+   "artificial intelligence"
+  ],
+  "correta": 2,
+  "comentario": "O pronome relativo 'which' retoma o termo imediatamente anterior à vírgula: 'predictive analysis'. O texto afirma que a análise preditiva é o ponto central da IA e do ML. 'AI' aparece depois, como parte do que é explicado, e 'tools' e 'decisions' estão mais distantes e não fazem sentido como 'central point of AI and ML'.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-13",
+  "materia": "ingles",
+  "assunto": "Vocabulário (inglês)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "In the fragment in the fifth paragraph of the text, “The changing profile of banking depends a lot on the Internet-age generation”, the expression “Internet-age generation” refers to people who",
+  "texto_apoio": "Impacts of new age technology\n\n[1] New age technologies such as Artificial Intelligence (AI) and Machine Learning (ML) have radically transformed the way banking works today. Thanks to AI, it is possible to conduct real-time data analysis from a large volume of data sets and provide customized solutions to banking customers.\n\n[2] With powerful AI tools, banks can make informed decisions faster by using predictive analysis, which is the central point of AI and ML. As soon as a potential customer searches for something online, the AI tools pick it up and serve related content that leads to quick sales. This improves customer service tremendously as customers find tailor-made solutions without much human intervention.\n\n[3] Banks’ lending processes have also improved considerably as they can analyze customers’ spending patterns, study different customer data points, and determine borrowers’ credit conditions. So, there is much less paperwork.\n\n[4] Customer-centric banking has become indispensable with the introduction of different kinds of software that utilize Natural Language Processing (NLP) to read, process and understand text and speech. Banks have successfully installed digital tools to answer customer questions, which has helped them reduce the time and effort of human capital and provide quick and consistent service. Using those resources, banks are expected to save $7.3 billion in operational costs.\n\n[5] The changing profile of banking depends a lot on the Internet-age generation. Their expectations from their banks to provide an omni-digital experience have enabled the shift, allowing them to fulfil their banking needs sitting from a remote location. Appropriately, banks quickly jumped onto the digitalization movement and refreshed their services in line with their requirements.\n\n[6] Mobile banking, for example, is very popular among millennials. An Insider Intelligence’s Mobile Banking Competitive Edge study indicated that a surprising 97% of them use mobile banking! Transferring funds, checking their transactions online, downloading their account statements or even applying for a loan is possible through a click of fingers on their mobile phones. This has also eliminated the need for physical branches, enabling banks to operate in a lean manner and cut unnecessary costs.\n\n[7] The usage of credit cards, debit cards, mobile banking apps, mobile wallets, third-party payment apps, etc., have all increased considerably, indicating an essential shift in the customers’ preferences. Banks have modernized their processes and broken the barriers between the different entities involved, such as branches, ATMs, and online banking, to create a continuous flow for their customers.\n\n[8] The changing customer profile inclines towards bringing both physical and digital worlds closer, and this is influencing the finance and banking sector favorably. Banks give attention to this need for digitalization to retain their customers in the long run.\n\n[9] The pandemic of Covid-19 helped the banking industry to depend heavily on digital technology and tech-enabled systems to stay alive. The result of the pandemic, however, resulted in new beginnings in the form of huge digital transformation and newer business models for the banks.\n\n[10] The favorable impact of technology is obvious across banking institutions. Even though the banking arena has advanced in achieving digital involvement, many more unexploited opportunities exist for banks. The banks must maintain the sanctity of their customers’ data and serve them with better solutions without having to sacrifice their security. The few challenges the banking sector still has are data breaches or escapes, lack of e-banking knowledge amongst their customers, and the permanent technological landscape that requires constant training and updating. Plausible solutions to the above are available with a positive partnership between all stakeholders involved, such as government, industry professionals and, of course, different banking institutions.\n\n(Available at: idfcfirstbank.com. Retrieved on: Dec. 9, 2022. Adapted.)",
+  "alternativas": [
+   "do not have digital equipment.",
+   "dislike digital communication.",
+   "can not use the world wide web.",
+   "constantly use Internet services.",
+   "do not use virtual communication."
+  ],
+  "correta": 3,
+  "comentario": "'Internet-age generation' é a geração da era da internet, pessoas que cresceram usando serviços on-line. O próprio parágrafo diz que ela espera uma experiência 'omni-digital' e resolve suas necessidades bancárias remotamente. Todas as outras alternativas descrevem o oposto: quem não tem equipamento, não gosta ou não usa comunicação digital.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-14",
+  "materia": "ingles",
+  "assunto": "Vocabulário (inglês)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "In the fragment in the seventh paragraph of the text, “have all increased considerably, indicating an essential shift in the customers’ preferences” the word “shift” can be replaced, without any change in meaning, by:",
+  "texto_apoio": "Impacts of new age technology\n\n[1] New age technologies such as Artificial Intelligence (AI) and Machine Learning (ML) have radically transformed the way banking works today. Thanks to AI, it is possible to conduct real-time data analysis from a large volume of data sets and provide customized solutions to banking customers.\n\n[2] With powerful AI tools, banks can make informed decisions faster by using predictive analysis, which is the central point of AI and ML. As soon as a potential customer searches for something online, the AI tools pick it up and serve related content that leads to quick sales. This improves customer service tremendously as customers find tailor-made solutions without much human intervention.\n\n[3] Banks’ lending processes have also improved considerably as they can analyze customers’ spending patterns, study different customer data points, and determine borrowers’ credit conditions. So, there is much less paperwork.\n\n[4] Customer-centric banking has become indispensable with the introduction of different kinds of software that utilize Natural Language Processing (NLP) to read, process and understand text and speech. Banks have successfully installed digital tools to answer customer questions, which has helped them reduce the time and effort of human capital and provide quick and consistent service. Using those resources, banks are expected to save $7.3 billion in operational costs.\n\n[5] The changing profile of banking depends a lot on the Internet-age generation. Their expectations from their banks to provide an omni-digital experience have enabled the shift, allowing them to fulfil their banking needs sitting from a remote location. Appropriately, banks quickly jumped onto the digitalization movement and refreshed their services in line with their requirements.\n\n[6] Mobile banking, for example, is very popular among millennials. An Insider Intelligence’s Mobile Banking Competitive Edge study indicated that a surprising 97% of them use mobile banking! Transferring funds, checking their transactions online, downloading their account statements or even applying for a loan is possible through a click of fingers on their mobile phones. This has also eliminated the need for physical branches, enabling banks to operate in a lean manner and cut unnecessary costs.\n\n[7] The usage of credit cards, debit cards, mobile banking apps, mobile wallets, third-party payment apps, etc., have all increased considerably, indicating an essential shift in the customers’ preferences. Banks have modernized their processes and broken the barriers between the different entities involved, such as branches, ATMs, and online banking, to create a continuous flow for their customers.\n\n[8] The changing customer profile inclines towards bringing both physical and digital worlds closer, and this is influencing the finance and banking sector favorably. Banks give attention to this need for digitalization to retain their customers in the long run.\n\n[9] The pandemic of Covid-19 helped the banking industry to depend heavily on digital technology and tech-enabled systems to stay alive. The result of the pandemic, however, resulted in new beginnings in the form of huge digital transformation and newer business models for the banks.\n\n[10] The favorable impact of technology is obvious across banking institutions. Even though the banking arena has advanced in achieving digital involvement, many more unexploited opportunities exist for banks. The banks must maintain the sanctity of their customers’ data and serve them with better solutions without having to sacrifice their security. The few challenges the banking sector still has are data breaches or escapes, lack of e-banking knowledge amongst their customers, and the permanent technological landscape that requires constant training and updating. Plausible solutions to the above are available with a positive partnership between all stakeholders involved, such as government, industry professionals and, of course, different banking institutions.\n\n(Available at: idfcfirstbank.com. Retrieved on: Dec. 9, 2022. Adapted.)",
+  "alternativas": [
+   "change",
+   "escape",
+   "inclusion",
+   "complaint",
+   "uncertainty"
+  ],
+  "correta": 0,
+  "comentario": "'Shift' significa mudança, deslocamento. O trecho diz que o uso de cartões, apps e carteiras digitais cresceu, indicando uma mudança essencial nas preferências dos clientes. 'Escape' (fuga), 'inclusion' (inclusão), 'complaint' (reclamação) e 'uncertainty' (incerteza) não têm esse sentido.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-15",
+  "materia": "ingles",
+  "assunto": "Interpretação de texto (inglês)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "From paragraph 9, one can conclude that the pandemic of Covid-19",
+  "texto_apoio": "Impacts of new age technology\n\n[1] New age technologies such as Artificial Intelligence (AI) and Machine Learning (ML) have radically transformed the way banking works today. Thanks to AI, it is possible to conduct real-time data analysis from a large volume of data sets and provide customized solutions to banking customers.\n\n[2] With powerful AI tools, banks can make informed decisions faster by using predictive analysis, which is the central point of AI and ML. As soon as a potential customer searches for something online, the AI tools pick it up and serve related content that leads to quick sales. This improves customer service tremendously as customers find tailor-made solutions without much human intervention.\n\n[3] Banks’ lending processes have also improved considerably as they can analyze customers’ spending patterns, study different customer data points, and determine borrowers’ credit conditions. So, there is much less paperwork.\n\n[4] Customer-centric banking has become indispensable with the introduction of different kinds of software that utilize Natural Language Processing (NLP) to read, process and understand text and speech. Banks have successfully installed digital tools to answer customer questions, which has helped them reduce the time and effort of human capital and provide quick and consistent service. Using those resources, banks are expected to save $7.3 billion in operational costs.\n\n[5] The changing profile of banking depends a lot on the Internet-age generation. Their expectations from their banks to provide an omni-digital experience have enabled the shift, allowing them to fulfil their banking needs sitting from a remote location. Appropriately, banks quickly jumped onto the digitalization movement and refreshed their services in line with their requirements.\n\n[6] Mobile banking, for example, is very popular among millennials. An Insider Intelligence’s Mobile Banking Competitive Edge study indicated that a surprising 97% of them use mobile banking! Transferring funds, checking their transactions online, downloading their account statements or even applying for a loan is possible through a click of fingers on their mobile phones. This has also eliminated the need for physical branches, enabling banks to operate in a lean manner and cut unnecessary costs.\n\n[7] The usage of credit cards, debit cards, mobile banking apps, mobile wallets, third-party payment apps, etc., have all increased considerably, indicating an essential shift in the customers’ preferences. Banks have modernized their processes and broken the barriers between the different entities involved, such as branches, ATMs, and online banking, to create a continuous flow for their customers.\n\n[8] The changing customer profile inclines towards bringing both physical and digital worlds closer, and this is influencing the finance and banking sector favorably. Banks give attention to this need for digitalization to retain their customers in the long run.\n\n[9] The pandemic of Covid-19 helped the banking industry to depend heavily on digital technology and tech-enabled systems to stay alive. The result of the pandemic, however, resulted in new beginnings in the form of huge digital transformation and newer business models for the banks.\n\n[10] The favorable impact of technology is obvious across banking institutions. Even though the banking arena has advanced in achieving digital involvement, many more unexploited opportunities exist for banks. The banks must maintain the sanctity of their customers’ data and serve them with better solutions without having to sacrifice their security. The few challenges the banking sector still has are data breaches or escapes, lack of e-banking knowledge amongst their customers, and the permanent technological landscape that requires constant training and updating. Plausible solutions to the above are available with a positive partnership between all stakeholders involved, such as government, industry professionals and, of course, different banking institutions.\n\n(Available at: idfcfirstbank.com. Retrieved on: Dec. 9, 2022. Adapted.)",
+  "alternativas": [
+   "helped control inflation.",
+   "attracted new customers.",
+   "interrupted bank services.",
+   "created new bank branches.",
+   "enriched bank digital technology."
+  ],
+  "correta": 4,
+  "comentario": "O parágrafo 9 diz que a pandemia fez os bancos dependerem fortemente de tecnologia digital e resultou em 'huge digital transformation and newer business models' — ou seja, enriqueceu a tecnologia digital bancária. O texto não fala de inflação nem de novos clientes. Também não diz que os serviços foram interrompidos, e o texto aponta até a redução da necessidade de agências físicas, o que contradiz (D).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-16",
+  "materia": "matematica",
+  "assunto": "Função afim",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um fabricante sabe que o custo de produção de 1.000 pares de chinelos é de R$ 8.800,00 e que o custo para a produção de 400 pares é de R$ 4.900,00. Considere que o custo de produção C(x) de x pares de chinelos é dado pela função definida por C(x) = ax + b, em que b indica o custo fixo.\nSendo assim, o custo de produção de 2.000 pares de chinelos, em reais, é igual a",
+  "alternativas": [
+   "24.500,00",
+   "17.600,00",
+   "15.300,00",
+   "13.600,00",
+   "12.400,00"
+  ],
+  "correta": 2,
+  "comentario": "A taxa de variação é a = (8.800 − 4.900)/(1.000 − 400) = 3.900/600 = 6,5 por par. O custo fixo sai de 8.800 = 6,5·1.000 + b, logo b = 2.300. Então C(2.000) = 6,5·2.000 + 2.300 = 13.000 + 2.300 = 15.300. O erro típico é dobrar o custo de 1.000 pares (17.600), esquecendo que o custo fixo não dobra.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-17",
+  "materia": "matematica",
+  "assunto": "Regra de três composta",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "G máquinas idênticas imprimem G panfletos idênticos, em G dias, trabalhando G horas por dia. H máquinas idênticas às primeiras imprimem H panfletos idênticos aos primeiros, em T dias, trabalhando H horas por dia.\nPortanto, T é igual a",
+  "alternativas": [
+   "H²/G",
+   "G³/H",
+   "H³/G²",
+   "G²/H",
+   "G²/H³"
+  ],
+  "correta": 3,
+  "comentario": "Na primeira situação, o trabalho total é G máquinas × G dias × G horas = G³ máquina-horas para G panfletos, ou seja, G² máquina-horas por panfleto. Na segunda, H panfletos exigem H·G² máquina-horas, e o disponível é H máquinas × H horas × T dias = H²·T. Igualando: H²·T = H·G², logo T = G²/H. O erro comum é inverter a proporção entre máquinas/horas e dias (que é inversa) e chegar a H²/G.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-18",
+  "materia": "matematica",
+  "assunto": "Raciocínio lógico (verdades e mentiras)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "As irmãs N, T e S apostaram uma corrida. Elas têm uma peculiaridade: N nunca mente; T às vezes mente; S sempre mente.\n• Quem ficou em 1º lugar disse: “S ficou em 2º lugar”.\n• Quem ficou em 2º lugar disse: “Eu sou T”.\n• Quem ficou em 3º lugar disse: “N ficou em 2º lugar”.\nNessa corrida, tem-se como 1º lugar, 2º lugar e 3º lugar, respectivamente,",
+  "alternativas": [
+   "S, T, N",
+   "T, S, N",
+   "N, T, S",
+   "T, N, S",
+   "N, S, T"
+  ],
+  "correta": 4,
+  "comentario": "O 2º lugar não pode ser N, pois N diria a verdade e não afirmaria 'Eu sou T'. Então a frase do 3º lugar ('N ficou em 2º') é falsa, logo o 3º não é N; e N também não é 2º, então N é 1º. Como N diz a verdade, S ficou em 2º, e T em 3º. Conferindo: S (2º) mente ao dizer 'Eu sou T' e T (3º) mente ao dizer que N foi 2º — permitido, pois T às vezes mente. Ordem: N, S, T.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-19",
+  "materia": "matematica",
+  "assunto": "Análise combinatória (permutação)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Considere-se uma agência bancária na qual, em dado momento, há apenas 5 gerentes (G1, G2, G3, G4 e G5) e apenas 5 clientes (C1, C2, C3, C4 e C5). Suponha-se que, ao mesmo tempo, cada gerente atenda um único cliente. A seguir, são apresentados três exemplos de configurações possíveis diferentes desses atendimentos.\nConfiguração 1: G4 atende C3; enquanto G2 atende C1; G3 atende C5; G1 atende C2; e G5 atende C4.\nConfiguração 2: G4 atende C1; enquanto G2 atende C3; G3 atende C5; G1 atende C2; e G5 atende C4.\nConfiguração 3: G1 atende C1; enquanto G2 atende C2; G3 atende C3; G4 atende C4; e G5 atende C5.\nIncluindo os três exemplos acima, quantas são as diferentes configurações possíveis desses atendimentos?",
+  "alternativas": [
+   "14.400",
+   "120",
+   "45",
+   "25",
+   "10"
+  ],
+  "correta": 1,
+  "comentario": "Cada configuração é uma associação um a um entre 5 gerentes e 5 clientes, isto é, uma permutação dos clientes. G1 tem 5 opções de cliente, G2 tem 4, G3 tem 3, G4 tem 2 e G5 tem 1: 5! = 120. A alternativa 25 (5×5) ignora que um cliente não pode ser atendido por dois gerentes, e 14.400 (120²) permuta também os gerentes, o que conta cada configuração repetidamente.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-20",
+  "materia": "matematica",
+  "assunto": "Sistemas lineares",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Em uma pequena cidade há três agências de um banco, nomeadas A1, A2 e A3, situadas sobre um mesmo caminho fechado (um circuito), de modo que há um trecho ligando diretamente cada par de agências. Técnicos desse banco analisam um mapa com as seguintes informações:\n• Para ir de A1 para A2, passando por A3, percorrem-se 7,8 km;\n• Para ir de A3 para A1, passando por A2, percorrem-se 9,9 km;\n• Para ir de A2 para A3, passando por A1, percorrem-se 11,3 km.\nUma pessoa decidiu ir de A1 para A3, sem passar por A2, depois ir de A3 para A2, sem passar por A1 e, finalmente, ir de A2 para A1, sem passar por A3.\nCom base nessas informações, essa pessoa percorreu, ao todo, uma distância, em km, igual a",
+  "alternativas": [
+   "29",
+   "16,8",
+   "15",
+   "14,5",
+   "12,7"
+  ],
+  "correta": 3,
+  "comentario": "Sejam x = trecho A1–A3, y = trecho A3–A2 e z = trecho A2–A1. Os dados dão x + y = 7,8; y + z = 9,9; z + x = 11,3. Somando as três equações: 2(x + y + z) = 29, logo x + y + z = 14,5 km, que é exatamente a volta completa pedida. O erro típico é marcar 29, esquecendo que cada trecho foi contado duas vezes na soma.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-21",
+  "materia": "atualidades",
+  "assunto": "Bancos digitais",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "No trecho seguinte, o Banco Central do Brasil (BCB) faz um comentário a respeito dos bancos, na era digital:\n“Apesar de não haver ainda uma licença específica para os bancos digitais, o acompanhamento dessas instituições pelo BCB se torna importante devido ao modelo de negócio digital, que possui uma dinâmica diferente dos modelos tradicionais.” (BCB, Estudo Especial nº 89/2020)\nUma característica comum aos modelos de negócio dos bancos digitais e dos bancos tradicionais é o(a)",
+  "alternativas": [
+   "atendimento ao cliente de forma presencial",
+   "facilitação de saques em dinheiro nas agências bancárias",
+   "utilização de cheques como meio de pagamento",
+   "baixa utilização de tecnologias intensivas em inteligência artificial",
+   "pagamento por meio de cartões eletrônicos"
+  ],
+  "correta": 4,
+  "comentario": "Tanto bancos digitais quanto tradicionais emitem cartões de débito e crédito e processam pagamentos por eles, sendo esse um ponto comum. Atendimento presencial e saques em agências são típicos só dos tradicionais, já que bancos digitais não têm agências. Cheques praticamente não são oferecidos por bancos digitais. E a baixa utilização de IA não caracteriza os digitais, que são intensivos em tecnologia.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-22",
+  "materia": "atualidades",
+  "assunto": "Correspondente bancário",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Quando um cliente paga uma conta mensal de energia elétrica em uma casa lotérica, essa lotérica está atuando como",
+  "alternativas": [
+   "correspondente bancário",
+   "banco digital",
+   "banco comercial",
+   "banco múltiplo",
+   "agência postal"
+  ],
+  "correta": 0,
+  "comentario": "Casas lotéricas, farmácias e comércios que recebem contas e boletos atuam como correspondentes bancários: empresas contratadas por instituições financeiras para prestar serviços em seu nome (Res. CMN 4.935/2021). Elas não são instituições financeiras, logo não são bancos digitais, comerciais ou múltiplos. 'Agência postal' refere-se aos Correios, que também podem ser correspondentes, mas não é o caso da lotérica.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-23",
+  "materia": "atualidades",
+  "assunto": "Funções da moeda",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Os contratos celebrados entre um banco e seus clientes estabelecem tarifas, limites de crédito, taxas de juros, pagamentos mínimos, datas e prazos para pagamento, dentre outros aspectos regulados. O estabelecimento de contratos só pode ocorrer devido à função de unidade de conta da moeda.\nA função de unidade de conta da moeda diz respeito à",
+  "alternativas": [
+   "possibilidade de separar no tempo e no espaço as transações de compra das transações de venda.",
+   "coincidência de interesses entre as partes envolvidas nas transações, possibilitando que o contrato seja firmado.",
+   "preservação do valor da moeda em data futura, com relação ao momento da assinatura do contrato.",
+   "determinação da quantidade de unidades monetárias que liquidam as obrigações de um contrato.",
+   "capacidade da moeda ser facilmente trocada por outros ativos sem perda significativa do seu valor."
+  ],
+  "correta": 3,
+  "comentario": "Como unidade de conta (medida de valor), a moeda serve de padrão para expressar preços e obrigações: diz quantas unidades monetárias liquidam um contrato. A alternativa (A) descreve o meio de troca, que separa compra e venda no tempo e no espaço. (C) é a reserva de valor, e (E) descreve liquidez. (B) remete à 'dupla coincidência de desejos', problema do escambo que a moeda resolve como meio de troca.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-24",
+  "materia": "atualidades",
+  "assunto": "Open Finance",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "As instituições participantes envolvidas no compartilhamento de dados ou serviços do Open Finance, regulamentado pelo Banco Central do Brasil, devem assegurar a possibilidade da revogação do respectivo consentimento, a qualquer tempo, mediante solicitação do cliente, por meio de procedimento seguro, ágil, preciso e conveniente, observado o disposto na legislação e regulamentação em vigor.\nEssa revogação deve ser efetuada com observância dos seguintes prazos:",
+  "alternativas": [
+   "em até um dia, contado a partir da solicitação do cliente, no caso do compartilhamento de serviço de iniciação de transação de pagamento, e de forma imediata, para os demais casos.",
+   "em até um dia, contado a partir da solicitação do cliente, no caso do compartilhamento de serviço de iniciação de transação de pagamento, e em até sete dias, para os demais casos.",
+   "em até dois dias, contado a partir da solicitação do cliente, no caso do compartilhamento de serviço de iniciação de transação de pagamento, e de forma imediata, para os demais casos.",
+   "em até dois dias, contado a partir da solicitação do cliente, no caso do compartilhamento de serviço de iniciação de transação de pagamento, e em até sete dias, para os demais casos.",
+   "em até três dias, contado a partir da solicitação do cliente, no caso do compartilhamento de serviço de iniciação de transação de pagamento, e em até trinta dias, para os demais casos."
+  ],
+  "correta": 0,
+  "comentario": "A Resolução Conjunta nº 1/2020 (Open Finance) determina que a revogação do consentimento seja feita em até um dia, contado da solicitação, no caso de iniciação de transação de pagamento, e de forma imediata nos demais casos. A lógica é que uma iniciação de pagamento pode já estar em processamento, e por isso recebe um pequeno prazo. Já o compartilhamento de dados deve parar na hora. As demais alternativas trazem prazos que não constam da norma.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2023b-25",
+  "materia": "atualidades",
+  "assunto": "Liquidez e transformação digital",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Liquidez é a capacidade de conversão de um bem em dinheiro. Considerando-se apenas os efeitos da transformação digital do sistema financeiro sobre a liquidez dos ativos financeiros, espera-se que todos os ativos abaixo possam apresentar ganhos de liquidez, EXCETO",
+  "alternativas": [
+   "Cédulas e moedas",
+   "Certificados de Depósito Bancário e de Depósito Interbancário (CDB e CDI)",
+   "Depósitos em caderneta de poupança",
+   "Títulos privados, como letras hipotecárias e letras de câmbio",
+   "Títulos Públicos"
+  ],
+  "correta": 0,
+  "comentario": "Cédulas e moedas já são o próprio dinheiro, com liquidez máxima por definição; a digitalização não tem como aumentar a liquidez delas. Já CDB, poupança, títulos privados e públicos podem ser resgatados ou negociados mais rapidamente por aplicativos e plataformas digitais (com liquidez diária, Tesouro Direto on-line, Pix etc.), ganhando liquidez. O erro é pensar que o dinheiro físico 'perde' com o digital — a questão pergunta sobre ganho de liquidez.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-26",
+  "materia": "mat-financeira",
+  "assunto": "Séries de pagamentos antecipadas",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um produto é vendido à vista por R$ 1.655,00 ou em três parcelas mensais iguais, sendo a primeira parcela paga no ato da compra.\nSe a taxa de juros compostos aplicada mensalmente na compra a prazo for de 10%, quanto deverá custar, em reais, cada parcela?",
+  "alternativas": [
+   "600,00",
+   "605,00",
+   "625,00",
+   "665,50",
+   "675,50"
+  ],
+  "correta": 1,
+  "comentario": "Com entrada, o valor presente é P + P/1,1 + P/1,21 = 1.655. Multiplicando por 1,21: 1,21P + 1,1P + P = 3,31P = 1.655 × 1,21 = 2.002,55, logo P = 605,00. O erro mais comum é tratar como série postecipada (sem entrada), descontando as três parcelas, o que leva a um valor maior (cerca de 665,50).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-27",
+  "materia": "mat-financeira",
+  "assunto": "Sistema de Amortização Constante (SAC)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um empréstimo de R$ 24.000,00 deverá ser pago de acordo com o Sistema de Amortização Constante (SAC) em 6 parcelas mensais.\nSe o valor da 4ª parcela for de R$ 4.240,00, então a taxa de juros mensal do empréstimo é de",
+  "alternativas": [
+   "1,0%",
+   "1,5%",
+   "2,0%",
+   "2,5%",
+   "3,0%"
+  ],
+  "correta": 2,
+  "comentario": "No SAC a amortização é constante: 24.000/6 = 4.000 por mês. Antes da 4ª parcela já foram pagas 3 amortizações, então o saldo devedor é 24.000 − 12.000 = 12.000. Os juros da 4ª parcela são 4.240 − 4.000 = 240, logo a taxa é 240/12.000 = 2%. O erro típico é calcular os juros sobre o valor total emprestado (240/24.000 = 1%).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-28",
+  "materia": "mat-financeira",
+  "assunto": "Taxas equivalentes",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O cliente de um banco tem uma dívida sobre a qual incidem, mensalmente, juros compostos de 10%. Para reduzir custos financeiros, ele busca um empréstimo que lhe permita substituir essa dívida por outra mais barata. O banco ofereceu a esse cliente um empréstimo a uma taxa mensal aproximada equivalente a 100% ao ano, no sistema de juros compostos.\nDados (taxa mensal → fator anual): 4% → 1,60; 5% → 1,80; 6% → 2,01; 7% → 2,25; 8% → 2,52; 9% → 2,81; 10% → 3,14.\nConsiderando-se os dados apresentados, a diferença entre a antiga taxa mensal de juros e a nova taxa mensal de juros oferecida é de, aproximadamente,",
+  "alternativas": [
+   "1,6%",
+   "1,8%",
+   "2,0%",
+   "3,1%",
+   "4,0%"
+  ],
+  "correta": 4,
+  "comentario": "Taxa de 100% ao ano corresponde a fator anual 2,00. Pela tabela, o fator 2,01 corresponde a 6% ao mês, então a nova taxa é aproximadamente 6% a.m. A diferença para a antiga é 10% − 6% = 4 pontos percentuais. O erro clássico é dividir 100% por 12 (≈8,33% a.m.), que é o raciocínio de juros simples, ou confundir os fatores da tabela com as respostas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-29",
+  "materia": "mat-financeira",
+  "assunto": "Multa e juros de mora",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma conta de energia elétrica, no valor de R$ 4.500,00, tem vencimento em 10/01/2023. O cliente pagou a conta somente em 20/01/2023. No boleto referente a essa conta estão as seguintes orientações sobre juros e multas para pagamentos após o vencimento:\n“Após o vencimento cobrar multa de 2% sobre o valor da conta, mais juros de mora de R$ 4,50 por dia. Após 30 dias, procurar a loja da concessionária mais próxima para pagamentos”.\nConsiderando-se as informações apresentadas, o valor pago pela conta em 20/01/2023, em reais, foi de",
+  "alternativas": [
+   "4.635,00",
+   "4.675,00",
+   "4.780,00",
+   "4.795,00",
+   "4.805,00"
+  ],
+  "correta": 0,
+  "comentario": "Multa: 2% de 4.500 = 90. Atraso de 10/01 a 20/01 = 10 dias, com juros de 10 × 4,50 = 45. Total: 4.500 + 90 + 45 = 4.635,00. As outras alternativas resultam de erros como aplicar a multa todo dia ou contar dias a mais. Atenção ao enunciado: os juros de mora são um valor fixo por dia, não um percentual.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-30",
+  "materia": "mat-financeira",
+  "assunto": "Sistema Price (valor presente)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma empresa comprou um caminhão, que será pago do seguinte modo: uma entrada de R$ 100.000,00, realizada no ato da compra (dezembro/2022); e mais um financiamento do valor restante em 120 prestações mensais e iguais de R$ 2.000,00, no sistema Price, começando em janeiro/2023 e terminando em dezembro/2032. Considere que a taxa de juros cobrada é de 1% ao mês sobre o saldo devedor do mês anterior, e que, ao final do financiamento, não haverá valores residuais.\nDado: (1,01)^120 = 3,3\nNessas condições, o preço do caminhão, em reais, na data da compra, está na seguinte faixa de preços:",
+  "alternativas": [
+   "50.000,00 a 100.000,00",
+   "100.001,00 a 150.000,00",
+   "150.001,00 a 200.000,00",
+   "200.001,00 a 250.000,00",
+   "250.001,00 a 300.000,00"
+  ],
+  "correta": 3,
+  "comentario": "O valor financiado é o valor presente das 120 prestações: PV = 2.000 × [1 − (1,01)^−120]/0,01 = 200.000 × (1 − 1/3,3) = 200.000 × 2,3/3,3 ≈ 139.394. Somando a entrada: 100.000 + 139.394 ≈ 239.394, na faixa de 200.001 a 250.000. O erro comum é somar as prestações sem descontar os juros (100.000 + 240.000 = 340.000) ou esquecer a entrada (faixa B).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-31",
+  "materia": "bancarios",
+  "assunto": "LGPD (anonimização)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um cidadão é responsável pela gerência de dados pessoais da sociedade empresária V e recebe consulta sobre como determinado dado pode perder a possibilidade de associação, direta ou indireta, a um indivíduo.\nA utilização de meios técnicos razoáveis e disponíveis no momento do tratamento dos dados, nos termos da Lei nº 13.709, de 14 de agosto de 2018, é denominada",
+  "alternativas": [
+   "prevenção",
+   "bloqueio",
+   "anonimização",
+   "controle",
+   "cerceamento"
+  ],
+  "correta": 2,
+  "comentario": "A LGPD (art. 5º, XI) define anonimização como a utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo. Bloqueio (art. 5º, XIII) é a suspensão temporária de qualquer operação de tratamento, mantendo o dado guardado. Prevenção é um princípio (adoção de medidas para evitar danos), e 'controle' e 'cerceamento' não são termos definidos para esse fim.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-32",
+  "materia": "bancarios",
+  "assunto": "Lei Anticorrupção",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um indivíduo foi selecionado para integrar os quadros de determinada companhia que presta serviços de engenharia para setores públicos e privados. Em função de suas habilidades, foi incluído em programa de treinamento para coordenar medidas anticorrupção na empresa. Um dos módulos apresenta as sanções passíveis de ocorrer. Nos termos da Lei nº 12.846/2013, na esfera administrativa, serão aplicadas às pessoas jurídicas consideradas responsáveis pelos atos lesivos previstos nessa Lei as seguintes sanções:",
+  "alternativas": [
+   "multa, até 5% do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação.",
+   "multa, até 10% do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação.",
+   "multa, até 15% do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação.",
+   "multa, até 20% do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação.",
+   "multa, até 25% do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos, a qual nunca será inferior à vantagem auferida, quando for possível sua estimação."
+  ],
+  "correta": 3,
+  "comentario": "O art. 6º, I, da Lei 12.846/2013 prevê multa de 0,1% a 20% do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos, nunca inferior à vantagem auferida, quando estimável. Além da multa, há a publicação extraordinária da decisão condenatória. As alternativas só mudam o percentual, então a questão cobra a memorização do teto de 20%. Se não for possível usar o faturamento, a multa vai de R$ 6 mil a R$ 60 milhões.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-33",
+  "materia": "bancarios",
+  "assunto": "Código de Ética do BB",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O código de ética do Banco do Brasil repudia qualquer forma de conduta, seja a da alta administração, a de funcionários e a de colaboradores, que esteja associada ao(à)",
+  "alternativas": [
+   "diálogo",
+   "respeito e cordialidade",
+   "assédio",
+   "liberdade de associação sindical",
+   "colaboração"
+  ],
+  "correta": 2,
+  "comentario": "O Código de Ética do BB repudia condutas que possam caracterizar assédio de qualquer natureza (moral ou sexual), bem como discriminação e desrespeito. Diálogo, respeito e cordialidade e colaboração são valores que o código estimula. A liberdade de associação sindical é um direito que o banco declara respeitar.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-34",
+  "materia": "bancarios",
+  "assunto": "Crédito rural",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O crédito rural é a modalidade de financiamento destinado ao segmento rural. Ele atende a diversas finalidades das empresas que atuam no setor agropecuário.\nO crédito rural destinado ao financiamento da aquisição de equipamentos, como tratores e colheitadeiras, por parte dos produtores agropecuários, atende à finalidade de crédito de",
+  "alternativas": [
+   "investimento",
+   "custeio",
+   "comercialização",
+   "industrialização",
+   "exportação"
+  ],
+  "correta": 0,
+  "comentario": "Pelo Manual de Crédito Rural, o crédito de investimento financia bens e serviços cujo benefício se estende por vários ciclos produtivos, como máquinas, tratores, colheitadeiras e benfeitorias. O custeio cobre as despesas normais de um ciclo (sementes, adubos, defensivos). A comercialização financia a venda da produção, e a industrialização financia o beneficiamento do produto na propriedade. 'Exportação' não é uma das finalidades do crédito rural.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-35",
+  "materia": "bancarios",
+  "assunto": "Política monetária (Quantitative Easing)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "As políticas de afrouxamento monetário (Quantitative Easing), que vêm norteando as políticas monetárias do Federal Reserve (o Banco Central dos Estados Unidos) e do Banco Central Europeu (BCE), desde a crise financeira global de 2008, são consideradas políticas monetárias não convencionais, porque, na prática, acarretam",
+  "alternativas": [
+   "aumento das taxas de redesconto",
+   "elevação dos percentuais de depósitos compulsórios",
+   "aumento das taxas de juros básicas de curto prazo",
+   "expansão primária de moeda",
+   "fuga do dólar como moeda-reserva internacional"
+  ],
+  "correta": 3,
+  "comentario": "No Quantitative Easing, o banco central compra em grande escala títulos públicos e privados, pagando com moeda nova, o que gera expansão da base monetária (emissão primária de moeda). É uma política não convencional porque vai além de apenas reduzir a taxa básica de juros, que já estava próxima de zero. Aumentar o redesconto, os compulsórios ou os juros são medidas contracionistas, o oposto do afrouxamento. A 'fuga do dólar' não é um efeito prático da política.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-36",
+  "materia": "bancarios",
+  "assunto": "Regimes cambiais",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "No regime cambial conhecido como de “flutuação suja” (dirty floating), a taxa de câmbio é determinada pela",
+  "alternativas": [
+   "variação das reservas internacionais",
+   "política monetária do Banco Central",
+   "taxa fixada pelo Banco Central",
+   "interação entre oferta e demanda de moeda estrangeira, sem qualquer intervenção do Banco Central no mercado de câmbio",
+   "interação entre oferta e demanda de moeda estrangeira, com intervenções esporádicas do Banco Central no mercado de câmbio"
+  ],
+  "correta": 4,
+  "comentario": "Na flutuação suja (regime adotado pelo Brasil), o câmbio é formado pelo mercado, mas o Banco Central intervém de vez em quando, comprando ou vendendo divisas ou swaps, para reduzir a volatilidade. A alternativa (D) descreve a flutuação pura (limpa), sem intervenção. A (C) descreve o câmbio fixo.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-37",
+  "materia": "bancarios",
+  "assunto": "Garantias (hipoteca)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Nos financiamentos destinados à compra de imóveis, as instituições financeiras exigem, do devedor, uma modalidade de garantia, operacionalizada através da oferta de um bem, que geralmente assume a forma de um imóvel.\nA garantia em questão é denominada",
+  "alternativas": [
+   "fiança",
+   "penhor mercantil",
+   "aval",
+   "fiança bancária",
+   "hipoteca"
+  ],
+  "correta": 4,
+  "comentario": "A hipoteca é garantia real sobre bem imóvel, que permanece na posse do devedor. Fiança, aval e fiança bancária são garantias pessoais (fidejussórias), baseadas na obrigação de uma pessoa, e não em um bem. O penhor recai sobre bens móveis. Observação: hoje o financiamento imobiliário usa muito a alienação fiduciária, mas entre as opções a garantia real sobre imóvel é a hipoteca.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-38",
+  "materia": "bancarios",
+  "assunto": "Sistema Financeiro Nacional (CMN)",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Como parte integrante do Sistema Financeiro Nacional, o Conselho Monetário Nacional (CMN) funciona como instituição cuja função é predominantemente",
+  "alternativas": [
+   "normativa",
+   "executora",
+   "bancária",
+   "produtiva",
+   "financeira"
+  ],
+  "correta": 0,
+  "comentario": "O CMN é o órgão normativo máximo do SFN: define diretrizes e normas das políticas monetária, cambial e de crédito, mas não executa operações. Quem executa e fiscaliza são os supervisores, como o Banco Central e a CVM. O CMN não realiza atividade bancária nem financeira, e é comum a confusão com o papel executor do Bacen.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-39",
+  "materia": "bancarios",
+  "assunto": "Taxa de juros real",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Em determinado país, a taxa de inflação durante certo ano foi de 10%. No início desse ano, um investidor aplicou R$ 100,00 e recebeu, no final do ano, R$ 113,30, líquido de impostos. Nesse contexto, a taxa de juros real obtida pelo investidor foi de",
+  "alternativas": [
+   "23,3% ao ano",
+   "13,3% ao ano",
+   "3,3% ao ano",
+   "3% ao ano",
+   "0,3% ao ano"
+  ],
+  "correta": 3,
+  "comentario": "A taxa nominal foi 13,3%. Pela fórmula de Fisher: (1 + real) = (1 + nominal)/(1 + inflação) = 1,133/1,10 = 1,03, logo o juro real é 3% ao ano. O erro clássico é subtrair diretamente 13,3% − 10% = 3,3%, aproximação que ignora a composição das taxas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-40",
+  "materia": "bancarios",
+  "assunto": "Câmbio e comércio exterior",
+  "cargo": "comum",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Para realizar suas operações internacionais de compra e venda de bens e serviços, as empresas importadoras e exportadoras fecham contratos de câmbio junto às instituições financeiras autorizadas pelo Banco Central. A equipe de atendimento de um banco, tendo como clientes duas empresas, uma exportadora e outra importadora, avaliaria que uma desvalorização do real frente ao dólar, tudo o mais constante, seria vantajosa para",
+  "alternativas": [
+   "a empresa exportadora",
+   "a empresa importadora",
+   "os concorrentes estrangeiros da empresa exportadora",
+   "os fornecedores da empresa importadora",
+   "ambas as empresas"
+  ],
+  "correta": 0,
+  "comentario": "Com o real desvalorizado, cada dólar recebido pelo exportador vale mais reais, e seu produto fica mais barato lá fora, ganhando competitividade. Já o importador paga mais reais pelo mesmo dólar, encarecendo suas compras. Os concorrentes estrangeiros do exportador perdem competitividade, e os fornecedores do importador tendem a vender menos, pois o produto fica mais caro no Brasil.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-41",
+  "materia": "informatica",
+  "assunto": "Ferramentas colaborativas (wiki)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O aumento do acesso das pessoas às redes de computadores tem incentivado o trabalho compartilhado e a coautoria na produção de documentos. Uma das ferramentas amplamente utilizadas para esse tipo de trabalho opera como um site projetado para grupos de pessoas capturarem e compartilharem ideias rapidamente, criando páginas web simples e vinculando-as umas às outras através de um código de fácil edição.\nA ferramenta descrita acima é conhecida como",
+  "alternativas": [
+   "cvs",
+   "svn",
+   "kafka",
+   "wiki",
+   "redis"
+  ],
+  "correta": 3,
+  "comentario": "Wiki é um site colaborativo em que qualquer participante autorizado cria e edita páginas com marcação simples, ligando-as entre si (ex.: Wikipédia). CVS e SVN são sistemas de controle de versão de código-fonte. Kafka é uma plataforma de streaming de eventos, e Redis é um banco de dados em memória do tipo chave-valor. Nenhuma dessas quatro é voltada à coautoria de páginas web.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-42",
+  "materia": "informatica",
+  "assunto": "Word (Microsoft 365 para Web)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um usuário está com seu documento aberto no Word do Microsoft 365 para Web e precisa gerar uma versão desse documento em formato PDF em sua máquina local.\nPara executar essa ação, o usuário deve abrir o menu Arquivo, selecionar a opção",
+  "alternativas": [
+   "Exportar e, em seguida, selecionar a opção Baixar como PDF",
+   "Exportar e, em seguida, selecionar a opção Gerar arquivo PDF",
+   "Compartilhar e, em seguida, selecionar a opção Baixar como PDF",
+   "Compartilhar e, em seguida, selecionar a opção Enviar arquivo PDF",
+   "Salvar como e, em seguida, selecionar a opção Baixar como PDF"
+  ],
+  "correta": 4,
+  "comentario": "No Word para Web, o caminho é Arquivo > Salvar como > Baixar como PDF; o arquivo é gerado e baixado para o computador. Na versão desktop existe Arquivo > Exportar > Criar PDF/XPS, o que leva ao erro de marcar (A) ou (B). 'Compartilhar' serve para enviar ou dar acesso ao documento, não para baixá-lo em PDF.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-43",
+  "materia": "informatica",
+  "assunto": "Microsoft Edge (senhas)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um usuário do navegador web Microsoft Edge deseja evitar que essa aplicação ofereça salvar o nome de login e a senha pessoal que são preenchidos nos formulários de autenticação de páginas Web. Para realizar essa ação nesse navegador, o usuário deve, primeiro, abrir o menu de Configurações e mais (Alt+F) e selecionar a opção Configurações, para ter acesso às opções de configuração.\nDepois, para desativar a opção Oferecer para salvar senhas, o usuário deve acessar a opção de configuração",
+  "alternativas": [
+   "Perfis e a subopção Informações pessoais",
+   "Perfis e a subopção Preferências de perfil",
+   "Perfis e a subopção Senhas",
+   "Privacidade, pesquisa e serviços e a subopção Prevenção de rastreamento",
+   "Privacidade, pesquisa e serviços e a subopção Privacidade"
+  ],
+  "correta": 2,
+  "comentario": "No Edge, as senhas salvas ficam associadas ao perfil do usuário: Configurações > Perfis > Senhas, onde se ativa ou desativa 'Oferecer para salvar senhas'. 'Informações pessoais' trata do preenchimento automático de endereço e nome, e 'Preferências de perfil' trata de opções do perfil em si. A seção 'Privacidade, pesquisa e serviços' cuida de rastreamento, cookies e dados de diagnóstico, não do gerenciador de senhas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-44",
+  "materia": "informatica",
+  "assunto": "Windows (nomes de arquivos)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Devido a convenções de nomenclatura, alguns caracteres reservados não podem ser usados em nomes de arquivos e diretórios. Nesse contexto, considere que um usuário do sistema operacional Windows 10 precisa dividir o arquivo relatório.docx em dois arquivos.\nPara atender às convenções de nomenclatura de arquivos e diretórios, dois nomes que NÃO podem ser atribuídos a esses dois arquivos criados pelo usuário são os seguintes:",
+  "alternativas": [
+   "relatório_parte1.docx e relatório_parte2.docx",
+   "relatório-parte1.docx e relatório-parte2.docx",
+   "relatório:parte1.docx e relatório:parte2.docx",
+   "relatório%parte1.docx e relatório%parte2.docx",
+   "relatório$parte1.docx e relatório$parte2.docx"
+  ],
+  "correta": 2,
+  "comentario": "O Windows proíbe em nomes de arquivos os caracteres \\ / : * ? \" < > |. O dois-pontos é reservado (usado na letra da unidade, como C:), então 'relatório:parte1.docx' é inválido. Sublinhado, hífen, % e $ são permitidos. Uma dica para memorizar é que os proibidos são os que têm função especial em caminhos e comandos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-45",
+  "materia": "informatica",
+  "assunto": "Windows 10 (atalhos de teclado)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O Windows 10 fornece uma central de ações que concentra as notificações de aplicativos e ações rápidas.\nO atalho do teclado para abrir essa central de ações combina a tecla do logotipo do Windows com a",
+  "alternativas": [
+   "tecla da letra A",
+   "tecla da letra B",
+   "tecla da letra C",
+   "tecla da letra D",
+   "tecla da letra E"
+  ],
+  "correta": 0,
+  "comentario": "Windows + A abre a Central de Ações (Action Center) no Windows 10. Windows + D mostra a área de trabalho, Windows + E abre o Explorador de Arquivos e Windows + B põe o foco na área de notificação da barra de tarefas. Windows + C abria a Cortana em algumas versões.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-46",
+  "materia": "informatica",
+  "assunto": "Assinatura digital",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O mecanismo de segurança é um método ou processo que pode ser utilizado por um sistema para implementar um serviço de segurança.\nPara verificar a autenticidade ou a autoria de um documento com relação ao seu signatário, deve-se validar a(o)",
+  "alternativas": [
+   "envelope digital",
+   "assinatura digital",
+   "criptograma simétrico",
+   "chave simétrica",
+   "algoritmo simétrico"
+  ],
+  "correta": 1,
+  "comentario": "A assinatura digital, gerada com a chave privada do signatário e verificada com sua chave pública, garante autenticidade (autoria), integridade e não repúdio. O envelope digital serve para garantir confidencialidade, cifrando a chave de sessão com a chave pública do destinatário. Mecanismos simétricos usam a mesma chave compartilhada entre as partes e, por isso, não provam quem é o autor.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-47",
+  "materia": "informatica",
+  "assunto": "Redes (DHCP)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A configuração de rede de um computador pode ser realizada de forma estática ou dinâmica. Quando a forma estática é utilizada, o usuário deve configurar os parâmetros de rede manualmente, fornecendo, por exemplo, os endereços IP da estação de trabalho e do roteador padrão da rede local.\nPor outro lado, quando se utiliza a forma dinâmica, o usuário deve configurar o computador para usar o protocolo de comunicação conhecido como",
+  "alternativas": [
+   "DNS",
+   "VPN",
+   "DHCP",
+   "Wi-Fi",
+   "FTTH"
+  ],
+  "correta": 2,
+  "comentario": "O DHCP (Dynamic Host Configuration Protocol) atribui automaticamente IP, máscara, gateway padrão e servidores DNS às estações. O DNS apenas traduz nomes de domínio em endereços IP. VPN é uma rede privada virtual (túnel), Wi-Fi é uma tecnologia de rede sem fio e FTTH é fibra óptica até a casa do cliente, tecnologia de acesso físico.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-48",
+  "materia": "informatica",
+  "assunto": "Firewall do Windows (perfis de rede)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O Firewall do Windows 10 possui listas de controle de acesso padronizadas que são compostas de regras que determinam o tráfego permitido na entrada e na saída da interface de rede do computador para diferentes perfis de rede.\nO perfil da rede do Firewall do Windows 10 no qual o computador permanece oculto de outros dispositivos na rede e não pode ser usado em compartilhamento de arquivos e de impressoras é o",
+  "alternativas": [
+   "público",
+   "particular",
+   "interno",
+   "intranet",
+   "doméstico"
+  ],
+  "correta": 0,
+  "comentario": "O Windows 10 tem os perfis Domínio, Privado (particular) e Público. No perfil Público, indicado para redes de cafés, aeroportos e hotéis, o PC fica oculto (a descoberta de rede fica desativada) e o compartilhamento de arquivos e impressoras é bloqueado. No perfil Particular, o computador é detectável e pode compartilhar recursos. 'Interno', 'intranet' e 'doméstico' não são perfis do Firewall do Windows 10.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-49",
+  "materia": "informatica",
+  "assunto": "Sistemas de arquivos",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O usuário de um computador com sistema operacional MS Windows 10 precisa formatar um pendrive para transferir arquivos desse computador para um outro, com sistema operacional Linux SUSE SLES 15 SP2. Tal formatação deve ser feita de modo que o caminho contrário possa ser feito, ou seja, transferir arquivos desse computador que utiliza Linux SUSE SLES 15 SP2 para aquele que utiliza o Windows 10.\nNesse caso, o pendrive deve ser formatado no sistema de arquivos do tipo",
+  "alternativas": [
+   "BtrFS",
+   "FAT32",
+   "Ext4",
+   "HPFS",
+   "NTFS"
+  ],
+  "correta": 1,
+  "comentario": "O FAT32 é lido e gravado nativamente tanto pelo Windows quanto pelo Linux, sendo a opção universal para pendrives (com limite de 4 GB por arquivo). BtrFS e Ext4 são sistemas nativos do Linux, que o Windows não lê sem ferramentas extras. HPFS é do antigo OS/2. O NTFS é do Windows e, embora distribuições modernas o leiam, o suporte de escrita no Linux depende de drivers adicionais, por isso não é a resposta esperada.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-50",
+  "materia": "informatica",
+  "assunto": "Sistemas de apoio à decisão",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A empresa responsável por um empreendimento imobiliário implantou um sistema de apoio à decisão baseado em decisões não estruturadas.\nNesse contexto, esse sistema deve",
+  "alternativas": [
+   "analisar dados textuais construídos a partir de decisões anteriores dessa empresa.",
+   "rastrear situações rotineiras, com base em dados e em métodos de decisão bem definidos.",
+   "referenciar dados de som, de imagem ou de qualquer mídia não texto, existente em uma base de conhecimento.",
+   "tratar de problemas não recorrentes ou que acontecem com pouca frequência.",
+   "solucionar esquemas de decisão com base em metodologias heurísticas e de lógica fuzzy."
+  ],
+  "correta": 3,
+  "comentario": "Decisões não estruturadas são novas, não rotineiras e sem procedimento predefinido, exigindo julgamento do decisor, e o SAD apoia esse tipo de problema pouco frequente. A alternativa (B) descreve decisões estruturadas (rotineiras, com método bem definido). As alternativas (A) e (C) confundem 'não estruturado' com o formato dos dados (texto, som, imagem). Heurísticas e lógica fuzzy (E) são técnicas possíveis, mas não definem a decisão não estruturada.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-51",
+  "materia": "informatica",
+  "assunto": "Redes e internet (diagnóstico)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Ao se utilizar um navegador web para acesso a um website XYZ na internet, a partir de uma estação de trabalho E1, pode acontecer de esse website não responder adequadamente, por exemplo, não apresentando o seu conteúdo. Considere que, no instante seguinte à tentativa de acesso ao website XYZ, se verifica ser possível acessar um outro website ABC, e que os websites XYZ e ABC não estão localizados na rede de computadores da organização onde está a estação de trabalho.\nNesse caso, um dos possíveis problemas para o website XYZ não estar respondendo corretamente é o seguinte:",
+  "alternativas": [
+   "o website ABC está atraindo todas as consultas para si.",
+   "a conexão do website XYZ com a internet está interrompida.",
+   "a estação de trabalho E1 não está conectada à rede.",
+   "a conexão da rede de computadores da organização com a internet está interrompida.",
+   "os websites ABC e XYZ não estão configurados corretamente."
+  ],
+  "correta": 1,
+  "comentario": "Como a estação E1 consegue acessar o site externo ABC, estão funcionando a conexão da estação com a rede local e a da organização com a internet, o que descarta (C) e (D). O problema, portanto, está do lado do XYZ, por exemplo, a conexão do servidor dele com a internet caiu. (A) não faz sentido técnico, e (E) é descartada porque ABC está funcionando.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-52",
+  "materia": "informatica",
+  "assunto": "WhatsApp (privacidade)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um aspecto importante que as redes sociais permitem configurar é a privacidade de seus usuários. O WhatsApp é um aplicativo que permite o envio e o recebimento de mensagens instantâneas e a realização de chamadas de voz e de vídeo.\nUm exemplo de configuração, relacionada à sua privacidade, que o usuário pode fazer nesse aplicativo, no telefone celular, é",
+  "alternativas": [
+   "apresentar a informação de “visto por último” apenas a cada oito horas.",
+   "bloquear grupos que tenham muitas mensagens em um mesmo dia.",
+   "controlar quem pode tornar off-line esse usuário.",
+   "desativar a criptografia de ponta a ponta no envio de mensagens entre pessoas.",
+   "enviar mensagens temporárias."
+  ],
+  "correta": 4,
+  "comentario": "Nas configurações de privacidade do WhatsApp há a opção de 'mensagens temporárias', que se apagam depois de 24 horas, 7 dias ou 90 dias. O 'visto por último' pode ser ocultado ou restringido por grupo de pessoas, mas não mostrado 'a cada oito horas'. Não existe bloqueio automático de grupos por volume nem controle de 'quem pode tornar o usuário off-line'. A criptografia de ponta a ponta é padrão e não pode ser desativada.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-53",
+  "materia": "informatica",
+  "assunto": "Gráficos (tipos e uso)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Considere uma empresa que oferece serviços na área de turismo. Os gestores dessa empresa querem acompanhar dados de desempenho (aumento e diminuição), mês a mês, nos últimos 24 meses, relativos à quantidade de pessoas que compraram pacotes de viagem para Bonito (MS).\nO tipo de gráfico adequado para visualizar esses dados é o seguinte:",
+  "alternativas": [
+   "em rede",
+   "mapa de árvore",
+   "linha",
+   "mapa de calor",
+   "pizza (ou torta)"
+  ],
+  "correta": 2,
+  "comentario": "O gráfico de linha é o indicado para mostrar tendência (aumentos e quedas) de uma variável ao longo do tempo, como uma série mensal de 24 meses. O de pizza mostra a participação de partes num todo em um único momento, e o mapa de árvore mostra hierarquia e proporções. O mapa de calor mostra intensidade em uma matriz, e o gráfico em rede (radar) compara várias dimensões de um item.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-54",
+  "materia": "informatica",
+  "assunto": "Videoconferência (qualidade de chamadas)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O Skype, lançado em 2003, foi um dos primeiros programas multiplataforma a permitir o envio de mensagens e a realização de chamadas por vídeo, não só em computadores, mas também em smartphones.\nEventualmente, a qualidade dessas chamadas pode apresentar problemas, motivados, por exemplo, por",
+  "alternativas": [
+   "alterações muito lentas no blockchain de registro de chamadas.",
+   "chamadas realizadas em modo de baixa densidade.",
+   "conexão de rede fraca.",
+   "limitações de tráfego de dados impostas por órgãos de controle.",
+   "detecção de fraude no encaminhamento de tráfego de dados."
+  ],
+  "correta": 2,
+  "comentario": "Chamadas de voz e vídeo pela internet dependem de banda e de baixa latência, de modo que uma conexão fraca ou instável causa travamentos, cortes e baixa resolução. O Skype não usa blockchain para registrar chamadas, e 'modo de baixa densidade' não existe. Limitações impostas por órgãos de controle e detecção de fraude no tráfego são distratores sem base técnica.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-55",
+  "materia": "informatica",
+  "assunto": "Excel (referências relativas e absolutas)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um agente comercial utilizando uma planilha Microsoft Excel 365, versão em português, em determinada operação de acompanhamento de despesas, lança na célula K2 a seguinte fórmula:\n=F$2+G1-$H2\nEm seguida, ele copia essa célula (K2) para a célula K6.\nA fórmula resultante na célula K6 será",
+  "alternativas": [
+   "=F$2+G1-$H3",
+   "=F$2+G5-$H6",
+   "=F$2+G2-$H6",
+   "=F$6+G5-$H2",
+   "=F$6+G6-$H5"
+  ],
+  "correta": 1,
+  "comentario": "De K2 para K6, a cópia desloca 0 coluna e +4 linhas. F$2 tem a linha travada, então continua F$2. G1 é totalmente relativa e vira G5. $H2 tem só a coluna travada, e a linha varia de 2 para 6: $H6. Resultado: =F$2+G5-$H6. O erro comum é achar que o $ antes da coluna ($H) também trava a linha.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-56",
+  "materia": "vendas",
+  "assunto": "Inbound marketing",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "O diretor de um banco decidiu que a estratégia de atração de clientes seria baseada exclusivamente no inbound marketing.\nDessa forma, foram encerradas ações de comunicação como",
+  "alternativas": [
+   "publicação de anúncios em jornais de grande circulação e em revistas especializadas.",
+   "planejamento da produção de conteúdo de alta qualidade para um blog associado ao site da marca.",
+   "divulgação de conteúdos relevantes e de qualidade através de mídias sociais, que permitem compartilhamento.",
+   "utilização de técnicas de manipulação de palavras-chave, conteúdos e estruturas das páginas para aumentar o tráfego no site da empresa.",
+   "envio de mensagens por e-mail com conteúdo em múltiplos formatos, mesclando texto, vídeos e links."
+  ],
+  "correta": 0,
+  "comentario": "Inbound marketing atrai o cliente por meio de conteúdo relevante, como blog, redes sociais, SEO e e-mail marketing com conteúdo, fazendo com que ele procure a empresa. Anúncios em jornais e revistas são outbound marketing (marketing tradicional ou de interrupção), em que a empresa empurra a mensagem ao público. Como a estratégia passou a ser só inbound, esse tipo de ação foi encerrado. As demais alternativas são ferramentas típicas do inbound.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-57",
+  "materia": "vendas",
+  "assunto": "Qualidade em serviços (SERVQUAL)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um consultor foi contratado por uma empresa para avaliar a qualidade no atendimento. De forma bastante direta, esse consultor aplicou um questionário no qual cada cliente daria notas de 1 a 5 para cada afirmação feita, considerando a nota 1 para discordância total, e a nota 5, para concordância total. As afirmações e as notas médias registradas pelos clientes entrevistados foram:\n• Os funcionários prestam atenção individualizada aos clientes — 4,7\n• Os funcionários demonstram ter habilidade para executar o serviço de forma segura e precisa — 4,8\n• As instalações são bem conservadas e têm boa aparência — 5,0\n• Os funcionários demonstram ter vontade de auxiliar os clientes e prestam o serviço sem demora — 2,0\n• Os funcionários demonstram ter conhecimento a respeito do que fazem — 4,8\n• Os funcionários inspiraram credibilidade e confiança — 4,9\nCom base nesses resultados, a dimensão da qualidade em serviços que apresenta piores resultados é a",
+  "alternativas": [
+   "confiabilidade",
+   "responsividade",
+   "segurança",
+   "empatia",
+   "tangibilidade"
+  ],
+  "correta": 1,
+  "comentario": "A pior nota (2,0) é a da afirmação sobre vontade de ajudar e prestar o serviço sem demora, que corresponde à dimensão responsividade (presteza) do modelo SERVQUAL. Atenção individualizada é empatia (4,7), instalações são tangibilidade (5,0), e conhecimento, credibilidade e confiança são segurança. A confiabilidade é a capacidade de executar o serviço prometido de forma segura e precisa (4,8).",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-58",
+  "materia": "vendas",
+  "assunto": "Aprendizagem organizacional",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Para que a empresa siga crescendo, é necessário que seja estimulada a aprendizagem organizacional. Afinal, é dessa forma que a sustentabilidade pode ser buscada. Contudo, os diretores de um banco estão preocupados com a dificuldade que os gerentes têm encontrado no desenvolvimento de processos de detecção e correção de erros. Eles acreditam que isso ocorra por falta de treinamento adequado para os funcionários e gerentes e por pouca confiança na informação que é compartilhada.\nEsses obstáculos à aprendizagem dos gerentes são classificados como fatores",
+  "alternativas": [
+   "perenes",
+   "pessoais",
+   "permanentes",
+   "organizacionais",
+   "interdisciplinares"
+  ],
+  "correta": 3,
+  "comentario": "Falta de treinamento adequado e baixa confiança na informação compartilhada são barreiras ligadas à estrutura, à cultura e às práticas da empresa, ou seja, fatores organizacionais. Os fatores pessoais seriam características do indivíduo, como resistência à mudança ou falta de motivação. 'Perenes', 'permanentes' e 'interdisciplinares' não são categorias usadas para classificar esses obstáculos.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-59",
+  "materia": "vendas",
+  "assunto": "Estatuto da Pessoa com Deficiência",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um correntista de certa instituição financeira frequenta as agências físicas com assiduidade por opção, pois tem dificuldades com os meios tecnológicos. Por ter também necessidades especiais, a instituição designa funcionários para o seu atendimento. Nos termos da Lei nº 13.146/2015, a pessoa com deficiência tem direito a receber atendimento",
+  "alternativas": [
+   "sofisticado",
+   "prioritário",
+   "engajado",
+   "qualitativo",
+   "criativo"
+  ],
+  "correta": 1,
+  "comentario": "O art. 9º da Lei Brasileira de Inclusão (Lei 13.146/2015) garante à pessoa com deficiência o direito a atendimento prioritário, inclusive em instituições e serviços de atendimento ao público. As demais alternativas são adjetivos genéricos que não correspondem ao direito previsto em lei.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-60",
+  "materia": "vendas",
+  "assunto": "Ouvidoria (Resolução CMN 4.860/2020)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um empresário utiliza os serviços bancários de certa instituição há muitos anos. Por força de seu relacionamento habitual com o Banco, mantém contato fácil com os empregados que atuam no atendimento aos clientes. Em determinado momento, a instituição sofre remodelação, e os seus contatos são transferidos para outros locais, ingressando novos funcionários com os quais não mantém relacionamento. Diante das dificuldades geradas pelo não conhecimento do seu perfil de cliente, ele foi compelido a protocolar reclamação na Ouvidoria da instituição que, por meio digital, disponibilizou os telefones do Serviço de Atendimento ao Consumidor.\nNos termos da Resolução CMN nº 4.860, de 23 de outubro de 2020, a Ouvidoria tem por finalidade, dentre outras, atender em última instância às demandas dos clientes e usuários de produtos e serviços que não tiverem sido solucionadas nos canais da instituição, de atendimento",
+  "alternativas": [
+   "primário",
+   "executivo",
+   "parcial",
+   "eventual",
+   "especial"
+  ],
+  "correta": 0,
+  "comentario": "A Resolução CMN 4.860/2020 define que a ouvidoria atua em última instância nas demandas não solucionadas nos canais de atendimento primário da instituição (agências, SAC, correspondentes etc.). Ela funciona como segunda instância, e não como primeiro contato. Os termos 'executivo', 'parcial', 'eventual' e 'especial' não constam da norma.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-61",
+  "materia": "vendas",
+  "assunto": "Estatuto da Pessoa com Deficiência",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um cidadão costuma percorrer o seu município em busca de irregularidades de qualquer natureza para criticar e enviar pleitos para as autoridades competentes. Em determinado momento, presencia violação ocorrida em agência bancária de instituição financeira e comunica a situação ao juiz de plantão. Nos termos da Lei nº 13.146, de 06 de julho de 2015, qualquer forma de ameaça ou de violação aos direitos da pessoa com deficiência deve ser cientificada aos juízes e aos tribunais no exercício de suas funções, os quais deverão remeter peças ao",
+  "alternativas": [
+   "Conselho Tutelar",
+   "Secretário de Defesa Civil",
+   "Prefeito",
+   "Ministério Público",
+   "Chefe da Associação"
+  ],
+  "correta": 3,
+  "comentario": "O art. 7º, parágrafo único, da Lei 13.146/2015 determina que juízes e tribunais que tomarem conhecimento de fatos que caracterizem violação dos direitos da pessoa com deficiência remetam peças ao Ministério Público para as providências cabíveis. O MP é o órgão com atribuição para defender esses direitos. O Conselho Tutelar atua na proteção de crianças e adolescentes (ECA), e prefeito ou secretários não são os destinatários previstos na lei.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-62",
+  "materia": "vendas",
+  "assunto": "Código de Defesa do Consumidor",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Um profissional liberal procura agência bancária para postular empréstimo necessário para as suas atividades laborais. O gerente responsável lhe apresenta várias simulações contratuais, contendo valores, período de pagamento e número de parcelas. Em letras miúdas, constam várias cobranças a incidir no curso do contrato e não esclarecidas ao cliente.\nNos termos do Código de Defesa do Consumidor, quando as cláusulas contratuais forem estabelecidas unilateralmente pelo fornecedor de produtos ou serviços, sem que o consumidor possa discutir ou modificar substancialmente seu conteúdo, será realizado o denominado",
+  "alternativas": [
+   "acordo bilateral",
+   "contrato de adesão",
+   "empréstimo consignado",
+   "mútuo corrente",
+   "convencionado recíproco"
+  ],
+  "correta": 1,
+  "comentario": "O art. 54 do CDC define contrato de adesão como aquele cujas cláusulas foram aprovadas por autoridade ou estabelecidas unilateralmente pelo fornecedor, sem que o consumidor possa discutir ou modificar substancialmente seu conteúdo. O CDC exige que esses contratos tenham letra legível (fonte mínima 12) e cláusulas limitativas em destaque, o que conversa com as 'letras miúdas' do caso. O consignado é uma modalidade de crédito, e as demais alternativas são termos sem definição no CDC.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-63",
+  "materia": "vendas",
+  "assunto": "Segmentação de mercado",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma estratégia mercadológica baseada em uma segmentação comportamental é aquela que tem, entre outros, o objetivo de",
+  "alternativas": [
+   "alcançar pessoas mais ricas.",
+   "atingir o público mais jovem.",
+   "divulgar as agências das metrópoles.",
+   "utilizar influencers digitais.",
+   "reativar clientes inativos."
+  ],
+  "correta": 4,
+  "comentario": "A segmentação comportamental divide o mercado pelo comportamento em relação ao produto: frequência de uso, status de usuário (ativo, inativo, potencial), fidelidade, benefícios buscados. Reativar clientes inativos parte justamente do status de uso. Renda (A) e idade (B) são critérios demográficos, e metrópoles (C) é um critério geográfico. Usar influenciadores (D) é uma tática de comunicação, não um critério de segmentação.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-64",
+  "materia": "vendas",
+  "assunto": "Valor percebido",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma proposta comercial só aumentará o valor percebido pelos clientes do banco se os benefícios propostos vierem acompanhados de",
+  "alternativas": [
+   "custos compatíveis",
+   "demanda elevada",
+   "estabilidade financeira",
+   "serviços extras",
+   "responsabilidade social"
+  ],
+  "correta": 0,
+  "comentario": "Na visão de Kotler, o valor percebido pelo cliente é a diferença entre os benefícios totais e os custos totais (monetários, de tempo, energia e psicológicos). Oferecer mais benefícios só aumenta o valor se os custos forem compatíveis; benefícios com custo desproporcional reduzem o valor. Serviços extras (D) aumentam benefícios, mas não garantem valor se o custo subir demais. Demanda, estabilidade financeira e responsabilidade social não entram diretamente na equação.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-65",
+  "materia": "vendas",
+  "assunto": "Marketing (imagem institucional)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Quando o agente comercial, durante o atendimento, faz menção a propagandas e outras peças de divulgação dos diferenciais do banco, ele está reforçando na mente do cliente a",
+  "alternativas": [
+   "imagem institucional da marca",
+   "necessidade do consumidor",
+   "campanha para o alcance das metas",
+   "preservação de sua identidade",
+   "realidade econômico-financeira do país"
+  ],
+  "correta": 0,
+  "comentario": "Ao citar propagandas e peças que mostram os diferenciais do banco, o agente reforça o posicionamento e a imagem institucional da marca na mente do cliente, integrando a comunicação de massa à venda pessoal. Ele não está trabalhando a necessidade do consumidor, que é identificada por sondagem. A campanha de metas é assunto interno, e as outras alternativas não têm relação com a menção às peças publicitárias.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-66",
+  "materia": "vendas",
+  "assunto": "Técnicas de vendas",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Está cada vez mais difícil reter a atenção dos clientes durante a negociação, o que exige, no ato da venda, uma habilidade específica por parte do agente comercial para",
+  "alternativas": [
+   "absorver todos os conhecimentos sobre os produtos bancários.",
+   "atrair prospects qualificados para o atendimento.",
+   "despertar o interesse social pelos projetos do banco.",
+   "explicar com detalhes as propostas de serviços.",
+   "manter a satisfação plena pelos serviços prestados."
+  ],
+  "correta": 3,
+  "comentario": "No momento da venda, a habilidade exigida é a de apresentar e explicar a proposta de forma clara e detalhada, prendendo a atenção do cliente e mostrando como o produto atende à sua necessidade. Absorver conhecimento sobre produtos (A) é preparação prévia, e atrair prospects (B) é tarefa da prospecção, antes do atendimento. Manter a satisfação (E) é do pós-venda, e o interesse social por projetos (C) foge da negociação.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-67",
+  "materia": "vendas",
+  "assunto": "Precificação",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "A acirrada concorrência impõe às instituições financeiras uma atuação agressiva, pois há uma forte disputa por ganhos de fatias de mercado. Diante desse contexto, o Banco do Brasil realizou uma pesquisa com seus clientes, e fixou seus preços com referência ao que os clientes estão dispostos a pagar pelo valor que acreditam que receberão.\nPortanto, nesse caso, o Banco do Brasil adotou uma estratégia de precificação com base no(a)",
+  "alternativas": [
+   "excedente do consumidor",
+   "concorrência",
+   "isca",
+   "custo",
+   "valor"
+  ],
+  "correta": 4,
+  "comentario": "Na precificação baseada em valor, o preço é definido a partir da percepção de valor do cliente, ou seja, quanto ele está disposto a pagar pelo benefício que espera receber, e é por isso que o banco fez a pesquisa com clientes. A precificação por custo parte dos custos mais uma margem, e a por concorrência toma como referência os preços dos rivais. 'Isca' é vender um item barato para atrair o cliente a outras compras. O excedente do consumidor é um conceito econômico, não uma estratégia de preço.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-68",
+  "materia": "vendas",
+  "assunto": "Venda casada",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Apesar dos esforços realizados por um banco para difundir seu código de ética, um funcionário, alegando a pressão por bater metas elevadas, condicionou um empréstimo à aquisição de cartão de crédito, e, na venda de um produto, incluiu um seguro sem a autorização do consumidor.\nEsse crime contra as relações de consumo é caraterizado como venda",
+  "alternativas": [
+   "de relacionamento",
+   "transacional",
+   "pessoal",
+   "casada",
+   "de soluções"
+  ],
+  "correta": 3,
+  "comentario": "Condicionar o fornecimento de um produto ou serviço à aquisição de outro é venda casada, prática abusiva vedada pelo art. 39, I, do CDC e tipificada como crime contra as relações de consumo (Lei 8.137/1990, art. 5º, II). Incluir um seguro sem autorização também é abusivo. Venda de relacionamento, transacional, pessoal e de soluções são abordagens comerciais legítimas.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2023b-69",
+  "materia": "vendas",
+  "assunto": "Fidelização e lucratividade do cliente",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Uma instituição financeira analisou o lucro por cliente segundo o número de anos em que ele havia sido fiel ao banco, e identificou que, quanto mais tempo os clientes permaneciam no banco, atendê-los se tornava mais lucrativo. Um dos fatores que trabalha em benefício do fornecedor, criando lucros progressivos, é o lucro derivado do aumento de compras.\nEsse lucro ocorre porque, ao longo do tempo, os clientes",
+  "alternativas": [
+   "confiam mais no fornecedor, e, assim sendo, ficam mais dispostos a pagar preços mais convenientes em períodos de pico, ou por trabalho agilizado, e não se beneficiam de descontos promocionais.",
+   "se tornam mais experientes, podem exigir mais do fornecedor e cometer mais erros quando envolvidos em rotinas operacionais, contribuindo assim para a produtividade.",
+   "se tornam muitas vezes maiores, precisam comprar quantidades maiores, e podem decidir consolidar suas compras em um único fornecedor que oferece serviço de alta qualidade.",
+   "novos custam menos para ser mantidos do que os clientes antigos, e geram menos propaganda gratuita da organização, porque, com o passar dos anos, fazem menos recomendações boca a boca do serviço do banco.",
+   "fiéis são muito menos propensos a comprar através de mais de um canal (telefone, loja, internet), tendem a consumir menos, não reclamam quando têm uma experiência ruim, e deixam de comprar."
+  ],
+  "correta": 2,
+  "comentario": "No modelo de Reichheld e Sasser, citado por Lovelock, o 'lucro derivado do aumento de compras' ocorre porque clientes (sobretudo empresas) crescem, precisam comprar mais e tendem a concentrar compras num fornecedor confiável. A alternativa (A) mistura a ideia de 'preço premium', que é outro fator, e ainda a distorce. Em (B), 'cometer mais erros' é o contrário da redução de custos operacionais. As alternativas (D) e (E) invertem os fatos, pois clientes antigos custam menos e fazem mais indicações boca a boca.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2023b-70",
+  "materia": "vendas",
+  "assunto": "Momento da verdade (qualidade de serviços)",
+  "cargo": "comercial",
+  "origem": "BB 2023 - Cesgranrio - Agente Comercial (Prova B)",
+  "enunciado": "Nas aplicações bancárias, o autosserviço on-line, além de entregar o produto ao cliente, disponibiliza para o consumidor a oportunidade de vivenciar a experiência do serviço. A velocidade da entrega e a interação on-line possibilitam que a internet transforme efetivamente os produtos em serviços.\nSeguindo essa linha, a teoria do momento de verdade, relativa à qualidade de serviços, deve ser levada em consideração quando se avalia a prestação de serviços bancários pela internet, já que existe um(a)",
+  "alternativas": [
+   "demonstração do funcionamento de um serviço para educar os clientes sobre os papéis que se espera que eles executem na entrega do serviço.",
+   "encontro específico entre cliente e fornecedor de serviço no qual o resultado se mostrou particularmente satisfatório ou insatisfatório para uma ou ambas as partes.",
+   "ponto de entrega de serviços em que os clientes interagem com o equipamento de autoatendimento e cujo resultado pode afetar as percepções do serviço.",
+   "ponto de estrangulamento no processo de entrega do serviço que limita o seu processo produtivo, o desempenho ou a capacidade de todo um sistema.",
+   "indicador da interação direta dos clientes com os elementos da organização do serviço que favorece a mensuração do nível de satisfação do consumidor com o serviço."
+  ],
+  "correta": 2,
+  "comentario": "O momento da verdade é qualquer ponto de contato em que o cliente interage com a empresa e forma sua percepção do serviço. No banco pela internet, esse contato ocorre com o equipamento ou sistema de autoatendimento, cujo desempenho afeta a percepção de qualidade. A alternativa (B) descreve um 'incidente crítico' (encontro particularmente satisfatório ou insatisfatório), conceito próximo mas distinto. (D) descreve um gargalo, e (A) descreve roteiro ou educação do cliente.",
+  "dificuldade": 3
+ }
+]

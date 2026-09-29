@@ -1,0 +1,362 @@
+[
+  {
+    "id": "in-est-01",
+    "materia": "estatistica",
+    "assunto": "Média ponderada",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um investidor distribuiu seu patrimônio da seguinte forma: 40% no fundo A, que rendeu 8% no ano; 35% no fundo B, que rendeu 12%; e 25% no fundo C, que rendeu 4%. A rentabilidade da carteira no ano foi de",
+    "alternativas": [
+      "6%",
+      "7%",
+      "7,6%",
+      "8%",
+      "8,4%"
+    ],
+    "correta": 4,
+    "comentario": "A rentabilidade da carteira é a média ponderada dos rendimentos pelos pesos aplicados: 0,40 × 8 + 0,35 × 12 + 0,25 × 4 = 3,2 + 4,2 + 1,0 = 8,4%. A média aritmética simples (8 + 12 + 4)/3 = 8% ignora que os fundos têm participações diferentes.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-est-02",
+    "materia": "estatistica",
+    "assunto": "Mediana",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Os tempos de atendimento, em minutos, de oito clientes em uma agência foram: 12, 7, 15, 9, 20, 11, 7 e 18. A mediana desses tempos é de",
+    "alternativas": [
+      "7 minutos",
+      "11 minutos",
+      "11,5 minutos",
+      "12,375 minutos",
+      "14,5 minutos"
+    ],
+    "correta": 2,
+    "comentario": "Para a mediana é preciso ordenar os dados: 7, 7, 9, 11, 12, 15, 18, 20. Com n = 8 (par), a mediana é a média do 4º e do 5º valores: (11 + 12)/2 = 11,5 minutos. Quem não ordena e toma os valores centrais da lista original (9 e 20) obtém 14,5; 12,375 é a média aritmética (99/8), e 7 é a moda.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-est-03",
+    "materia": "estatistica",
+    "assunto": "Mediana em tabela de frequências",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma pesquisa com 40 clientes registrou quantos produtos bancários cada um possui: 6 clientes possuem 0 produto; 14 possuem 1; 10 possuem 2; 6 possuem 3; e 4 possuem 4. A mediana do número de produtos por cliente é",
+    "alternativas": [
+      "1",
+      "1,5",
+      "1,7",
+      "2",
+      "6"
+    ],
+    "correta": 1,
+    "comentario": "Com 40 observações, a mediana é a média da 20ª e da 21ª. Pelas frequências acumuladas (6, 20, 30, 36, 40), a 20ª observação vale 1 e a 21ª vale 2, logo a mediana é (1 + 2)/2 = 1,5. O valor 1 é a moda, e 1,7 é a média (68/40). Marcar 6 é tomar a mediana das frequências, e não da variável.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-04",
+    "materia": "estatistica",
+    "assunto": "Variância populacional",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "As rentabilidades mensais, em %, de um fundo em cinco meses foram 2, 4, 6, 8 e 10. Considerando esses cinco meses como a população de interesse, a variância das rentabilidades é",
+    "alternativas": [
+      "2,83",
+      "6",
+      "8",
+      "10",
+      "40"
+    ],
+    "correta": 2,
+    "comentario": "A média é 30/5 = 6. Os desvios ao quadrado são 16, 4, 0, 4 e 16, com soma 40. A variância populacional divide por n: 40/5 = 8. Dividir por n − 1 = 4 dá 10, que é a variância amostral; 2,83 (≈ √8) é o desvio-padrão; e 40 é só a soma dos quadrados dos desvios.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-est-05",
+    "materia": "estatistica",
+    "assunto": "Desvio-padrão amostral",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma amostra do número de contas abertas por dia em uma agência registrou os valores 10, 14, 18 e 22. O desvio-padrão amostral desses dados é de, aproximadamente,",
+    "alternativas": [
+      "4,47",
+      "5,16",
+      "6",
+      "20",
+      "26,67"
+    ],
+    "correta": 1,
+    "comentario": "A média é 64/4 = 16, e os desvios ao quadrado são 36, 4, 4 e 36, com soma 80. Como se trata de amostra, a variância é 80/(4 − 1) ≈ 26,67, e o desvio-padrão é √26,67 ≈ 5,16. Dividir por n dá variância 20 e desvio-padrão √20 ≈ 4,47 (fórmula populacional). Marcar 26,67 ou 20 é responder a variância no lugar do desvio-padrão.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-est-06",
+    "materia": "estatistica",
+    "assunto": "Propriedades de média e desvio-padrão",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Os salários dos funcionários de um setor têm média de R$ 3.000,00 e desvio-padrão de R$ 400,00. Todos os salários serão reajustados em 10% e, em seguida, cada funcionário receberá um abono fixo de R$ 200,00. O novo desvio-padrão dos salários será de",
+    "alternativas": [
+      "R$ 440,00",
+      "R$ 460,00",
+      "R$ 600,00",
+      "R$ 640,00",
+      "R$ 700,00"
+    ],
+    "correta": 0,
+    "comentario": "Multiplicar todos os dados por uma constante multiplica o desvio-padrão por essa constante; somar uma constante não altera a dispersão. Assim, o novo desvio-padrão é 400 × 1,10 = R$ 440,00, e o abono de R$ 200,00 afeta apenas a média (que vai a 3.000 × 1,1 + 200 = R$ 3.500,00). Aplicar também o abono ao desvio dá R$ 640,00.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-07",
+    "materia": "estatistica",
+    "assunto": "Coeficiente de variação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A carteira A tem retorno médio de 12% ao ano e desvio-padrão de 3 pontos percentuais; a carteira B tem retorno médio de 20% ao ano e desvio-padrão de 4 pontos percentuais. A diferença entre os coeficientes de variação de A e de B, em pontos percentuais, é de",
+    "alternativas": [
+      "1 p.p.",
+      "2 p.p.",
+      "3 p.p.",
+      "5 p.p.",
+      "8 p.p."
+    ],
+    "correta": 3,
+    "comentario": "O coeficiente de variação é CV = desvio-padrão/média. Para A, CV = 3/12 = 25%; para B, CV = 4/20 = 20%. A diferença é de 5 pontos percentuais: A tem maior risco relativo, embora tenha menor desvio-padrão absoluto. Comparar só os desvios (4 − 3 = 1) ou só as médias (20 − 12 = 8) não mede dispersão relativa.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-est-08",
+    "materia": "estatistica",
+    "assunto": "Probabilidade sem reposição",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma lista de 20 clientes, 12 são pessoas físicas e 8 são pessoas jurídicas. Dois clientes serão sorteados, sucessivamente e sem reposição, para uma pesquisa de satisfação. A probabilidade de ambos serem pessoas jurídicas é",
+    "alternativas": [
+      "14/95",
+      "4/25",
+      "1/5",
+      "28/95",
+      "2/5"
+    ],
+    "correta": 0,
+    "comentario": "No primeiro sorteio, P(PJ) = 8/20; sem reposição, restam 7 PJ entre 19 clientes, e P = 7/19. Pela regra do produto, P = (8/20) × (7/19) = 56/380 = 14/95. Quem esquece que não há reposição calcula (8/20)^2 = 4/25; 2/5 é a probabilidade de uma única PJ. 28/95 dobra o resultado sem motivo, como se a ordem gerasse dois casos distintos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-09",
+    "materia": "estatistica",
+    "assunto": "Eventos independentes - complementar",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma agência tem 3 caixas eletrônicos que funcionam de forma independente. Em determinado dia, cada um tem probabilidade de 10% de estar fora de operação. A probabilidade de pelo menos um caixa estar funcionando nesse dia é de",
+    "alternativas": [
+      "27,1%",
+      "30%",
+      "72,9%",
+      "90%",
+      "99,9%"
+    ],
+    "correta": 4,
+    "comentario": "O evento complementar de \"pelo menos um funcionando\" é \"todos fora de operação\", cuja probabilidade é 0,1^3 = 0,001, pela independência. Logo, a probabilidade pedida é 1 − 0,001 = 0,999 = 99,9%. O valor 72,9% (0,9^3) é a probabilidade de todos funcionarem, e 27,1% é o complementar desse evento, ou seja, de pelo menos um falhar.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-10",
+    "materia": "estatistica",
+    "assunto": "Probabilidade condicional",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma carteira de 200 clientes tem 120 pessoas físicas, das quais 30 contrataram seguro, e 80 pessoas jurídicas, das quais 40 contrataram seguro. Um cliente é sorteado ao acaso e verifica-se que ele contratou seguro. A probabilidade de ele ser pessoa jurídica é",
+    "alternativas": [
+      "1/5",
+      "2/5",
+      "3/7",
+      "1/2",
+      "4/7"
+    ],
+    "correta": 4,
+    "comentario": "Na probabilidade condicional, o espaço amostral fica restrito aos clientes com seguro: 30 + 40 = 70. Desses, 40 são PJ, então P(PJ | seguro) = 40/70 = 4/7. O distrator 1/2 é P(seguro | PJ) = 40/80, a condicional invertida; 2/5 é P(PJ) sem condição; e 1/5 é P(PJ e seguro) = 40/200.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-11",
+    "materia": "estatistica",
+    "assunto": "Teorema de Bayes",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em um banco, 2% das transações com cartão são fraudulentas. O sistema antifraude emite alerta para 90% das transações fraudulentas e, por engano, para 5% das legítimas. Dado que uma transação gerou alerta, a probabilidade de ela ser fraudulenta é de, aproximadamente,",
+    "alternativas": [
+      "1,8%",
+      "2%",
+      "10%",
+      "26,87%",
+      "90%"
+    ],
+    "correta": 3,
+    "comentario": "P(alerta) = 0,02 × 0,90 + 0,98 × 0,05 = 0,018 + 0,049 = 0,067. Por Bayes, P(fraude | alerta) = 0,018/0,067 ≈ 26,87%. O distrator 90% é P(alerta | fraude), a condicional invertida. 1,8% é a probabilidade conjunta de fraude e alerta, sem dividir pela probabilidade de alerta.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-est-12",
+    "materia": "estatistica",
+    "assunto": "Eventos independentes",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Dois clientes, A e B, têm probabilidades de inadimplência de 30% e 20%, respectivamente, e os eventos são independentes. A probabilidade de exatamente um deles ficar inadimplente é de",
+    "alternativas": [
+      "6%",
+      "38%",
+      "44%",
+      "50%",
+      "56%"
+    ],
+    "correta": 1,
+    "comentario": "Há dois casos disjuntos: A inadimplente e B não (0,3 × 0,8 = 0,24) ou B inadimplente e A não (0,7 × 0,2 = 0,14). Somando, 0,38 = 38%. O valor 44% é P(A ∪ B) = 0,3 + 0,2 − 0,06, que inclui o caso de ambos inadimplentes; 6% é P(ambos), 56% é P(nenhum) e 50% é a soma simples das probabilidades.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-13",
+    "materia": "estatistica",
+    "assunto": "Distribuição binomial",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um gerente vai oferecer um cartão a 5 clientes. Cada cliente, independentemente dos demais, aceita a oferta com probabilidade de 40%. A probabilidade de exatamente 2 clientes aceitarem é de",
+    "alternativas": [
+      "3,456%",
+      "16%",
+      "25%",
+      "34,56%",
+      "68,256%"
+    ],
+    "correta": 3,
+    "comentario": "Pela binomial, P(X = 2) = C(5,2) × 0,4^2 × 0,6^3 = 10 × 0,16 × 0,216 = 0,3456 = 34,56%. Esquecer o coeficiente binomial C(5,2) = 10 dá 3,456%, que corresponde a apenas uma ordem específica de aceites. 68,256% é P(X ≤ 2), e 16% é só 0,4^2.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-14",
+    "materia": "estatistica",
+    "assunto": "Binomial - média e variância",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma carteira de 200 contratos independentes, cada contrato tem probabilidade de 5% de inadimplência. A variância do número de contratos inadimplentes é",
+    "alternativas": [
+      "0,0475",
+      "3,08",
+      "9,5",
+      "10",
+      "190"
+    ],
+    "correta": 2,
+    "comentario": "O número de inadimplentes segue uma binomial com n = 200 e p = 0,05. A média é n·p = 10, e a variância é n·p·(1 − p) = 200 × 0,05 × 0,95 = 9,5. Marcar 10 confunde variância com média; 3,08 (≈ √9,5) é o desvio-padrão; e 0,0475 é só p·(1 − p), sem o fator n.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-15",
+    "materia": "estatistica",
+    "assunto": "Probabilidade da união",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Entre os correntistas de uma agência, 60% possuem cartão de crédito, 35% utilizam cheque especial e 20% possuem os dois produtos. Escolhido um correntista ao acaso, a probabilidade de ele não possuir nenhum dos dois produtos é de",
+    "alternativas": [
+      "5%",
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correta": 4,
+    "comentario": "P(cartão ∪ cheque) = 0,60 + 0,35 − 0,20 = 0,75. O complementar, nenhum dos dois, é 1 − 0,75 = 0,25 = 25%. Quem esquece de subtrair a interseção calcula 1 − 0,95 = 5%, contando duas vezes quem tem os dois produtos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-est-16",
+    "materia": "estatistica",
+    "assunto": "Probabilidade com combinações",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma agência tem 10 funcionários, dos quais 4 são mulheres. Três funcionários serão sorteados para compor uma comissão. A probabilidade de a comissão ter exatamente 2 mulheres é",
+    "alternativas": [
+      "1/30",
+      "1/6",
+      "3/10",
+      "2/5",
+      "1/2"
+    ],
+    "correta": 2,
+    "comentario": "O total de comissões é C(10,3) = 120. Os casos favoráveis escolhem 2 das 4 mulheres e 1 dos 6 homens: C(4,2) × C(6,1) = 6 × 6 = 36. A probabilidade é 36/120 = 3/10. O valor 1/2 corresponde a exatamente 1 mulher (4 × 15/120), 1/30 a 3 mulheres, 1/6 a nenhuma mulher, e 2/5 é apenas a proporção de mulheres na agência.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-17",
+    "materia": "estatistica",
+    "assunto": "Média de dados agrupados",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Os saldos médios de 50 contas foram agrupados em classes, em milhares de reais: de 0 a 2 (10 contas), de 2 a 4 (20 contas), de 4 a 6 (15 contas) e de 6 a 8 (5 contas), com intervalos fechados à esquerda. Usando os pontos médios das classes, a média dos saldos é de",
+    "alternativas": [
+      "R$ 3 mil",
+      "R$ 3,6 mil",
+      "R$ 4 mil",
+      "R$ 4,5 mil",
+      "R$ 5 mil"
+    ],
+    "correta": 1,
+    "comentario": "Com pontos médios 1, 3, 5 e 7, a média é (1 × 10 + 3 × 20 + 5 × 15 + 7 × 5)/50 = (10 + 60 + 75 + 35)/50 = 180/50 = 3,6 mil reais. O valor 4 é a média simples dos pontos médios, sem ponderar pelas frequências. R$ 3 mil é o ponto médio da classe modal, e não a média.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-18",
+    "materia": "estatistica",
+    "assunto": "Mediana de dados agrupados",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Considere a distribuição de saldos de 50 contas, em milhares de reais: de 0 a 2 (10 contas), de 2 a 4 (20 contas), de 4 a 6 (15 contas) e de 6 a 8 (5 contas), com intervalos fechados à esquerda. Por interpolação linear dentro da classe, a mediana dos saldos é de",
+    "alternativas": [
+      "R$ 2,5 mil",
+      "R$ 2,75 mil",
+      "R$ 3 mil",
+      "R$ 3,5 mil",
+      "R$ 3,6 mil"
+    ],
+    "correta": 3,
+    "comentario": "A mediana ocupa a posição n/2 = 25. As frequências acumuladas são 10, 30, 45 e 50, então a classe mediana é a de 2 a 4. Pela fórmula, Md = 2 + [(25 − 10)/20] × 2 = 2 + 1,5 = 3,5 mil reais. Tomar o ponto médio da classe mediana dá 3, e 3,6 é a média dos dados agrupados, não a mediana.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-est-19",
+    "materia": "estatistica",
+    "assunto": "Esperança matemática",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma seguradora ligada a um banco vende uma apólice anual por R$ 1.500,00. A probabilidade de ocorrer um sinistro no ano é de 2%, e, nesse caso, a indenização é de R$ 50.000,00. Desconsiderando custos administrativos, o lucro esperado da seguradora por apólice é de",
+    "alternativas": [
+      "R$ 500,00",
+      "R$ 1.000,00",
+      "R$ 1.500,00",
+      "R$ 2.000,00",
+      "R$ 2.500,00"
+    ],
+    "correta": 0,
+    "comentario": "O valor esperado da indenização é 0,02 × 50.000 = R$ 1.000,00. O lucro esperado é o prêmio menos a indenização esperada: 1.500 − 1.000 = R$ 500,00. R$ 1.000,00 é a indenização esperada, e R$ 1.500,00 é o prêmio, que ignora o risco de sinistro.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-est-20",
+    "materia": "estatistica",
+    "assunto": "Probabilidade total",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma agência, o caixa A realiza 60% das operações e o caixa B, 40%. O caixa A comete erro em 2% das operações que realiza, e o caixa B, em 5%. Escolhida ao acaso uma operação da agência, a probabilidade de ela conter erro é de",
+    "alternativas": [
+      "3,2%",
+      "3,5%",
+      "4,4%",
+      "6%",
+      "7%"
+    ],
+    "correta": 0,
+    "comentario": "Pelo teorema da probabilidade total, P(erro) = 0,60 × 0,02 + 0,40 × 0,05 = 0,012 + 0,020 = 0,032 = 3,2%. A média simples das taxas de erro, (2% + 5%)/2 = 3,5%, ignora que os caixas fazem volumes diferentes de operações. 7% é a soma das taxas de erro, que não é uma probabilidade válida para o evento.",
+    "dificuldade": 2
+  }
+]

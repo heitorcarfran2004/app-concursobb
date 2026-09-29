@@ -1,0 +1,22 @@
+[
+{"materia":"bancarios","frente":"Quem compõe o Conselho Monetário Nacional (CMN)?","verso":"Ministro da Fazenda (presidente), Ministro do Planejamento e Orçamento e Presidente do Banco Central."},
+{"materia":"bancarios","frente":"Quem fixa a meta para a inflação e quem define a meta da Selic?","verso":"O CMN fixa a meta para a inflação; o Copom (Banco Central) define a meta da Selic para alcançá-la."},
+{"materia":"bancarios","frente":"Objetivo fundamental do Banco Central (LC 179/2021)","verso":"Assegurar a estabilidade de preços. Sem prejuízo disso: zelar pela estabilidade e eficiência do sistema financeiro, suavizar as flutuações da atividade econômica e fomentar o pleno emprego."},
+{"materia":"bancarios","frente":"Quem supervisiona: VGBL/PGBL x fundo de pensão fechado?","verso":"Previdência aberta (VGBL/PGBL), seguros e capitalização: Susep. Previdência fechada (fundos de pensão): Previc."},
+{"materia":"bancarios","frente":"O que a CVM regula?","verso":"O mercado de valores mobiliários: companhias abertas, ações, debêntures, fundos de investimento, ofertas públicas (Lei 6.385/1976)."},
+{"materia":"bancarios","frente":"Limite de garantia do FGC","verso":"Até R$ 250 mil por CPF/CNPJ e por conglomerado financeiro, com teto global de R$ 1 milhão a cada período de 4 anos."},
+{"materia":"bancarios","frente":"O que o FGC cobre e o que não cobre?","verso":"Cobre: depósitos à vista, poupança, CDB/RDB, LCI, LCA, letras de câmbio, entre outros. Não cobre: debêntures, CRI/CRA, cotas de fundos, previdência, ações."},
+{"materia":"bancarios","frente":"Prazo de apresentação do cheque","verso":"30 dias (mesma praça) ou 60 dias (praça diferente), contados da emissão. Lei 7.357/1985, art. 33."},
+{"materia":"bancarios","frente":"Prescrição da execução do cheque","verso":"6 meses, contados do fim do prazo de apresentação (art. 59 da Lei do Cheque)."},
+{"materia":"bancarios","frente":"Cheque pré-datado apresentado antes da data","verso":"O banco paga (o cheque é ordem de pagamento à vista, art. 32), mas a apresentação antecipada gera dano moral (Súmula 370 do STJ)."},
+{"materia":"bancarios","frente":"Teto de juros do rotativo do cartão (Lei 14.690/2023)","verso":"Juros e encargos do rotativo e do parcelamento da fatura não podem ultrapassar o valor original da dívida (100%)."},
+{"materia":"bancarios","frente":"Remuneração da poupança (depósitos desde maio/2012)","verso":"TR + 0,5% ao mês se a meta da Selic for maior que 8,5% a.a.; TR + 70% da meta da Selic se for igual ou menor que 8,5% a.a."},
+{"materia":"bancarios","frente":"SAC x Tabela Price","verso":"SAC: amortização constante, prestações decrescentes. Price: prestações constantes, amortização crescente."},
+{"materia":"bancarios","frente":"Aval x fiança","verso":"Aval: garantia cambial, autônoma, sem benefício de ordem. Fiança: contrato acessório, com benefício de ordem salvo renúncia (CC, art. 827). Ambos exigem outorga do cônjuge, salvo separação absoluta."},
+{"materia":"bancarios","frente":"Fases da lavagem de dinheiro","verso":"1) Colocação (entrada no sistema, ex.: depósitos fracionados); 2) Ocultação/estratificação (dificultar o rastreamento); 3) Integração (retorno com aparência lícita)."},
+{"materia":"bancarios","frente":"Comunicação ao Coaf (Lei 9.613/1998)","verso":"Operações suspeitas são comunicadas sem dar ciência ao cliente, sem ordem judicial. Comunicação de boa-fé não gera responsabilidade civil ou administrativa. Registros guardados por no mínimo 5 anos."},
+{"materia":"bancarios","frente":"Quando a revelação de dados bancários NÃO é quebra de sigilo (LC 105/2001)?","verso":"Com consentimento expresso do interessado; comunicação de ilícitos às autoridades; troca de informações cadastrais entre instituições; e acesso do Fisco com procedimento fiscal em curso (art. 6º, validado pelo STF)."},
+{"materia":"bancarios","frente":"Súmulas 297 e 479 do STJ","verso":"297: o CDC se aplica às instituições financeiras. 479: bancos respondem objetivamente por fraudes de terceiros em operações bancárias (fortuito interno)."},
+{"materia":"bancarios","frente":"Direito de arrependimento (CDC, art. 49)","verso":"7 dias para desistir de contratação feita fora do estabelecimento (internet, telefone, app), com devolução imediata dos valores pagos."},
+{"materia":"bancarios","frente":"LGPD: o banco precisa apagar todos os dados de quem encerra a conta?","verso":"Não. Pode conservar os dados necessários ao cumprimento de obrigação legal ou regulatória (art. 16, I), como os registros exigidos pela lei de PLD."}
+]

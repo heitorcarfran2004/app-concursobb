@@ -1,0 +1,812 @@
+[
+  {
+    "id": "in-ti-01",
+    "materia": "ti",
+    "assunto": "SQL — JOIN, GROUP BY e HAVING",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere as tabelas a seguir, de um sistema de contas bancárias.\n\nCLIENTE\nid | nome  | uf\n1  | Ana   | SP\n2  | Bruno | RJ\n3  | Carla | SP\n4  | Davi  | MG\n\nCONTA\nnum | id_cliente | saldo\n10  | 1          | 500\n11  | 1          | 300\n12  | 2          | 1000\n13  | 3          | 200\n14  | 3          | 150\n15  | 3          | 100\n\nQual é o resultado da consulta abaixo?\n\nSELECT c.uf, COUNT(*) AS qtd\nFROM CLIENTE c\nJOIN CONTA t ON t.id_cliente = c.id\nGROUP BY c.uf\nHAVING SUM(t.saldo) > 900;",
+    "alternativas": [
+      "Uma única linha: SP, com qtd = 5",
+      "Duas linhas: SP, com qtd = 2, e RJ, com qtd = 1",
+      "Duas linhas: SP, com qtd = 5, e RJ, com qtd = 1",
+      "Três linhas: SP, com qtd = 5; RJ, com qtd = 1; e MG, com qtd = 0",
+      "Uma única linha: RJ, com qtd = 1"
+    ],
+    "correta": 2,
+    "comentario": "O JOIN (interno) gera uma linha para cada conta, com a UF do dono: SP recebe as contas 10, 11, 13, 14 e 15 (5 linhas, saldo total 1.250) e RJ recebe a conta 12 (1 linha, saldo 1.000). Como ambos os totais passam de 900, as duas UFs aparecem, e COUNT(*) conta contas, não clientes — por isso SP tem qtd = 5, e não 2. MG não aparece porque Davi não tem conta, e o JOIN interno descarta linhas sem correspondência; para ele surgir seria preciso um LEFT JOIN, e mesmo assim o HAVING o eliminaria.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-02",
+    "materia": "ti",
+    "assunto": "SQL — LEFT JOIN e COUNT",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere as tabelas a seguir.\n\nCLIENTE\nid | nome  | uf\n1  | Ana   | SP\n2  | Bruno | RJ\n3  | Carla | SP\n4  | Davi  | MG\n\nCONTA\nnum | id_cliente | saldo\n10  | 1          | 500\n11  | 1          | 300\n12  | 2          | 1000\n13  | 3          | 200\n14  | 3          | 150\n15  | 3          | 100\n\nExecuta-se a consulta:\n\nSELECT c.nome, COUNT(t.num) AS contas\nFROM CLIENTE c\nLEFT JOIN CONTA t ON t.id_cliente = c.id\nGROUP BY c.nome;\n\nQuantas linhas são retornadas e qual o valor da coluna contas para o cliente Davi?",
+    "alternativas": [
+      "3 linhas; Davi não aparece no resultado",
+      "4 linhas; contas = 1 para Davi",
+      "4 linhas; contas = NULL para Davi",
+      "6 linhas; contas = 0 para Davi",
+      "4 linhas; contas = 0 para Davi"
+    ],
+    "correta": 4,
+    "comentario": "O LEFT JOIN preserva todas as linhas da tabela à esquerda (CLIENTE); Davi, sem conta, aparece uma vez com as colunas de CONTA preenchidas com NULL. Após o GROUP BY por nome, há 4 grupos, logo 4 linhas. COUNT(t.num) conta apenas valores não nulos, por isso Davi recebe 0. O valor 1 seria o resultado de COUNT(*), que conta a linha mesmo com NULL; e COUNT nunca devolve NULL, diferentemente de SUM ou AVG sobre conjunto vazio.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-03",
+    "materia": "ti",
+    "assunto": "SQL — subconsulta",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "A tabela FUNC contém os dados abaixo.\n\nnome | depto | salario\nAna  | TI    | 6000\nBeto | TI    | 4000\nCaio | RH    | 5500\nDuda | RH    | 3000\nEnzo | TI    | 5000\n\nQuais nomes são retornados pela consulta a seguir?\n\nSELECT nome\nFROM FUNC\nWHERE salario > (SELECT AVG(salario)\n                 FROM FUNC\n                 WHERE depto = 'TI');",
+    "alternativas": [
+      "Ana e Caio",
+      "Somente Ana",
+      "Ana, Caio e Enzo",
+      "Ana e Enzo",
+      "Ana, Beto e Enzo"
+    ],
+    "correta": 0,
+    "comentario": "A subconsulta escalar é resolvida primeiro: a média salarial de TI é (6000 + 4000 + 5000) / 3 = 5000. A consulta externa não filtra departamento, então compara todos os funcionários com 5000 e retorna quem ganha estritamente mais: Ana (6000) e Caio (5500), que é do RH. \"Somente Ana\" supõe que o filtro de TI também valesse na consulta externa, e incluir Enzo exigiria o operador >=, pois 5000 não é maior que 5000.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-04",
+    "materia": "ti",
+    "assunto": "Normalização — 2FN",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Em um banco de dados relacional, a tabela ITEM_PEDIDO(num_pedido, cod_produto, quantidade, nome_produto) tem chave primária composta por (num_pedido, cod_produto). Sabe-se que nome_produto depende apenas de cod_produto.\n\nEssa tabela viola a",
+    "alternativas": [
+      "1FN, porque possui atributos multivalorados",
+      "3FN, porque nome_produto depende transitivamente da chave por meio de quantidade",
+      "FNBC, embora esteja na 3FN, porque cod_produto não é superchave",
+      "2FN, porque há dependência funcional parcial de um atributo não chave em relação a parte da chave primária",
+      "1FN, porque a chave primária é composta"
+    ],
+    "correta": 3,
+    "comentario": "A 2FN exige que todo atributo não chave dependa da chave primária inteira. Como nome_produto depende só de cod_produto, que é parte da chave composta, há dependência parcial, e a solução é mover nome_produto para uma tabela PRODUTO. Não há atributos multivalorados, então a 1FN está atendida, e ter chave composta não viola forma normal alguma. A 3FN trata de dependência transitiva entre atributos não chave, o que não é o caso, e a tabela nem chega a estar na 3FN, pois já falha na 2FN.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-05",
+    "materia": "ti",
+    "assunto": "NoSQL — modelos de dados",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Os bancos de dados NoSQL costumam ser classificados pelo modelo de dados que adotam. Qual associação entre modelo e produto está correta?",
+    "alternativas": [
+      "Documento — Redis; Chave-valor — MongoDB; Grafo — Cassandra",
+      "Chave-valor — Redis; Documento — MongoDB; Colunar (família de colunas) — Cassandra; Grafo — Neo4j",
+      "Grafo — MongoDB; Colunar — Neo4j; Documento — Cassandra",
+      "Chave-valor — Neo4j; Documento — Redis; Grafo — Cassandra",
+      "Colunar — MongoDB; Grafo — Redis; Chave-valor — Cassandra"
+    ],
+    "correta": 1,
+    "comentario": "O Redis armazena pares chave-valor em memória; o MongoDB guarda documentos no formato BSON (semelhante a JSON); o Cassandra organiza os dados em famílias de colunas distribuídas; e o Neo4j representa nós e arestas, modelo próprio para relacionamentos (grafo). As demais alternativas trocam esses pares; um erro comum é chamar o MongoDB de colunar ou o Cassandra de orientado a documentos. Na prática, a escolha do modelo depende do padrão de acesso: cache e sessões em chave-valor, cadastros flexíveis em documentos, grande volume de escrita em colunas e redes de relacionamento em grafos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-06",
+    "materia": "ti",
+    "assunto": "SQL — funções de agregação e NULL",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "A tabela BONUS possui a coluna valor com os seguintes registros: 100, NULL, 200, NULL, 300.\n\nQual é o resultado da consulta abaixo?\n\nSELECT COUNT(*), COUNT(valor), AVG(valor)\nFROM BONUS;",
+    "alternativas": [
+      "5, 5 e 120",
+      "3, 3 e 200",
+      "5, 3 e 120",
+      "5, 5 e 200",
+      "5, 3 e 200"
+    ],
+    "correta": 4,
+    "comentario": "COUNT(*) conta todas as linhas, inclusive as que têm NULL, logo retorna 5. COUNT(valor) e AVG(valor) ignoram os valores nulos: há 3 valores preenchidos, e a média é (100 + 200 + 300) / 3 = 200. O valor 120 só apareceria se os NULL fossem tratados como zero (600 / 5), o que exigiria algo como AVG(COALESCE(valor, 0)).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-07",
+    "materia": "ti",
+    "assunto": "SQL — WHERE x HAVING",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Em uma consulta SQL que utiliza agrupamento, qual é a diferença entre as cláusulas WHERE e HAVING?",
+    "alternativas": [
+      "WHERE só pode ser usada com JOIN, e HAVING só com subconsultas.",
+      "Ambas são equivalentes; HAVING é apenas um sinônimo de WHERE mantido por compatibilidade.",
+      "WHERE filtra linhas antes do agrupamento, e HAVING filtra os grupos formados pelo GROUP BY, podendo usar funções de agregação.",
+      "WHERE filtra os grupos após o GROUP BY, e HAVING filtra as linhas individuais antes do agrupamento.",
+      "HAVING é executada antes de WHERE e, por isso, não pode referenciar funções de agregação."
+    ],
+    "correta": 2,
+    "comentario": "Na ordem lógica de execução, FROM/JOIN vem antes de WHERE, que descarta linhas; depois o GROUP BY forma os grupos, e só então o HAVING filtra esses grupos. Por isso condições como SUM(saldo) > 1000 só podem ficar no HAVING: no momento do WHERE, o agrupamento ainda não existe. A alternativa que inverte os papéis é o distrator clássico, e as cláusulas não são sinônimas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-08",
+    "materia": "ti",
+    "assunto": "Transações — propriedades ACID",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Em uma transferência bancária, o débito na conta de origem e o crédito na conta de destino devem ocorrer juntos: se qualquer um falhar, nenhum dos dois pode permanecer gravado.\n\nEssa exigência corresponde a qual propriedade ACID?",
+    "alternativas": [
+      "Atomicidade",
+      "Consistência",
+      "Isolamento",
+      "Durabilidade",
+      "Disponibilidade"
+    ],
+    "correta": 0,
+    "comentario": "A atomicidade garante que a transação é indivisível, do tipo \"tudo ou nada\": em caso de falha, o SGBD desfaz (rollback) as operações parciais. A consistência trata de levar o banco de um estado válido a outro, respeitando as restrições; o isolamento evita interferência entre transações concorrentes; e a durabilidade assegura que o que foi confirmado (commit) sobrevive a falhas. Disponibilidade não é uma letra do ACID, e sim um dos pilares do teorema CAP.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-09",
+    "materia": "ti",
+    "assunto": "Python — fatiamento de listas",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o trecho em Python abaixo.\n\nv = [3, 8, 1, 9, 4, 7]\nprint(v[1:5:2], v[-2])\n\nQual é a saída produzida?",
+    "alternativas": [
+      "[8, 1, 9, 4] 7",
+      "[3, 1, 4] 4",
+      "[8, 9, 7] 4",
+      "[8, 9] 4",
+      "[8, 9] 7"
+    ],
+    "correta": 3,
+    "comentario": "O fatiamento v[1:5:2] começa no índice 1, para antes do índice 5 e anda de 2 em 2, pegando os índices 1 e 3, ou seja, [8, 9]. O índice -2 conta a partir do fim: v[-1] é 7 e v[-2] é 4. Quem inclui o 7 no fatiamento esquece que o limite final (5) é exclusivo; quem responde v[-2] = 7 confunde -2 com -1; e [8, 1, 9, 4] ignora o passo 2.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-10",
+    "materia": "ti",
+    "assunto": "Python — dicionários e laços",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o código Python a seguir.\n\nprecos = {\"a\": 10, \"b\": 25, \"c\": 5}\ntotal = 0\nfor k, v in precos.items():\n    if v > 8:\n        total += v * 2\n    else:\n        total -= v\nprint(total)\n\nQual valor é impresso?",
+    "alternativas": [
+      "40",
+      "65",
+      "75",
+      "70",
+      "35"
+    ],
+    "correta": 1,
+    "comentario": "O método items() percorre os pares chave-valor. Para \"a\" (10 > 8) soma 20; para \"b\" (25 > 8) soma 50; para \"c\" (5 não é maior que 8) subtrai 5. Assim, total = 20 + 50 - 5 = 65. O valor 75 surge de somar o 5 em vez de subtraí-lo, e 70 de ignorar o item \"c\".",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-11",
+    "materia": "ti",
+    "assunto": "Python — argumento padrão mutável",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Analise o código Python abaixo.\n\ndef f(x, lst=[]):\n    lst.append(x)\n    return lst\n\nf(1)\nf(2)\nprint(f(3))\n\nQual é a saída?",
+    "alternativas": [
+      "[3]",
+      "[1]",
+      "None",
+      "Erro, pois lst não pode ter valor padrão",
+      "[1, 2, 3]"
+    ],
+    "correta": 4,
+    "comentario": "Em Python, o valor padrão de um parâmetro é avaliado uma única vez, quando a função é definida. Por isso, a mesma lista é reaproveitada entre as chamadas que não informam lst: f(1) a deixa em [1], f(2) em [1, 2] e f(3) em [1, 2, 3]. A resposta [3] seria correta se uma lista nova fosse criada a cada chamada; o padrão recomendado para isso é usar lst=None e, dentro da função, criar a lista quando lst for None.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-ti-12",
+    "materia": "ti",
+    "assunto": "Python — compreensão de lista",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o trecho Python abaixo.\n\nnums = [1, 2, 3, 4, 5, 6]\nr = [n * n for n in nums if n % 2 == 0]\nprint(sum(r))\n\nQual valor é exibido?",
+    "alternativas": [
+      "56",
+      "12",
+      "35",
+      "91",
+      "144"
+    ],
+    "correta": 0,
+    "comentario": "A compreensão de lista mantém apenas os pares (2, 4 e 6) e eleva cada um ao quadrado, gerando [4, 16, 36], cuja soma é 56. O valor 12 é a soma dos pares sem elevar ao quadrado; 35 é a soma dos quadrados dos ímpares (1 + 9 + 25); e 91 é a soma dos quadrados de todos os números. Vale lembrar que a condição if da compreensão filtra antes de a expressão n * n ser aplicada.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-13",
+    "materia": "ti",
+    "assunto": "Python — laço while e operadores",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "O que imprime o programa Python a seguir?\n\nn = 1234\ns = 0\nwhile n > 0:\n    s += n % 10\n    n //= 10\nprint(s)",
+    "alternativas": [
+      "4321",
+      "1234",
+      "10",
+      "4",
+      "24"
+    ],
+    "correta": 2,
+    "comentario": "Em cada volta, n % 10 extrai o último dígito, que é somado a s, e n //= 10 remove esse dígito por divisão inteira. Os dígitos 4, 3, 2 e 1 são somados, e o laço termina quando n chega a 0, resultando em 10. O valor 4321 seria obtido se o código invertesse o número (s = s * 10 + dígito), e 4 é apenas a quantidade de iterações; 24 seria o produto dos dígitos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-14",
+    "materia": "ti",
+    "assunto": "Python — recursão",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere a função recursiva em Python abaixo.\n\ndef g(n):\n    if n <= 1:\n        return 1\n    return n + g(n - 2)\n\nprint(g(7))\n\nQual valor é impresso?",
+    "alternativas": [
+      "28",
+      "15",
+      "7",
+      "16",
+      "O programa entra em recursão infinita"
+    ],
+    "correta": 3,
+    "comentario": "As chamadas se desenrolam como g(7) = 7 + g(5), g(5) = 5 + g(3), g(3) = 3 + g(1), e g(1) cai no caso base, devolvendo 1. Somando: 7 + 5 + 3 + 1 = 16. O valor 15 esquece que o caso base retorna 1, e 28 corresponde a somar todos os inteiros de 1 a 7. Não há recursão infinita, pois n diminui a cada chamada e o caso base n <= 1 é sempre alcançado, inclusive para valores pares.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-15",
+    "materia": "ti",
+    "assunto": "Java — divisão inteira e casting",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o trecho Java a seguir.\n\nint a = 7, b = 2;\ndouble x = a / b;\ndouble y = (double) a / b;\nSystem.out.println(x + \" \" + y);\n\nQual é a saída?",
+    "alternativas": [
+      "3.5 3.5",
+      "3.0 3.5",
+      "3 3.5",
+      "3.0 3.0",
+      "Erro de compilação na atribuição de x"
+    ],
+    "correta": 1,
+    "comentario": "Em a / b, os dois operandos são int, então a divisão é inteira e resulta em 3; só depois esse valor é convertido para double, virando 3.0. Em (double) a / b, o casting é aplicado a a antes da divisão, e a operação passa a ser de ponto flutuante, dando 3.5. A saída \"3 3.5\" erra porque um double é sempre impresso com a parte decimal, e não há erro de compilação: converter de int para double é uma ampliação implícita permitida.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-16",
+    "materia": "ti",
+    "assunto": "Java — polimorfismo e sobrescrita",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Analise o código Java a seguir.\n\nclass Conta {\n    String tipo() { return \"Conta\"; }\n    String info() { return \"Tipo: \" + tipo(); }\n}\n\nclass Poupanca extends Conta {\n    @Override\n    String tipo() { return \"Poupanca\"; }\n}\n\n// no método main:\nConta c = new Poupanca();\nSystem.out.println(c.info());\n\nQual é a saída?",
+    "alternativas": [
+      "Tipo: Poupanca",
+      "Tipo: Conta",
+      "Poupanca",
+      "Erro de compilação, pois Poupanca não define info()",
+      "Erro em tempo de execução, pois c é do tipo Conta"
+    ],
+    "correta": 0,
+    "comentario": "Em Java, métodos de instância usam ligação dinâmica: a versão executada depende do tipo real do objeto (Poupanca), e não do tipo da variável (Conta). O método info() é herdado de Conta, mas a chamada interna a tipo() é resolvida no objeto, que sobrescreveu tipo(); assim, a saída é \"Tipo: Poupanca\". \"Tipo: Conta\" seria o resultado se a ligação fosse estática, e não há erro algum, pois info() é herdado e atribuir uma subclasse a uma variável da superclasse é válido.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-17",
+    "materia": "ti",
+    "assunto": "Java — membros static",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere a classe Java abaixo.\n\nclass Contador {\n    static int total = 0;\n    int id;\n    Contador() {\n        total++;\n        id = total;\n    }\n}\n\n// no método main:\nContador a = new Contador();\nContador b = new Contador();\nContador c = new Contador();\nSystem.out.println(a.id + b.id + c.id + Contador.total);\n\nQual é a saída?",
+    "alternativas": [
+      "1233",
+      "12",
+      "9",
+      "6",
+      "3333"
+    ],
+    "correta": 2,
+    "comentario": "O atributo static total é compartilhado por todas as instâncias, e cada construtor o incrementa antes de copiá-lo para o id da instância; assim, a.id = 1, b.id = 2, c.id = 3 e, no fim, total = 3. Como todos os operandos são int e não há String na expressão, o operador + faz soma aritmética: 1 + 2 + 3 + 3 = 9. \"1233\" seria o resultado de concatenação, que só ocorreria se houvesse uma String à esquerda; \"3333\" supõe que id também fosse static.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-ti-18",
+    "materia": "ti",
+    "assunto": "Java — comparação de Strings",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o trecho Java a seguir.\n\nString s1 = \"bb\";\nString s2 = new String(\"bb\");\nSystem.out.println((s1 == s2) + \" \" + s1.equals(s2));\n\nQual é a saída?",
+    "alternativas": [
+      "true true",
+      "true false",
+      "false false",
+      "false true",
+      "Erro de compilação, pois não se pode concatenar boolean com String"
+    ],
+    "correta": 3,
+    "comentario": "O operador == compara referências: new String(\"bb\") cria obrigatoriamente um novo objeto no heap, diferente do literal armazenado no pool de Strings, então s1 == s2 é false. Já equals() compara o conteúdo, que é o mesmo, retornando true. Seriam iguais por == dois literais \"bb\", pois ambos apontariam para o mesmo objeto do pool. Concatenar boolean com String é válido em Java, já que o boolean é convertido em texto.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-19",
+    "materia": "ti",
+    "assunto": "Java — break e continue",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Qual valor é impresso pelo trecho Java a seguir?\n\nint soma = 0;\nfor (int i = 1; i <= 10; i++) {\n    if (i % 3 == 0) continue;\n    if (i > 8) break;\n    soma += i;\n}\nSystem.out.println(soma);",
+    "alternativas": [
+      "55",
+      "36",
+      "18",
+      "37",
+      "27"
+    ],
+    "correta": 4,
+    "comentario": "Os múltiplos de 3 (3, 6 e 9) são pulados pelo continue antes de chegar ao teste do break. São somados 1, 2, 4, 5, 7 e 8, totalizando 27. Em i = 9 o continue age primeiro, e em i = 10 a condição i > 8 dispara o break. O valor 36 é a soma de 1 a 8 sem pular os múltiplos de 3, e 37 resultaria de somar também o 10.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-20",
+    "materia": "ti",
+    "assunto": "Orientação a objetos — sobrecarga",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Em orientação a objetos, uma classe Calculadora possui os métodos somar(int a, int b) e somar(double a, double b, double c). Esse recurso é chamado de",
+    "alternativas": [
+      "sobrescrita (overriding)",
+      "sobrecarga (overloading)",
+      "encapsulamento",
+      "herança múltipla",
+      "polimorfismo de inclusão por ligação dinâmica"
+    ],
+    "correta": 1,
+    "comentario": "Sobrecarga é a existência de métodos com o mesmo nome e listas de parâmetros diferentes (em quantidade, tipo ou ordem), escolhidos pelo compilador conforme os argumentos da chamada. A sobrescrita ocorre quando uma subclasse redefine um método herdado com a mesma assinatura, resolvido em tempo de execução. Encapsulamento trata de esconder o estado interno atrás de uma interface pública, e herança múltipla não tem relação com o caso.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-21",
+    "materia": "ti",
+    "assunto": "Java — interfaces x classes abstratas",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Sobre interfaces e classes abstratas em Java, qual afirmação está correta?",
+    "alternativas": [
+      "Uma classe pode implementar várias interfaces, mas só pode estender diretamente uma única classe, seja ela abstrata ou não.",
+      "Classes abstratas podem ser instanciadas com new, desde que tenham um construtor público.",
+      "Interfaces não podem declarar métodos com implementação em nenhuma versão da linguagem.",
+      "Uma classe pode estender várias classes abstratas, desde que não haja conflito de nomes.",
+      "Todo método de uma classe abstrata deve ser obrigatoriamente abstrato."
+    ],
+    "correta": 0,
+    "comentario": "Java não permite herança múltipla de classes, mas uma classe pode implementar várias interfaces (class X extends A implements I1, I2). Classes abstratas não podem ser instanciadas diretamente, mesmo tendo construtor, que serve às subclasses. Desde o Java 8, interfaces podem ter métodos default e static com implementação. E uma classe abstrata pode misturar métodos concretos e abstratos, podendo inclusive não ter nenhum abstrato.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-22",
+    "materia": "ti",
+    "assunto": "Estruturas de dados — pilha",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Uma pilha, inicialmente vazia, recebe as operações: push(1), push(2), push(3), pop(), push(4), pop(), pop(), push(5).\n\nEm que ordem os valores foram removidos e qual elemento fica no topo ao final?",
+    "alternativas": [
+      "Removidos 1, 2, 3; topo = 5",
+      "Removidos 3, 2, 4; topo = 1",
+      "Removidos 3, 4, 2; topo = 5",
+      "Removidos 1, 2, 4; topo = 3",
+      "Removidos 3, 4, 2; topo = 1"
+    ],
+    "correta": 2,
+    "comentario": "A pilha segue a política LIFO: sai primeiro o último que entrou. Após empilhar 1, 2 e 3, o pop remove 3; em seguida entra 4, e os dois pops seguintes removem 4 e depois 2. Resta apenas o 1 e, com push(5), o 5 passa a ser o topo (a pilha fica 1, 5). A sequência 1, 2, 3 seria a de uma fila (FIFO), e \"topo = 1\" esquece o push(5) final.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-23",
+    "materia": "ti",
+    "assunto": "Estruturas de dados — fila e busca em largura",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Na busca em largura (BFS) em um grafo, os vértices são visitados em ordem crescente de distância, em número de arestas, a partir da origem.\n\nA estrutura de dados auxiliar tipicamente utilizada nessa busca é a",
+    "alternativas": [
+      "pilha, pois garante que o último vértice descoberto seja o primeiro explorado",
+      "árvore AVL, para manter os vértices ordenados por rótulo",
+      "tabela hash, que define a ordem de visita dos vizinhos",
+      "fila, pois os vértices descobertos primeiro são explorados primeiro",
+      "heap de máximo, que prioriza os vértices de maior grau"
+    ],
+    "correta": 3,
+    "comentario": "A BFS explora o grafo em camadas: primeiro todos os vizinhos da origem, depois os vizinhos desses, e assim por diante. Para isso, ela usa uma fila (FIFO), garantindo que quem foi descoberto antes seja processado antes. A pilha (LIFO), ou a própria recursão, caracteriza a busca em profundidade (DFS). Uma tabela hash pode até registrar os visitados, mas não determina a ordem de visita.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-24",
+    "materia": "ti",
+    "assunto": "Complexidade — busca binária",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Um vetor ordenado com n elementos é pesquisado por busca binária. No pior caso, a complexidade de tempo dessa busca é",
+    "alternativas": [
+      "O(1)",
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correta": 4,
+    "comentario": "A cada comparação, a busca binária descarta metade do intervalo restante, de modo que, após k passos, sobram n/2^k elementos. O processo termina quando resta um elemento, ou seja, com k ≈ log₂ n comparações: O(log n). O(n) é a busca sequencial, que não exige vetor ordenado, e O(n log n) é a ordem típica de bons algoritmos de ordenação, não de busca.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-25",
+    "materia": "ti",
+    "assunto": "Complexidade — laços aninhados",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o trecho em Python abaixo, em que n é um inteiro positivo.\n\nfor i in range(n):\n    j = 1\n    while j < n:\n        j *= 2\n\nQual é a complexidade de tempo do trecho, em notação Big-O?",
+    "alternativas": [
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)",
+      "O(2ⁿ)"
+    ],
+    "correta": 1,
+    "comentario": "O laço externo executa n vezes. O laço interno dobra j a cada iteração, então chega a n em cerca de log₂ n passos, pois j assume os valores 1, 2, 4, 8, e assim por diante. O total é n × log n, ou seja, O(n log n). Responder O(n²) é tratar o laço interno como linear, o que só ocorreria com j += 1; e O(2ⁿ) confunde a duplicação de j com crescimento exponencial do custo.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-26",
+    "materia": "ti",
+    "assunto": "Algoritmos de ordenação",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Sobre algoritmos clássicos de ordenação, qual afirmação está correta?",
+    "alternativas": [
+      "O merge sort tem complexidade O(n log n) no pior caso, enquanto o quicksort, no pior caso, degrada para O(n²).",
+      "O quicksort tem complexidade O(n log n) em todos os casos, independentemente da escolha do pivô.",
+      "O bubble sort tem complexidade O(n log n) no caso médio, o que o torna adequado a grandes volumes.",
+      "O merge sort ordena no próprio vetor, sem memória auxiliar proporcional a n.",
+      "O insertion sort tem complexidade O(n²) mesmo quando o vetor já está ordenado."
+    ],
+    "correta": 0,
+    "comentario": "O merge sort sempre divide o vetor ao meio e intercala as partes, custando O(n log n) em qualquer caso, embora precise de memória auxiliar O(n) na versão clássica. O quicksort é O(n log n) em média, mas degrada para O(n²) quando o pivô gera partições muito desbalanceadas, por exemplo ao escolher sempre o primeiro elemento de um vetor já ordenado. O bubble sort é O(n²) no caso médio, e o insertion sort, com o vetor já ordenado, é O(n), pois faz apenas uma comparação por elemento.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-27",
+    "materia": "ti",
+    "assunto": "HTTP — idempotência dos métodos",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "No protocolo HTTP, um método é idempotente quando várias requisições idênticas produzem, no servidor, o mesmo efeito que uma única requisição.\n\nQual alternativa apresenta apenas métodos idempotentes?",
+    "alternativas": [
+      "POST, PUT e DELETE",
+      "POST e PATCH",
+      "GET, POST e HEAD",
+      "GET, PUT e DELETE",
+      "Apenas GET"
+    ],
+    "correta": 3,
+    "comentario": "Pela especificação, GET, HEAD, PUT, DELETE e OPTIONS são idempotentes: enviar o mesmo PUT várias vezes deixa o recurso no mesmo estado, e apagar algo já apagado não muda o resultado final. O POST não é idempotente, pois cada envio pode criar um novo recurso, como duas transferências. O PATCH não tem idempotência garantida (depende da operação descrita, como \"incrementar saldo\"). \"Apenas GET\" confunde idempotência com segurança, isto é, com métodos que não alteram estado.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-28",
+    "materia": "ti",
+    "assunto": "HTTP — códigos de status",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Uma API REST de um banco responde às requisições com códigos de status HTTP. Qual associação está correta?",
+    "alternativas": [
+      "201 — requisição malformada; 400 — recurso criado com sucesso",
+      "401 — recurso não encontrado; 404 — usuário não autenticado",
+      "403 — erro interno do servidor; 500 — acesso proibido",
+      "200 — redirecionamento permanente; 301 — sucesso",
+      "201 — recurso criado; 401 — não autenticado; 403 — autenticado, mas sem permissão; 404 — recurso não encontrado"
+    ],
+    "correta": 4,
+    "comentario": "Os códigos 2xx indicam sucesso (201 Created após um POST que cria um recurso), 3xx redirecionamento (301 Moved Permanently), 4xx erro do cliente e 5xx erro do servidor (500 Internal Server Error). Entre os 4xx, 400 é requisição malformada, 401 indica falta de autenticação válida, 403 indica que o usuário foi identificado, mas não tem permissão, e 404 indica que o recurso não existe. As demais alternativas trocam os significados entre pares de códigos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-29",
+    "materia": "ti",
+    "assunto": "REST — restrições arquiteturais",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Entre as restrições do estilo arquitetural REST, a que determina que cada requisição do cliente deve conter toda a informação necessária para ser processada, sem que o servidor guarde o contexto de sessão entre requisições, é a",
+    "alternativas": [
+      "interface uniforme",
+      "cacheabilidade",
+      "comunicação sem estado (stateless)",
+      "sistema em camadas",
+      "código sob demanda"
+    ],
+    "correta": 2,
+    "comentario": "A restrição stateless exige que o servidor não mantenha estado de sessão do cliente: cada requisição traz tudo que é necessário, como o token de autenticação no cabeçalho. Isso facilita a escalabilidade horizontal, pois qualquer instância pode atender qualquer requisição. A interface uniforme trata da identificação de recursos por URI e da manipulação por representações; a cacheabilidade trata de marcar respostas como armazenáveis; e o código sob demanda é a única restrição opcional.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-30",
+    "materia": "ti",
+    "assunto": "JSON — sintaxe",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Qual dos textos abaixo é um documento JSON válido?",
+    "alternativas": [
+      "{'nome': 'Ana', 'saldo': 150.5}",
+      "{\"nome\": \"Ana\", \"saldo\": 150.5, \"ativo\": true, \"tags\": [\"pf\", \"vip\"], \"gerente\": null}",
+      "{nome: \"Ana\", saldo: 150.5}",
+      "{\"nome\": \"Ana\", \"saldo\": 150.5,}",
+      "{\"nome\": \"Ana\", \"saldo\": 150.5 /* em reais */}"
+    ],
+    "correta": 1,
+    "comentario": "O JSON exige chaves e strings entre aspas duplas e aceita como valores strings, números, true, false, null, objetos e arrays, que é exatamente o que aparece na alternativa correta. Aspas simples são inválidas, assim como chaves sem aspas, que são aceitas em objetos literais JavaScript, mas não em JSON. Vírgula após o último elemento e comentários também não fazem parte da especificação, e um parser estrito rejeita os dois.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-31",
+    "materia": "ti",
+    "assunto": "JavaScript — referências e comparação",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o trecho JavaScript a seguir.\n\nconst a = [1, 2, 3];\nconst b = a;\nb.push(4);\nconsole.log(a.length, typeof null, 0 == \"0\", 0 === \"0\");\n\nQual é a saída?",
+    "alternativas": [
+      "4 object true false",
+      "3 object true false",
+      "4 null true true",
+      "3 null false false",
+      "Erro, pois b é const e não pode ser alterado"
+    ],
+    "correta": 0,
+    "comentario": "Arrays são objetos e são atribuídos por referência: b e a apontam para o mesmo array, então o push em b também aparece em a, cujo tamanho passa a 4. O const impede apenas reatribuir a variável, não modificar o objeto. typeof null retorna \"object\", uma peculiaridade histórica da linguagem. O operador == faz coerção de tipos (0 == \"0\" é true), e o === compara também o tipo, sem coerção (false).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-32",
+    "materia": "ti",
+    "assunto": "CSS — especificidade de seletores",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Considere o elemento HTML <p id=\"aviso\" class=\"alerta\">Atenção</p> e as regras CSS abaixo, todas no mesmo arquivo e sem !important.\n\n#aviso { color: red; }\np.alerta { color: orange; }\n.alerta { color: green; }\np { color: blue; }\n\nQual cor o texto exibirá?",
+    "alternativas": [
+      "Azul, pois o seletor de elemento é o mais específico",
+      "Verde, pois a regra .alerta é a última a mencionar a classe",
+      "Laranja, pois p.alerta combina elemento e classe",
+      "Vermelho, pois o seletor de id tem maior especificidade",
+      "Azul, pois a última regra declarada sempre prevalece"
+    ],
+    "correta": 3,
+    "comentario": "Quando várias regras se aplicam ao mesmo elemento, vence a de maior especificidade, calculada como (ids, classes, elementos): #aviso vale (1,0,0), p.alerta vale (0,1,1), .alerta vale (0,1,0) e p vale (0,0,1). O seletor de id supera qualquer quantidade de classes e elementos, então o texto fica vermelho. A ordem de declaração só desempata regras de mesma especificidade, por isso a última regra (p) não prevalece.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-33",
+    "materia": "ti",
+    "assunto": "Scrum — papéis e eventos",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "De acordo com o Guia do Scrum, qual afirmação está correta?",
+    "alternativas": [
+      "O Scrum Master é o responsável por definir e ordenar os itens do Product Backlog.",
+      "A Sprint pode durar até três meses, desde que acordado com os stakeholders.",
+      "A Daily Scrum é uma reunião de status conduzida pelo Product Owner para os gestores.",
+      "O Incremento só é produzido na última Sprint do projeto, após a integração final.",
+      "O Product Owner é o responsável por gerenciar o Product Backlog, e as Sprints têm duração fixa de até um mês."
+    ],
+    "correta": 4,
+    "comentario": "O Product Owner é quem responde pela gestão do Product Backlog, incluindo a ordenação dos itens para maximizar valor, e as Sprints são eventos de duração fixa de um mês ou menos. O Scrum Master é responsável pela eficácia do time e pela adoção do Scrum, não pelo backlog. A Daily Scrum é um evento de 15 minutos dos Developers para inspecionar o progresso rumo à meta da Sprint, e não reunião de status para gestores. Cada Sprint deve gerar ao menos um Incremento utilizável.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-34",
+    "materia": "ti",
+    "assunto": "Kanban — princípios",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Uma equipe de sustentação de sistemas adota o método Kanban. Qual prática é característica desse método?",
+    "alternativas": [
+      "Limitar a quantidade de trabalho em progresso (WIP) em cada etapa do fluxo, puxando novos itens apenas quando há capacidade.",
+      "Organizar o trabalho em Sprints de duração fixa, com planejamento no início de cada uma.",
+      "Definir obrigatoriamente os papéis de Product Owner e Scrum Master.",
+      "Estimar todas as tarefas em pontos de história antes de iniciar o trabalho.",
+      "Congelar o escopo durante o ciclo, proibindo a entrada de novos itens no quadro."
+    ],
+    "correta": 0,
+    "comentario": "O Kanban trabalha com fluxo contínuo e sistema puxado: o quadro torna o trabalho visível, e os limites de WIP por coluna evitam sobrecarga e revelam gargalos, reduzindo o tempo de ciclo (lead time). Sprints com duração fixa e os papéis de PO e Scrum Master pertencem ao Scrum, e não são exigências do Kanban. O método também não impõe estimativas em pontos e permite que novos itens entrem no fluxo sempre que houver capacidade.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-35",
+    "materia": "ti",
+    "assunto": "DevOps — CI/CD",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "No contexto de DevOps, qual é a diferença entre entrega contínua (continuous delivery) e implantação contínua (continuous deployment)?",
+    "alternativas": [
+      "Na entrega contínua não há testes automatizados; na implantação contínua, sim.",
+      "São sinônimos; ambos significam integrar o código ao ramo principal várias vezes ao dia.",
+      "Na entrega contínua, cada alteração aprovada no pipeline fica pronta para produção, mas a liberação depende de uma decisão manual; na implantação contínua, a liberação em produção é automática.",
+      "A implantação contínua dispensa o uso de controle de versão, enquanto a entrega contínua o exige.",
+      "Na entrega contínua o deploy em produção é automático; na implantação contínua ele exige aprovação manual."
+    ],
+    "correta": 2,
+    "comentario": "Ambas dependem da integração contínua, em que cada commit dispara build e testes automatizados. Na entrega contínua, o artefato validado fica sempre em condição de ser liberado, mas alguém decide quando o deploy em produção acontece (o \"botão\"). Na implantação contínua, toda mudança que passa no pipeline vai para produção sem intervenção humana. A alternativa que inverte os dois conceitos é o distrator mais perigoso; integrar ao ramo principal várias vezes ao dia define a integração contínua (CI).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-36",
+    "materia": "ti",
+    "assunto": "Git — comandos",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "No Git, qual afirmação sobre os comandos de sincronização com o repositório remoto está correta?",
+    "alternativas": [
+      "git fetch baixa os commits remotos e já os integra automaticamente ao ramo local atual.",
+      "git pull, em sua configuração padrão, equivale a um git fetch seguido de um git merge do ramo remoto rastreado.",
+      "git push envia ao remoto também as alterações que ainda não foram commitadas.",
+      "git clone copia apenas o último commit do ramo principal, sem o histórico.",
+      "git commit envia as alterações diretamente para o repositório remoto."
+    ],
+    "correta": 1,
+    "comentario": "O git fetch apenas atualiza as referências remotas (como origin/main), sem mexer no ramo de trabalho; o git pull faz o fetch e em seguida integra as mudanças, por padrão com merge, ou com rebase se configurado. O git push envia commits, e nunca alterações não commitadas. O git commit grava apenas no repositório local. O git clone traz todo o histórico, a não ser que se use --depth (clone raso).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-37",
+    "materia": "ti",
+    "assunto": "Cloud — IaaS, PaaS e SaaS",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Uma instituição avalia três contratações em nuvem: (I) máquinas virtuais em que ela instala e administra o sistema operacional; (II) uma plataforma em que apenas publica o código da aplicação, sem gerenciar servidores; e (III) um serviço de e-mail corporativo usado diretamente pelo navegador.\n\nEsses modelos são, respectivamente,",
+    "alternativas": [
+      "SaaS, PaaS e IaaS",
+      "PaaS, IaaS e SaaS",
+      "IaaS, SaaS e PaaS",
+      "IaaS, PaaS e SaaS",
+      "PaaS, SaaS e IaaS"
+    ],
+    "correta": 3,
+    "comentario": "No IaaS, o provedor entrega infraestrutura (computação, rede, armazenamento), e o cliente gerencia do sistema operacional para cima, como no item I. No PaaS, o provedor cuida também do sistema operacional e do runtime, e o cliente só implanta a aplicação, como no item II. No SaaS, o cliente consome o software pronto, como o e-mail do item III. Quanto mais se sobe de IaaS para SaaS, menos responsabilidade de gestão fica com o cliente.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-38",
+    "materia": "ti",
+    "assunto": "Contêineres x máquinas virtuais",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Sobre contêineres (como os do Docker) em comparação com máquinas virtuais, qual afirmação está correta?",
+    "alternativas": [
+      "Cada contêiner executa seu próprio kernel completo, emulado por um hipervisor tipo 1.",
+      "Contêineres não podem ser orquestrados de forma automatizada, o que limita seu uso em produção.",
+      "Uma imagem de contêiner inclui obrigatoriamente o hardware virtual e o firmware da máquina.",
+      "Contêineres oferecem isolamento mais forte que máquinas virtuais, por usarem virtualização de hardware completa.",
+      "Contêineres compartilham o kernel do sistema operacional hospedeiro, sendo mais leves e iniciando mais rápido que máquinas virtuais."
+    ],
+    "correta": 4,
+    "comentario": "Contêineres são uma virtualização em nível de sistema operacional: usam recursos do kernel do hospedeiro, como namespaces e cgroups, para isolar processos, sem precisar de um sistema operacional convidado inteiro. Por isso são leves e sobem em segundos ou menos. As máquinas virtuais, por sua vez, rodam um kernel próprio sobre um hipervisor e costumam oferecer isolamento mais forte, e não mais fraco. A orquestração é feita por ferramentas como o Kubernetes.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-39",
+    "materia": "ti",
+    "assunto": "Microsserviços",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Qual característica está associada à arquitetura de microsserviços?",
+    "alternativas": [
+      "Toda a aplicação é empacotada em um único artefato, implantado de uma só vez.",
+      "Todos os serviços devem compartilhar obrigatoriamente o mesmo esquema de banco de dados.",
+      "Cada serviço é implantado de forma independente, é responsável por uma capacidade de negócio e, idealmente, gerencia seus próprios dados.",
+      "A comunicação entre serviços ocorre exclusivamente por chamadas de método em memória.",
+      "Os serviços precisam ser escritos na mesma linguagem de programação."
+    ],
+    "correta": 2,
+    "comentario": "Microsserviços decompõem o sistema em serviços pequenos e autônomos, organizados por capacidade de negócio, implantáveis e escaláveis de forma independente e que se comunicam pela rede (REST, gRPC, mensageria). O padrão \"banco de dados por serviço\" reduz o acoplamento, em oposição ao esquema compartilhado. Um artefato único implantado de uma só vez descreve o monólito. A arquitetura permite, inclusive, usar linguagens diferentes em cada serviço (poliglotismo).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-40",
+    "materia": "ti",
+    "assunto": "Criptografia assimétrica — assinatura digital",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Em um esquema de criptografia assimétrica, Maria deseja enviar um documento a João garantindo autenticidade e integridade, isto é, que João possa comprovar que foi Maria quem o assinou e que ele não foi alterado.\n\nPara isso, Maria deve gerar o hash do documento e cifrá-lo com",
+    "alternativas": [
+      "a chave privada de Maria, e João verifica a assinatura com a chave pública de Maria",
+      "a chave pública de João, e João verifica com a chave privada de João",
+      "a chave pública de Maria, e João verifica com a chave privada de Maria",
+      "a chave privada de João, e João verifica com a chave pública de João",
+      "uma chave simétrica compartilhada, e João verifica com a chave pública de Maria"
+    ],
+    "correta": 0,
+    "comentario": "Na assinatura digital, o remetente usa a própria chave privada, que só ele possui, sobre o hash do documento, e qualquer pessoa verifica com a chave pública correspondente; isso prova a autoria e, pela comparação dos hashes, a integridade. Cifrar com a chave pública de João é o procedimento para obter confidencialidade, que não é o objetivo aqui. As alternativas em que alguém usa a chave privada de outra pessoa são impossíveis, pois a chave privada nunca é compartilhada.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-41",
+    "materia": "ti",
+    "assunto": "OWASP — injeção de SQL",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Uma aplicação monta a consulta de login concatenando a entrada do usuário:\n\nsql = \"SELECT * FROM usuario WHERE login = '\" + login + \"'\"\n\nUm atacante informa no campo login o texto: ' OR '1'='1\n\nQual é a vulnerabilidade explorada e a forma mais adequada de corrigi-la?",
+    "alternativas": [
+      "Cross-Site Scripting (XSS); corrigir codificando a saída HTML",
+      "Injeção de SQL; corrigir usando consultas parametrizadas (prepared statements)",
+      "Injeção de SQL; corrigir apenas ocultando as mensagens de erro do banco",
+      "Cross-Site Request Forgery (CSRF); corrigir com tokens anti-CSRF",
+      "Quebra de autenticação; corrigir aumentando o tamanho mínimo da senha"
+    ],
+    "correta": 1,
+    "comentario": "A entrada fecha a aspa e injeta a condição sempre verdadeira, e a consulta vira WHERE login = '' OR '1'='1', que retorna todos os usuários: é injeção de SQL, categoria Injection do OWASP Top 10. A correção adequada é usar consultas parametrizadas, em que o dado é enviado separado do comando e nunca é interpretado como SQL. Ocultar mensagens de erro só dificulta a exploração, sem eliminar a falha. XSS injeta scripts no navegador, e CSRF força ações autenticadas a partir de outro site.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-42",
+    "materia": "ti",
+    "assunto": "Hash e armazenamento de senhas",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Sobre o uso de funções de hash para armazenar senhas de usuários, qual prática é recomendada?",
+    "alternativas": [
+      "Armazenar as senhas cifradas com AES, pois isso permite recuperá-las quando o usuário esquecer.",
+      "Usar MD5 sem salt, pois sua rapidez melhora o desempenho do login.",
+      "Aplicar o mesmo salt fixo a todas as senhas para facilitar a comparação.",
+      "Usar uma função de derivação lenta e própria para senhas, como bcrypt ou Argon2, com um salt aleatório por usuário.",
+      "Guardar as senhas em Base64, que é um hash irreversível."
+    ],
+    "correta": 3,
+    "comentario": "O hash é uma função de mão única: o sistema guarda apenas o resultado e compara no login, sem jamais recuperar a senha. Funções como bcrypt, scrypt e Argon2 são propositalmente lentas e configuráveis, o que encarece ataques de força bruta, e um salt aleatório por usuário impede o uso de tabelas pré-computadas (rainbow tables) e faz senhas iguais gerarem hashes diferentes. MD5 é rápido demais e tem colisões conhecidas; cifrar com AES é reversível; e Base64 é apenas codificação, não hash.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-43",
+    "materia": "ti",
+    "assunto": "Aprendizado de máquina — supervisionado x não supervisionado",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Um banco deseja agrupar seus clientes em perfis de comportamento de consumo, sem dispor de rótulos prévios que indiquem a qual perfil cada cliente pertence.\n\nQual abordagem e algoritmo são adequados?",
+    "alternativas": [
+      "Aprendizado supervisionado, com regressão linear",
+      "Aprendizado supervisionado, com árvore de decisão para classificação",
+      "Aprendizado por reforço, com Q-learning",
+      "Aprendizado supervisionado, com regressão logística",
+      "Aprendizado não supervisionado, com agrupamento (clustering) k-means"
+    ],
+    "correta": 4,
+    "comentario": "Sem rótulos, o problema é de aprendizado não supervisionado, em que o algoritmo descobre a estrutura dos dados sozinho; o k-means agrupa os clientes em k clusters pela proximidade entre suas características. Regressão linear, regressão logística e árvores de classificação são supervisionadas e exigem exemplos já rotulados, isto é, a resposta certa no treino. O aprendizado por reforço é usado quando um agente aprende por recompensas ao interagir com um ambiente.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-ti-44",
+    "materia": "ti",
+    "assunto": "Métricas de classificação",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Um modelo que detecta fraudes em transações foi avaliado em 200 casos, obtendo: 40 verdadeiros positivos (VP), 10 falsos positivos (FP), 20 falsos negativos (FN) e 130 verdadeiros negativos (VN).\n\nA precisão e a revocação (recall) do modelo são, respectivamente, cerca de",
+    "alternativas": [
+      "0,80 e 0,80",
+      "0,80 e 0,67",
+      "0,67 e 0,80",
+      "0,85 e 0,67",
+      "0,20 e 0,33"
+    ],
+    "correta": 1,
+    "comentario": "A precisão mede, entre os casos que o modelo apontou como fraude, quantos eram fraude de fato: VP / (VP + FP) = 40 / 50 = 0,80. A revocação mede, entre as fraudes reais, quantas o modelo encontrou: VP / (VP + FN) = 40 / 60 ≈ 0,67. A alternativa 0,67 e 0,80 inverte as fórmulas, e 0,85 é a acurácia, (VP + VN) / total = 170 / 200. Em fraude, a revocação costuma ser crítica, pois cada falso negativo é uma fraude que passou.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-ti-45",
+    "materia": "ti",
+    "assunto": "Overfitting",
+    "cargo": "ti",
+    "origem": "inedita",
+    "enunciado": "Um modelo de classificação alcança 99% de acurácia nos dados de treinamento, mas apenas 70% em um conjunto de teste independente.\n\nEsse comportamento indica",
+    "alternativas": [
+      "underfitting, que se corrige aumentando a complexidade do modelo",
+      "vazamento de dados do treino para o teste, que eleva a acurácia de teste",
+      "overfitting (sobreajuste), que pode ser mitigado com regularização, validação cruzada, mais dados ou simplificação do modelo",
+      "que o modelo está bem ajustado, pois a acurácia de treino é o indicador mais relevante",
+      "um desbalanceamento de classes, que se resolve avaliando o modelo apenas nos dados de treino"
+    ],
+    "correta": 2,
+    "comentario": "Um desempenho muito alto no treino e bem menor em dados novos mostra que o modelo memorizou particularidades e ruídos do treinamento, em vez de aprender padrões que generalizam: é o overfitting (alta variância). Entre as formas de mitigá-lo estão a regularização (L1/L2), a validação cruzada, a poda de árvores, o early stopping e o aumento dos dados. No underfitting, o desempenho é ruim até mesmo no treino. O vazamento de dados, por sua vez, inflaria a acurácia de teste, e não a reduziria.",
+    "dificuldade": 2
+  }
+]

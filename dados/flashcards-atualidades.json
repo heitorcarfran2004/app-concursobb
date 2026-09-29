@@ -1,0 +1,22 @@
+[
+{"materia":"atualidades","frente":"Pix Automático","verso":"Lançado em 16/06/2025. O pagador autoriza uma única vez débitos recorrentes, que ocorrem sem autenticar cada pagamento. Gratuito para o pagador."},
+{"materia":"atualidades","frente":"Pix Saque x Pix Troco","verso":"Saque: faz um Pix ao estabelecimento e recebe o valor em espécie. Troco: faz um Pix acima do valor da compra e recebe a diferença em espécie."},
+{"materia":"atualidades","frente":"Pix Cobrança","verso":"QR Code com vencimento, juros, multa e descontos: alternativa ao boleto."},
+{"materia":"atualidades","frente":"MED — Mecanismo Especial de Devolução","verso":"Usado em fraude, golpe ou falha operacional no Pix: bloqueia recursos na conta recebedora para possível devolução. Não serve para desacordo comercial. Desde 2025 pode ser acionado por autoatendimento no app."},
+{"materia":"atualidades","frente":"Limite noturno do Pix (pessoa física)","verso":"Padrão de R$ 1.000 por transação entre 20h e 6h. Aumento de limite pelo canal digital leva de 24 a 48 horas; redução pode ser imediata."},
+{"materia":"atualidades","frente":"Open Finance: regra do consentimento","verso":"Compartilhamento só com consentimento do cliente, para finalidade e prazo determinados, revogável a qualquer momento. Senhas nunca são compartilhadas."},
+{"materia":"atualidades","frente":"Iniciador de transação de pagamento (ITP)","verso":"Instituição que, no Open Finance, inicia um pagamento (ex.: Pix) a partir da conta do cliente em outra instituição, sem que ele abra o app do banco."},
+{"materia":"atualidades","frente":"SCD x SEP","verso":"SCD: empresta com recursos próprios. SEP: intermedeia empréstimos entre pessoas (peer-to-peer). Nenhuma capta depósitos do público; ambas são autorizadas pelo BC."},
+{"materia":"atualidades","frente":"Drex — o que a 1ª fase do piloto testou","verso":"Privacidade e programabilidade em operações de entrega contra pagamento (DvP) com títulos públicos federais tokenizados, entre instituições participantes."},
+{"materia":"atualidades","frente":"Quem regula as prestadoras de serviços de ativos virtuais?","verso":"O Banco Central (Lei 14.478/2022 + Decreto 11.563/2023). A CVM continua com os tokens que sejam valores mobiliários. Resoluções BCB 519, 520 e 521 (nov/2025) tratam de autorização, funcionamento e câmbio."},
+{"materia":"atualidades","frente":"Smishing, vishing, phishing","verso":"Phishing: isca por e-mail ou site falso. Smishing: por SMS. Vishing: por voz (ligação)."},
+{"materia":"atualidades","frente":"Golpe da mão fantasma","verso":"A vítima é induzida a instalar app de acesso remoto; o criminoso controla o celular e movimenta a conta."},
+{"materia":"atualidades","frente":"SIM swap","verso":"Transferência do número da vítima para um chip do criminoso, que passa a receber códigos por SMS. Sinal típico: celular sem sinal de repente."},
+{"materia":"atualidades","frente":"LGPD, art. 20 — decisões automatizadas","verso":"O titular pode pedir revisão de decisões tomadas só por tratamento automatizado (ex.: crédito) e receber informações claras sobre os critérios, respeitado o segredo comercial."},
+{"materia":"atualidades","frente":"LGPD, art. 48 — vazamento de dados","verso":"Incidente que possa gerar risco ou dano relevante deve ser comunicado à ANPD e aos titulares afetados."},
+{"materia":"atualidades","frente":"Risco climático físico x de transição","verso":"Físico: eventos climáticos (enchentes, secas). Transição: efeitos da mudança para a economia de baixo carbono (regras, tecnologia, mercado)."},
+{"materia":"atualidades","frente":"Greenwashing","verso":"Propaganda ambiental enganosa: alegações de sustentabilidade vagas, exageradas ou sem comprovação."},
+{"materia":"atualidades","frente":"Meta de inflação contínua","verso":"3% com tolerância de ±1,5 p.p., IPCA acumulado em 12 meses verificado todo mês. Descumprimento: 6 meses consecutivos fora do intervalo (Decreto 12.079/2024)."},
+{"materia":"atualidades","frente":"Como a alta da Selic combate a inflação?","verso":"Encarece o crédito, estimula a poupança, reduz a demanda agregada e ancora expectativas; também tende a valorizar o câmbio."},
+{"materia":"atualidades","frente":"Juros real (equação de Fisher)","verso":"(1 + nominal) = (1 + real) × (1 + inflação). Ex.: 10% nominal com 4% de inflação dá real ≈ 5,77%."}
+]

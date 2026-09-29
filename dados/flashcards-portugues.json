@@ -1,0 +1,102 @@
+[
+  {
+    "materia": "portugues",
+    "frente": "Crase antes de verbo",
+    "verso": "Nunca ocorre: “começou a explicar”. Antes de verbo, o “a” é só preposição."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Crase antes de artigo indefinido",
+    "verso": "Não ocorre: “assistiu a uma palestra”. A crase exige artigo definido feminino."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Crase em “de segunda a sexta”",
+    "verso": "Sem crase, porque o “de” não tem artigo. Com artigo: “da segunda à sexta”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Crase facultativa: onde?",
+    "verso": "Antes de pronome possessivo feminino (“a/à minha agência”), de nome próprio feminino e depois de “até”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Palavras que atraem próclise",
+    "verso": "Negativas (não, nunca), pronomes relativos e indefinidos, advérbios sem vírgula e conjunções subordinativas."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Pronome átono no início da frase",
+    "verso": "Proibido na norma-padrão: “Parece-me”, e não “Me parece”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Pronome com particípio",
+    "verso": "Nunca depois do particípio: “tinha-se preparado” ou “se tinha preparado”, nunca “tinha preparado-se”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Vende-se casas” está certo?",
+    "verso": "Não. O “se” é partícula apassivadora e o verbo concorda com o sujeito paciente: “Vendem-se casas”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Precisa-se de vendedores”",
+    "verso": "Correto no singular: verbo transitivo indireto + “se” índice de indeterminação do sujeito."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Haver” no sentido de existir",
+    "verso": "Impessoal, sempre no singular: “Houve críticas”. Na locução, o auxiliar também fica no singular: “Deve haver erros”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Fazer” indicando tempo",
+    "verso": "Impessoal: “Faz dois anos”, “Fazia meses”. Nunca “Fazem dois anos”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Há” ou “a” com tempo",
+    "verso": "“Há” para tempo passado (“há dez anos”); “a” para futuro ou distância (“daqui a dez anos”)."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Regência de “assistir” (ver)",
+    "verso": "Transitivo indireto: “assistir ao jogo”. No sentido de ajudar, é direto: “assistir o paciente”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Regência de “preferir”",
+    "verso": "“Preferir uma coisa a outra”, sem “mais” e sem “do que”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Esquecer” e “esquecer-se”",
+    "verso": "“Esqueci a senha” (sem preposição) ou “Esqueci-me da senha” (com pronome e “de”)."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Vírgula entre sujeito e verbo",
+    "verso": "Proibida quando os termos estão na ordem direta e contíguos."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Vírgula que marca zeugma",
+    "verso": "Indica verbo omitido já expresso: “Ele prefere café; ela, chá”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Contudo”, “todavia”, “no entanto”",
+    "verso": "Conjunções adversativas, equivalentes a “mas”. Podem vir intercaladas entre vírgulas."
+  },
+  {
+    "materia": "portugues",
+    "frente": "“Conquanto” e “embora”",
+    "verso": "Concessivas; exigem verbo no subjuntivo: “Embora seja caro, compensa”."
+  },
+  {
+    "materia": "portugues",
+    "frente": "Correlação “Se + imperfeito do subjuntivo”",
+    "verso": "Pede futuro do pretérito: “Se ele ensinasse, cumpriria”. Com futuro do subjuntivo: “Se ensinar, cumprirá”."
+  }
+]

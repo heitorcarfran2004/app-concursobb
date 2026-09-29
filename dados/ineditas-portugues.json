@@ -1,0 +1,762 @@
+[
+  {
+    "id": "in-port-01",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em relação à fila de banco que o avô frequentava, o cronista revela que",
+    "texto_apoio": "Meu avô ia ao banco toda sexta-feira. Vestia a camisa de botão, penteava o cabelo com água e saía cedo, porque sabia que a fila dobraria a esquina antes das dez. Não ia apenas pagar contas: ia conversar. Na fila, soube do casamento da filha do farmacêutico, da reforma da praça e de quem tinha perdido o emprego na fábrica. O caixa, que o chamava pelo nome, carimbava os papéis com uma solenidade que hoje pareceria teatro.\n\nPago minhas contas no ônibus, entre uma estação e outra, com o polegar. O aplicativo me agradece em letras verdes e me esquece no mesmo instante. Ganhei horas que meu avô perdia — ou que ele julgava bem gastas, o que é bem diferente. Não sinto falta da fila, confesso; seria desonesto fingir nostalgia de pés cansados. Sinto falta, talvez, de algo que ela trazia de contrabando: a certeza de que o dinheiro passava por mãos humanas antes de chegar a seu destino.\n\nHá quem diga que a tecnologia nos isolou. Prefiro pensar que ela apenas deslocou o encontro. Se já não conversamos na fila, conversamos em grupos de mensagens, onde, aliás, também circulam as notícias do bairro — nem sempre verdadeiras. O desafio talvez não seja voltar ao balcão, mas reaprender a confiar sem ver o rosto de quem nos atende.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "lamenta seu desaparecimento, pois considera o atendimento digital menos eficiente que o presencial.",
+      "defende a volta do atendimento presencial como forma de combater o isolamento causado pela tecnologia.",
+      "não sente saudade dela, mas reconhece que ela oferecia uma forma de confiança ligada ao contato humano.",
+      "acredita que a tecnologia isolou as pessoas de modo irreversível, eliminando qualquer forma de encontro.",
+      "atribui ao avô uma visão ingênua sobre a segurança do dinheiro depositado no banco."
+    ],
+    "correta": 2,
+    "comentario": "O cronista afirma “Não sinto falta da fila, confesso”, mas admite sentir falta de “algo que ela trazia de contrabando”: a certeza de que o dinheiro passava por mãos humanas. Ele não considera o aplicativo menos eficiente — ao contrário, diz ter ganhado horas. Também não defende a volta ao balcão (“O desafio talvez não seja voltar ao balcão”) e relativiza a tese do isolamento ao dizer que a tecnologia “apenas deslocou o encontro”. Nada no texto qualifica o avô como ingênuo.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-02",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Ganhei horas que meu avô perdia — ou que ele julgava bem gastas, o que é bem diferente”, a expressão “o que é bem diferente” indica que o cronista",
+    "texto_apoio": "Meu avô ia ao banco toda sexta-feira. Vestia a camisa de botão, penteava o cabelo com água e saía cedo, porque sabia que a fila dobraria a esquina antes das dez. Não ia apenas pagar contas: ia conversar. Na fila, soube do casamento da filha do farmacêutico, da reforma da praça e de quem tinha perdido o emprego na fábrica. O caixa, que o chamava pelo nome, carimbava os papéis com uma solenidade que hoje pareceria teatro.\n\nPago minhas contas no ônibus, entre uma estação e outra, com o polegar. O aplicativo me agradece em letras verdes e me esquece no mesmo instante. Ganhei horas que meu avô perdia — ou que ele julgava bem gastas, o que é bem diferente. Não sinto falta da fila, confesso; seria desonesto fingir nostalgia de pés cansados. Sinto falta, talvez, de algo que ela trazia de contrabando: a certeza de que o dinheiro passava por mãos humanas antes de chegar a seu destino.\n\nHá quem diga que a tecnologia nos isolou. Prefiro pensar que ela apenas deslocou o encontro. Se já não conversamos na fila, conversamos em grupos de mensagens, onde, aliás, também circulam as notícias do bairro — nem sempre verdadeiras. O desafio talvez não seja voltar ao balcão, mas reaprender a confiar sem ver o rosto de quem nos atende.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "corrige uma informação equivocada sobre o horário em que o avô ia ao banco.",
+      "distingue a avaliação que ele próprio faz daquele tempo da avaliação que o avô fazia dele.",
+      "considera que o avô perdia mais horas na fila do que ele ganha com o aplicativo.",
+      "reconhece que o aplicativo é mais lento do que o atendimento presencial de antigamente.",
+      "sugere que o avô desconhecia o valor do próprio tempo e o desperdiçava sem perceber."
+    ],
+    "correta": 1,
+    "comentario": "O cronista primeiro diz que o avô “perdia” horas e, em seguida, se corrige: talvez o avô as julgasse “bem gastas”, já que ia ao banco também para conversar. A expressão “o que é bem diferente” marca a distância entre as duas avaliações do mesmo tempo. Não há correção de horário nem comparação de quantidades. A ideia de que o avô desconhecia o valor do tempo contraria o sentido do trecho, que justamente reconhece o valor que ele atribuía à fila.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-03",
+    "materia": "portugues",
+    "assunto": "Coesão e referência",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Sinto falta, talvez, de algo que ela trazia de contrabando”, o pronome “ela” retoma",
+    "texto_apoio": "Meu avô ia ao banco toda sexta-feira. Vestia a camisa de botão, penteava o cabelo com água e saía cedo, porque sabia que a fila dobraria a esquina antes das dez. Não ia apenas pagar contas: ia conversar. Na fila, soube do casamento da filha do farmacêutico, da reforma da praça e de quem tinha perdido o emprego na fábrica. O caixa, que o chamava pelo nome, carimbava os papéis com uma solenidade que hoje pareceria teatro.\n\nPago minhas contas no ônibus, entre uma estação e outra, com o polegar. O aplicativo me agradece em letras verdes e me esquece no mesmo instante. Ganhei horas que meu avô perdia — ou que ele julgava bem gastas, o que é bem diferente. Não sinto falta da fila, confesso; seria desonesto fingir nostalgia de pés cansados. Sinto falta, talvez, de algo que ela trazia de contrabando: a certeza de que o dinheiro passava por mãos humanas antes de chegar a seu destino.\n\nHá quem diga que a tecnologia nos isolou. Prefiro pensar que ela apenas deslocou o encontro. Se já não conversamos na fila, conversamos em grupos de mensagens, onde, aliás, também circulam as notícias do bairro — nem sempre verdadeiras. O desafio talvez não seja voltar ao balcão, mas reaprender a confiar sem ver o rosto de quem nos atende.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "a tecnologia.",
+      "a certeza.",
+      "a nostalgia.",
+      "a fila.",
+      "a falta."
+    ],
+    "correta": 3,
+    "comentario": "O pronome “ela” retoma “a fila”, mencionada na oração anterior (“Não sinto falta da fila”). É a fila que “trazia de contrabando” a certeza do contato humano. “A certeza” aparece depois e é justamente o que a fila trazia, não quem trazia. “Nostalgia” e “falta” não fazem sentido como sujeito de “trazia”, e “tecnologia” só é mencionada no parágrafo seguinte.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-04",
+    "materia": "portugues",
+    "assunto": "Significado no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No texto, a expressão “de contrabando”, em “algo que ela trazia de contrabando”, significa",
+    "texto_apoio": "Meu avô ia ao banco toda sexta-feira. Vestia a camisa de botão, penteava o cabelo com água e saía cedo, porque sabia que a fila dobraria a esquina antes das dez. Não ia apenas pagar contas: ia conversar. Na fila, soube do casamento da filha do farmacêutico, da reforma da praça e de quem tinha perdido o emprego na fábrica. O caixa, que o chamava pelo nome, carimbava os papéis com uma solenidade que hoje pareceria teatro.\n\nPago minhas contas no ônibus, entre uma estação e outra, com o polegar. O aplicativo me agradece em letras verdes e me esquece no mesmo instante. Ganhei horas que meu avô perdia — ou que ele julgava bem gastas, o que é bem diferente. Não sinto falta da fila, confesso; seria desonesto fingir nostalgia de pés cansados. Sinto falta, talvez, de algo que ela trazia de contrabando: a certeza de que o dinheiro passava por mãos humanas antes de chegar a seu destino.\n\nHá quem diga que a tecnologia nos isolou. Prefiro pensar que ela apenas deslocou o encontro. Se já não conversamos na fila, conversamos em grupos de mensagens, onde, aliás, também circulam as notícias do bairro — nem sempre verdadeiras. O desafio talvez não seja voltar ao balcão, mas reaprender a confiar sem ver o rosto de quem nos atende.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "de forma ilegal, contrariando as normas bancárias da época.",
+      "de maneira ostensiva, como algo exibido a todos os clientes.",
+      "de modo não declarado, como algo que vinha junto sem ser o propósito principal.",
+      "de forma rara e ocasional, apenas em alguns dias da semana.",
+      "de modo forçado, contra a vontade dos clientes que aguardavam."
+    ],
+    "correta": 2,
+    "comentario": "A expressão é usada em sentido figurado: a fila existia para pagar contas, mas trazia, sem anunciar, um benefício extra — a sensação de que o dinheiro passava por mãos humanas. Daí o sentido de algo que vem “escondido”, junto, sem ser o objetivo declarado. A leitura literal (ilegalidade) ignora o valor metafórico. “Ostensiva” é o oposto do sentido pretendido, e não há ideia de raridade nem de imposição.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-05",
+    "materia": "portugues",
+    "assunto": "Pontuação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “conversamos em grupos de mensagens, onde, aliás, também circulam as notícias do bairro”, as vírgulas que isolam a palavra “aliás” justificam-se por",
+    "texto_apoio": "Meu avô ia ao banco toda sexta-feira. Vestia a camisa de botão, penteava o cabelo com água e saía cedo, porque sabia que a fila dobraria a esquina antes das dez. Não ia apenas pagar contas: ia conversar. Na fila, soube do casamento da filha do farmacêutico, da reforma da praça e de quem tinha perdido o emprego na fábrica. O caixa, que o chamava pelo nome, carimbava os papéis com uma solenidade que hoje pareceria teatro.\n\nPago minhas contas no ônibus, entre uma estação e outra, com o polegar. O aplicativo me agradece em letras verdes e me esquece no mesmo instante. Ganhei horas que meu avô perdia — ou que ele julgava bem gastas, o que é bem diferente. Não sinto falta da fila, confesso; seria desonesto fingir nostalgia de pés cansados. Sinto falta, talvez, de algo que ela trazia de contrabando: a certeza de que o dinheiro passava por mãos humanas antes de chegar a seu destino.\n\nHá quem diga que a tecnologia nos isolou. Prefiro pensar que ela apenas deslocou o encontro. Se já não conversamos na fila, conversamos em grupos de mensagens, onde, aliás, também circulam as notícias do bairro — nem sempre verdadeiras. O desafio talvez não seja voltar ao balcão, mas reaprender a confiar sem ver o rosto de quem nos atende.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "separar o sujeito de seu verbo, que aparece posposto.",
+      "isolar um vocativo dirigido ao leitor da crônica.",
+      "indicar a omissão de uma forma verbal já expressa anteriormente.",
+      "marcar a intercalação de uma expressão que acrescenta um comentário e interrompe a oração.",
+      "separar duas orações coordenadas assindéticas."
+    ],
+    "correta": 3,
+    "comentario": "“Aliás” é uma expressão denotativa de retificação ou acréscimo, intercalada no meio da oração “onde também circulam as notícias do bairro”; por isso deve vir isolada por vírgulas. Não há vocativo, pois o cronista não chama ninguém. Não se separa sujeito de verbo com vírgula — e, de todo modo, o sujeito “as notícias do bairro” vem depois do verbo, sem vírgula entre eles. Também não há elipse verbal nem duas orações coordenadas separadas por essas vírgulas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-06",
+    "materia": "portugues",
+    "assunto": "Tempos e modos verbais",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “saía cedo, porque sabia que a fila dobraria a esquina antes das dez”, a forma verbal “dobraria” expressa",
+    "texto_apoio": "Meu avô ia ao banco toda sexta-feira. Vestia a camisa de botão, penteava o cabelo com água e saía cedo, porque sabia que a fila dobraria a esquina antes das dez. Não ia apenas pagar contas: ia conversar. Na fila, soube do casamento da filha do farmacêutico, da reforma da praça e de quem tinha perdido o emprego na fábrica. O caixa, que o chamava pelo nome, carimbava os papéis com uma solenidade que hoje pareceria teatro.\n\nPago minhas contas no ônibus, entre uma estação e outra, com o polegar. O aplicativo me agradece em letras verdes e me esquece no mesmo instante. Ganhei horas que meu avô perdia — ou que ele julgava bem gastas, o que é bem diferente. Não sinto falta da fila, confesso; seria desonesto fingir nostalgia de pés cansados. Sinto falta, talvez, de algo que ela trazia de contrabando: a certeza de que o dinheiro passava por mãos humanas antes de chegar a seu destino.\n\nHá quem diga que a tecnologia nos isolou. Prefiro pensar que ela apenas deslocou o encontro. Se já não conversamos na fila, conversamos em grupos de mensagens, onde, aliás, também circulam as notícias do bairro — nem sempre verdadeiras. O desafio talvez não seja voltar ao balcão, mas reaprender a confiar sem ver o rosto de quem nos atende.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "uma hipótese contrária à realidade, dependente de uma condição.",
+      "uma ação habitual e contínua, concluída no passado.",
+      "um fato posterior a outro fato passado, apresentado como previsão.",
+      "uma forma de polidez, usada para atenuar uma afirmação.",
+      "uma ação passada anterior a outra ação também passada."
+    ],
+    "correta": 2,
+    "comentario": "“Dobraria” está no futuro do pretérito do indicativo e, nesse contexto, indica um fato futuro em relação a um momento passado: o avô “sabia”, naquele passado, que a fila iria dobrar a esquina mais tarde. Não há condição expressa, portanto não se trata do uso hipotético. A ação habitual no passado é expressa pelo pretérito imperfeito (“saía”, “sabia”). A ideia de ação anterior a outra passada caberia ao pretérito mais-que-perfeito (“tinha dobrado”), e o valor de polidez aparece em pedidos como “gostaria de”.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-port-07",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A tese defendida pelo autor do texto é a de que",
+    "texto_apoio": "EDUCAÇÃO FINANCEIRA NÃO É AULA DE INVESTIMENTO\n\nTornou-se comum defender a inclusão da educação financeira no currículo escolar. A ideia é boa, mas corre o risco de ser mal executada. Quando se fala no tema, muitos imaginam adolescentes comparando fundos e aprendendo a escolher ações. Esse é, contudo, o capítulo menos urgente. Antes de saber onde aplicar, é preciso saber por que se gasta.\n\nPesquisas sobre endividamento mostram que boa parte das famílias não se endivida por falta de cálculo, e sim por decisões tomadas sob pressão: a promoção que termina hoje, a parcela que “cabe no bolso”, o crédito oferecido no momento da compra. Ensinar juros compostos a quem nunca refletiu sobre impulsos é como ensinar a nadar a quem ainda não chegou à beira do rio.\n\nPor isso, uma boa proposta pedagógica deveria começar pelo orçamento doméstico, pela distinção entre desejo e necessidade e pela leitura atenta de contratos. Não se trata de moralizar o consumo, mas de devolver ao estudante a capacidade de decidir. Se a escola conseguir isso, o resto — inclusive os investimentos — virá com mais naturalidade.\n\nConvém lembrar, ainda, que nenhuma disciplina substitui políticas públicas. Um jovem pode aprender a planejar-se e, mesmo assim, enfrentar salários baixos e custos altos. A educação financeira ajuda a navegar; não acalma o mar.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "o ensino de investimentos deve ser excluído do currículo escolar, por ser inútil aos adolescentes.",
+      "a educação financeira escolar deve priorizar o comportamento de consumo e o planejamento, e não o ensino de investimentos.",
+      "a educação financeira nas escolas é capaz de resolver, sozinha, o problema do endividamento das famílias.",
+      "as famílias se endividam principalmente porque não sabem calcular juros compostos.",
+      "a escola deve ensinar o estudante a evitar o consumo, que é moralmente condenável."
+    ],
+    "correta": 1,
+    "comentario": "O autor afirma que investimentos são “o capítulo menos urgente” e que a proposta pedagógica “deveria começar pelo orçamento doméstico”, pela distinção entre desejo e necessidade e pela leitura de contratos. Ele não exclui os investimentos: diz que virão “com mais naturalidade” depois. O último parágrafo nega que a disciplina substitua políticas públicas, e o segundo nega que o endividamento decorra da falta de cálculo. Por fim, o texto diz expressamente que “não se trata de moralizar o consumo”.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-08",
+    "materia": "portugues",
+    "assunto": "Coesão e conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Sem alteração do sentido e da correção gramatical, a palavra “contudo”, em “Esse é, contudo, o capítulo menos urgente”, pode ser substituída por",
+    "texto_apoio": "EDUCAÇÃO FINANCEIRA NÃO É AULA DE INVESTIMENTO\n\nTornou-se comum defender a inclusão da educação financeira no currículo escolar. A ideia é boa, mas corre o risco de ser mal executada. Quando se fala no tema, muitos imaginam adolescentes comparando fundos e aprendendo a escolher ações. Esse é, contudo, o capítulo menos urgente. Antes de saber onde aplicar, é preciso saber por que se gasta.\n\nPesquisas sobre endividamento mostram que boa parte das famílias não se endivida por falta de cálculo, e sim por decisões tomadas sob pressão: a promoção que termina hoje, a parcela que “cabe no bolso”, o crédito oferecido no momento da compra. Ensinar juros compostos a quem nunca refletiu sobre impulsos é como ensinar a nadar a quem ainda não chegou à beira do rio.\n\nPor isso, uma boa proposta pedagógica deveria começar pelo orçamento doméstico, pela distinção entre desejo e necessidade e pela leitura atenta de contratos. Não se trata de moralizar o consumo, mas de devolver ao estudante a capacidade de decidir. Se a escola conseguir isso, o resto — inclusive os investimentos — virá com mais naturalidade.\n\nConvém lembrar, ainda, que nenhuma disciplina substitui políticas públicas. Um jovem pode aprender a planejar-se e, mesmo assim, enfrentar salários baixos e custos altos. A educação financeira ajuda a navegar; não acalma o mar.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "portanto",
+      "por conseguinte",
+      "porquanto",
+      "no entanto",
+      "conquanto"
+    ],
+    "correta": 3,
+    "comentario": "“Contudo” é conjunção coordenativa adversativa e introduz uma oposição à expectativa criada antes (muitos imaginam aulas sobre fundos e ações). “No entanto” tem o mesmo valor adversativo e cabe na posição intercalada. “Portanto” e “por conseguinte” são conclusivos; “porquanto” é causal/explicativo. “Conquanto” é conjunção subordinativa concessiva, exige verbo no subjuntivo e não pode ocupar essa posição intercalada numa oração independente.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-09",
+    "materia": "portugues",
+    "assunto": "Crase",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "De acordo com a norma-padrão, o sinal indicativo de crase está corretamente empregado em:",
+    "texto_apoio": "EDUCAÇÃO FINANCEIRA NÃO É AULA DE INVESTIMENTO\n\nTornou-se comum defender a inclusão da educação financeira no currículo escolar. A ideia é boa, mas corre o risco de ser mal executada. Quando se fala no tema, muitos imaginam adolescentes comparando fundos e aprendendo a escolher ações. Esse é, contudo, o capítulo menos urgente. Antes de saber onde aplicar, é preciso saber por que se gasta.\n\nPesquisas sobre endividamento mostram que boa parte das famílias não se endivida por falta de cálculo, e sim por decisões tomadas sob pressão: a promoção que termina hoje, a parcela que “cabe no bolso”, o crédito oferecido no momento da compra. Ensinar juros compostos a quem nunca refletiu sobre impulsos é como ensinar a nadar a quem ainda não chegou à beira do rio.\n\nPor isso, uma boa proposta pedagógica deveria começar pelo orçamento doméstico, pela distinção entre desejo e necessidade e pela leitura atenta de contratos. Não se trata de moralizar o consumo, mas de devolver ao estudante a capacidade de decidir. Se a escola conseguir isso, o resto — inclusive os investimentos — virá com mais naturalidade.\n\nConvém lembrar, ainda, que nenhuma disciplina substitui políticas públicas. Um jovem pode aprender a planejar-se e, mesmo assim, enfrentar salários baixos e custos altos. A educação financeira ajuda a navegar; não acalma o mar.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "O professor começou à explicar o orçamento doméstico.",
+      "A proposta foi apresentada à direção da escola.",
+      "Os alunos assistiram à uma palestra sobre crédito.",
+      "A coordenadora se referiu à contratos de financiamento.",
+      "As aulas acontecem de segunda à sexta-feira."
+    ],
+    "correta": 1,
+    "comentario": "Em “apresentada à direção”, há a preposição “a” exigida por “apresentar (algo) a alguém” e o artigo feminino “a” de “a direção”; daí a crase. Não ocorre crase antes de verbo (“começou a explicar”), antes de artigo indefinido (“assistiram a uma palestra”) nem antes de palavra masculina no plural (“se referiu a contratos”). Na expressão “de segunda a sexta”, o “de” não vem acompanhado de artigo, logo o “a” correspondente também é apenas preposição.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-10",
+    "materia": "portugues",
+    "assunto": "Colocação pronominal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A colocação do pronome átono está de acordo com a norma-padrão em:",
+    "texto_apoio": "EDUCAÇÃO FINANCEIRA NÃO É AULA DE INVESTIMENTO\n\nTornou-se comum defender a inclusão da educação financeira no currículo escolar. A ideia é boa, mas corre o risco de ser mal executada. Quando se fala no tema, muitos imaginam adolescentes comparando fundos e aprendendo a escolher ações. Esse é, contudo, o capítulo menos urgente. Antes de saber onde aplicar, é preciso saber por que se gasta.\n\nPesquisas sobre endividamento mostram que boa parte das famílias não se endivida por falta de cálculo, e sim por decisões tomadas sob pressão: a promoção que termina hoje, a parcela que “cabe no bolso”, o crédito oferecido no momento da compra. Ensinar juros compostos a quem nunca refletiu sobre impulsos é como ensinar a nadar a quem ainda não chegou à beira do rio.\n\nPor isso, uma boa proposta pedagógica deveria começar pelo orçamento doméstico, pela distinção entre desejo e necessidade e pela leitura atenta de contratos. Não se trata de moralizar o consumo, mas de devolver ao estudante a capacidade de decidir. Se a escola conseguir isso, o resto — inclusive os investimentos — virá com mais naturalidade.\n\nConvém lembrar, ainda, que nenhuma disciplina substitui políticas públicas. Um jovem pode aprender a planejar-se e, mesmo assim, enfrentar salários baixos e custos altos. A educação financeira ajuda a navegar; não acalma o mar.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "Me parece que a proposta pedagógica é adequada.",
+      "Não ensinaram-lhe a ler um contrato com atenção.",
+      "O estudante tinha preparado-se para a prova.",
+      "Quem ensinou-lhe a poupar foi a avó.",
+      "Nunca se ensinou tanto sobre dinheiro nas escolas."
+    ],
+    "correta": 4,
+    "comentario": "Palavras de sentido negativo, como “nunca”, atraem o pronome átono, tornando obrigatória a próclise: “Nunca se ensinou”. A norma-padrão não admite iniciar período com pronome oblíquo átono (“Me parece”). O advérbio “não” também exige próclise (“Não lhe ensinaram”), assim como o pronome “quem” (“Quem lhe ensinou”). Com particípio, o pronome nunca vem enclítico a ele: deve ligar-se ao auxiliar (“tinha-se preparado” ou “se tinha preparado”).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-11",
+    "materia": "portugues",
+    "assunto": "Significado no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Não se trata de moralizar o consumo”, o verbo “moralizar” significa",
+    "texto_apoio": "EDUCAÇÃO FINANCEIRA NÃO É AULA DE INVESTIMENTO\n\nTornou-se comum defender a inclusão da educação financeira no currículo escolar. A ideia é boa, mas corre o risco de ser mal executada. Quando se fala no tema, muitos imaginam adolescentes comparando fundos e aprendendo a escolher ações. Esse é, contudo, o capítulo menos urgente. Antes de saber onde aplicar, é preciso saber por que se gasta.\n\nPesquisas sobre endividamento mostram que boa parte das famílias não se endivida por falta de cálculo, e sim por decisões tomadas sob pressão: a promoção que termina hoje, a parcela que “cabe no bolso”, o crédito oferecido no momento da compra. Ensinar juros compostos a quem nunca refletiu sobre impulsos é como ensinar a nadar a quem ainda não chegou à beira do rio.\n\nPor isso, uma boa proposta pedagógica deveria começar pelo orçamento doméstico, pela distinção entre desejo e necessidade e pela leitura atenta de contratos. Não se trata de moralizar o consumo, mas de devolver ao estudante a capacidade de decidir. Se a escola conseguir isso, o resto — inclusive os investimentos — virá com mais naturalidade.\n\nConvém lembrar, ainda, que nenhuma disciplina substitui políticas públicas. Um jovem pode aprender a planejar-se e, mesmo assim, enfrentar salários baixos e custos altos. A educação financeira ajuda a navegar; não acalma o mar.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "tornar o consumo mais barato para as famílias.",
+      "proibir legalmente determinadas formas de consumo.",
+      "julgar o consumo segundo preceitos de certo e errado.",
+      "estimular o consumo por meio de incentivos fiscais.",
+      "registrar e controlar todos os gastos do estudante."
+    ],
+    "correta": 2,
+    "comentario": "No contexto, “moralizar o consumo” é tratá-lo como questão moral, condenando ou aprovando escolhas segundo valores de certo e errado. O autor se afasta dessa postura e defende “devolver ao estudante a capacidade de decidir”. Não há referência a preço, a proibição legal ou a incentivos fiscais. Registrar gastos faz parte do orçamento, mas não é o sentido do verbo.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-12",
+    "materia": "portugues",
+    "assunto": "Concordância verbal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A concordância verbal está de acordo com a norma-padrão em:",
+    "texto_apoio": "EDUCAÇÃO FINANCEIRA NÃO É AULA DE INVESTIMENTO\n\nTornou-se comum defender a inclusão da educação financeira no currículo escolar. A ideia é boa, mas corre o risco de ser mal executada. Quando se fala no tema, muitos imaginam adolescentes comparando fundos e aprendendo a escolher ações. Esse é, contudo, o capítulo menos urgente. Antes de saber onde aplicar, é preciso saber por que se gasta.\n\nPesquisas sobre endividamento mostram que boa parte das famílias não se endivida por falta de cálculo, e sim por decisões tomadas sob pressão: a promoção que termina hoje, a parcela que “cabe no bolso”, o crédito oferecido no momento da compra. Ensinar juros compostos a quem nunca refletiu sobre impulsos é como ensinar a nadar a quem ainda não chegou à beira do rio.\n\nPor isso, uma boa proposta pedagógica deveria começar pelo orçamento doméstico, pela distinção entre desejo e necessidade e pela leitura atenta de contratos. Não se trata de moralizar o consumo, mas de devolver ao estudante a capacidade de decidir. Se a escola conseguir isso, o resto — inclusive os investimentos — virá com mais naturalidade.\n\nConvém lembrar, ainda, que nenhuma disciplina substitui políticas públicas. Um jovem pode aprender a planejar-se e, mesmo assim, enfrentar salários baixos e custos altos. A educação financeira ajuda a navegar; não acalma o mar.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "Tratam-se de decisões tomadas sob pressão.",
+      "Fazem dois anos que a proposta tramita na escola.",
+      "Trata-se de decisões tomadas sob pressão.",
+      "Houveram muitas críticas ao novo projeto pedagógico.",
+      "Vende-se, nesta agência, cartões com anuidade reduzida."
+    ],
+    "correta": 2,
+    "comentario": "Em “trata-se de”, o verbo é transitivo indireto e o “se” é índice de indeterminação do sujeito; por isso o verbo fica no singular, qualquer que seja o termo seguinte. “Fazer” indicando tempo decorrido é impessoal (“Faz dois anos”), e “haver” no sentido de existir também (“Houve muitas críticas”). Já em “Vende-se cartões”, o “se” é partícula apassivadora e o sujeito paciente é “cartões”, com o qual o verbo deve concordar: “Vendem-se cartões”.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-port-13",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "De acordo com o texto, a principal vulnerabilidade explorada pelos golpes financeiros atuais é",
+    "texto_apoio": "O GOLPE QUE CHEGA PELA CONFIANÇA\n\nOs golpes financeiros mudaram de endereço. Se antes o criminoso precisava arrombar um cofre ou clonar um cartão, hoje lhe basta uma mensagem convincente. A engenharia social — nome técnico para a manipulação psicológica da vítima — dispensa sofisticação tecnológica: explora a pressa, o medo e, sobretudo, a confiança.\n\nO roteiro costuma ser simples. Alguém se apresenta como funcionário do banco, informa uma movimentação suspeita e oferece ajuda para “proteger” a conta. A vítima, assustada, segue as instruções e, sem perceber, transfere ela mesma o dinheiro para o golpista. Nenhum sistema foi invadido; o que se invadiu foi o julgamento de uma pessoa.\n\nOs bancos têm investido em alertas, limites noturnos e bloqueios automáticos. Tais medidas são necessárias, mas insuficientes, porque o elo mais frágil da cadeia não está no servidor, e sim no sofá da sala. Daí a importância de uma regra que parece óbvia e, no entanto, é esquecida no calor do momento: instituições sérias não pedem senhas, códigos ou transferências por telefone.\n\nDesconfiar, nesse cenário, deixou de ser falta de educação para tornar-se um hábito de sobrevivência. Desligar a chamada e procurar o banco pelos canais oficiais pode parecer exagero. Exagero, porém, é perder em minutos as economias de uma vida.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "o comportamento da vítima, levada a agir pela pressa, pelo medo ou pela confiança.",
+      "a existência de falhas nos servidores das instituições bancárias.",
+      "a ausência de alertas e de bloqueios automáticos nos aplicativos.",
+      "a clonagem de cartões, que se tornou tecnologicamente mais sofisticada.",
+      "o uso de senhas fracas e fáceis de adivinhar pelos clientes."
+    ],
+    "correta": 0,
+    "comentario": "O texto afirma que a engenharia social “dispensa sofisticação tecnológica” e explora “a pressa, o medo e, sobretudo, a confiança”; o elo mais frágil está “no sofá da sala”, não no servidor. O texto diz que “nenhum sistema foi invadido”, o que afasta as falhas de servidor. Os bancos já investem em alertas e bloqueios, portanto não há ausência deles. A clonagem de cartões é citada como prática do passado, e senhas fracas não são mencionadas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-14",
+    "materia": "portugues",
+    "assunto": "Coesão e conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Nenhum sistema foi invadido; o que se invadiu foi o julgamento de uma pessoa”, o ponto e vírgula separa orações entre as quais se estabelece relação de",
+    "texto_apoio": "O GOLPE QUE CHEGA PELA CONFIANÇA\n\nOs golpes financeiros mudaram de endereço. Se antes o criminoso precisava arrombar um cofre ou clonar um cartão, hoje lhe basta uma mensagem convincente. A engenharia social — nome técnico para a manipulação psicológica da vítima — dispensa sofisticação tecnológica: explora a pressa, o medo e, sobretudo, a confiança.\n\nO roteiro costuma ser simples. Alguém se apresenta como funcionário do banco, informa uma movimentação suspeita e oferece ajuda para “proteger” a conta. A vítima, assustada, segue as instruções e, sem perceber, transfere ela mesma o dinheiro para o golpista. Nenhum sistema foi invadido; o que se invadiu foi o julgamento de uma pessoa.\n\nOs bancos têm investido em alertas, limites noturnos e bloqueios automáticos. Tais medidas são necessárias, mas insuficientes, porque o elo mais frágil da cadeia não está no servidor, e sim no sofá da sala. Daí a importância de uma regra que parece óbvia e, no entanto, é esquecida no calor do momento: instituições sérias não pedem senhas, códigos ou transferências por telefone.\n\nDesconfiar, nesse cenário, deixou de ser falta de educação para tornar-se um hábito de sobrevivência. Desligar a chamada e procurar o banco pelos canais oficiais pode parecer exagero. Exagero, porém, é perder em minutos as economias de uma vida.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "causa.",
+      "condição.",
+      "finalidade.",
+      "conformidade.",
+      "oposição."
+    ],
+    "correta": 4,
+    "comentario": "A primeira oração nega a invasão de sistemas, e a segunda afirma que o que se invadiu foi outra coisa: o julgamento da vítima. Há, portanto, contraste entre as duas ideias, que poderia ser explicitado por “mas”. Nenhuma das orações é motivo da outra (causa), hipótese para a outra (condição), objetivo (finalidade) ou acordo com algo (conformidade).",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-15",
+    "materia": "portugues",
+    "assunto": "Coesão e referência",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No terceiro parágrafo, a expressão “Tais medidas” retoma",
+    "texto_apoio": "O GOLPE QUE CHEGA PELA CONFIANÇA\n\nOs golpes financeiros mudaram de endereço. Se antes o criminoso precisava arrombar um cofre ou clonar um cartão, hoje lhe basta uma mensagem convincente. A engenharia social — nome técnico para a manipulação psicológica da vítima — dispensa sofisticação tecnológica: explora a pressa, o medo e, sobretudo, a confiança.\n\nO roteiro costuma ser simples. Alguém se apresenta como funcionário do banco, informa uma movimentação suspeita e oferece ajuda para “proteger” a conta. A vítima, assustada, segue as instruções e, sem perceber, transfere ela mesma o dinheiro para o golpista. Nenhum sistema foi invadido; o que se invadiu foi o julgamento de uma pessoa.\n\nOs bancos têm investido em alertas, limites noturnos e bloqueios automáticos. Tais medidas são necessárias, mas insuficientes, porque o elo mais frágil da cadeia não está no servidor, e sim no sofá da sala. Daí a importância de uma regra que parece óbvia e, no entanto, é esquecida no calor do momento: instituições sérias não pedem senhas, códigos ou transferências por telefone.\n\nDesconfiar, nesse cenário, deixou de ser falta de educação para tornar-se um hábito de sobrevivência. Desligar a chamada e procurar o banco pelos canais oficiais pode parecer exagero. Exagero, porém, é perder em minutos as economias de uma vida.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "os golpes financeiros descritos no primeiro parágrafo.",
+      "as instruções seguidas pela vítima durante a ligação.",
+      "os alertas, os limites noturnos e os bloqueios automáticos.",
+      "as técnicas de manipulação psicológica da engenharia social.",
+      "as transferências feitas por telefone a pedido do golpista."
+    ],
+    "correta": 2,
+    "comentario": "“Tais medidas” é uma expressão anafórica que resume o que foi enumerado imediatamente antes: “alertas, limites noturnos e bloqueios automáticos”, providências adotadas pelos bancos. Os golpes e a engenharia social não são “medidas” tomadas contra algo, e as instruções e transferências são ações da vítima, não providências de segurança.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-16",
+    "materia": "portugues",
+    "assunto": "Funções do “se”",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em “o que se invadiu foi o julgamento de uma pessoa”, a palavra “se” tem a mesma classificação que em:",
+    "texto_apoio": "O GOLPE QUE CHEGA PELA CONFIANÇA\n\nOs golpes financeiros mudaram de endereço. Se antes o criminoso precisava arrombar um cofre ou clonar um cartão, hoje lhe basta uma mensagem convincente. A engenharia social — nome técnico para a manipulação psicológica da vítima — dispensa sofisticação tecnológica: explora a pressa, o medo e, sobretudo, a confiança.\n\nO roteiro costuma ser simples. Alguém se apresenta como funcionário do banco, informa uma movimentação suspeita e oferece ajuda para “proteger” a conta. A vítima, assustada, segue as instruções e, sem perceber, transfere ela mesma o dinheiro para o golpista. Nenhum sistema foi invadido; o que se invadiu foi o julgamento de uma pessoa.\n\nOs bancos têm investido em alertas, limites noturnos e bloqueios automáticos. Tais medidas são necessárias, mas insuficientes, porque o elo mais frágil da cadeia não está no servidor, e sim no sofá da sala. Daí a importância de uma regra que parece óbvia e, no entanto, é esquecida no calor do momento: instituições sérias não pedem senhas, códigos ou transferências por telefone.\n\nDesconfiar, nesse cenário, deixou de ser falta de educação para tornar-se um hábito de sobrevivência. Desligar a chamada e procurar o banco pelos canais oficiais pode parecer exagero. Exagero, porém, é perder em minutos as economias de uma vida.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "Precisa-se de atendentes com experiência bancária.",
+      "O cliente se assustou com a ligação inesperada.",
+      "Não sei se a transferência foi concluída.",
+      "Alugam-se salas comerciais no centro da cidade.",
+      "Se houver dúvida, procure a agência mais próxima."
+    ],
+    "correta": 3,
+    "comentario": "Em “o que se invadiu”, o verbo “invadir” é transitivo direto e o “se” é partícula apassivadora: equivale a “o que foi invadido”. O mesmo ocorre em “Alugam-se salas” (= salas são alugadas), com o verbo concordando com o sujeito paciente. Em “Precisa-se de atendentes”, o verbo é transitivo indireto e o “se” é índice de indeterminação do sujeito. Em “se assustou”, trata-se de pronome ligado a verbo pronominal; em “não sei se”, de conjunção integrante; e em “Se houver dúvida”, de conjunção condicional.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-port-17",
+    "materia": "portugues",
+    "assunto": "Reescrita",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O trecho “Tais medidas são necessárias, mas insuficientes, porque o elo mais frágil da cadeia não está no servidor, e sim no sofá da sala” está reescrito com preservação do sentido e da correção gramatical em:",
+    "texto_apoio": "O GOLPE QUE CHEGA PELA CONFIANÇA\n\nOs golpes financeiros mudaram de endereço. Se antes o criminoso precisava arrombar um cofre ou clonar um cartão, hoje lhe basta uma mensagem convincente. A engenharia social — nome técnico para a manipulação psicológica da vítima — dispensa sofisticação tecnológica: explora a pressa, o medo e, sobretudo, a confiança.\n\nO roteiro costuma ser simples. Alguém se apresenta como funcionário do banco, informa uma movimentação suspeita e oferece ajuda para “proteger” a conta. A vítima, assustada, segue as instruções e, sem perceber, transfere ela mesma o dinheiro para o golpista. Nenhum sistema foi invadido; o que se invadiu foi o julgamento de uma pessoa.\n\nOs bancos têm investido em alertas, limites noturnos e bloqueios automáticos. Tais medidas são necessárias, mas insuficientes, porque o elo mais frágil da cadeia não está no servidor, e sim no sofá da sala. Daí a importância de uma regra que parece óbvia e, no entanto, é esquecida no calor do momento: instituições sérias não pedem senhas, códigos ou transferências por telefone.\n\nDesconfiar, nesse cenário, deixou de ser falta de educação para tornar-se um hábito de sobrevivência. Desligar a chamada e procurar o banco pelos canais oficiais pode parecer exagero. Exagero, porém, é perder em minutos as economias de uma vida.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "Como são necessárias, tais medidas são suficientes, uma vez que o elo mais frágil da cadeia está no sofá da sala, e não no servidor.",
+      "Tais medidas são insuficientes porque são necessárias, já que o elo mais frágil da cadeia não está no servidor, mas no sofá da sala.",
+      "Tais medidas, desde que necessárias, são insuficientes, porquanto o elo mais frágil da cadeia está tanto no servidor quanto no sofá da sala.",
+      "Embora sejam necessárias, tais medidas são insuficientes, visto que o elo mais frágil da cadeia está no sofá da sala, e não no servidor.",
+      "Tais medidas são necessárias e suficientes, contanto que o elo mais frágil da cadeia esteja no sofá da sala, e não no servidor."
+    ],
+    "correta": 3,
+    "comentario": "O original tem uma oposição (necessárias, mas insuficientes) e uma causa (porque o elo frágil está no sofá). “Embora sejam necessárias” converte a adversativa em concessiva, mantendo o sentido, e “visto que” preserva a relação causal. A reescrita com “Como são necessárias, ... são suficientes” inverte a conclusão do autor. Dizer que são insuficientes “porque são necessárias” cria uma causa absurda. A versão com “tanto no servidor quanto no sofá” altera a informação, e a que diz que as medidas são “suficientes” contradiz o texto.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-port-18",
+    "materia": "portugues",
+    "assunto": "Regência verbal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Está de acordo com a norma-padrão, quanto à regência verbal, a frase:",
+    "texto_apoio": "O GOLPE QUE CHEGA PELA CONFIANÇA\n\nOs golpes financeiros mudaram de endereço. Se antes o criminoso precisava arrombar um cofre ou clonar um cartão, hoje lhe basta uma mensagem convincente. A engenharia social — nome técnico para a manipulação psicológica da vítima — dispensa sofisticação tecnológica: explora a pressa, o medo e, sobretudo, a confiança.\n\nO roteiro costuma ser simples. Alguém se apresenta como funcionário do banco, informa uma movimentação suspeita e oferece ajuda para “proteger” a conta. A vítima, assustada, segue as instruções e, sem perceber, transfere ela mesma o dinheiro para o golpista. Nenhum sistema foi invadido; o que se invadiu foi o julgamento de uma pessoa.\n\nOs bancos têm investido em alertas, limites noturnos e bloqueios automáticos. Tais medidas são necessárias, mas insuficientes, porque o elo mais frágil da cadeia não está no servidor, e sim no sofá da sala. Daí a importância de uma regra que parece óbvia e, no entanto, é esquecida no calor do momento: instituições sérias não pedem senhas, códigos ou transferências por telefone.\n\nDesconfiar, nesse cenário, deixou de ser falta de educação para tornar-se um hábito de sobrevivência. Desligar a chamada e procurar o banco pelos canais oficiais pode parecer exagero. Exagero, porém, é perder em minutos as economias de uma vida.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "O cliente obedeceu às orientações enviadas pelo banco.",
+      "Os clientes assistiram o vídeo sobre segurança digital.",
+      "Prefiro mais desconfiar do que perder minhas economias.",
+      "Ele esqueceu da senha do aplicativo durante a viagem.",
+      "Informamos aos clientes de que o sistema foi atualizado."
+    ],
+    "correta": 0,
+    "comentario": "“Obedecer” é transitivo indireto e exige a preposição “a”; somada ao artigo de “as orientações”, gera a crase em “às orientações”. “Assistir”, no sentido de ver, é transitivo indireto: “assistiram ao vídeo”. “Preferir” rege a preposição “a” e rejeita “mais” e “do que”: “Prefiro desconfiar a perder”. “Esquecer”, sem pronome, é transitivo direto (“esqueceu a senha”); com pronome, pede “de” (“esqueceu-se da senha”). “Informar” admite um objeto direto e um indireto, mas não os dois preposicionados: “Informamos aos clientes que” ou “Informamos os clientes de que”.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-19",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao final do texto, o cronista conclui que",
+    "texto_apoio": "Minha filha ganhou de aniversário um porquinho de cerâmica. Achou-o bonito, deu-lhe um nome e o colocou na estante. Semanas depois, perguntou para que servia a fenda nas costas do bicho. Expliquei que ali se guardavam moedas. Ela me olhou com a paciência que os jovens reservam aos adultos confusos: — Mas que moedas?\n\nTinha razão. Em casa, quase não há dinheiro físico. A mesada dela cai numa conta digital, que ela acompanha por um aplicativo colorido, com metas, gráficos e um porquinho — também ele — que sorri quando o saldo cresce. O cofre de cerâmica tornou-se decoração; o virtual, instrumento.\n\nConfesso que estranhei. Na minha infância, poupar tinha peso e barulho. Sacudir o cofre e adivinhar quanto havia dentro era parte do prazer; quebrá-lo, um pequeno ritual de maioridade. Minha filha não conhecerá esse som. Conhecerá, em compensação, a porcentagem exata que falta para comprar a bicicleta que deseja.\n\nSeria fácil concluir que ela perdeu alguma coisa. Não estou certo disso. O hábito de guardar, afinal, não mora na cerâmica, mas na decisão de não gastar tudo hoje. Se o aplicativo a ensina a esperar, cumpre a mesma função que o porquinho cumpriu comigo. O barulho das moedas era apenas a trilha sonora.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "a filha perdeu uma experiência insubstituível ao não usar o cofre de cerâmica.",
+      "os aplicativos ensinam as crianças a poupar melhor do que os cofres físicos.",
+      "o dinheiro físico deve ser preservado na educação financeira das crianças.",
+      "a filha ainda não compreende o valor do dinheiro por não manusear moedas.",
+      "o essencial da poupança é o hábito de adiar o consumo, qualquer que seja o meio utilizado para guardar."
+    ],
+    "correta": 4,
+    "comentario": "O último parágrafo afirma que “o hábito de guardar [...] não mora na cerâmica, mas na decisão de não gastar tudo hoje” e que o aplicativo “cumpre a mesma função” do porquinho. O cronista diz “Não estou certo disso” justamente sobre a ideia de que a filha perdeu algo. Ele não afirma que o aplicativo é melhor, apenas equivalente, nem defende a preservação do dinheiro físico. A filha, aliás, sabe exatamente quanto falta para comprar a bicicleta.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-20",
+    "materia": "portugues",
+    "assunto": "Coesão e referência",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “com metas, gráficos e um porquinho — também ele — que sorri quando o saldo cresce”, a expressão “também ele” destaca que",
+    "texto_apoio": "Minha filha ganhou de aniversário um porquinho de cerâmica. Achou-o bonito, deu-lhe um nome e o colocou na estante. Semanas depois, perguntou para que servia a fenda nas costas do bicho. Expliquei que ali se guardavam moedas. Ela me olhou com a paciência que os jovens reservam aos adultos confusos: — Mas que moedas?\n\nTinha razão. Em casa, quase não há dinheiro físico. A mesada dela cai numa conta digital, que ela acompanha por um aplicativo colorido, com metas, gráficos e um porquinho — também ele — que sorri quando o saldo cresce. O cofre de cerâmica tornou-se decoração; o virtual, instrumento.\n\nConfesso que estranhei. Na minha infância, poupar tinha peso e barulho. Sacudir o cofre e adivinhar quanto havia dentro era parte do prazer; quebrá-lo, um pequeno ritual de maioridade. Minha filha não conhecerá esse som. Conhecerá, em compensação, a porcentagem exata que falta para comprar a bicicleta que deseja.\n\nSeria fácil concluir que ela perdeu alguma coisa. Não estou certo disso. O hábito de guardar, afinal, não mora na cerâmica, mas na decisão de não gastar tudo hoje. Se o aplicativo a ensina a esperar, cumpre a mesma função que o porquinho cumpriu comigo. O barulho das moedas era apenas a trilha sonora.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "o porquinho de cerâmica também sorri quando recebe moedas.",
+      "a filha também sorri quando vê o saldo da conta crescer.",
+      "o cronista também acompanha as metas da filha pelo aplicativo.",
+      "o aplicativo também mostra gráficos, como fazem os bancos.",
+      "o aplicativo, assim como o presente de aniversário, recorre à figura de um porquinho."
+    ],
+    "correta": 4,
+    "comentario": "O pronome “ele” retoma “um porquinho”, e o “também” o aproxima do porquinho de cerâmica mencionado no início: o aplicativo, curiosamente, usa a mesma figura do presente que a menina não soube usar. O porquinho de cerâmica não sorri, e o texto não diz que a filha ou o cronista sorriem. A menção a gráficos é feita antes do travessão e não é o que a expressão enfatiza.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-21",
+    "materia": "portugues",
+    "assunto": "Pontuação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “O cofre de cerâmica tornou-se decoração; o virtual, instrumento”, a vírgula depois de “o virtual” indica",
+    "texto_apoio": "Minha filha ganhou de aniversário um porquinho de cerâmica. Achou-o bonito, deu-lhe um nome e o colocou na estante. Semanas depois, perguntou para que servia a fenda nas costas do bicho. Expliquei que ali se guardavam moedas. Ela me olhou com a paciência que os jovens reservam aos adultos confusos: — Mas que moedas?\n\nTinha razão. Em casa, quase não há dinheiro físico. A mesada dela cai numa conta digital, que ela acompanha por um aplicativo colorido, com metas, gráficos e um porquinho — também ele — que sorri quando o saldo cresce. O cofre de cerâmica tornou-se decoração; o virtual, instrumento.\n\nConfesso que estranhei. Na minha infância, poupar tinha peso e barulho. Sacudir o cofre e adivinhar quanto havia dentro era parte do prazer; quebrá-lo, um pequeno ritual de maioridade. Minha filha não conhecerá esse som. Conhecerá, em compensação, a porcentagem exata que falta para comprar a bicicleta que deseja.\n\nSeria fácil concluir que ela perdeu alguma coisa. Não estou certo disso. O hábito de guardar, afinal, não mora na cerâmica, mas na decisão de não gastar tudo hoje. Se o aplicativo a ensina a esperar, cumpre a mesma função que o porquinho cumpriu comigo. O barulho das moedas era apenas a trilha sonora.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "a omissão da forma verbal “tornou-se”, já expressa na oração anterior.",
+      "a separação obrigatória entre o sujeito e o predicativo do sujeito.",
+      "a presença de um aposto explicativo referente a “o virtual”.",
+      "a intercalação de um adjunto adverbial deslocado.",
+      "a presença de um vocativo dirigido ao leitor."
+    ],
+    "correta": 0,
+    "comentario": "A segunda oração equivale a “o virtual tornou-se instrumento”; o verbo foi omitido para evitar repetição (zeugma), e a vírgula marca esse apagamento. Não há regra que exija vírgula entre sujeito e predicativo — com o verbo presente, ela seria incorreta. “Instrumento” não é aposto de “o virtual”, mas predicativo do sujeito, e não há adjunto adverbial nem vocativo no trecho.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-22",
+    "materia": "portugues",
+    "assunto": "Coesão e conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Minha filha não conhecerá esse som. Conhecerá, em compensação, a porcentagem exata que falta para comprar a bicicleta”, a expressão “em compensação” pode ser substituída, sem alteração do sentido, por",
+    "texto_apoio": "Minha filha ganhou de aniversário um porquinho de cerâmica. Achou-o bonito, deu-lhe um nome e o colocou na estante. Semanas depois, perguntou para que servia a fenda nas costas do bicho. Expliquei que ali se guardavam moedas. Ela me olhou com a paciência que os jovens reservam aos adultos confusos: — Mas que moedas?\n\nTinha razão. Em casa, quase não há dinheiro físico. A mesada dela cai numa conta digital, que ela acompanha por um aplicativo colorido, com metas, gráficos e um porquinho — também ele — que sorri quando o saldo cresce. O cofre de cerâmica tornou-se decoração; o virtual, instrumento.\n\nConfesso que estranhei. Na minha infância, poupar tinha peso e barulho. Sacudir o cofre e adivinhar quanto havia dentro era parte do prazer; quebrá-lo, um pequeno ritual de maioridade. Minha filha não conhecerá esse som. Conhecerá, em compensação, a porcentagem exata que falta para comprar a bicicleta que deseja.\n\nSeria fácil concluir que ela perdeu alguma coisa. Não estou certo disso. O hábito de guardar, afinal, não mora na cerâmica, mas na decisão de não gastar tudo hoje. Se o aplicativo a ensina a esperar, cumpre a mesma função que o porquinho cumpriu comigo. O barulho das moedas era apenas a trilha sonora.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "além disso",
+      "por conseguinte",
+      "isto é",
+      "a menos que",
+      "por outro lado"
+    ],
+    "correta": 4,
+    "comentario": "“Em compensação” introduz algo que contrabalança a perda mencionada antes: a menina não conhecerá o som das moedas, mas terá outro tipo de conhecimento. “Por outro lado” expressa esse mesmo contraponto. “Além disso” apenas soma informações, sem a ideia de contrapeso. “Por conseguinte” indica conclusão, “isto é” introduz explicação ou retificação, e “a menos que” é conjunção condicional, que nem caberia sintaticamente no trecho.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-23",
+    "materia": "portugues",
+    "assunto": "Pronomes e funções sintáticas",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Achou-o bonito, deu-lhe um nome e o colocou na estante”, o pronome “lhe” exerce a função de",
+    "texto_apoio": "Minha filha ganhou de aniversário um porquinho de cerâmica. Achou-o bonito, deu-lhe um nome e o colocou na estante. Semanas depois, perguntou para que servia a fenda nas costas do bicho. Expliquei que ali se guardavam moedas. Ela me olhou com a paciência que os jovens reservam aos adultos confusos: — Mas que moedas?\n\nTinha razão. Em casa, quase não há dinheiro físico. A mesada dela cai numa conta digital, que ela acompanha por um aplicativo colorido, com metas, gráficos e um porquinho — também ele — que sorri quando o saldo cresce. O cofre de cerâmica tornou-se decoração; o virtual, instrumento.\n\nConfesso que estranhei. Na minha infância, poupar tinha peso e barulho. Sacudir o cofre e adivinhar quanto havia dentro era parte do prazer; quebrá-lo, um pequeno ritual de maioridade. Minha filha não conhecerá esse som. Conhecerá, em compensação, a porcentagem exata que falta para comprar a bicicleta que deseja.\n\nSeria fácil concluir que ela perdeu alguma coisa. Não estou certo disso. O hábito de guardar, afinal, não mora na cerâmica, mas na decisão de não gastar tudo hoje. Se o aplicativo a ensina a esperar, cumpre a mesma função que o porquinho cumpriu comigo. O barulho das moedas era apenas a trilha sonora.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "objeto indireto e refere-se ao porquinho.",
+      "objeto direto e refere-se ao porquinho.",
+      "objeto indireto e refere-se ao cronista.",
+      "complemento nominal e refere-se ao nome.",
+      "adjunto adnominal e refere-se ao aniversário."
+    ],
+    "correta": 0,
+    "comentario": "O verbo “dar” é transitivo direto e indireto: dá-se algo (“um nome”, objeto direto) a alguém (“lhe”, objeto indireto). O “lhe” retoma “um porquinho de cerâmica”, que é o que recebeu o nome. Os pronomes “o”, em “Achou-o” e “o colocou”, é que são objetos diretos referentes ao porquinho. O cronista não recebeu nome algum, e “lhe” não completa substantivo nem funciona como adjunto adnominal nesse contexto.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-24",
+    "materia": "portugues",
+    "assunto": "Correlação verbal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Reescrevendo-se o trecho “Se o aplicativo a ensina a esperar, cumpre a mesma função que o porquinho cumpriu comigo” com o verbo “ensinar” no pretérito imperfeito do subjuntivo (“ensinasse”), a forma de “cumprir” que mantém a correlação adequada entre os tempos verbais é",
+    "texto_apoio": "Minha filha ganhou de aniversário um porquinho de cerâmica. Achou-o bonito, deu-lhe um nome e o colocou na estante. Semanas depois, perguntou para que servia a fenda nas costas do bicho. Expliquei que ali se guardavam moedas. Ela me olhou com a paciência que os jovens reservam aos adultos confusos: — Mas que moedas?\n\nTinha razão. Em casa, quase não há dinheiro físico. A mesada dela cai numa conta digital, que ela acompanha por um aplicativo colorido, com metas, gráficos e um porquinho — também ele — que sorri quando o saldo cresce. O cofre de cerâmica tornou-se decoração; o virtual, instrumento.\n\nConfesso que estranhei. Na minha infância, poupar tinha peso e barulho. Sacudir o cofre e adivinhar quanto havia dentro era parte do prazer; quebrá-lo, um pequeno ritual de maioridade. Minha filha não conhecerá esse som. Conhecerá, em compensação, a porcentagem exata que falta para comprar a bicicleta que deseja.\n\nSeria fácil concluir que ela perdeu alguma coisa. Não estou certo disso. O hábito de guardar, afinal, não mora na cerâmica, mas na decisão de não gastar tudo hoje. Se o aplicativo a ensina a esperar, cumpre a mesma função que o porquinho cumpriu comigo. O barulho das moedas era apenas a trilha sonora.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "cumprirá",
+      "cumpriria",
+      "cumpra",
+      "cumprisse",
+      "cumpriu"
+    ],
+    "correta": 1,
+    "comentario": "Na norma-padrão, a oração condicional com o pretérito imperfeito do subjuntivo (“Se ... ensinasse”) correlaciona-se com o futuro do pretérito do indicativo na oração principal: “cumpriria”. O futuro do presente (“cumprirá”) correlaciona-se com o futuro do subjuntivo (“Se ... ensinar”). “Cumpra” e “cumprisse” são formas do subjuntivo, inadequadas à oração principal nesse período, e “cumpriu” rompe a correlação ao apresentar como fato consumado algo hipotético.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-port-25",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Quanto ao uso da inteligência artificial no atendimento bancário, o autor defende que",
+    "texto_apoio": "QUEM RESPONDE QUANDO O ROBÔ NÃO ENTENDE\n\nA inteligência artificial chegou aos canais de atendimento com a promessa de resolver em segundos o que antes exigia longas esperas. Em muitos casos, cumpre o prometido: segunda via de boleto, consulta de saldo e desbloqueio de cartão são tarefas que um assistente virtual executa com eficiência. O problema começa quando a demanda foge ao roteiro.\n\nClientes com situações atípicas — uma cobrança que não reconhecem, um empréstimo contratado em circunstâncias duvidosas — relatam a sensação de conversar com uma parede educada. O sistema responde, agradece e sugere opções, mas nenhuma delas corresponde ao problema. Quando, enfim, o atendimento humano é oferecido, a paciência já se esgotou.\n\nNão se deve, por isso, demonizar a tecnologia. Os mesmos algoritmos que falham na conversa são capazes de identificar fraudes em tempo real e de liberar funcionários para tarefas que exigem análise. O desafio está em desenhar sistemas que reconheçam seus próprios limites e transfiram o cliente a uma pessoa antes que a frustração se instale.\n\nHá, ainda, uma questão de transparência. O consumidor tem o direito de saber se fala com uma máquina e de que forma seus dados são utilizados. A eficiência que se obtém às custas da confiança é, no longo prazo, um mau negócio.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "os assistentes virtuais devem ser abandonados, pois não resolvem os problemas dos clientes.",
+      "a tecnologia traz ganhos reais, mas deve reconhecer seus limites, encaminhar o cliente a uma pessoa e ser transparente.",
+      "os funcionários humanos se tornaram dispensáveis tanto nas tarefas simples quanto nas complexas.",
+      "os clientes preferem conversar com assistentes virtuais em qualquer situação.",
+      "a transparência sobre o uso de dados é menos importante do que a eficiência do atendimento."
+    ],
+    "correta": 1,
+    "comentario": "O autor reconhece que a IA “cumpre o prometido” em tarefas simples e identifica fraudes, afirmando que “não se deve [...] demonizar a tecnologia”. Ao mesmo tempo, aponta o desafio de desenhar sistemas que transfiram o cliente “a uma pessoa” e destaca a “questão de transparência”. Por isso, o abandono da tecnologia contraria o texto, assim como a ideia de que os funcionários são dispensáveis. O texto também relata frustração dos clientes e afirma que eficiência sem confiança é “um mau negócio”.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-26",
+    "materia": "portugues",
+    "assunto": "Linguagem figurada",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A expressão “uma parede educada”, no segundo parágrafo, constitui",
+    "texto_apoio": "QUEM RESPONDE QUANDO O ROBÔ NÃO ENTENDE\n\nA inteligência artificial chegou aos canais de atendimento com a promessa de resolver em segundos o que antes exigia longas esperas. Em muitos casos, cumpre o prometido: segunda via de boleto, consulta de saldo e desbloqueio de cartão são tarefas que um assistente virtual executa com eficiência. O problema começa quando a demanda foge ao roteiro.\n\nClientes com situações atípicas — uma cobrança que não reconhecem, um empréstimo contratado em circunstâncias duvidosas — relatam a sensação de conversar com uma parede educada. O sistema responde, agradece e sugere opções, mas nenhuma delas corresponde ao problema. Quando, enfim, o atendimento humano é oferecido, a paciência já se esgotou.\n\nNão se deve, por isso, demonizar a tecnologia. Os mesmos algoritmos que falham na conversa são capazes de identificar fraudes em tempo real e de liberar funcionários para tarefas que exigem análise. O desafio está em desenhar sistemas que reconheçam seus próprios limites e transfiram o cliente a uma pessoa antes que a frustração se instale.\n\nHá, ainda, uma questão de transparência. O consumidor tem o direito de saber se fala com uma máquina e de que forma seus dados são utilizados. A eficiência que se obtém às custas da confiança é, no longo prazo, um mau negócio.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "uma metáfora que caracteriza um interlocutor cortês, mas incapaz de compreender o problema.",
+      "uma hipérbole que exagera a rapidez com que o sistema responde ao cliente.",
+      "uma ironia que elogia a eficiência do assistente virtual em casos atípicos.",
+      "uma comparação que aproxima o cliente de um objeto inanimado.",
+      "um eufemismo que suaviza a ausência total de resposta do sistema."
+    ],
+    "correta": 0,
+    "comentario": "Há uma metáfora: o sistema é chamado de “parede” (algo que não escuta nem entende), mas “educada”, pois “responde, agradece e sugere opções”. O trecho não trata de rapidez, e não há elogio à eficiência, já que nenhuma opção “corresponde ao problema”. Não se trata de comparação, pois não há conectivo comparativo, e quem é associado à parede é o sistema, não o cliente. Também não há ausência de resposta a suavizar: o sistema responde, só não resolve.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-27",
+    "materia": "portugues",
+    "assunto": "Crase",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “transfiram o cliente a uma pessoa”, não se emprega o acento indicativo de crase porque",
+    "texto_apoio": "QUEM RESPONDE QUANDO O ROBÔ NÃO ENTENDE\n\nA inteligência artificial chegou aos canais de atendimento com a promessa de resolver em segundos o que antes exigia longas esperas. Em muitos casos, cumpre o prometido: segunda via de boleto, consulta de saldo e desbloqueio de cartão são tarefas que um assistente virtual executa com eficiência. O problema começa quando a demanda foge ao roteiro.\n\nClientes com situações atípicas — uma cobrança que não reconhecem, um empréstimo contratado em circunstâncias duvidosas — relatam a sensação de conversar com uma parede educada. O sistema responde, agradece e sugere opções, mas nenhuma delas corresponde ao problema. Quando, enfim, o atendimento humano é oferecido, a paciência já se esgotou.\n\nNão se deve, por isso, demonizar a tecnologia. Os mesmos algoritmos que falham na conversa são capazes de identificar fraudes em tempo real e de liberar funcionários para tarefas que exigem análise. O desafio está em desenhar sistemas que reconheçam seus próprios limites e transfiram o cliente a uma pessoa antes que a frustração se instale.\n\nHá, ainda, uma questão de transparência. O consumidor tem o direito de saber se fala com uma máquina e de que forma seus dados são utilizados. A eficiência que se obtém às custas da confiança é, no longo prazo, um mau negócio.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "não ocorre crase diante de artigo indefinido.",
+      "o verbo “transferir” não exige a preposição “a”.",
+      "a palavra “pessoa” é um substantivo de dois gêneros.",
+      "não ocorre crase diante de substantivo feminino singular.",
+      "o uso da crase é facultativo diante de palavras femininas."
+    ],
+    "correta": 0,
+    "comentario": "A crase é a fusão da preposição “a” com o artigo definido feminino “a”. Em “a uma pessoa”, há a preposição exigida por “transferir (alguém) a alguém”, mas o que vem depois é o artigo indefinido “uma”, que não se funde com a preposição. O verbo exige, sim, a preposição. “Pessoa” é substantivo feminino, e a crase é justamente comum diante de femininos singulares definidos. O uso facultativo só existe em casos específicos, como antes de possessivos femininos e de nomes próprios femininos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-28",
+    "materia": "portugues",
+    "assunto": "Concordância",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A concordância está de acordo com a norma-padrão em:",
+    "texto_apoio": "QUEM RESPONDE QUANDO O ROBÔ NÃO ENTENDE\n\nA inteligência artificial chegou aos canais de atendimento com a promessa de resolver em segundos o que antes exigia longas esperas. Em muitos casos, cumpre o prometido: segunda via de boleto, consulta de saldo e desbloqueio de cartão são tarefas que um assistente virtual executa com eficiência. O problema começa quando a demanda foge ao roteiro.\n\nClientes com situações atípicas — uma cobrança que não reconhecem, um empréstimo contratado em circunstâncias duvidosas — relatam a sensação de conversar com uma parede educada. O sistema responde, agradece e sugere opções, mas nenhuma delas corresponde ao problema. Quando, enfim, o atendimento humano é oferecido, a paciência já se esgotou.\n\nNão se deve, por isso, demonizar a tecnologia. Os mesmos algoritmos que falham na conversa são capazes de identificar fraudes em tempo real e de liberar funcionários para tarefas que exigem análise. O desafio está em desenhar sistemas que reconheçam seus próprios limites e transfiram o cliente a uma pessoa antes que a frustração se instale.\n\nHá, ainda, uma questão de transparência. O consumidor tem o direito de saber se fala com uma máquina e de que forma seus dados são utilizados. A eficiência que se obtém às custas da confiança é, no longo prazo, um mau negócio.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "Devem existir limites para o uso de dados pessoais dos clientes.",
+      "Deve existir limites para o uso de dados pessoais dos clientes.",
+      "É necessário a transparência no atendimento automatizado.",
+      "Seguem anexo os comprovantes solicitados pelo cliente.",
+      "Faltou, segundo os clientes, respostas adequadas às reclamações."
+    ],
+    "correta": 0,
+    "comentario": "Em locução verbal com “existir”, o auxiliar concorda com o sujeito “limites”: “Devem existir limites”. Diferentemente de “haver”, o verbo “existir” é pessoal. “É necessário” só fica invariável quando o sujeito não vem determinado; com artigo, concorda: “É necessária a transparência”. O adjetivo “anexo” concorda com o substantivo: “Seguem anexos os comprovantes”. E “faltar” concorda com o sujeito posposto: “Faltaram respostas adequadas”.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-29",
+    "materia": "portugues",
+    "assunto": "Coesão e referência",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “Não se deve, por isso, demonizar a tecnologia”, a expressão “por isso” remete",
+    "texto_apoio": "QUEM RESPONDE QUANDO O ROBÔ NÃO ENTENDE\n\nA inteligência artificial chegou aos canais de atendimento com a promessa de resolver em segundos o que antes exigia longas esperas. Em muitos casos, cumpre o prometido: segunda via de boleto, consulta de saldo e desbloqueio de cartão são tarefas que um assistente virtual executa com eficiência. O problema começa quando a demanda foge ao roteiro.\n\nClientes com situações atípicas — uma cobrança que não reconhecem, um empréstimo contratado em circunstâncias duvidosas — relatam a sensação de conversar com uma parede educada. O sistema responde, agradece e sugere opções, mas nenhuma delas corresponde ao problema. Quando, enfim, o atendimento humano é oferecido, a paciência já se esgotou.\n\nNão se deve, por isso, demonizar a tecnologia. Os mesmos algoritmos que falham na conversa são capazes de identificar fraudes em tempo real e de liberar funcionários para tarefas que exigem análise. O desafio está em desenhar sistemas que reconheçam seus próprios limites e transfiram o cliente a uma pessoa antes que a frustração se instale.\n\nHá, ainda, uma questão de transparência. O consumidor tem o direito de saber se fala com uma máquina e de que forma seus dados são utilizados. A eficiência que se obtém às custas da confiança é, no longo prazo, um mau negócio.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "à eficiência dos assistentes virtuais em tarefas simples.",
+      "à capacidade de identificar fraudes em tempo real.",
+      "às falhas do atendimento automatizado relatadas no parágrafo anterior.",
+      "ao direito do consumidor de saber se fala com uma máquina.",
+      "à promessa de resolver em segundos o que exigia longas esperas."
+    ],
+    "correta": 2,
+    "comentario": "O segundo parágrafo descreve a frustração dos clientes com casos atípicos. O terceiro começa dizendo que, por causa disso (dessas falhas), não se deve demonizar a tecnologia — ou seja, os problemas relatados não justificam condená-la. A identificação de fraudes aparece depois, como argumento a favor da IA, e a transparência só surge no último parágrafo. A eficiência em tarefas simples e a promessa inicial estão no primeiro parágrafo e não são o que motivaria a “demonização”.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-30",
+    "materia": "portugues",
+    "assunto": "Reescrita e voz passiva",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O trecho “A eficiência que se obtém às custas da confiança” está reescrito com preservação do sentido e de acordo com a norma-padrão em:",
+    "texto_apoio": "QUEM RESPONDE QUANDO O ROBÔ NÃO ENTENDE\n\nA inteligência artificial chegou aos canais de atendimento com a promessa de resolver em segundos o que antes exigia longas esperas. Em muitos casos, cumpre o prometido: segunda via de boleto, consulta de saldo e desbloqueio de cartão são tarefas que um assistente virtual executa com eficiência. O problema começa quando a demanda foge ao roteiro.\n\nClientes com situações atípicas — uma cobrança que não reconhecem, um empréstimo contratado em circunstâncias duvidosas — relatam a sensação de conversar com uma parede educada. O sistema responde, agradece e sugere opções, mas nenhuma delas corresponde ao problema. Quando, enfim, o atendimento humano é oferecido, a paciência já se esgotou.\n\nNão se deve, por isso, demonizar a tecnologia. Os mesmos algoritmos que falham na conversa são capazes de identificar fraudes em tempo real e de liberar funcionários para tarefas que exigem análise. O desafio está em desenhar sistemas que reconheçam seus próprios limites e transfiram o cliente a uma pessoa antes que a frustração se instale.\n\nHá, ainda, uma questão de transparência. O consumidor tem o direito de saber se fala com uma máquina e de que forma seus dados são utilizados. A eficiência que se obtém às custas da confiança é, no longo prazo, um mau negócio.\n\n(Artigo de opinião inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "A eficiência que se obtêm às custas da confiança.",
+      "A eficiência que obtém-se às custas da confiança.",
+      "A eficiência que se obteve às custas da confiança.",
+      "A eficiência a qual se obtém à custas da confiança.",
+      "A eficiência que é obtida às custas da confiança."
+    ],
+    "correta": 4,
+    "comentario": "Em “que se obtém”, o “se” é partícula apassivadora (voz passiva sintética); a transposição para a voz passiva analítica, “que é obtida”, mantém tempo, sentido e concordância com “eficiência”. “Obtêm” é plural e não concorda com o sujeito singular. O pronome relativo “que” atrai o pronome átono, tornando obrigatória a próclise (“que se obtém”). “Obteve” altera o tempo verbal para o passado. E “à custas” está errado, pois não há crase diante de palavra no plural precedida apenas de “a”.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-port-31",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "De acordo com o texto, pagar apenas o valor mínimo da fatura do cartão",
+    "texto_apoio": "O ROTATIVO E A MATEMÁTICA DO ESQUECIMENTO\n\nO cartão de crédito é, para milhões de brasileiros, a principal forma de pagamento a prazo. Seu funcionamento parece simples: compra-se hoje e paga-se na data do vencimento. A armadilha aparece quando o cliente quita apenas o valor mínimo da fatura. O saldo restante entra no crédito rotativo, uma das modalidades mais caras do mercado.\n\nAo contrário do que muitos supõem, pagar o mínimo não é uma solução, mas o adiamento de um problema que cresce a cada mês. Os juros incidem sobre o saldo devedor e, no mês seguinte, sobre os juros já acumulados. É o efeito dos juros compostos operando contra o consumidor, e não a seu favor, como ocorre numa aplicação financeira.\n\nNos últimos anos, novas regras limitaram o total de encargos que pode ser cobrado nessa modalidade, o que reduziu o risco de dívidas impagáveis. A mudança é bem-vinda, mas não elimina a necessidade de atenção. Quem percebe que não conseguirá pagar a fatura integral faz melhor negócio ao buscar um parcelamento com taxa menor ou um empréstimo de custo inferior do que ao deixar a dívida rolar.\n\nEm finanças pessoais, o tempo pode ser aliado ou inimigo. Tudo depende de que lado da taxa de juros a pessoa está.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "deixou de representar risco depois que novas regras limitaram os encargos da modalidade.",
+      "tende a aumentar a dívida, pois os juros passam a incidir também sobre os juros acumulados.",
+      "é a forma mais barata de financiar uma compra feita a prazo.",
+      "é sempre preferível a buscar um parcelamento ou um empréstimo.",
+      "produz o mesmo efeito positivo dos juros compostos numa aplicação financeira."
+    ],
+    "correta": 1,
+    "comentario": "O segundo parágrafo explica que pagar o mínimo adia um problema “que cresce a cada mês”, porque os juros incidem sobre o saldo e, depois, sobre os juros já acumulados. As novas regras “reduziram” o risco, mas “não eliminam a necessidade de atenção”. O rotativo é descrito como “uma das modalidades mais caras”, e o texto recomenda justamente buscar parcelamento ou empréstimo mais barato. Os juros compostos, no rotativo, operam “contra o consumidor, e não a seu favor”.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-32",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A expressão “Ao contrário do que muitos supõem”, no início do segundo parágrafo, introduz",
+    "texto_apoio": "O ROTATIVO E A MATEMÁTICA DO ESQUECIMENTO\n\nO cartão de crédito é, para milhões de brasileiros, a principal forma de pagamento a prazo. Seu funcionamento parece simples: compra-se hoje e paga-se na data do vencimento. A armadilha aparece quando o cliente quita apenas o valor mínimo da fatura. O saldo restante entra no crédito rotativo, uma das modalidades mais caras do mercado.\n\nAo contrário do que muitos supõem, pagar o mínimo não é uma solução, mas o adiamento de um problema que cresce a cada mês. Os juros incidem sobre o saldo devedor e, no mês seguinte, sobre os juros já acumulados. É o efeito dos juros compostos operando contra o consumidor, e não a seu favor, como ocorre numa aplicação financeira.\n\nNos últimos anos, novas regras limitaram o total de encargos que pode ser cobrado nessa modalidade, o que reduziu o risco de dívidas impagáveis. A mudança é bem-vinda, mas não elimina a necessidade de atenção. Quem percebe que não conseguirá pagar a fatura integral faz melhor negócio ao buscar um parcelamento com taxa menor ou um empréstimo de custo inferior do que ao deixar a dívida rolar.\n\nEm finanças pessoais, o tempo pode ser aliado ou inimigo. Tudo depende de que lado da taxa de juros a pessoa está.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "a confirmação de uma opinião majoritária.",
+      "a refutação de uma crença comum.",
+      "a exemplificação de uma regra apresentada antes.",
+      "uma hipótese que ainda precisa ser comprovada.",
+      "a conclusão do raciocínio desenvolvido no texto."
+    ],
+    "correta": 1,
+    "comentario": "A expressão anuncia que o autor vai contestar o que “muitos supõem”, isto é, a crença de que pagar o mínimo resolve o problema. Por isso, a ideia é de refutação, e não de confirmação. O autor apresenta o fato como certo, não como hipótese, e a conclusão do texto está no último parágrafo. Também não há exemplo de regra anterior: trata-se da contestação de um senso comum.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-33",
+    "materia": "portugues",
+    "assunto": "Concordância verbal",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “novas regras limitaram o total de encargos que pode ser cobrado nessa modalidade”, a locução verbal “pode ser cobrado” está no singular porque",
+    "texto_apoio": "O ROTATIVO E A MATEMÁTICA DO ESQUECIMENTO\n\nO cartão de crédito é, para milhões de brasileiros, a principal forma de pagamento a prazo. Seu funcionamento parece simples: compra-se hoje e paga-se na data do vencimento. A armadilha aparece quando o cliente quita apenas o valor mínimo da fatura. O saldo restante entra no crédito rotativo, uma das modalidades mais caras do mercado.\n\nAo contrário do que muitos supõem, pagar o mínimo não é uma solução, mas o adiamento de um problema que cresce a cada mês. Os juros incidem sobre o saldo devedor e, no mês seguinte, sobre os juros já acumulados. É o efeito dos juros compostos operando contra o consumidor, e não a seu favor, como ocorre numa aplicação financeira.\n\nNos últimos anos, novas regras limitaram o total de encargos que pode ser cobrado nessa modalidade, o que reduziu o risco de dívidas impagáveis. A mudança é bem-vinda, mas não elimina a necessidade de atenção. Quem percebe que não conseguirá pagar a fatura integral faz melhor negócio ao buscar um parcelamento com taxa menor ou um empréstimo de custo inferior do que ao deixar a dívida rolar.\n\nEm finanças pessoais, o tempo pode ser aliado ou inimigo. Tudo depende de que lado da taxa de juros a pessoa está.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "concorda com “encargos”, núcleo do sujeito da oração.",
+      "o verbo “poder”, nessa construção, é impessoal.",
+      "a oração apresenta sujeito indeterminado.",
+      "concorda com “o total”, antecedente do pronome relativo “que”.",
+      "o pronome relativo “que” exige sempre verbo no singular."
+    ],
+    "correta": 3,
+    "comentario": "O pronome relativo “que” retoma “o total” e funciona como sujeito da oração adjetiva; o verbo concorda com o antecedente do relativo, por isso “pode ser cobrado”, no masculino singular. Se o antecedente fosse “encargos”, a forma seria “podem ser cobrados” — o particípio no singular confirma que o termo retomado é “o total”. “Poder” não é impessoal aqui, o sujeito não é indeterminado, e o relativo “que” leva o verbo ao plural quando o antecedente está no plural.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-port-34",
+    "materia": "portugues",
+    "assunto": "Significado no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No terceiro parágrafo, a expressão “deixar a dívida rolar” significa",
+    "texto_apoio": "O ROTATIVO E A MATEMÁTICA DO ESQUECIMENTO\n\nO cartão de crédito é, para milhões de brasileiros, a principal forma de pagamento a prazo. Seu funcionamento parece simples: compra-se hoje e paga-se na data do vencimento. A armadilha aparece quando o cliente quita apenas o valor mínimo da fatura. O saldo restante entra no crédito rotativo, uma das modalidades mais caras do mercado.\n\nAo contrário do que muitos supõem, pagar o mínimo não é uma solução, mas o adiamento de um problema que cresce a cada mês. Os juros incidem sobre o saldo devedor e, no mês seguinte, sobre os juros já acumulados. É o efeito dos juros compostos operando contra o consumidor, e não a seu favor, como ocorre numa aplicação financeira.\n\nNos últimos anos, novas regras limitaram o total de encargos que pode ser cobrado nessa modalidade, o que reduziu o risco de dívidas impagáveis. A mudança é bem-vinda, mas não elimina a necessidade de atenção. Quem percebe que não conseguirá pagar a fatura integral faz melhor negócio ao buscar um parcelamento com taxa menor ou um empréstimo de custo inferior do que ao deixar a dívida rolar.\n\nEm finanças pessoais, o tempo pode ser aliado ou inimigo. Tudo depende de que lado da taxa de juros a pessoa está.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "renegociar formalmente a dívida com a instituição financeira.",
+      "quitar a dívida em parcela única, com desconto.",
+      "transferir a dívida para o nome de outra pessoa.",
+      "contestar judicialmente a cobrança dos encargos.",
+      "permitir que a dívida seja adiada mês a mês, acumulando encargos."
+    ],
+    "correta": 4,
+    "comentario": "“Deixar a dívida rolar” é expressão informal para a atitude de não enfrentar a dívida e permitir que ela seja empurrada para os meses seguintes — no caso, permanecendo no rotativo e acumulando juros. O texto opõe essa atitude a buscar parcelamento ou empréstimo mais barato, o que exclui a renegociação como sentido da expressão. Quitar em parcela única seria o contrário de deixar rolar, e não há menção a transferência ou disputa judicial.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-35",
+    "materia": "portugues",
+    "assunto": "Sintaxe e pontuação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No período “O saldo restante entra no crédito rotativo, uma das modalidades mais caras do mercado”, o trecho após a vírgula exerce a função de",
+    "texto_apoio": "O ROTATIVO E A MATEMÁTICA DO ESQUECIMENTO\n\nO cartão de crédito é, para milhões de brasileiros, a principal forma de pagamento a prazo. Seu funcionamento parece simples: compra-se hoje e paga-se na data do vencimento. A armadilha aparece quando o cliente quita apenas o valor mínimo da fatura. O saldo restante entra no crédito rotativo, uma das modalidades mais caras do mercado.\n\nAo contrário do que muitos supõem, pagar o mínimo não é uma solução, mas o adiamento de um problema que cresce a cada mês. Os juros incidem sobre o saldo devedor e, no mês seguinte, sobre os juros já acumulados. É o efeito dos juros compostos operando contra o consumidor, e não a seu favor, como ocorre numa aplicação financeira.\n\nNos últimos anos, novas regras limitaram o total de encargos que pode ser cobrado nessa modalidade, o que reduziu o risco de dívidas impagáveis. A mudança é bem-vinda, mas não elimina a necessidade de atenção. Quem percebe que não conseguirá pagar a fatura integral faz melhor negócio ao buscar um parcelamento com taxa menor ou um empréstimo de custo inferior do que ao deixar a dívida rolar.\n\nEm finanças pessoais, o tempo pode ser aliado ou inimigo. Tudo depende de que lado da taxa de juros a pessoa está.\n\n(Texto inédito, escrito para fins didáticos.)",
+    "alternativas": [
+      "vocativo, dirigido ao leitor do texto.",
+      "predicativo do sujeito “o saldo restante”.",
+      "adjunto adverbial de modo, deslocado para o fim.",
+      "aposto explicativo, que caracteriza “crédito rotativo”.",
+      "oração subordinada adjetiva restritiva."
+    ],
+    "correta": 3,
+    "comentario": "O trecho “uma das modalidades mais caras do mercado” acrescenta uma explicação sobre “crédito rotativo”, termo que o antecede, e vem separado por vírgula: é um aposto explicativo. Não há chamamento ao leitor (vocativo). O trecho não atribui qualidade ao saldo, mas ao rotativo, logo não é predicativo de “o saldo restante”. Também não indica modo e não é oração, pois não possui verbo.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-36",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Segundo o texto, um efeito do recebimento por meio digital para os pequenos comerciantes foi",
+    "texto_apoio": "A FEIRA QUE ACEITA PIX\n\nNa feira do meu bairro, a banca de dona Lurdes tem uma plaquinha plastificada com um código quadrado ao lado do preço do tomate. Há poucos anos, ela recusava cartão: dizia que a maquininha comia seu lucro. Hoje, recebe quase tudo por transferência instantânea e confere o celular com a desenvoltura de quem sempre fez isso.\n\nA mudança não foi apenas tecnológica. Ao receber por meio digital, pequenos comerciantes passaram a ter registro das próprias vendas, o que facilita comprovar renda e, em alguns casos, obter crédito. Aquilo que era invisível para o sistema financeiro começou a deixar rastros. Para muitos, foi o primeiro contato com um banco que não exigia fila, gravata nem comprovante de residência impresso.\n\nNem tudo, porém, é celebração. A mesma rastreabilidade que abre portas levanta dúvidas sobre privacidade e tributação, e há quem tema que a facilidade de pagar estimule gastos por impulso. São preocupações legítimas, que merecem debate sério em vez de respostas prontas.\n\nDona Lurdes, por sua vez, tem uma avaliação mais prática. Diz que antes perdia vendas por falta de troco e que agora só perde quando a internet cai. Para ela, o progresso se mede assim: pelo número de fregueses que não vão embora de mãos vazias.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "a eliminação de qualquer preocupação com privacidade e tributação.",
+      "o fim das perdas de venda, em qualquer circunstância.",
+      "a exigência de comprovante de residência impresso para abrir conta.",
+      "a diminuição do número de fregueses nas bancas de feira.",
+      "a geração de registros de venda que podem facilitar a comprovação de renda e o acesso a crédito."
+    ],
+    "correta": 4,
+    "comentario": "O segundo parágrafo afirma que os comerciantes “passaram a ter registro das próprias vendas, o que facilita comprovar renda e, em alguns casos, obter crédito”. O terceiro parágrafo mostra que as dúvidas sobre privacidade e tributação continuam. Dona Lurdes ainda perde vendas “quando a internet cai”. O texto diz que o banco digital “não exigia” comprovante impresso, e nada indica queda no número de fregueses.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-37",
+    "materia": "portugues",
+    "assunto": "Compreensão e interpretação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O trecho “Aquilo que era invisível para o sistema financeiro começou a deixar rastros” significa que",
+    "texto_apoio": "A FEIRA QUE ACEITA PIX\n\nNa feira do meu bairro, a banca de dona Lurdes tem uma plaquinha plastificada com um código quadrado ao lado do preço do tomate. Há poucos anos, ela recusava cartão: dizia que a maquininha comia seu lucro. Hoje, recebe quase tudo por transferência instantânea e confere o celular com a desenvoltura de quem sempre fez isso.\n\nA mudança não foi apenas tecnológica. Ao receber por meio digital, pequenos comerciantes passaram a ter registro das próprias vendas, o que facilita comprovar renda e, em alguns casos, obter crédito. Aquilo que era invisível para o sistema financeiro começou a deixar rastros. Para muitos, foi o primeiro contato com um banco que não exigia fila, gravata nem comprovante de residência impresso.\n\nNem tudo, porém, é celebração. A mesma rastreabilidade que abre portas levanta dúvidas sobre privacidade e tributação, e há quem tema que a facilidade de pagar estimule gastos por impulso. São preocupações legítimas, que merecem debate sério em vez de respostas prontas.\n\nDona Lurdes, por sua vez, tem uma avaliação mais prática. Diz que antes perdia vendas por falta de troco e que agora só perde quando a internet cai. Para ela, o progresso se mede assim: pelo número de fregueses que não vão embora de mãos vazias.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "os bancos passaram a esconder as movimentações dos pequenos comerciantes.",
+      "os comerciantes começaram a sonegar informações sobre as próprias vendas.",
+      "o dinheiro em espécie desapareceu completamente das feiras.",
+      "atividades econômicas antes não registradas passaram a ser documentadas.",
+      "as transações digitais tornaram-se impossíveis de rastrear."
+    ],
+    "correta": 3,
+    "comentario": "A frase retoma a ideia anterior: ao receberem por meio digital, os comerciantes passaram a ter registro das vendas. O que era “invisível” (vendas em dinheiro, sem registro) passou a “deixar rastros” (ser documentado). O texto não fala em bancos escondendo movimentações nem em sonegação. Também não afirma que o dinheiro em espécie desapareceu, e a ideia de transações impossíveis de rastrear é o oposto do sentido do trecho.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-38",
+    "materia": "portugues",
+    "assunto": "Significado no contexto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No trecho “São preocupações legítimas, que merecem debate sério em vez de respostas prontas”, a expressão “em vez de” pode ser substituída, sem alteração do sentido, por",
+    "texto_apoio": "A FEIRA QUE ACEITA PIX\n\nNa feira do meu bairro, a banca de dona Lurdes tem uma plaquinha plastificada com um código quadrado ao lado do preço do tomate. Há poucos anos, ela recusava cartão: dizia que a maquininha comia seu lucro. Hoje, recebe quase tudo por transferência instantânea e confere o celular com a desenvoltura de quem sempre fez isso.\n\nA mudança não foi apenas tecnológica. Ao receber por meio digital, pequenos comerciantes passaram a ter registro das próprias vendas, o que facilita comprovar renda e, em alguns casos, obter crédito. Aquilo que era invisível para o sistema financeiro começou a deixar rastros. Para muitos, foi o primeiro contato com um banco que não exigia fila, gravata nem comprovante de residência impresso.\n\nNem tudo, porém, é celebração. A mesma rastreabilidade que abre portas levanta dúvidas sobre privacidade e tributação, e há quem tema que a facilidade de pagar estimule gastos por impulso. São preocupações legítimas, que merecem debate sério em vez de respostas prontas.\n\nDona Lurdes, por sua vez, tem uma avaliação mais prática. Diz que antes perdia vendas por falta de troco e que agora só perde quando a internet cai. Para ela, o progresso se mede assim: pelo número de fregueses que não vão embora de mãos vazias.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "no lugar de",
+      "além de",
+      "a fim de",
+      "por causa de",
+      "apesar de"
+    ],
+    "correta": 0,
+    "comentario": "“Em vez de” indica substituição: o autor quer um debate sério no lugar de respostas prontas. “No lugar de” preserva exatamente essa ideia. “Além de” indica acréscimo, como se as duas coisas devessem coexistir. “A fim de” expressa finalidade, “por causa de” expressa causa, e “apesar de” expressa concessão — todas alterariam o sentido.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-port-39",
+    "materia": "portugues",
+    "assunto": "Emprego de “há” e “a”",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O emprego de “há” ou “a” está de acordo com a norma-padrão em:",
+    "texto_apoio": "A FEIRA QUE ACEITA PIX\n\nNa feira do meu bairro, a banca de dona Lurdes tem uma plaquinha plastificada com um código quadrado ao lado do preço do tomate. Há poucos anos, ela recusava cartão: dizia que a maquininha comia seu lucro. Hoje, recebe quase tudo por transferência instantânea e confere o celular com a desenvoltura de quem sempre fez isso.\n\nA mudança não foi apenas tecnológica. Ao receber por meio digital, pequenos comerciantes passaram a ter registro das próprias vendas, o que facilita comprovar renda e, em alguns casos, obter crédito. Aquilo que era invisível para o sistema financeiro começou a deixar rastros. Para muitos, foi o primeiro contato com um banco que não exigia fila, gravata nem comprovante de residência impresso.\n\nNem tudo, porém, é celebração. A mesma rastreabilidade que abre portas levanta dúvidas sobre privacidade e tributação, e há quem tema que a facilidade de pagar estimule gastos por impulso. São preocupações legítimas, que merecem debate sério em vez de respostas prontas.\n\nDona Lurdes, por sua vez, tem uma avaliação mais prática. Diz que antes perdia vendas por falta de troco e que agora só perde quando a internet cai. Para ela, o progresso se mede assim: pelo número de fregueses que não vão embora de mãos vazias.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "Daqui há dois anos, o sistema de pagamentos será atualizado.",
+      "Daqui a dois anos, o sistema de pagamentos será atualizado.",
+      "A feira funciona naquela rua a várias décadas.",
+      "Há dez anos atrás, ela não aceitava pagamento com cartão.",
+      "Faziam anos que ela não recebia tantos fregueses."
+    ],
+    "correta": 1,
+    "comentario": "Para indicar tempo futuro ou distância, usa-se a preposição “a”: “Daqui a dois anos”. O verbo “haver” (“há”) indica tempo decorrido, como em “Há poucos anos”, do texto; por isso, “funciona a várias décadas” está errado — o correto é “há várias décadas”. “Há dez anos atrás” é redundante, pois “há” e “atrás” indicam passado. Por fim, “fazer” indicando tempo é impessoal e fica no singular: “Fazia anos”.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-port-40",
+    "materia": "portugues",
+    "assunto": "Coesão e conectivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "No início do último parágrafo, a expressão “por sua vez”, em “Dona Lurdes, por sua vez, tem uma avaliação mais prática”, sinaliza",
+    "texto_apoio": "A FEIRA QUE ACEITA PIX\n\nNa feira do meu bairro, a banca de dona Lurdes tem uma plaquinha plastificada com um código quadrado ao lado do preço do tomate. Há poucos anos, ela recusava cartão: dizia que a maquininha comia seu lucro. Hoje, recebe quase tudo por transferência instantânea e confere o celular com a desenvoltura de quem sempre fez isso.\n\nA mudança não foi apenas tecnológica. Ao receber por meio digital, pequenos comerciantes passaram a ter registro das próprias vendas, o que facilita comprovar renda e, em alguns casos, obter crédito. Aquilo que era invisível para o sistema financeiro começou a deixar rastros. Para muitos, foi o primeiro contato com um banco que não exigia fila, gravata nem comprovante de residência impresso.\n\nNem tudo, porém, é celebração. A mesma rastreabilidade que abre portas levanta dúvidas sobre privacidade e tributação, e há quem tema que a facilidade de pagar estimule gastos por impulso. São preocupações legítimas, que merecem debate sério em vez de respostas prontas.\n\nDona Lurdes, por sua vez, tem uma avaliação mais prática. Diz que antes perdia vendas por falta de troco e que agora só perde quando a internet cai. Para ela, o progresso se mede assim: pelo número de fregueses que não vão embora de mãos vazias.\n\n(Crônica inédita, escrita para fins didáticos.)",
+    "alternativas": [
+      "a repetição de uma ideia já expressa no parágrafo anterior.",
+      "a conclusão lógica do argumento sobre privacidade e tributação.",
+      "a passagem para a perspectiva de outra pessoa, diferente das posições apresentadas no parágrafo anterior.",
+      "a indicação da ordem cronológica em que os fatos ocorreram.",
+      "a condição necessária para que as preocupações se confirmem."
+    ],
+    "correta": 2,
+    "comentario": "“Por sua vez” equivale a “de sua parte” e marca a mudança de foco para outro agente: após as preocupações gerais do terceiro parágrafo, o texto apresenta a visão prática de dona Lurdes. Não há repetição de ideia, e a avaliação dela não é conclusão do argumento sobre privacidade — ela trata de troco e internet. A expressão também não tem valor temporal nem condicional.",
+    "dificuldade": 2
+  }
+]

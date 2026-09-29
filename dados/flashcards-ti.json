@@ -1,0 +1,127 @@
+[
+  {
+    "materia": "ti",
+    "frente": "Qual a diferença entre WHERE e HAVING em SQL?",
+    "verso": "WHERE filtra linhas antes do GROUP BY; HAVING filtra grupos depois do agrupamento e pode usar funções de agregação (SUM, COUNT, AVG)."
+  },
+  {
+    "materia": "ti",
+    "frente": "COUNT(*) x COUNT(coluna)",
+    "verso": "COUNT(*) conta todas as linhas, inclusive com NULL. COUNT(coluna) ignora NULL. SUM e AVG também ignoram NULL."
+  },
+  {
+    "materia": "ti",
+    "frente": "INNER JOIN x LEFT JOIN",
+    "verso": "INNER JOIN só traz linhas com correspondência nas duas tabelas. LEFT JOIN traz todas as linhas da tabela à esquerda, preenchendo com NULL o que não tem par."
+  },
+  {
+    "materia": "ti",
+    "frente": "1FN, 2FN e 3FN em uma frase cada",
+    "verso": "1FN: atributos atômicos, sem grupos repetidos. 2FN: sem dependência parcial de parte de chave composta. 3FN: sem dependência transitiva (não chave dependendo de não chave)."
+  },
+  {
+    "materia": "ti",
+    "frente": "Propriedades ACID",
+    "verso": "Atomicidade (tudo ou nada), Consistência (estado válido a estado válido), Isolamento (transações concorrentes não interferem), Durabilidade (commit sobrevive a falhas)."
+  },
+  {
+    "materia": "ti",
+    "frente": "Os 4 modelos NoSQL e um exemplo de cada",
+    "verso": "Chave-valor: Redis. Documento: MongoDB. Família de colunas: Cassandra. Grafo: Neo4j."
+  },
+  {
+    "materia": "ti",
+    "frente": "Python: v[1:5:2]",
+    "verso": "Fatia do índice 1 até 4 (o 5 é exclusivo), de 2 em 2: índices 1 e 3. Índices negativos contam do fim: v[-1] é o último."
+  },
+  {
+    "materia": "ti",
+    "frente": "Python: armadilha do argumento padrão mutável",
+    "verso": "def f(x, lst=[]) reaproveita a MESMA lista em todas as chamadas, pois o padrão é avaliado uma vez só. Use lst=None e crie a lista dentro da função."
+  },
+  {
+    "materia": "ti",
+    "frente": "Python: / x // x %",
+    "verso": "/ é divisão real (7/2 = 3.5); // é divisão inteira, com piso (7//2 = 3); % é o resto (7%2 = 1)."
+  },
+  {
+    "materia": "ti",
+    "frente": "Java: 7 / 2 com int",
+    "verso": "Dá 3 (divisão inteira). Para obter 3.5, converta antes: (double) 7 / 2. double x = 7 / 2 guarda 3.0."
+  },
+  {
+    "materia": "ti",
+    "frente": "Java: == x equals() em String",
+    "verso": "== compara referências (mesmo objeto); equals() compara conteúdo. new String(\"bb\") == \"bb\" é false; \"bb\".equals(new String(\"bb\")) é true."
+  },
+  {
+    "materia": "ti",
+    "frente": "Sobrecarga x sobrescrita",
+    "verso": "Sobrecarga (overloading): mesmo nome, parâmetros diferentes, resolvida em compilação. Sobrescrita (overriding): subclasse redefine método herdado com mesma assinatura, resolvida em execução."
+  },
+  {
+    "materia": "ti",
+    "frente": "Interface x classe abstrata (Java)",
+    "verso": "Uma classe estende só UMA classe (abstrata ou não), mas implementa VÁRIAS interfaces. Classe abstrata não é instanciada e pode ter métodos concretos; interface pode ter métodos default desde o Java 8."
+  },
+  {
+    "materia": "ti",
+    "frente": "Pilha x Fila",
+    "verso": "Pilha: LIFO (último a entrar, primeiro a sair), usada em DFS e na pilha de chamadas. Fila: FIFO (primeiro a entrar, primeiro a sair), usada em BFS e em filas de processamento."
+  },
+  {
+    "materia": "ti",
+    "frente": "Big-O de buscas e ordenações",
+    "verso": "Busca sequencial O(n); busca binária O(log n), com vetor ordenado. Merge sort O(n log n) sempre; quicksort O(n log n) médio e O(n²) no pior; bubble e insertion O(n²)."
+  },
+  {
+    "materia": "ti",
+    "frente": "Métodos HTTP idempotentes",
+    "verso": "GET, HEAD, PUT, DELETE e OPTIONS. POST não é idempotente; PATCH não tem garantia. Seguros (não alteram estado): GET, HEAD e OPTIONS."
+  },
+  {
+    "materia": "ti",
+    "frente": "Códigos HTTP 401 x 403",
+    "verso": "401 Unauthorized: falta autenticação válida (quem é você?). 403 Forbidden: autenticado, mas sem permissão para aquele recurso."
+  },
+  {
+    "materia": "ti",
+    "frente": "REST: o que é stateless?",
+    "verso": "O servidor não guarda sessão do cliente; cada requisição carrega tudo que precisa (por exemplo, o token). Facilita a escalabilidade horizontal."
+  },
+  {
+    "materia": "ti",
+    "frente": "Scrum: papéis e duração da Sprint",
+    "verso": "Papéis: Product Owner (gerencia e ordena o backlog), Scrum Master (eficácia do time) e Developers. Sprint: duração fixa de até 1 mês. Daily: 15 minutos, dos Developers."
+  },
+  {
+    "materia": "ti",
+    "frente": "Kanban em uma frase",
+    "verso": "Fluxo contínuo e puxado, com quadro visual e limite de WIP por etapa; não tem Sprints nem papéis obrigatórios."
+  },
+  {
+    "materia": "ti",
+    "frente": "Entrega contínua x implantação contínua",
+    "verso": "Continuous delivery: tudo pronto para produção, mas o deploy tem aprovação manual. Continuous deployment: o que passa no pipeline vai para produção automaticamente."
+  },
+  {
+    "materia": "ti",
+    "frente": "git fetch x git pull",
+    "verso": "fetch só baixa e atualiza as referências remotas (origin/main). pull = fetch + merge (ou rebase, se configurado) no ramo atual."
+  },
+  {
+    "materia": "ti",
+    "frente": "IaaS x PaaS x SaaS",
+    "verso": "IaaS: você gerencia do sistema operacional para cima (VMs). PaaS: você só publica o código. SaaS: você só usa o software pronto (e-mail, CRM)."
+  },
+  {
+    "materia": "ti",
+    "frente": "Assinatura digital x confidencialidade",
+    "verso": "Assinar: o remetente usa a própria chave PRIVADA, e quem verifica usa a PÚBLICA dele. Sigilo: cifra-se com a chave PÚBLICA do destinatário, que decifra com a PRIVADA dele."
+  },
+  {
+    "materia": "ti",
+    "frente": "Precisão x revocação (recall)",
+    "verso": "Precisão = VP/(VP+FP): dos que apontei como positivos, quantos eram. Revocação = VP/(VP+FN): dos positivos reais, quantos achei. Acurácia = (VP+VN)/total."
+  }
+]

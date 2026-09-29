@@ -1,0 +1,632 @@
+[
+  {
+    "id": "in-matfin-01",
+    "materia": "mat-financeira",
+    "assunto": "Juros simples - montante",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente aplicou R$ 12.000,00 em um título que rende juros simples de 1,5% ao mês. Qual será o montante após 8 meses?",
+    "alternativas": [
+      "R$ 1.440,00",
+      "R$ 12.180,00",
+      "R$ 13.440,00",
+      "R$ 13.517,91",
+      "R$ 13.800,00"
+    ],
+    "correta": 2,
+    "comentario": "No regime simples, J = C·i·n = 12.000 × 0,015 × 8 = R$ 1.440,00, e o montante é M = 12.000 + 1.440 = R$ 13.440,00. Marcar R$ 1.440,00 é confundir juros com montante. Quem capitaliza os juros (regime composto) encontra 12.000 × 1,015^8 ≈ R$ 13.517,91, o que não se aplica, porque o título rende juros simples.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-02",
+    "materia": "mat-financeira",
+    "assunto": "Juros simples - taxa",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma aplicação de R$ 8.000,00, feita no regime de juros simples, resultou em um montante de R$ 9.200,00 após 10 meses. A taxa mensal dessa aplicação foi de",
+    "alternativas": [
+      "1,20%",
+      "1,41%",
+      "1,50%",
+      "1,80%",
+      "15,00%"
+    ],
+    "correta": 2,
+    "comentario": "Os juros foram de 9.200 − 8.000 = R$ 1.200,00. Como J = C·i·n, temos 1.200 = 8.000 × i × 10, logo i = 1.200/80.000 = 0,015 = 1,5% ao mês. Os 15% correspondem à taxa do período inteiro, e não à taxa mensal. Os 1,41% são a taxa composta equivalente (1,15^(1/10) − 1), resposta de quem usa o regime errado.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-03",
+    "materia": "mat-financeira",
+    "assunto": "Juros simples - prazo",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em quantos meses um capital aplicado a juros simples de 2,5% ao mês dobra de valor?",
+    "alternativas": [
+      "20 meses",
+      "25 meses",
+      "28 meses",
+      "35 meses",
+      "40 meses"
+    ],
+    "correta": 4,
+    "comentario": "Dobrar o capital significa juros iguais ao próprio capital: C = C × 0,025 × n, logo n = 1/0,025 = 40 meses. O valor 28 meses é aproximadamente o prazo no regime composto (1,025^n = 2), que não é o caso. 20 meses corresponderia a uma taxa de 5% ao mês.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-04",
+    "materia": "mat-financeira",
+    "assunto": "Juros compostos - montante",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa aplicou R$ 20.000,00 em um CDB que rende juros compostos de 3% ao mês. Qual será, aproximadamente, o montante após 12 meses? Dado: 1,03^12 ≈ 1,4258",
+    "alternativas": [
+      "R$ 8.516,00",
+      "R$ 23.000,00",
+      "R$ 25.400,00",
+      "R$ 27.200,00",
+      "R$ 28.516,00"
+    ],
+    "correta": 4,
+    "comentario": "No regime composto, M = C·(1 + i)^n = 20.000 × 1,03^12 ≈ 20.000 × 1,4258 = R$ 28.516,00. Quem usa juros simples obtém 20.000 × (1 + 0,03 × 12) = 20.000 × 1,36 = R$ 27.200,00, valor menor, porque não há juros sobre juros. Marcar R$ 8.516,00 é responder apenas os juros, e não o montante.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-05",
+    "materia": "mat-financeira",
+    "assunto": "Juros compostos - valor presente",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Quanto um cliente deve aplicar hoje, a juros compostos de 20% ao ano, para dispor de R$ 50.000,00 daqui a 3 anos?",
+    "alternativas": [
+      "R$ 28.935,19",
+      "R$ 30.000,00",
+      "R$ 31.250,00",
+      "R$ 34.722,22",
+      "R$ 50.000,00"
+    ],
+    "correta": 0,
+    "comentario": "O valor presente é C = M/(1 + i)^n = 50.000/1,2^3 = 50.000/1,728 ≈ R$ 28.935,19. Quem usa juros simples calcula 50.000/1,6 = R$ 31.250,00. Descontar apenas dois anos (50.000/1,44) dá R$ 34.722,22. Marcar R$ 50.000,00 é esquecer de trazer o valor futuro para a data de hoje.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-06",
+    "materia": "mat-financeira",
+    "assunto": "Taxas equivalentes",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um financiamento cobra juros compostos de 1% ao mês. Considerando-se 1,01^12 ≈ 1,1268, a taxa anual equivalente é de, aproximadamente,",
+    "alternativas": [
+      "9,80%",
+      "10,50%",
+      "11,20%",
+      "12,00%",
+      "12,68%"
+    ],
+    "correta": 4,
+    "comentario": "Taxas equivalentes no regime composto satisfazem (1 + i_a) = (1 + i_m)^12. Assim, 1 + i_a = 1,01^12 ≈ 1,1268, e a taxa anual equivalente é de aproximadamente 12,68%. Responder 12% é usar a taxa proporcional (1% × 12), que só vale no regime de juros simples.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-07",
+    "materia": "mat-financeira",
+    "assunto": "Taxas equivalentes",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma aplicação rende 21% ao ano, no regime de juros compostos. A taxa semestral equivalente é de",
+    "alternativas": [
+      "10,00%",
+      "10,50%",
+      "11,25%",
+      "12,00%",
+      "21,00%"
+    ],
+    "correta": 0,
+    "comentario": "Um ano tem 2 semestres, então (1 + i_s)^2 = 1,21 e 1 + i_s = √1,21 = 1,10, ou seja, i_s = 10% ao semestre. Os 10,5% vêm da divisão de 21% por 2 (taxa proporcional), que ignora a capitalização. Confira: 1,10 × 1,10 = 1,21.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-08",
+    "materia": "mat-financeira",
+    "assunto": "Taxa nominal x efetiva",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um banco anuncia um empréstimo com taxa nominal de 24% ao ano, capitalizada mensalmente. Considerando-se 1,02^12 ≈ 1,2682, a taxa efetiva anual desse empréstimo é de, aproximadamente,",
+    "alternativas": [
+      "2,00%",
+      "20,00%",
+      "22,00%",
+      "24,00%",
+      "26,82%"
+    ],
+    "correta": 4,
+    "comentario": "A taxa nominal é convertida em efetiva pela taxa proporcional do período de capitalização: 24%/12 = 2% ao mês. Capitalizando por 12 meses, 1,02^12 ≈ 1,2682, e a taxa efetiva anual é de cerca de 26,82%. Responder 24% é tomar a taxa nominal como efetiva, e 2% é a taxa mensal efetiva, não a anual.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-09",
+    "materia": "mat-financeira",
+    "assunto": "Taxa nominal x efetiva",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma linha de crédito tem taxa nominal de 36% ao ano, com capitalização trimestral. A taxa efetiva semestral dessa linha é de",
+    "alternativas": [
+      "9,00%",
+      "12,00%",
+      "16,00%",
+      "18,00%",
+      "18,81%"
+    ],
+    "correta": 4,
+    "comentario": "Com capitalização trimestral, a taxa efetiva trimestral é 36%/4 = 9%. Um semestre tem 2 trimestres, logo a taxa efetiva semestral é 1,09^2 − 1 = 1,1881 − 1 = 18,81%. Responder 18% é dividir a taxa nominal por 2, desprezando a capitalização dentro do semestre; 9% é apenas a taxa trimestral.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-10",
+    "materia": "mat-financeira",
+    "assunto": "Taxa real (Fisher)",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um fundo de investimento rendeu 12% em um ano no qual a inflação foi de 5%. A taxa real de rendimento desse fundo, no período, foi de, aproximadamente,",
+    "alternativas": [
+      "6,67%",
+      "7,00%",
+      "8,00%",
+      "12,00%",
+      "17,60%"
+    ],
+    "correta": 0,
+    "comentario": "Pela equação de Fisher, (1 + i_nominal) = (1 + i_real)(1 + inflação). Assim, 1 + i_real = 1,12/1,05 ≈ 1,0667, e a taxa real é de aproximadamente 6,67%. Subtrair as taxas (12% − 5% = 7%) é a aproximação que a banca usa como distrator, e 17,6% vem de multiplicar os fatores (1,12 × 1,05), em vez de dividir.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-11",
+    "materia": "mat-financeira",
+    "assunto": "Taxa real (Fisher)",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um investidor deseja obter ganho real de 8% ao ano em um período no qual a inflação esperada é de 10% ao ano. Qual deve ser a taxa nominal anual da aplicação?",
+    "alternativas": [
+      "18,00%",
+      "18,80%",
+      "20,00%",
+      "21,00%",
+      "22,00%"
+    ],
+    "correta": 1,
+    "comentario": "A taxa nominal é obtida compondo o ganho real com a inflação: 1 + i_n = 1,08 × 1,10 = 1,188, ou seja, 18,8% ao ano. Somar as taxas (8% + 10% = 18%) ignora que o ganho real incide também sobre a parcela de correção inflacionária. Os demais valores não satisfazem a relação de Fisher.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-12",
+    "materia": "mat-financeira",
+    "assunto": "Taxa real (Fisher)",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma aplicação teve rendimento nominal de 15,5% em um ano, o que correspondeu a um ganho real de 5%. A inflação desse ano foi de",
+    "alternativas": [
+      "10,00%",
+      "10,50%",
+      "11,10%",
+      "12,00%",
+      "20,50%"
+    ],
+    "correta": 0,
+    "comentario": "Pela relação de Fisher, 1 + inflação = (1 + i_nominal)/(1 + i_real) = 1,155/1,05 = 1,10, e a inflação foi de 10%. O distrator de 10,5% vem de subtrair as taxas (15,5% − 5%), aproximação que só funciona para taxas pequenas e não é a resposta exata; 20,5% resulta de somá-las.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-13",
+    "materia": "mat-financeira",
+    "assunto": "Desconto comercial simples",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa descontou em um banco uma duplicata de valor nominal R$ 15.000,00, 4 meses antes do vencimento, sob o regime de desconto comercial (por fora) simples, à taxa de 2,5% ao mês. Qual valor a empresa recebeu?",
+    "alternativas": [
+      "R$ 1.500,00",
+      "R$ 13.500,00",
+      "R$ 13.636,36",
+      "R$ 14.000,00",
+      "R$ 14.625,00"
+    ],
+    "correta": 1,
+    "comentario": "No desconto comercial simples, D = N·i·n = 15.000 × 0,025 × 4 = R$ 1.500,00, e o valor recebido é A = 15.000 − 1.500 = R$ 13.500,00. Quem aplica o desconto racional (por dentro) calcula 15.000/1,10 ≈ R$ 13.636,36, e marcar R$ 1.500,00 é confundir o desconto com o valor líquido. R$ 14.625,00 considera só um mês de antecipação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-14",
+    "materia": "mat-financeira",
+    "assunto": "Desconto racional simples",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um título de valor nominal R$ 22.000,00 foi resgatado 5 meses antes do vencimento, com desconto racional (por dentro) simples à taxa de 2% ao mês. O valor do desconto concedido foi de",
+    "alternativas": [
+      "R$ 440,00",
+      "R$ 2.000,00",
+      "R$ 2.100,00",
+      "R$ 2.200,00",
+      "R$ 2.400,00"
+    ],
+    "correta": 1,
+    "comentario": "No desconto racional simples, o valor atual é A = N/(1 + i·n) = 22.000/1,10 = R$ 20.000,00, e o desconto é D = 22.000 − 20.000 = R$ 2.000,00. Quem aplica o desconto comercial calcula 22.000 × 0,02 × 5 = R$ 2.200,00, sempre maior que o racional nas mesmas condições. R$ 440,00 é o desconto de apenas um mês pelo critério comercial.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-15",
+    "materia": "mat-financeira",
+    "assunto": "Desconto comercial - taxa efetiva",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um banco desconta títulos pelo critério do desconto comercial simples, à taxa de 3% ao mês. Para um título descontado 4 meses antes do vencimento, a taxa efetiva de juros cobrada pelo banco no período da operação é de, aproximadamente,",
+    "alternativas": [
+      "3,41%",
+      "6,00%",
+      "10,71%",
+      "12,00%",
+      "13,64%"
+    ],
+    "correta": 4,
+    "comentario": "O desconto comercial no período é 3% × 4 = 12% do valor nominal N, então o cliente recebe 0,88N e paga N no vencimento. A taxa efetiva do período é 0,12N/0,88N ≈ 13,64%, maior que a taxa de desconto, porque os juros incidem sobre o valor efetivamente recebido. Responder 12% é confundir taxa de desconto com taxa de juros; 10,71% (0,12/1,12) inverte o raciocínio, e 3,41% é a taxa efetiva mensal simples (13,64%/4), não a do período.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-16",
+    "materia": "mat-financeira",
+    "assunto": "Desconto racional composto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um título de R$ 30.000,00 será resgatado 3 meses antes do vencimento, com desconto racional composto à taxa de 4% ao mês. Considerando-se 1,04^3 = 1,124864, o valor atual do título é de, aproximadamente,",
+    "alternativas": [
+      "R$ 3.330,11",
+      "R$ 26.400,00",
+      "R$ 26.542,08",
+      "R$ 26.669,89",
+      "R$ 26.785,71"
+    ],
+    "correta": 3,
+    "comentario": "No desconto racional composto, A = N/(1 + i)^n = 30.000/1,124864 ≈ R$ 26.669,89. Os distratores vêm de trocar o critério: o comercial composto dá 30.000 × 0,96^3 ≈ R$ 26.542,08, o comercial simples dá 30.000 × 0,88 = R$ 26.400,00 e o racional simples dá 30.000/1,12 ≈ R$ 26.785,71. Marcar R$ 3.330,11 é responder o desconto, e não o valor atual.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-17",
+    "materia": "mat-financeira",
+    "assunto": "Desconto comercial composto",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma nota promissória de valor nominal R$ 50.000,00 foi descontada 2 meses antes do vencimento, no regime de desconto comercial composto, à taxa de 10% ao mês. O valor líquido recebido foi de",
+    "alternativas": [
+      "R$ 9.500,00",
+      "R$ 40.000,00",
+      "R$ 40.500,00",
+      "R$ 41.322,31",
+      "R$ 41.666,67"
+    ],
+    "correta": 2,
+    "comentario": "No desconto comercial composto, A = N·(1 − i)^n = 50.000 × 0,9^2 = 50.000 × 0,81 = R$ 40.500,00. O desconto comercial simples dá 50.000 × 0,8 = R$ 40.000,00, e o racional composto dá 50.000/1,21 ≈ R$ 41.322,31. R$ 9.500,00 é o valor do desconto, e não o valor líquido.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-18",
+    "materia": "mat-financeira",
+    "assunto": "Sistema SAC - 1ª prestação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um empréstimo de R$ 120.000,00 será pago em 24 prestações mensais pelo Sistema de Amortização Constante (SAC), com juros de 1% ao mês e a primeira prestação vencendo um mês após a contratação. O valor da primeira prestação é de",
+    "alternativas": [
+      "R$ 1.200,00",
+      "R$ 5.000,00",
+      "R$ 5.648,82",
+      "R$ 6.200,00",
+      "R$ 7.400,00"
+    ],
+    "correta": 3,
+    "comentario": "No SAC, a amortização é constante: A = 120.000/24 = R$ 5.000,00. Os juros da 1ª prestação incidem sobre o saldo inicial: 1% × 120.000 = R$ 1.200,00. Logo, a 1ª prestação é 5.000 + 1.200 = R$ 6.200,00. O valor de R$ 5.648,82 é a prestação fixa do sistema Price, e R$ 5.000,00 considera só a amortização, esquecendo os juros.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-19",
+    "materia": "mat-financeira",
+    "assunto": "Sistema SAC - prestação k",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um imóvel foi financiado em R$ 180.000,00 pelo SAC, em 60 prestações mensais, com juros de 1,2% ao mês e a primeira prestação um mês após a contratação. O valor da 25ª prestação é de",
+    "alternativas": [
+      "R$ 2.160,00",
+      "R$ 4.260,00",
+      "R$ 4.296,00",
+      "R$ 4.332,00",
+      "R$ 5.160,00"
+    ],
+    "correta": 2,
+    "comentario": "A amortização mensal é 180.000/60 = R$ 3.000,00. Antes da 25ª prestação foram pagas 24 amortizações, e o saldo devedor é 180.000 − 72.000 = R$ 108.000,00. Os juros da 25ª prestação são 1,2% × 108.000 = R$ 1.296,00, e a prestação é 3.000 + 1.296 = R$ 4.296,00. Descontar só 23 amortizações dá R$ 4.332,00, descontar 25 dá R$ 4.260,00, e R$ 5.160,00 é a 1ª prestação.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-20",
+    "materia": "mat-financeira",
+    "assunto": "Sistema SAC - total de juros",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um capital de giro de R$ 60.000,00 será amortizado pelo SAC em 12 prestações mensais, com juros de 2% ao mês e a primeira prestação um mês após a liberação. O total de juros pagos ao longo do financiamento será de",
+    "alternativas": [
+      "R$ 1.200,00",
+      "R$ 7.200,00",
+      "R$ 7.800,00",
+      "R$ 8.082,96",
+      "R$ 14.400,00"
+    ],
+    "correta": 2,
+    "comentario": "A amortização é 60.000/12 = R$ 5.000,00, e os juros de cada mês incidem sobre saldos que caem de 60.000 a 5.000, de 5.000 em 5.000. A soma dos saldos é 5.000 × (12 + 11 + ... + 1) = 5.000 × 78 = 390.000, e os juros totais são 2% × 390.000 = R$ 7.800,00. R$ 14.400,00 supõe juros sempre sobre os 60.000 (2% × 60.000 × 12); R$ 7.200,00 usa um saldo médio incorreto (60.000 × 0,02 × 6); e R$ 8.082,96 são os juros totais pelo sistema Price.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-21",
+    "materia": "mat-financeira",
+    "assunto": "Sistema Price - prestação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente contratou um empréstimo de R$ 50.000,00 para pagamento em 12 prestações mensais, iguais e consecutivas, pelo Sistema Price, com juros de 2% ao mês e a primeira prestação um mês após a contratação. Considerando-se 1,02^12 ≈ 1,2682, o valor de cada prestação é de, aproximadamente,",
+    "alternativas": [
+      "R$ 4.166,67",
+      "R$ 4.728,56",
+      "R$ 5.166,67",
+      "R$ 5.500,00",
+      "R$ 5.900,00"
+    ],
+    "correta": 1,
+    "comentario": "No Price, PMT = PV·i·(1 + i)^n/[(1 + i)^n − 1] = 50.000 × 0,02 × 1,2682/0,2682 ≈ 1.000 × 4,7286 ≈ R$ 4.728,56. Dividir o montante de juros simples por 12 (50.000 × 1,24/12) dá R$ 5.166,67, e dividir só o principal por 12 dá R$ 4.166,67, que corresponde à amortização do SAC sem juros.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-22",
+    "materia": "mat-financeira",
+    "assunto": "Sistema Price - amortização",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um financiamento de R$ 100.000,00 será pago pelo Sistema Price em 36 prestações mensais de R$ 3.615,24, com juros de 1,5% ao mês e a primeira prestação um mês após a contratação. O valor da parcela de amortização contida na 2ª prestação é de, aproximadamente,",
+    "alternativas": [
+      "R$ 1.468,27",
+      "R$ 1.500,00",
+      "R$ 2.115,24",
+      "R$ 2.146,97",
+      "R$ 2.777,78"
+    ],
+    "correta": 3,
+    "comentario": "Na 1ª prestação, os juros são 1,5% × 100.000 = R$ 1.500,00 e a amortização é R$ 3.615,24 − 1.500 = R$ 2.115,24; o saldo cai para R$ 97.884,76. Na 2ª, os juros são 1,5% desse saldo ≈ R$ 1.468,27, e a amortização é R$ 3.615,24 − R$ 1.468,27 ≈ R$ 2.146,97. No Price as amortizações crescem à taxa de juros (R$ 2.115,24 × 1,015 dá o mesmo valor). Marcar R$ 2.115,24 é responder a 1ª amortização, e R$ 2.777,78 é a amortização do SAC.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-23",
+    "materia": "mat-financeira",
+    "assunto": "Série uniforme - valor futuro",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma poupadora fez 12 depósitos mensais, iguais e consecutivos, de R$ 500,00 em uma aplicação que rende juros compostos de 1% ao mês. Qual é, aproximadamente, o saldo na data do último depósito? Dado: 1,01^12 ≈ 1,1268",
+    "alternativas": [
+      "R$ 5.300,00",
+      "R$ 5.640,00",
+      "R$ 6.000,00",
+      "R$ 6.340,00",
+      "R$ 6.760,80"
+    ],
+    "correta": 3,
+    "comentario": "O valor futuro de uma série uniforme postecipada, na data do último depósito, é FV = PMT·[(1 + i)^n − 1]/i = 500 × 0,1268/0,01 = 500 × 12,68 = R$ 6.340,00. R$ 6.000,00 ignora os rendimentos. R$ 6.760,80 capitaliza os 12 depósitos por 12 meses (6.000 × 1,1268), como se todos tivessem sido feitos no início, o que superestima os juros.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-24",
+    "materia": "mat-financeira",
+    "assunto": "Série uniforme - valor presente",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma loja vende um celular em 4 prestações mensais de R$ 1.000,00, sem entrada, a primeira vencendo um mês após a compra, com juros compostos de 3% ao mês. Considerando-se 1,03^(−4) ≈ 0,8885, o valor à vista equivalente é de, aproximadamente,",
+    "alternativas": [
+      "R$ 3.300,00",
+      "R$ 3.571,43",
+      "R$ 3.716,67",
+      "R$ 3.880,00",
+      "R$ 4.000,00"
+    ],
+    "correta": 2,
+    "comentario": "O valor presente de uma série postecipada é PV = PMT·[1 − (1 + i)^(−n)]/i = 1.000 × (1 − 0,8885)/0,03 = 1.000 × 3,7167 ≈ R$ 3.716,67. R$ 4.000,00 soma as parcelas sem descontar os juros, e 4.000/1,12 ≈ R$ 3.571,43 desconta todas as parcelas por 4 meses em juros simples, como se todas vencessem no fim. R$ 3.880,00 desconta só 3% do total.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-25",
+    "materia": "mat-financeira",
+    "assunto": "Série uniforme antecipada",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um eletrodoméstico que custa R$ 9.000,00 à vista pode ser pago em 5 prestações mensais iguais, sendo a primeira no ato da compra (1 + 4), com juros compostos de 4% ao mês. Considerando-se 1,04^(−4) ≈ 0,8548, o valor de cada prestação é de, aproximadamente,",
+    "alternativas": [
+      "R$ 1.800,00",
+      "R$ 1.943,84",
+      "R$ 2.021,64",
+      "R$ 2.160,00",
+      "R$ 2.300,00"
+    ],
+    "correta": 1,
+    "comentario": "Com a primeira parcela no ato, o valor à vista é PMT × [1 + a(4; 4%)], em que a(4; 4%) = (1 − 0,8548)/0,04 = 3,63. Então 9.000 = PMT × 4,63 e PMT ≈ R$ 1.943,84. Quem trata as 5 parcelas como postecipadas (esquecendo que a primeira é no mês zero) encontra cerca de R$ 2.021,65, e dividir 9.000 por 5 (R$ 1.800,00) ignora os juros.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-26",
+    "materia": "mat-financeira",
+    "assunto": "Taxa implícita em parcelamento",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma loja oferece duas formas de pagamento para um produto de preço de etiqueta R$ 1.000,00: à vista com 10% de desconto ou em duas parcelas de R$ 500,00, uma no ato e outra 30 dias depois. A taxa mensal de juros embutida no pagamento parcelado é de",
+    "alternativas": [
+      "10,00%",
+      "11,11%",
+      "12,50%",
+      "20,00%",
+      "25,00%"
+    ],
+    "correta": 4,
+    "comentario": "O preço à vista é R$ 900,00. Quem parcela paga R$ 500,00 no ato e fica devendo, na prática, 900 − 500 = R$ 400,00, quitados com R$ 500,00 um mês depois. A taxa é 500/400 − 1 = 25% ao mês. O erro clássico é responder 10% (o desconto) ou 11,11% (100/900), esquecendo que a primeira parcela é paga no ato e não é financiada.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-27",
+    "materia": "mat-financeira",
+    "assunto": "Juros compostos - prazo com logaritmo",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Considerando-se log 2 ≈ 0,3010 e log 1,05 ≈ 0,0212, um capital aplicado a juros compostos de 5% ao mês dobrará de valor em, aproximadamente,",
+    "alternativas": [
+      "14,2 meses",
+      "16,5 meses",
+      "20,0 meses",
+      "24,0 meses",
+      "30,0 meses"
+    ],
+    "correta": 0,
+    "comentario": "Dobrar o capital significa 1,05^n = 2. Aplicando logaritmo, n·log 1,05 = log 2, logo n = 0,3010/0,0212 ≈ 14,2 meses. Os 20 meses correspondem ao regime de juros simples (100%/5%), que não se aplica. Os demais valores não satisfazem a equação exponencial.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-28",
+    "materia": "mat-financeira",
+    "assunto": "Juros simples - mora",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um boleto de R$ 2.400,00 foi pago com 18 dias de atraso. O contrato prevê multa de 2% sobre o valor do boleto e juros de mora simples de 1% ao mês, calculados pro rata die sobre o valor do boleto (considere o mês comercial de 30 dias). O valor total pago foi de",
+    "alternativas": [
+      "R$ 2.400,00",
+      "R$ 2.414,40",
+      "R$ 2.448,00",
+      "R$ 2.462,40",
+      "R$ 2.472,00"
+    ],
+    "correta": 3,
+    "comentario": "A multa é 2% × 2.400 = R$ 48,00. Os juros de mora são 2.400 × 0,01 × 18/30 = R$ 14,40. O total é 2.400 + 48 + 14,40 = R$ 2.462,40. Cobrar o mês cheio de juros (R$ 24,00) leva a R$ 2.472,00; esquecer os juros leva a R$ 2.448,00; esquecer a multa, a R$ 2.414,40.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-29",
+    "materia": "mat-financeira",
+    "assunto": "Juros compostos - taxa",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma aplicação de R$ 10.000,00 passou a valer R$ 12.100,00 após 2 bimestres, no regime de juros compostos. A taxa bimestral dessa aplicação foi de",
+    "alternativas": [
+      "10,00%",
+      "10,50%",
+      "11,00%",
+      "12,00%",
+      "21,00%"
+    ],
+    "correta": 0,
+    "comentario": "No regime composto, 10.000 × (1 + i)^2 = 12.100, logo (1 + i)^2 = 1,21 e 1 + i = 1,10: a taxa é de 10% ao bimestre. Dividir o ganho total de 21% por 2 dá 10,5%, raciocínio de juros simples. Os 21% são a taxa acumulada nos dois bimestres, não a taxa bimestral.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-30",
+    "materia": "mat-financeira",
+    "assunto": "Equivalência de capitais",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa deve dois pagamentos de R$ 5.000,00, com vencimentos em 1 e em 2 meses. Ela propõe substituí-los por um único pagamento em 3 meses. Considerando juros compostos de 10% ao mês, o valor desse pagamento único é de",
+    "alternativas": [
+      "R$ 10.000,00",
+      "R$ 11.000,00",
+      "R$ 11.550,00",
+      "R$ 12.100,00",
+      "R$ 13.310,00"
+    ],
+    "correta": 2,
+    "comentario": "Levando cada pagamento para a data 3: o de 1 mês é capitalizado por 2 meses (5.000 × 1,21 = 6.050) e o de 2 meses por 1 mês (5.000 × 1,1 = 5.500). O pagamento único é 6.050 + 5.500 = R$ 11.550,00. R$ 10.000,00 ignora os juros, e R$ 13.310,00 capitaliza os 10.000 por 3 meses, como se ambos vencessem hoje.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-31",
+    "materia": "mat-financeira",
+    "assunto": "Taxa efetiva com tarifa",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um banco concede um empréstimo de R$ 10.000,00 por 1 mês, à taxa de 3% ao mês. No ato da liberação, cobra uma tarifa de R$ 400,00, descontada do valor liberado. No vencimento, o cliente paga R$ 10.300,00. A taxa efetiva mensal paga pelo cliente é de, aproximadamente,",
+    "alternativas": [
+      "3,00%",
+      "4,17%",
+      "7,00%",
+      "7,29%",
+      "9,50%"
+    ],
+    "correta": 3,
+    "comentario": "O cliente recebe efetivamente 10.000 − 400 = R$ 9.600,00 e devolve R$ 10.300,00. A taxa efetiva é 10.300/9.600 − 1 ≈ 7,29% ao mês. Somar a taxa contratada ao peso da tarifa sobre o valor contratado (3% + 4% = 7%) é o distrator mais comum; ele erra porque a base correta é o valor líquido recebido. 4,17% (400/9.600) mede apenas o peso da tarifa.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-matfin-32",
+    "materia": "mat-financeira",
+    "assunto": "Taxa nominal x efetiva",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma financeira cobra taxa nominal de 18% ao ano com capitalização mensal. A taxa efetiva mensal cobrada é de",
+    "alternativas": [
+      "1,39%",
+      "1,50%",
+      "1,80%",
+      "2,00%",
+      "18,00%"
+    ],
+    "correta": 1,
+    "comentario": "A taxa nominal é sempre convertida pela proporcionalidade: 18%/12 = 1,5% ao mês, que é a taxa efetiva mensal. O valor 1,39% (1,18^(1/12) − 1) resulta de tratar os 18% como taxa efetiva anual, o que contradiz o enunciado. A taxa efetiva anual resultante seria 1,015^12 − 1, maior que 18%.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-matfin-33",
+    "materia": "mat-financeira",
+    "assunto": "Sistema SAC - última prestação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um financiamento de R$ 200.000,00 será pago pelo SAC em 100 prestações mensais, com juros de 1% ao mês e a primeira prestação um mês após a contratação. O valor da última prestação é de",
+    "alternativas": [
+      "R$ 2.000,00",
+      "R$ 2.020,00",
+      "R$ 2.040,00",
+      "R$ 3.000,00",
+      "R$ 4.000,00"
+    ],
+    "correta": 1,
+    "comentario": "A amortização é 200.000/100 = R$ 2.000,00. Antes da última prestação, o saldo devedor é justamente uma amortização, R$ 2.000,00, e os juros são 1% × 2.000 = R$ 20,00. A última prestação é 2.000 + 20 = R$ 2.020,00. R$ 4.000,00 é a 1ª prestação (2.000 + 2.000), e R$ 2.000,00 esquece os juros finais.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-34",
+    "materia": "mat-financeira",
+    "assunto": "Sistema Price - saldo devedor",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um empréstimo de R$ 20.000,00 é pago pelo Sistema Price em 12 prestações mensais de R$ 1.949,74, com juros de 2,5% ao mês e a primeira prestação um mês após a contratação. Imediatamente após o pagamento da 1ª prestação, o saldo devedor é de",
+    "alternativas": [
+      "R$ 17.600,00",
+      "R$ 18.050,26",
+      "R$ 18.333,33",
+      "R$ 18.550,26",
+      "R$ 20.500,00"
+    ],
+    "correta": 3,
+    "comentario": "Os juros do 1º mês são 2,5% × 20.000 = R$ 500,00, e a amortização é R$ 1.949,74 − 500 = R$ 1.449,74. O saldo devedor passa a ser 20.000 − R$ 1.449,74 = R$ 18.550,26. Abater a prestação inteira do saldo (R$ 18.050,26) esquece que parte dela são juros; R$ 18.333,33 é o saldo que se teria pelo SAC.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-matfin-35",
+    "materia": "mat-financeira",
+    "assunto": "Desconto comercial - prazo",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma duplicata de R$ 12.000,00 foi descontada em um banco pelo critério comercial simples, à taxa de 2% ao mês, e a empresa recebeu R$ 10.800,00 líquidos. Quantos meses antes do vencimento ocorreu o desconto?",
+    "alternativas": [
+      "5 meses",
+      "5,56 meses",
+      "6 meses",
+      "8 meses",
+      "10 meses"
+    ],
+    "correta": 0,
+    "comentario": "O desconto foi 12.000 − 10.800 = R$ 1.200,00. No desconto comercial, D = N·i·n, logo 1.200 = 12.000 × 0,02 × n e n = 5 meses. O valor 5,56 meses aparece quando se usa o valor líquido como base (critério racional), o que não corresponde ao desconto comercial.",
+    "dificuldade": 2
+  }
+]

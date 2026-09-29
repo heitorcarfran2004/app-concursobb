@@ -1,0 +1,632 @@
+[
+  {
+    "id": "in-vend-01",
+    "materia": "vendas",
+    "assunto": "Marketing de relacionamento",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um banco decide concentrar esforços em construir relações duradouras e lucrativas com seus clientes, conhecendo seu histórico, antecipando necessidades e ampliando a participação da instituição no total de gastos de cada cliente com serviços financeiros. Essa orientação corresponde ao",
+    "alternativas": [
+      "marketing transacional, focado em maximizar o volume de cada venda isolada",
+      "marketing de relacionamento, focado na retenção e no valor do cliente ao longo do tempo",
+      "marketing de massa, que trata todos os clientes de forma indiferenciada",
+      "marketing de guerrilha, baseado em ações de baixo custo e grande impacto",
+      "endomarketing, voltado exclusivamente aos funcionários da organização"
+    ],
+    "correta": 1,
+    "comentario": "O marketing de relacionamento busca criar, manter e ampliar relações de longo prazo com os clientes, valorizando a retenção, a personalização e a participação na carteira do cliente (share of wallet). O marketing transacional, ao contrário, trata cada venda como um evento isolado. O marketing de massa não diferencia clientes, e o de guerrilha é uma tática de comunicação de baixo custo. O endomarketing é voltado ao público interno, e não aos clientes.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-02",
+    "materia": "vendas",
+    "assunto": "Valor do cliente e retenção",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um gerente argumenta que vale a pena oferecer condições diferenciadas para manter um cliente antigo que ameaça migrar para a concorrência, ainda que a margem da operação atual seja menor, porque esse cliente tende a gerar receitas com diversos produtos por muitos anos. Esse argumento se apoia, principalmente, no conceito de",
+    "alternativas": [
+      "ponto de equilíbrio",
+      "preço psicológico",
+      "ciclo de vida do produto",
+      "valor do cliente ao longo do tempo (lifetime value)",
+      "elasticidade-preço da demanda"
+    ],
+    "correta": 3,
+    "comentario": "O valor do cliente ao longo do tempo (CLV ou lifetime value) estima o resultado que um cliente gera durante todo o relacionamento com a empresa, e não apenas em uma operação. Somado ao fato de que reter clientes costuma custar menos do que conquistar novos, ele justifica concessões pontuais para evitar a perda. O ponto de equilíbrio trata de receitas que igualam custos. O ciclo de vida do produto refere-se às fases do produto no mercado, e a elasticidade mede a sensibilidade da demanda ao preço.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-03",
+    "materia": "vendas",
+    "assunto": "Satisfação do cliente",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Segundo a abordagem clássica de Philip Kotler, a satisfação do cliente resulta",
+    "alternativas": [
+      "do preço pago, independentemente da experiência de uso",
+      "exclusivamente da qualidade técnica do produto, medida por indicadores internos",
+      "da quantidade de produtos que o cliente possui na empresa",
+      "do número de contatos realizados pela empresa com o cliente",
+      "da comparação entre o desempenho percebido do produto ou serviço e as expectativas do comprador"
+    ],
+    "correta": 4,
+    "comentario": "Para Kotler, satisfação é o sentimento resultante da comparação entre o desempenho percebido e as expectativas: se o desempenho fica abaixo, o cliente fica insatisfeito; se iguala, satisfeito; se supera, encantado. Por isso, gerenciar expectativas, sem prometer o que não pode ser cumprido, é tão importante quanto entregar. Preço, quantidade de produtos e número de contatos podem influenciar a percepção, mas não definem a satisfação. A qualidade técnica medida internamente pode não coincidir com a percepção do cliente.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-04",
+    "materia": "vendas",
+    "assunto": "Satisfação e fidelização",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma pesquisa mostrou que 85% dos clientes de uma agência se declaram satisfeitos, mas a taxa de encerramento de contas continua elevada. A interpretação mais adequada é que",
+    "alternativas": [
+      "a satisfação não garante lealdade, pois clientes apenas satisfeitos podem migrar diante de ofertas mais vantajosas da concorrência",
+      "clientes satisfeitos são, necessariamente, clientes fiéis, logo a pesquisa deve estar errada",
+      "a fidelidade depende exclusivamente do preço, e a satisfação é irrelevante",
+      "a agência deve reduzir o atendimento personalizado, já que ele não gera retenção",
+      "a alta satisfação indica que as metas comerciais devem ser reduzidas"
+    ],
+    "correta": 0,
+    "comentario": "Satisfação é condição importante, mas não suficiente, para a fidelização: clientes meramente satisfeitos podem ser indiferentes e trocar de fornecedor quando surge proposta melhor. A lealdade exige vínculo, percepção de valor superior, encantamento e, muitas vezes, barreiras de saída e relacionamento. Afirmar que satisfação implica necessariamente fidelidade contradiz esse conceito. Também é equivocado dizer que só o preço importa, ou que se deve reduzir o atendimento personalizado, que é justamente um fator de retenção.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-05",
+    "materia": "vendas",
+    "assunto": "Indicadores de satisfação - NPS",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma agência aplicou a pergunta \"Em uma escala de 0 a 10, qual a probabilidade de você recomendar nosso banco a um amigo?\" a 200 clientes. Desses, 120 deram notas 9 ou 10; 50 deram notas 7 ou 8; e 30 deram notas de 0 a 6. O Net Promoter Score (NPS) dessa agência é",
+    "alternativas": [
+      "35",
+      "45",
+      "60",
+      "75",
+      "85"
+    ],
+    "correta": 1,
+    "comentario": "O NPS é calculado subtraindo o percentual de detratores (notas 0 a 6) do percentual de promotores (notas 9 e 10); os neutros (7 e 8) não entram na conta. Promotores: 120/200 = 60%. Detratores: 30/200 = 15%. NPS = 60 - 15 = 45. O valor 60 considera apenas os promotores, 85 soma promotores e neutros, e 75 soma, indevidamente, promotores e detratores.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-06",
+    "materia": "vendas",
+    "assunto": "Qualidade no atendimento - SERVQUAL",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um cliente elogia o atendente porque ele demonstrou disposição para ajudá-lo prontamente e resolveu sua solicitação com rapidez, sem deixá-lo esperando. No modelo SERVQUAL, esse aspecto corresponde à dimensão",
+    "alternativas": [
+      "tangibilidade",
+      "confiabilidade",
+      "responsividade (presteza)",
+      "empatia",
+      "segurança"
+    ],
+    "correta": 2,
+    "comentario": "A responsividade é a disposição para ajudar o cliente e prestar o serviço prontamente, o que corresponde ao elogio descrito. A confiabilidade é a capacidade de executar o serviço prometido de forma precisa e consistente. A empatia refere-se à atenção individualizada e ao cuidado com o cliente. A segurança envolve conhecimento, cortesia e capacidade de transmitir confiança, e a tangibilidade diz respeito a instalações, equipamentos e aparência do pessoal.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-07",
+    "materia": "vendas",
+    "assunto": "Qualidade no atendimento - momento da verdade",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Na gestão da qualidade em serviços, cada ocasião em que o cliente entra em contato com qualquer aspecto da organização e forma uma impressão sobre a qualidade do serviço, como ser recebido na porta da agência ou atendido pelo telefone, é denominada",
+    "alternativas": [
+      "ciclo de serviço",
+      "jornada de compra",
+      "pós-venda",
+      "benchmarking",
+      "momento da verdade"
+    ],
+    "correta": 4,
+    "comentario": "Momento da verdade, conceito popularizado por Jan Carlzon e Karl Albrecht, é qualquer episódio em que o cliente tem contato com a organização e avalia a qualidade do serviço. O ciclo de serviço é a sequência completa desses momentos, do primeiro ao último contato, e não cada contato isolado. A jornada de compra descreve as etapas de decisão do cliente. O pós-venda é a fase posterior à venda, e benchmarking é a comparação com práticas de referência de outras empresas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-08",
+    "materia": "vendas",
+    "assunto": "Qualidade no atendimento - reclamações",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um cliente chega irritado à agência porque uma tarifa foi cobrada indevidamente pela segunda vez. A conduta mais adequada do escriturário, segundo as boas práticas de atendimento, é",
+    "alternativas": [
+      "explicar que o erro é do sistema e que não há nada que possa ser feito na agência",
+      "pedir que o cliente se acalme antes de ouvi-lo e registrar a reclamação apenas se ele mudar o tom",
+      "ouvir com atenção, demonstrar empatia, reconhecer o problema, providenciar a solução ou o encaminhamento com prazo e acompanhar o retorno ao cliente",
+      "oferecer imediatamente um novo produto como compensação, antes de analisar a cobrança",
+      "orientar o cliente a registrar a reclamação no Procon, já que a agência não trata desse assunto"
+    ],
+    "correta": 2,
+    "comentario": "Na recuperação de serviço, o atendente deve escutar ativamente, validar o sentimento do cliente, assumir a responsabilidade pela solução, informar prazos realistas e acompanhar o desfecho. Uma reclamação bem resolvida pode até aumentar a lealdade do cliente. Transferir a culpa ao sistema ou a outro órgão demonstra descaso. Condicionar o atendimento ao tom do cliente agrava o conflito, e oferecer produto antes de resolver o problema soa como aproveitamento da situação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-09",
+    "materia": "vendas",
+    "assunto": "Técnicas de vendas - SPIN",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Aplicando a técnica SPIN Selling, após identificar que um pequeno empresário tem dificuldade para controlar o fluxo de caixa, o gerente pergunta: \"Quando o caixa fica negativo, quanto isso tem custado em juros de cheque especial e em multas por atraso a fornecedores?\". Essa pergunta é do tipo",
+    "alternativas": [
+      "situação",
+      "problema",
+      "implicação",
+      "necessidade de solução",
+      "fechamento"
+    ],
+    "correta": 2,
+    "comentario": "No SPIN, as perguntas de implicação exploram as consequências e os efeitos de um problema já identificado, ampliando sua gravidade na percepção do cliente, como os custos com juros e multas. As perguntas de situação levantam fatos e dados do contexto. As de problema identificam dificuldades e insatisfações, etapa que já havia ocorrido. As de necessidade de solução levam o cliente a expressar o valor de resolver o problema, e fechamento não é uma das quatro categorias.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-10",
+    "materia": "vendas",
+    "assunto": "Técnicas de vendas - SPIN",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um gerente, aplicando a técnica SPIN, pergunta a um cliente: \"Se o senhor tivesse uma conta com débitos automáticos organizados e alertas de vencimento, como isso ajudaria a evitar as multas que mencionou?\". Trata-se de uma pergunta de",
+    "alternativas": [
+      "situação",
+      "implicação",
+      "problema",
+      "necessidade de solução",
+      "sondagem demográfica"
+    ],
+    "correta": 3,
+    "comentario": "As perguntas de necessidade de solução (need-payoff) levam o próprio cliente a verbalizar os benefícios de resolver o problema, o que torna a solução mais valorizada e prepara a apresentação da oferta. A pergunta descrita convida o cliente a imaginar o ganho da solução. As perguntas de implicação exploram as consequências negativas do problema, e as de problema buscam identificá-lo. As de situação coletam dados de contexto, e sondagem demográfica não faz parte do SPIN.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-11",
+    "materia": "vendas",
+    "assunto": "Técnicas de vendas - SPIN",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Sobre a técnica SPIN Selling, desenvolvida por Neil Rackham a partir do estudo de vendas complexas, é correto afirmar que",
+    "alternativas": [
+      "as perguntas de implicação ampliam a percepção do cliente sobre as consequências do problema, aumentando o valor percebido da solução",
+      "as perguntas de situação devem ser as mais numerosas, pois são as que mais influenciam o sucesso da venda",
+      "a técnica recomenda apresentar o produto logo no início da conversa, antes de qualquer pergunta",
+      "as perguntas de necessidade de solução servem para levantar dados cadastrais do cliente",
+      "a técnica é indicada principalmente para vendas de baixo valor e decisão imediata"
+    ],
+    "correta": 0,
+    "comentario": "As perguntas de implicação são centrais no SPIN porque transformam necessidades implícitas em explícitas, fazendo o cliente perceber o custo de não agir. Rackham observou que o excesso de perguntas de situação cansa o cliente e está associado a vendas malsucedidas, devendo ser usado com moderação. A técnica propõe investigar antes de apresentar o produto. Levantar dados é papel das perguntas de situação, e o método foi concebido justamente para vendas complexas e de maior valor.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-vend-12",
+    "materia": "vendas",
+    "assunto": "Venda consultiva",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Antes de oferecer qualquer produto, um escriturário pergunta ao cliente sobre seus objetivos financeiros, prazos, tolerância a riscos e compromissos já assumidos, para então recomendar a solução mais adequada, ainda que não seja a de maior rentabilidade para o banco. Essa postura caracteriza a",
+    "alternativas": [
+      "venda transacional",
+      "venda por impulso",
+      "venda consultiva",
+      "venda casada",
+      "venda agressiva (hard selling)"
+    ],
+    "correta": 2,
+    "comentario": "Na venda consultiva, o vendedor atua como consultor: diagnostica necessidades, compreende o contexto do cliente e recomenda a solução adequada, construindo confiança e relacionamento de longo prazo. A venda transacional foca no produto e no preço, sem investigação aprofundada. A venda por impulso depende de decisão rápida e emocional do comprador. A venda casada é prática abusiva, e o hard selling pressiona o cliente a comprar.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-13",
+    "materia": "vendas",
+    "assunto": "Cross-selling",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma cliente acaba de contratar um financiamento imobiliário, e o escriturário lhe apresenta, informando claramente que a contratação é opcional, um seguro residencial para o imóvel e o débito automático das parcelas em sua conta. A oferta de produtos complementares ao que foi adquirido caracteriza",
+    "alternativas": [
+      "up-selling",
+      "downselling",
+      "cross-selling",
+      "venda casada",
+      "prospecção"
+    ],
+    "correta": 2,
+    "comentario": "Cross-selling (venda cruzada) é a oferta de produtos ou serviços complementares ao que o cliente adquire ou já possui, aumentando o valor da relação. Como a contratação foi apresentada como opcional, não há venda casada, que exige condicionar um produto à aquisição de outro. Up-selling seria oferecer uma versão superior do mesmo produto, e downselling uma versão inferior ou mais barata. Prospecção é a busca de novos clientes, e a cliente já está sendo atendida.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-14",
+    "materia": "vendas",
+    "assunto": "Up-selling",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um cliente procura a agência para solicitar um cartão de crédito de categoria básica. Após analisar o perfil e o padrão de gastos, o escriturário apresenta um cartão de categoria superior, com programa de pontos e benefícios de viagem, cuja anuidade pode ser compensada pelo volume de gastos do cliente. Essa estratégia é chamada de",
+    "alternativas": [
+      "cross-selling",
+      "venda casada",
+      "downselling",
+      "venda direta",
+      "up-selling"
+    ],
+    "correta": 4,
+    "comentario": "Up-selling é a estratégia de oferecer uma versão superior, mais completa ou de maior valor do produto que o cliente pretende adquirir, justificada pelos benefícios adicionais. No caso, o produto continua sendo um cartão de crédito, apenas de categoria superior. Cross-selling envolveria um produto diferente e complementar. Downselling é oferecer uma opção mais simples, e não há venda casada, pois nada foi condicionado.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-15",
+    "materia": "vendas",
+    "assunto": "Ética em vendas - venda casada",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Ao conceder um empréstimo pessoal, um funcionário informa ao cliente que a operação só será liberada se ele adquirir também um título de capitalização. À luz do Código de Defesa do Consumidor, essa conduta",
+    "alternativas": [
+      "é permitida, pois se trata de cross-selling, técnica legítima de vendas",
+      "é permitida, desde que o título de capitalização tenha valor inferior ao do empréstimo",
+      "configura prática abusiva de venda casada, vedada pelo CDC",
+      "é regular se o cliente assinar termo de ciência",
+      "só é vedada quando o cliente for pessoa jurídica"
+    ],
+    "correta": 2,
+    "comentario": "O art. 39, I, do CDC veda condicionar o fornecimento de produto ou serviço ao fornecimento de outro produto ou serviço, prática conhecida como venda casada. O cross-selling só é legítimo quando o produto adicional é oferecido de forma opcional, cabendo ao cliente decidir livremente. O valor do título ou a assinatura de termo não afastam a abusividade, pois a imposição permanece. A vedação protege o consumidor independentemente de valores envolvidos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-16",
+    "materia": "vendas",
+    "assunto": "Negociação - MAPAN (BATNA)",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Na negociação, segundo a abordagem de Harvard (Fisher e Ury), a sigla MAPAN, equivalente a BATNA em inglês, refere-se",
+    "alternativas": [
+      "à melhor alternativa disponível caso não se chegue a um acordo na negociação atual",
+      "ao preço máximo que o comprador está disposto a pagar",
+      "ao acordo final firmado entre as partes",
+      "à margem de lucro mínima definida pela empresa",
+      "à zona em que as propostas das partes se sobrepõem"
+    ],
+    "correta": 0,
+    "comentario": "MAPAN significa Melhor Alternativa Para um Acordo Negociado (Best Alternative To a Negotiated Agreement): é o que a parte fará se a negociação fracassar. Conhecer a própria MAPAN define quando vale a pena aceitar um acordo e aumenta o poder de negociação. O preço máximo aceitável é o preço de reserva, que se relaciona à MAPAN, mas não se confunde com ela. A zona de sobreposição das propostas é a ZOPA, e o acordo final é o resultado da negociação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-17",
+    "materia": "vendas",
+    "assunto": "Negociação - MAPAN (BATNA)",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma empresa cliente negocia a taxa de uma operação de capital de giro com o gerente e já possui uma proposta firme de outro banco, com taxa de 1,8% ao mês. Considerando os conceitos de negociação, essa proposta do concorrente representa, para a empresa,",
+    "alternativas": [
+      "a sua ZOPA (zona de possível acordo)",
+      "o seu preço de abertura",
+      "uma informação irrelevante, pois propostas de terceiros não influenciam a negociação",
+      "a sua MAPAN (BATNA), que fortalece seu poder de barganha",
+      "o ponto de resistência do banco"
+    ],
+    "correta": 3,
+    "comentario": "A proposta firme de outro banco é o que a empresa fará se não fechar com o gerente, ou seja, sua MAPAN (BATNA). Quanto melhor a MAPAN, maior o poder de barganha, pois a empresa só aceitará condições iguais ou melhores. A ZOPA é a faixa de sobreposição entre os limites das duas partes, e não a alternativa de uma delas. O preço de abertura é a primeira proposta feita na mesa, e o ponto de resistência do banco é o limite interno da instituição, desconhecido pelo cliente.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-18",
+    "materia": "vendas",
+    "assunto": "Negociação - método de Harvard",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "O método de negociação baseada em princípios, desenvolvido no Projeto de Negociação de Harvard, propõe, entre outros pontos,",
+    "alternativas": [
+      "concentrar-se nas posições declaradas e fazer concessões mínimas",
+      "adotar postura rígida para forçar a outra parte a ceder",
+      "evitar critérios objetivos, pois limitam a flexibilidade do negociador",
+      "decidir sobre uma única opção antes de gerar alternativas",
+      "separar as pessoas do problema e concentrar-se nos interesses, não nas posições"
+    ],
+    "correta": 4,
+    "comentario": "Os quatro princípios de Fisher e Ury são: separar as pessoas do problema; concentrar-se nos interesses, não nas posições; inventar opções de ganho mútuo; e insistir em critérios objetivos. Concentrar-se nas posições é justamente a barganha posicional criticada pelo método. A postura rígida caracteriza a negociação dura, que desgasta o relacionamento. O método recomenda usar critérios objetivos e gerar várias opções antes de decidir.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-19",
+    "materia": "vendas",
+    "assunto": "Negociação - interesses e posições",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um cliente afirma que só renovará o seguro do veículo se o valor for reduzido em 20%. Ao investigar, o gerente descobre que a real preocupação do cliente é manter a despesa mensal dentro do orçamento, pois seu fluxo de caixa está apertado. Propor o parcelamento do prêmio em mais vezes sem juros, mantendo a cobertura, é exemplo de",
+    "alternativas": [
+      "foco nos interesses, e não nas posições",
+      "barganha posicional",
+      "uso da MAPAN como ameaça",
+      "negociação ganha-perde",
+      "concessão unilateral sem contrapartida"
+    ],
+    "correta": 0,
+    "comentario": "A posição do cliente era a redução de 20%, mas o interesse subjacente era caber no orçamento mensal. Ao identificar o interesse, o gerente encontrou uma solução que atende ao cliente sem reduzir o valor do seguro, como propõe o método de Harvard. Barganha posicional seria discutir apenas o percentual de desconto. Não houve ameaça nem perda para uma das partes, o que afasta as ideias de MAPAN como ameaça e de ganha-perde.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-20",
+    "materia": "vendas",
+    "assunto": "Negociação - ganha-ganha",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Na negociação ganha-ganha, também chamada de integrativa, o negociador",
+    "alternativas": [
+      "busca maximizar o próprio ganho, ainda que a outra parte saia prejudicada",
+      "trata a negociação como a divisão de um valor fixo",
+      "procura ampliar o valor em jogo, criando opções que atendam aos interesses de ambas as partes e preservando o relacionamento",
+      "cede em todos os pontos para preservar o relacionamento",
+      "evita trocar informações para não revelar fraquezas"
+    ],
+    "correta": 2,
+    "comentario": "A negociação integrativa busca expandir o valor disponível (aumentar o bolo), explorando interesses diferentes e complementares para que ambas as partes saiam satisfeitas, o que favorece relações duradouras. Tratar a negociação como divisão de valor fixo e maximizar o próprio ganho à custa do outro caracterizam a negociação distributiva (ganha-perde). Ceder em tudo é acomodação, que gera perde-ganha. A troca de informações sobre interesses é essencial para a solução integrativa.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-21",
+    "materia": "vendas",
+    "assunto": "Negociação - ZOPA",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um cliente aceita pagar, no máximo, R$ 30,00 mensais por um pacote de serviços. O banco aceita vender esse pacote por, no mínimo, R$ 22,00. Nessa situação, a zona de possível acordo (ZOPA) corresponde a",
+    "alternativas": [
+      "nenhum valor, pois os limites das partes são diferentes",
+      "qualquer valor entre R$ 22,00 e R$ 30,00",
+      "qualquer valor acima de R$ 30,00",
+      "qualquer valor abaixo de R$ 22,00",
+      "exatamente R$ 26,00, ponto médio entre os limites"
+    ],
+    "correta": 1,
+    "comentario": "A ZOPA é a faixa entre o preço de reserva do vendedor (mínimo que aceita receber) e o do comprador (máximo que aceita pagar), quando há sobreposição. Como o banco aceita a partir de R$ 22,00 e o cliente paga até R$ 30,00, qualquer valor nesse intervalo viabiliza o acordo. Limites diferentes não eliminam a ZOPA; ela só inexiste se o mínimo do vendedor superar o máximo do comprador. Valores fora da faixa são rejeitados por uma das partes, e o ponto médio é apenas um dos acordos possíveis.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-22",
+    "materia": "vendas",
+    "assunto": "Etapas da venda",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "No processo de vendas, a etapa em que o vendedor identifica e qualifica potenciais clientes, verificando se têm necessidade, capacidade financeira e poder de decisão, é a",
+    "alternativas": [
+      "abordagem",
+      "apresentação",
+      "fechamento",
+      "prospecção",
+      "pós-venda"
+    ],
+    "correta": 3,
+    "comentario": "A prospecção (e qualificação) é a etapa inicial em que se buscam e se selecionam os clientes potenciais com necessidade, capacidade de compra e autoridade para decidir. A abordagem é o primeiro contato efetivo com o cliente já identificado. A apresentação demonstra a solução e seus benefícios. O fechamento obtém o compromisso de compra, e o pós-venda acompanha o cliente depois da venda.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-23",
+    "materia": "vendas",
+    "assunto": "Etapas da venda - objeções",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Durante a apresentação de um plano de previdência, o cliente diz: \"Achei a taxa de administração alta.\". A resposta mais adequada, segundo as técnicas de vendas, é",
+    "alternativas": [
+      "ignorar a objeção e seguir com a apresentação, para não perder o ritmo",
+      "afirmar que todos os bancos cobram taxas semelhantes e encerrar o assunto",
+      "oferecer imediatamente desconto na taxa, antes de entender a preocupação",
+      "discordar do cliente, demonstrando que ele não entendeu o produto",
+      "encarar a objeção como sinal de interesse, esclarecer o ponto com perguntas e mostrar o valor da solução em relação ao custo, sem omitir informações"
+    ],
+    "correta": 4,
+    "comentario": "Objeções costumam indicar interesse e necessidade de mais informação, e devem ser tratadas com escuta, perguntas para compreender a preocupação real e argumentação baseada no valor e nos benefícios, com transparência. Ignorar a objeção ou encerrá-la com generalizações faz o cliente se sentir desconsiderado. Conceder desconto de imediato reduz a margem sem necessidade e sinaliza que o preço inicial não era justo. Confrontar o cliente cria resistência e prejudica o relacionamento.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-24",
+    "materia": "vendas",
+    "assunto": "CRM",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um banco utiliza ferramentas de mineração de dados sobre o histórico de transações dos clientes para identificar padrões de consumo, prever a propensão à compra de produtos e segmentar a base para campanhas. Esse uso corresponde ao CRM",
+    "alternativas": [
+      "operacional",
+      "analítico",
+      "colaborativo",
+      "transacional",
+      "de campo"
+    ],
+    "correta": 1,
+    "comentario": "O CRM analítico trata e analisa os dados dos clientes, com ferramentas como data warehouse e data mining, para gerar conhecimento: segmentação, previsão de comportamento e identificação de oportunidades. O CRM operacional automatiza os processos de contato, como vendas, marketing e atendimento. O CRM colaborativo integra os canais de interação entre cliente e empresa. As expressões CRM transacional e CRM de campo não integram a classificação clássica.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-25",
+    "materia": "vendas",
+    "assunto": "CRM",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Sobre o CRM (Customer Relationship Management), é correto afirmar que",
+    "alternativas": [
+      "é uma estratégia de negócio apoiada por tecnologia, que integra as informações dos clientes obtidas em todos os canais para personalizar o relacionamento",
+      "é apenas um software de cadastro, sem relação com a estratégia da empresa",
+      "sua implantação dispensa o envolvimento dos funcionários da linha de frente",
+      "tem como objetivo principal reduzir o número de clientes atendidos",
+      "substitui a necessidade de atendimento humano em todas as situações"
+    ],
+    "correta": 0,
+    "comentario": "O CRM é, antes de tudo, uma estratégia centrada no cliente, apoiada por sistemas que consolidam informações de todos os pontos de contato para personalizar ofertas, antecipar necessidades e aumentar a retenção. Reduzi-lo a um software de cadastro ignora sua dimensão estratégica e cultural. O envolvimento da linha de frente é essencial, pois são esses funcionários que alimentam e usam as informações. O CRM não busca reduzir clientes nem eliminar o atendimento humano.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-26",
+    "materia": "vendas",
+    "assunto": "Segmentação de mercado",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um banco divide sua base de clientes considerando a frequência de uso do aplicativo, os produtos já contratados e o grau de lealdade à instituição. Essa forma de segmentação é classificada como",
+    "alternativas": [
+      "geográfica",
+      "demográfica",
+      "psicográfica",
+      "comportamental",
+      "por porte"
+    ],
+    "correta": 3,
+    "comentario": "A segmentação comportamental agrupa os clientes pela relação que têm com o produto ou a marca: frequência e ocasião de uso, benefícios buscados, status de usuário e grau de lealdade. A geográfica usa critérios como região, cidade ou clima. A demográfica considera idade, renda, sexo, escolaridade e ocupação. A psicográfica considera estilo de vida, valores e personalidade, e o porte é critério usado na segmentação de empresas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-27",
+    "materia": "vendas",
+    "assunto": "Ética em vendas - adequação ao perfil",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma cliente de 72 anos, aposentada, com perfil de investidor conservador, pede orientação para aplicar sua reserva de emergência. O escriturário, pressionado pela meta, pensa em oferecer um fundo de ações de alta volatilidade. De acordo com a ética em vendas e as regras de adequação de produtos ao perfil do cliente (suitability), ele deve",
+    "alternativas": [
+      "oferecer o fundo de ações, pois a decisão final é sempre do cliente",
+      "recomendar produtos compatíveis com o perfil, os objetivos e a necessidade de liquidez da cliente",
+      "oferecer o fundo de ações apenas se a cliente assinar termo de ciência de riscos, dispensando explicações sobre o produto",
+      "evitar qualquer recomendação, pois clientes idosos não podem investir",
+      "recomendar o produto de maior rentabilidade no último mês"
+    ],
+    "correta": 1,
+    "comentario": "A adequação (suitability) exige que a recomendação seja compatível com o perfil de risco, os objetivos, o horizonte e a situação financeira do cliente; uma reserva de emergência pede segurança e liquidez. A meta comercial não pode se sobrepor ao interesse do cliente, especialmente de consumidores mais vulneráveis. A assinatura de termo não dispensa o dever de informar com clareza. Clientes idosos podem investir normalmente, e a rentabilidade passada não garante resultados futuros nem justifica produto inadequado.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-28",
+    "materia": "vendas",
+    "assunto": "Pós-venda",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma semana após a contratação de um consórcio, o escriturário telefona ao cliente para confirmar se ele recebeu os documentos, esclarecer dúvidas sobre as assembleias e verificar sua satisfação. Essa ação",
+    "alternativas": [
+      "é desnecessária, pois a venda já foi concluída",
+      "caracteriza assédio comercial e deve ser evitada",
+      "é uma etapa de prospecção, pois visa identificar novos clientes",
+      "é uma prática de pós-venda que reduz a insegurança após a compra, reforça o relacionamento e abre oportunidades futuras",
+      "deve ser feita somente se o cliente registrar reclamação"
+    ],
+    "correta": 3,
+    "comentario": "O pós-venda acompanha o cliente após a compra, esclarece dúvidas, reduz a dissonância cognitiva (a insegurança sobre a decisão tomada) e demonstra cuidado, favorecendo a fidelização e novas vendas. Considerá-lo desnecessário ignora que a retenção é mais barata que a conquista. Um contato de acompanhamento com finalidade de suporte não é assédio. A prospecção busca novos clientes, e esperar a reclamação transforma o pós-venda em ação apenas reativa.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-29",
+    "materia": "vendas",
+    "assunto": "CDC - direito de arrependimento",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um cliente contratou, pelo aplicativo do banco, um seguro de vida e, três dias depois, desistiu da contratação. De acordo com o Código de Defesa do Consumidor, ele",
+    "alternativas": [
+      "não pode desistir, pois o contrato foi assinado eletronicamente",
+      "pode desistir no prazo de 30 dias, mediante pagamento de multa de 10%",
+      "só pode desistir se comprovar defeito no serviço",
+      "pode desistir no prazo de 7 dias, contados da assinatura ou do recebimento do produto ou serviço, com devolução dos valores pagos, monetariamente atualizados",
+      "pode desistir em 7 dias, mas perde os valores já pagos"
+    ],
+    "correta": 3,
+    "comentario": "O art. 49 do CDC garante o direito de arrependimento em 7 dias quando a contratação ocorre fora do estabelecimento comercial, como pela internet ou pelo aplicativo, sem necessidade de justificativa. Nesse caso, os valores pagos devem ser devolvidos de imediato e monetariamente atualizados. A assinatura eletrônica não afasta esse direito. Não há multa nem perda dos valores, e não é preciso comprovar defeito, pois o arrependimento independe de vício.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-30",
+    "materia": "vendas",
+    "assunto": "CDC - instituições financeiras",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Acerca da aplicação do Código de Defesa do Consumidor às instituições financeiras, é correto afirmar que o CDC",
+    "alternativas": [
+      "não se aplica aos bancos, regulados exclusivamente pelo Banco Central",
+      "aplica-se apenas às operações com cartão de crédito",
+      "aplica-se somente aos clientes pessoas jurídicas",
+      "aplica-se somente aos bancos privados, excluídos os de economia mista",
+      "aplica-se às instituições financeiras, conforme entendimento consolidado na Súmula 297 do STJ"
+    ],
+    "correta": 4,
+    "comentario": "A Súmula 297 do Superior Tribunal de Justiça estabelece que o CDC é aplicável às instituições financeiras, entendimento confirmado pelo STF no julgamento da ADI 2.591. O próprio CDC inclui as atividades bancárias, financeiras, de crédito e securitárias no conceito de serviço. A regulação do Banco Central convive com o CDC, não o afasta. A aplicação alcança todas as operações de consumo, independentemente de o banco ser privado ou de economia mista.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-31",
+    "materia": "vendas",
+    "assunto": "CDC - cobrança indevida",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um cliente pagou R$ 200,00 referentes a uma tarifa que lhe foi cobrada indevidamente, sem que houvesse engano justificável por parte do banco. Nos termos do art. 42 do Código de Defesa do Consumidor, o consumidor tem direito à repetição do indébito",
+    "alternativas": [
+      "no valor de R$ 200,00, sem correção",
+      "no valor de R$ 400,00, acrescido de correção monetária e juros legais",
+      "no valor de R$ 600,00, correspondente ao triplo do valor pago",
+      "apenas na forma de crédito para abatimento de tarifas futuras",
+      "somente se houver decisão judicial prévia reconhecendo a má-fé"
+    ],
+    "correta": 1,
+    "comentario": "O parágrafo único do art. 42 do CDC determina que o consumidor cobrado em quantia indevida tem direito à repetição do indébito por valor igual ao dobro do que pagou em excesso, acrescido de correção monetária e juros legais, salvo engano justificável. Assim, os R$ 200,00 pagos geram direito a R$ 400,00 com os acréscimos. A devolução simples só ocorre quando há engano justificável, excluído pelo enunciado. Não há previsão de devolução em triplo, nem de restituição limitada a créditos futuros.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-32",
+    "materia": "vendas",
+    "assunto": "CDC - publicidade",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um anúncio de empréstimo destaca a expressão \"taxa zero\", mas omite que há tarifas e encargos que tornam o custo efetivo total da operação significativamente positivo. Nos termos do CDC, essa publicidade é",
+    "alternativas": [
+      "abusiva, por incitar a violência",
+      "lícita, pois a taxa nominal de juros é de fato zero",
+      "comparativa, e portanto permitida pelo CDC",
+      "abusiva, por explorar o medo do consumidor",
+      "enganosa por omissão, por deixar de informar dado essencial do serviço"
+    ],
+    "correta": 4,
+    "comentario": "O art. 37 do CDC considera enganosa a publicidade capaz de induzir o consumidor em erro, inclusive por omissão, quando deixa de informar dado essencial do produto ou serviço, como o custo efetivo de um empréstimo. Destacar a taxa zero e esconder os encargos leva o consumidor a acreditar em custo inexistente. A publicidade abusiva é a discriminatória, que incita violência, explora medo ou superstição, ou se aproveita da deficiência de julgamento, o que não é o caso. Não se trata de publicidade comparativa.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-33",
+    "materia": "vendas",
+    "assunto": "CDC - vinculação da oferta",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma agência divulga em cartaz as condições de uma linha de crédito, com taxa definida válida até o fim do mês. Um cliente que atende a todos os requisitos anunciados comparece dentro do prazo, mas o funcionário informa que a condição não vale mais, por mudança na política interna. Segundo o CDC,",
+    "alternativas": [
+      "a oferta suficientemente precisa obriga o fornecedor e integra o contrato, podendo o consumidor exigir seu cumprimento",
+      "a oferta publicitária tem caráter apenas informativo e não gera obrigação",
+      "o banco pode alterar a oferta a qualquer momento, desde que avise verbalmente o cliente",
+      "o consumidor só pode exigir a oferta se tiver guardado cópia autenticada do cartaz",
+      "a oferta só vincula o fornecedor quando veiculada em televisão ou rádio"
+    ],
+    "correta": 0,
+    "comentario": "O art. 30 do CDC estabelece o princípio da vinculação da oferta: toda informação ou publicidade suficientemente precisa, veiculada por qualquer meio, obriga o fornecedor e integra o contrato que vier a ser celebrado. Se o fornecedor se recusar, o art. 35 permite ao consumidor exigir o cumprimento forçado, aceitar outro produto equivalente ou rescindir com restituição. A oferta não é meramente informativa nem pode ser alterada unilateralmente durante sua validade. A vinculação vale para qualquer meio de comunicação.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-vend-34",
+    "materia": "vendas",
+    "assunto": "Marketing digital - inbound",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Um banco produz conteúdos gratuitos sobre educação financeira em blog e redes sociais, atraindo pessoas interessadas que, ao baixar um e-book, fornecem nome e e-mail e passam a receber comunicações relacionadas. Essa estratégia é característica do",
+    "alternativas": [
+      "outbound marketing",
+      "inbound marketing",
+      "telemarketing ativo",
+      "marketing de massa",
+      "marketing de interrupção"
+    ],
+    "correta": 1,
+    "comentario": "O inbound marketing atrai o cliente por meio de conteúdo relevante, fazendo com que ele procure a empresa e, ao trocar seus dados por um material, torne-se um lead a ser nutrido ao longo do funil. O outbound marketing, o telemarketing ativo e o marketing de interrupção vão ativamente até o cliente com mensagens que ele não solicitou. O marketing de massa dirige a mesma mensagem a todo o público, sem a segmentação e o relacionamento progressivo do inbound.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-vend-35",
+    "materia": "vendas",
+    "assunto": "Marketing digital - métricas",
+    "cargo": "comercial",
+    "origem": "inedita",
+    "enunciado": "Uma campanha digital de crédito pessoal teve 40.000 impressões, 1.600 cliques no anúncio e 48 contratações realizadas por quem clicou. A taxa de conversão dos cliques em contratações e a taxa de cliques (CTR) são, respectivamente,",
+    "alternativas": [
+      "3% e 4%",
+      "4% e 3%",
+      "0,12% e 4%",
+      "3% e 0,12%",
+      "4% e 0,12%"
+    ],
+    "correta": 0,
+    "comentario": "A taxa de conversão dos cliques é a razão entre contratações e cliques: 48 / 1.600 = 0,03, ou 3%. A taxa de cliques (CTR) é a razão entre cliques e impressões: 1.600 / 40.000 = 0,04, ou 4%. O valor 0,12% corresponde a contratações divididas por impressões, que não é a conversão dos cliques nem o CTR. A opção 4% e 3% inverte os dois indicadores.",
+    "dificuldade": 2
+  }
+]

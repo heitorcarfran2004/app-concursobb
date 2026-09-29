@@ -1,0 +1,1275 @@
+[
+ {
+  "id": "bb2021a-1",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um argumento que justifica a tese de que \"pensar em privacidade digital é (quase) utópico\" (parágrafo 2) aparece em",
+  "texto_apoio": "Privacidade digital: quais são os limites\n\n[1] Atualmente, somos mais de 126,4 milhões de brasileiros usuários de internet, representando cerca de 69,8% da população com 10 anos ou mais. Ao redor do mundo, cerca de 4 bilhões de pessoas usam a rede mundial, sendo que 2,9 bilhões delas fazem isso pelo smartphone.\n\n[2] Nesse cenário, pensar em privacidade digital é (quase) utópico. Uma vez na rede, a informação está registrada para sempre: deixamos rastros que podem ser descobertos a qualquer momento.\n\n[3] Ainda assim, mesmo diante de tamanha exposição, essa é uma discussão que precisa ser feita. Ela é importante, inclusive, para trazer mais clareza e consciência para os usuários. Vale lembrar, por exemplo, que não são apenas as redes sociais que expõem as pessoas. Infelizmente, basta ter um endereço de e-mail para ser rastreado por diferentes empresas e provedores.\n\n[4] A questão central não se resume somente à política de privacidade das plataformas X ou Y, mas, sim, ao modo como cada sociedade vem paulatinamente estruturando a sua política de proteção de dados.\n\n[5] A segurança da informação já se transformou em uma área estratégica para qualquer tipo de empresa. Independentemente da demanda de armazenamento de dados de clientes, as organizações têm um universo de dados institucionais que precisam ser salvaguardados.\n\n[6] Estamos diante de uma realidade já configurada: a coleta de informações da internet não para, e esse é um caminho sem volta. Agora, a questão é: nós, clientes, estamos prontos e dispostos a definir o limite da privacidade digital? O interesse maior é nosso! Esse limite poderia ser dado pelo próprio consumidor, se ele assim quiser? O conteúdo é realmente do usuário?\n\n[7] Se considerarmos a atmosfera das redes sociais, muito possivelmente não. Isso porque, embora muitas pessoas não saibam, a maioria das redes sociais prevê que, a partir do momento em que um conteúdo é postado, ele faz parte da rede e não é mais do usuário.\n\n[8] Daí a importância da conscientização. É preciso que tanto clientes como empresas busquem mais informação e conteúdo técnico sobre o tema. Às organizações, cabe o desafio de orientar seus clientes, já que, na maioria das vezes, eles não sabem quais são os limites da privacidade digital.\n\n[9] Vivemos em uma época em que todo mundo pode falar permanentemente o que quer. Nesse contexto, a informação deixou de ser algo confiável e cabe a cada um de nós aprender a ler isso e se proteger. Precisamos de consciência, senso crítico, responsabilidade e cuidado para levar a internet a um outro nível. É fato que ela não é segura, a questão, então, é como usá-la de maneira mais inteligente e contribuir para fortalecer a privacidade digital? Essa é uma causa comum a todos os usuários da rede.\n\n(Disponível em: digitalks.com.br, 7/04/2019. Adaptado.)",
+  "alternativas": [
+   "\"A questão central não se resume somente à política de privacidade das plataformas X ou Y\" (parágrafo 4)",
+   "\"A segurança da informação já se transformou em uma área estratégica para qualquer tipo de empresa\" (parágrafo 5)",
+   "\"a partir do momento em que um conteúdo é postado, ele faz parte da rede e não é mais do usuário\" (parágrafo 7)",
+   "\"É preciso que tanto clientes como empresas busquem mais informação e conteúdo técnico sobre o tema\" (parágrafo 8)",
+   "\"Precisamos de consciência, senso crítico, responsabilidade e cuidado para levar a internet a um outro nível.\" (parágrafo 9)"
+  ],
+  "correta": 2,
+  "comentario": "A tese diz que a privacidade na rede é quase impossível. O trecho do parágrafo 7 sustenta isso: se o conteúdo postado deixa de ser do usuário, ele perde o controle sobre sua informação. As alternativas D e E trazem propostas ou recomendações (o que se deve fazer), não argumentos que provam a tese. A e B tratam de outros aspectos (política de proteção de dados e segurança nas empresas) e não mostram por que a privacidade seria utópica.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-2",
+  "materia": "portugues",
+  "assunto": "Interpretação de texto",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Depois de questionar se o conteúdo que circula nas redes é realmente propriedade do usuário (parágrafo 6), o texto desenvolve a ideia de que",
+  "texto_apoio": "Privacidade digital: quais são os limites\n\n[1] Atualmente, somos mais de 126,4 milhões de brasileiros usuários de internet, representando cerca de 69,8% da população com 10 anos ou mais. Ao redor do mundo, cerca de 4 bilhões de pessoas usam a rede mundial, sendo que 2,9 bilhões delas fazem isso pelo smartphone.\n\n[2] Nesse cenário, pensar em privacidade digital é (quase) utópico. Uma vez na rede, a informação está registrada para sempre: deixamos rastros que podem ser descobertos a qualquer momento.\n\n[3] Ainda assim, mesmo diante de tamanha exposição, essa é uma discussão que precisa ser feita. Ela é importante, inclusive, para trazer mais clareza e consciência para os usuários. Vale lembrar, por exemplo, que não são apenas as redes sociais que expõem as pessoas. Infelizmente, basta ter um endereço de e-mail para ser rastreado por diferentes empresas e provedores.\n\n[4] A questão central não se resume somente à política de privacidade das plataformas X ou Y, mas, sim, ao modo como cada sociedade vem paulatinamente estruturando a sua política de proteção de dados.\n\n[5] A segurança da informação já se transformou em uma área estratégica para qualquer tipo de empresa. Independentemente da demanda de armazenamento de dados de clientes, as organizações têm um universo de dados institucionais que precisam ser salvaguardados.\n\n[6] Estamos diante de uma realidade já configurada: a coleta de informações da internet não para, e esse é um caminho sem volta. Agora, a questão é: nós, clientes, estamos prontos e dispostos a definir o limite da privacidade digital? O interesse maior é nosso! Esse limite poderia ser dado pelo próprio consumidor, se ele assim quiser? O conteúdo é realmente do usuário?\n\n[7] Se considerarmos a atmosfera das redes sociais, muito possivelmente não. Isso porque, embora muitas pessoas não saibam, a maioria das redes sociais prevê que, a partir do momento em que um conteúdo é postado, ele faz parte da rede e não é mais do usuário.\n\n[8] Daí a importância da conscientização. É preciso que tanto clientes como empresas busquem mais informação e conteúdo técnico sobre o tema. Às organizações, cabe o desafio de orientar seus clientes, já que, na maioria das vezes, eles não sabem quais são os limites da privacidade digital.\n\n[9] Vivemos em uma época em que todo mundo pode falar permanentemente o que quer. Nesse contexto, a informação deixou de ser algo confiável e cabe a cada um de nós aprender a ler isso e se proteger. Precisamos de consciência, senso crítico, responsabilidade e cuidado para levar a internet a um outro nível. É fato que ela não é segura, a questão, então, é como usá-la de maneira mais inteligente e contribuir para fortalecer a privacidade digital? Essa é uma causa comum a todos os usuários da rede.\n\n(Disponível em: digitalks.com.br, 7/04/2019. Adaptado.)",
+  "alternativas": [
+   "a maior parte dos usuários no mundo acessa a internet por meio de um smartphone.",
+   "a segurança da informação já se transformou em uma área estratégica para as empresas.",
+   "as empresas e os provedores conseguem rastrear os usuários por meio de endereço de e-mail.",
+   "as organizações devem conscientizar os clientes em relação aos limites da privacidade digital.",
+   "as pessoas deixam rastros na rede que podem ser descobertos a qualquer momento."
+  ],
+  "correta": 3,
+  "comentario": "A pergunta pede o que vem DEPOIS do parágrafo 6. Nos parágrafos 7 e 8, o texto responde que o conteúdo não é mais do usuário e conclui pela importância da conscientização: às organizações cabe orientar seus clientes sobre os limites da privacidade digital. As alternativas A, B, C e E trazem ideias verdadeiras do texto, mas que aparecem ANTES do parágrafo 6 (parágrafos 1, 5, 3 e 2). O erro típico é marcar uma informação correta sem observar a ordem de desenvolvimento pedida.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-3",
+  "materia": "portugues",
+  "assunto": "Semântica: advérbios e opinião",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O trecho em que a palavra destacada (indicada em maiúsculas) expressa uma opinião do autor é",
+  "texto_apoio": "Privacidade digital: quais são os limites\n\n[1] Atualmente, somos mais de 126,4 milhões de brasileiros usuários de internet, representando cerca de 69,8% da população com 10 anos ou mais. Ao redor do mundo, cerca de 4 bilhões de pessoas usam a rede mundial, sendo que 2,9 bilhões delas fazem isso pelo smartphone.\n\n[2] Nesse cenário, pensar em privacidade digital é (quase) utópico. Uma vez na rede, a informação está registrada para sempre: deixamos rastros que podem ser descobertos a qualquer momento.\n\n[3] Ainda assim, mesmo diante de tamanha exposição, essa é uma discussão que precisa ser feita. Ela é importante, inclusive, para trazer mais clareza e consciência para os usuários. Vale lembrar, por exemplo, que não são apenas as redes sociais que expõem as pessoas. Infelizmente, basta ter um endereço de e-mail para ser rastreado por diferentes empresas e provedores.\n\n[4] A questão central não se resume somente à política de privacidade das plataformas X ou Y, mas, sim, ao modo como cada sociedade vem paulatinamente estruturando a sua política de proteção de dados.\n\n[5] A segurança da informação já se transformou em uma área estratégica para qualquer tipo de empresa. Independentemente da demanda de armazenamento de dados de clientes, as organizações têm um universo de dados institucionais que precisam ser salvaguardados.\n\n[6] Estamos diante de uma realidade já configurada: a coleta de informações da internet não para, e esse é um caminho sem volta. Agora, a questão é: nós, clientes, estamos prontos e dispostos a definir o limite da privacidade digital? O interesse maior é nosso! Esse limite poderia ser dado pelo próprio consumidor, se ele assim quiser? O conteúdo é realmente do usuário?\n\n[7] Se considerarmos a atmosfera das redes sociais, muito possivelmente não. Isso porque, embora muitas pessoas não saibam, a maioria das redes sociais prevê que, a partir do momento em que um conteúdo é postado, ele faz parte da rede e não é mais do usuário.\n\n[8] Daí a importância da conscientização. É preciso que tanto clientes como empresas busquem mais informação e conteúdo técnico sobre o tema. Às organizações, cabe o desafio de orientar seus clientes, já que, na maioria das vezes, eles não sabem quais são os limites da privacidade digital.\n\n[9] Vivemos em uma época em que todo mundo pode falar permanentemente o que quer. Nesse contexto, a informação deixou de ser algo confiável e cabe a cada um de nós aprender a ler isso e se proteger. Precisamos de consciência, senso crítico, responsabilidade e cuidado para levar a internet a um outro nível. É fato que ela não é segura, a questão, então, é como usá-la de maneira mais inteligente e contribuir para fortalecer a privacidade digital? Essa é uma causa comum a todos os usuários da rede.\n\n(Disponível em: digitalks.com.br, 7/04/2019. Adaptado.)",
+  "alternativas": [
+   "\"ATUALMENTE, somos mais de 126,4 milhões de brasileiros\" (parágrafo 1)",
+   "\"INFELIZMENTE, basta ter um endereço de e-mail para ser rastreado\" (parágrafo 3)",
+   "\"modo como cada sociedade vem PAULATINAMENTE estruturando a sua política\" (parágrafo 4)",
+   "\"INDEPENDENTEMENTE da demanda de armazenamento de dados de clientes\" (parágrafo 5)",
+   "\"época em que todo mundo pode falar PERMANENTEMENTE o que quer.\" (parágrafo 9)"
+  ],
+  "correta": 1,
+  "comentario": "\"Infelizmente\" é um advérbio modalizador: revela o juízo de valor do autor, que lamenta o fato de bastar um e-mail para ser rastreado. \"Atualmente\" indica tempo; \"paulatinamente\" indica modo (aos poucos); \"independentemente\" marca desconsideração de um fator; \"permanentemente\" indica tempo/modo contínuo. Nenhum desses expressa avaliação pessoal do autor sobre o fato.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-4",
+  "materia": "portugues",
+  "assunto": "Conectivos",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "No trecho \"Às organizações, cabe o desafio de orientar seus clientes, JÁ QUE, na maioria das vezes, eles não sabem quais são os limites da privacidade digital\" (parágrafo 8), a expressão destacada expressa a noção de",
+  "texto_apoio": "Privacidade digital: quais são os limites\n\n[1] Atualmente, somos mais de 126,4 milhões de brasileiros usuários de internet, representando cerca de 69,8% da população com 10 anos ou mais. Ao redor do mundo, cerca de 4 bilhões de pessoas usam a rede mundial, sendo que 2,9 bilhões delas fazem isso pelo smartphone.\n\n[2] Nesse cenário, pensar em privacidade digital é (quase) utópico. Uma vez na rede, a informação está registrada para sempre: deixamos rastros que podem ser descobertos a qualquer momento.\n\n[3] Ainda assim, mesmo diante de tamanha exposição, essa é uma discussão que precisa ser feita. Ela é importante, inclusive, para trazer mais clareza e consciência para os usuários. Vale lembrar, por exemplo, que não são apenas as redes sociais que expõem as pessoas. Infelizmente, basta ter um endereço de e-mail para ser rastreado por diferentes empresas e provedores.\n\n[4] A questão central não se resume somente à política de privacidade das plataformas X ou Y, mas, sim, ao modo como cada sociedade vem paulatinamente estruturando a sua política de proteção de dados.\n\n[5] A segurança da informação já se transformou em uma área estratégica para qualquer tipo de empresa. Independentemente da demanda de armazenamento de dados de clientes, as organizações têm um universo de dados institucionais que precisam ser salvaguardados.\n\n[6] Estamos diante de uma realidade já configurada: a coleta de informações da internet não para, e esse é um caminho sem volta. Agora, a questão é: nós, clientes, estamos prontos e dispostos a definir o limite da privacidade digital? O interesse maior é nosso! Esse limite poderia ser dado pelo próprio consumidor, se ele assim quiser? O conteúdo é realmente do usuário?\n\n[7] Se considerarmos a atmosfera das redes sociais, muito possivelmente não. Isso porque, embora muitas pessoas não saibam, a maioria das redes sociais prevê que, a partir do momento em que um conteúdo é postado, ele faz parte da rede e não é mais do usuário.\n\n[8] Daí a importância da conscientização. É preciso que tanto clientes como empresas busquem mais informação e conteúdo técnico sobre o tema. Às organizações, cabe o desafio de orientar seus clientes, já que, na maioria das vezes, eles não sabem quais são os limites da privacidade digital.\n\n[9] Vivemos em uma época em que todo mundo pode falar permanentemente o que quer. Nesse contexto, a informação deixou de ser algo confiável e cabe a cada um de nós aprender a ler isso e se proteger. Precisamos de consciência, senso crítico, responsabilidade e cuidado para levar a internet a um outro nível. É fato que ela não é segura, a questão, então, é como usá-la de maneira mais inteligente e contribuir para fortalecer a privacidade digital? Essa é uma causa comum a todos os usuários da rede.\n\n(Disponível em: digitalks.com.br, 7/04/2019. Adaptado.)",
+  "alternativas": [
+   "condição",
+   "finalidade",
+   "concessão",
+   "causalidade",
+   "comparação"
+  ],
+  "correta": 3,
+  "comentario": "\"Já que\" é conjunção causal, equivalente a \"porque\", \"visto que\", \"uma vez que\": o fato de os clientes não conhecerem os limites é a causa do desafio das organizações. Condição seria \"se\", \"caso\"; finalidade, \"para que\"; concessão, \"embora\", \"ainda que\"; comparação, \"como\", \"assim como\".",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-5",
+  "materia": "portugues",
+  "assunto": "Coesão referencial",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A palavra ou a expressão a que se refere o termo em destaque (indicado em maiúsculas) está corretamente explicitada entre colchetes em:",
+  "texto_apoio": "Privacidade digital: quais são os limites\n\n[1] Atualmente, somos mais de 126,4 milhões de brasileiros usuários de internet, representando cerca de 69,8% da população com 10 anos ou mais. Ao redor do mundo, cerca de 4 bilhões de pessoas usam a rede mundial, sendo que 2,9 bilhões delas fazem isso pelo smartphone.\n\n[2] Nesse cenário, pensar em privacidade digital é (quase) utópico. Uma vez na rede, a informação está registrada para sempre: deixamos rastros que podem ser descobertos a qualquer momento.\n\n[3] Ainda assim, mesmo diante de tamanha exposição, essa é uma discussão que precisa ser feita. Ela é importante, inclusive, para trazer mais clareza e consciência para os usuários. Vale lembrar, por exemplo, que não são apenas as redes sociais que expõem as pessoas. Infelizmente, basta ter um endereço de e-mail para ser rastreado por diferentes empresas e provedores.\n\n[4] A questão central não se resume somente à política de privacidade das plataformas X ou Y, mas, sim, ao modo como cada sociedade vem paulatinamente estruturando a sua política de proteção de dados.\n\n[5] A segurança da informação já se transformou em uma área estratégica para qualquer tipo de empresa. Independentemente da demanda de armazenamento de dados de clientes, as organizações têm um universo de dados institucionais que precisam ser salvaguardados.\n\n[6] Estamos diante de uma realidade já configurada: a coleta de informações da internet não para, e esse é um caminho sem volta. Agora, a questão é: nós, clientes, estamos prontos e dispostos a definir o limite da privacidade digital? O interesse maior é nosso! Esse limite poderia ser dado pelo próprio consumidor, se ele assim quiser? O conteúdo é realmente do usuário?\n\n[7] Se considerarmos a atmosfera das redes sociais, muito possivelmente não. Isso porque, embora muitas pessoas não saibam, a maioria das redes sociais prevê que, a partir do momento em que um conteúdo é postado, ele faz parte da rede e não é mais do usuário.\n\n[8] Daí a importância da conscientização. É preciso que tanto clientes como empresas busquem mais informação e conteúdo técnico sobre o tema. Às organizações, cabe o desafio de orientar seus clientes, já que, na maioria das vezes, eles não sabem quais são os limites da privacidade digital.\n\n[9] Vivemos em uma época em que todo mundo pode falar permanentemente o que quer. Nesse contexto, a informação deixou de ser algo confiável e cabe a cada um de nós aprender a ler isso e se proteger. Precisamos de consciência, senso crítico, responsabilidade e cuidado para levar a internet a um outro nível. É fato que ela não é segura, a questão, então, é como usá-la de maneira mais inteligente e contribuir para fortalecer a privacidade digital? Essa é uma causa comum a todos os usuários da rede.\n\n(Disponível em: digitalks.com.br, 7/04/2019. Adaptado.)",
+  "alternativas": [
+   "\"sendo que 2,9 bilhões delas fazem ISSO pelo smartphone\" (parágrafo 1) - [rede mundial]",
+   "\"ELA é importante, inclusive, para trazer mais clareza e consciência para os usuários.\" (parágrafo 3) - [exposição]",
+   "\"ISSO porque, embora muitas pessoas não saibam, a maioria das redes sociais prevê que, a partir do momento\" (parágrafo 7) - [redes sociais]",
+   "\"a partir do momento em que um conteúdo é postado, ELE faz parte da rede e não mais do usuário\" (parágrafo 7) - [momento]",
+   "\"É fato que ELA não é segura, a questão, então, é como usá-la de maneira mais inteligente\" (parágrafo 9) - [internet]"
+  ],
+  "correta": 4,
+  "comentario": "Em \"É fato que ela não é segura\", o pronome retoma \"internet\", citada logo antes (\"levar a internet a um outro nível\"). Em A, \"isso\" retoma a ação de usar a rede mundial, não apenas \"rede mundial\". Em B, \"Ela\" retoma \"uma discussão\" (sobre privacidade), não \"exposição\". Em C, \"Isso\" retoma a resposta negativa do início do parágrafo (o conteúdo não é do usuário). Em D, \"ele\" retoma \"um conteúdo\", não \"momento\".",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-6",
+  "materia": "portugues",
+  "assunto": "Modos e tempos verbais",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "No trecho \"Esse limite PODERIA ser dado pelo próprio consumidor, se ele assim quiser?\" (parágrafo 6), a forma verbal destacada expressa a noção de",
+  "texto_apoio": "Privacidade digital: quais são os limites\n\n[1] Atualmente, somos mais de 126,4 milhões de brasileiros usuários de internet, representando cerca de 69,8% da população com 10 anos ou mais. Ao redor do mundo, cerca de 4 bilhões de pessoas usam a rede mundial, sendo que 2,9 bilhões delas fazem isso pelo smartphone.\n\n[2] Nesse cenário, pensar em privacidade digital é (quase) utópico. Uma vez na rede, a informação está registrada para sempre: deixamos rastros que podem ser descobertos a qualquer momento.\n\n[3] Ainda assim, mesmo diante de tamanha exposição, essa é uma discussão que precisa ser feita. Ela é importante, inclusive, para trazer mais clareza e consciência para os usuários. Vale lembrar, por exemplo, que não são apenas as redes sociais que expõem as pessoas. Infelizmente, basta ter um endereço de e-mail para ser rastreado por diferentes empresas e provedores.\n\n[4] A questão central não se resume somente à política de privacidade das plataformas X ou Y, mas, sim, ao modo como cada sociedade vem paulatinamente estruturando a sua política de proteção de dados.\n\n[5] A segurança da informação já se transformou em uma área estratégica para qualquer tipo de empresa. Independentemente da demanda de armazenamento de dados de clientes, as organizações têm um universo de dados institucionais que precisam ser salvaguardados.\n\n[6] Estamos diante de uma realidade já configurada: a coleta de informações da internet não para, e esse é um caminho sem volta. Agora, a questão é: nós, clientes, estamos prontos e dispostos a definir o limite da privacidade digital? O interesse maior é nosso! Esse limite poderia ser dado pelo próprio consumidor, se ele assim quiser? O conteúdo é realmente do usuário?\n\n[7] Se considerarmos a atmosfera das redes sociais, muito possivelmente não. Isso porque, embora muitas pessoas não saibam, a maioria das redes sociais prevê que, a partir do momento em que um conteúdo é postado, ele faz parte da rede e não é mais do usuário.\n\n[8] Daí a importância da conscientização. É preciso que tanto clientes como empresas busquem mais informação e conteúdo técnico sobre o tema. Às organizações, cabe o desafio de orientar seus clientes, já que, na maioria das vezes, eles não sabem quais são os limites da privacidade digital.\n\n[9] Vivemos em uma época em que todo mundo pode falar permanentemente o que quer. Nesse contexto, a informação deixou de ser algo confiável e cabe a cada um de nós aprender a ler isso e se proteger. Precisamos de consciência, senso crítico, responsabilidade e cuidado para levar a internet a um outro nível. É fato que ela não é segura, a questão, então, é como usá-la de maneira mais inteligente e contribuir para fortalecer a privacidade digital? Essa é uma causa comum a todos os usuários da rede.\n\n(Disponível em: digitalks.com.br, 7/04/2019. Adaptado.)",
+  "alternativas": [
+   "dever",
+   "certeza",
+   "hipótese",
+   "obrigação",
+   "necessidade"
+  ],
+  "correta": 2,
+  "comentario": "\"Poderia\" está no futuro do pretérito, tempo que expressa possibilidade ou hipótese, reforçada pela oração condicional \"se ele assim quiser\" e pelo tom de pergunta. Não há ideia de certeza (que exigiria indicativo afirmativo, como \"será\") nem de dever, obrigação ou necessidade (que viriam com \"deve\", \"precisa\", \"é necessário\").",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-7",
+  "materia": "portugues",
+  "assunto": "Concordância verbal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "De acordo com as exigências da norma-padrão da língua portuguesa, a concordância verbal está corretamente empregada na forma destacada (indicada em maiúsculas) em:",
+  "alternativas": [
+   "Para entender o público das plataformas digitais, ANALISARAM-se, durante dez semanas, o comportamento de jovens considerados viciados em aplicativos.",
+   "Em grupos de jovens usuários de redes sociais, CONSTATARAM-se inúmeras situações de dependência crônica do uso de aparelhos celulares.",
+   "Nos serviços de ouvidoria das empresas de comunicação, ATENDEM-se a reclamações de todos os tipos sobre falhas nas conexões telefônicas.",
+   "Nas análises sobre privacidade dos usuários, ATRIBUEM-se corretamente aos aplicativos de conversas a maior responsabilidade pela situação atual.",
+   "Com base em dados estatísticos, ESTIMAM-se que os jovens sejam os maiores responsáveis pela navegação nas redes sociais."
+  ],
+  "correta": 1,
+  "comentario": "Com verbo transitivo direto + \"se\" (voz passiva sintética), o verbo concorda com o sujeito paciente: \"inúmeras situações foram constatadas\" -> \"constataram-se inúmeras situações\". Em A, o sujeito é \"o comportamento\" (singular): \"analisou-se\". Em C, \"atender a\" é transitivo indireto, então o \"se\" é índice de indeterminação e o verbo fica no singular: \"atende-se a reclamações\". Em D, o sujeito é \"a maior responsabilidade\": \"atribui-se\". Em E, o sujeito é a oração \"que os jovens sejam...\", que exige singular: \"estima-se\".",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-8",
+  "materia": "portugues",
+  "assunto": "Ortografia: uso do hífen",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O grupo de palavras que atende às exigências relativas ao emprego ou não do hífen, segundo o Vocabulário Ortográfico da Língua Portuguesa, é",
+  "alternativas": [
+   "extra-escolar / médico-cirurgião",
+   "bem-educado / vagalume",
+   "portarretratos / dia a dia",
+   "arco-íris / contra-regra",
+   "subutilizar / sub-reitor"
+  ],
+  "correta": 4,
+  "comentario": "Com o prefixo \"sub\", usa-se hífen diante de palavra iniciada por \"b\", \"h\" ou \"r\" (sub-reitor, sub-base, sub-humano); nos demais casos, junta-se (subutilizar). Os erros: \"extraescolar\" se escreve junto (prefixo terminado em vogal diante de vogal diferente); \"vaga-lume\" mantém o hífen por ser composto de nomes de espécies; \"porta-retratos\" tem hífen; \"contrarregra\" se escreve junto, dobrando o \"r\".",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-9",
+  "materia": "portugues",
+  "assunto": "Crase",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "De acordo com a norma-padrão da língua portuguesa, o emprego do acento grave indicativo da crase é obrigatório na palavra destacada (indicada entre colchetes) em:",
+  "alternativas": [
+   "A exigência de entrar em contato com instituições financeiras obrigou o cliente [a] criar senhas para ter acesso aos serviços bancários.",
+   "A falta de leis sobre privacidade digital exige que os indivíduos se preparem para enfrentar a invasão do acesso [a] suas vidas privadas.",
+   "A revolução da tecnologia da informação modificou [a] realidade social, penetrando em todas as esferas da atividade humana.",
+   "As pesquisas tecnológicas são indispensáveis devido [a] importância de solucionar problemas causados pela invasão de dados.",
+   "O surgimento das redes sociais e dos sites de compartilhamento conduziu as pessoas [a] novas situações de risco na sociedade atual."
+  ],
+  "correta": 3,
+  "comentario": "\"Devido a\" exige a preposição \"a\", e \"importância\" é palavra feminina determinada pelo artigo \"a\": preposição + artigo = \"devido à importância\". Em A, não há crase antes de verbo (\"a criar\"). Em B, antes de pronome possessivo feminino no plural sem artigo (\"a suas vidas\"), a crase não ocorre; seria facultativa apenas no singular. Em C, \"modificou a realidade\" tem só artigo (verbo transitivo direto). Em E, \"a novas situações\" tem só preposição diante de palavra no plural sem artigo.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-10",
+  "materia": "portugues",
+  "assunto": "Colocação pronominal",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O pronome destacado (indicado em maiúsculas) foi utilizado na posição correta, segundo as exigências da norma-padrão da língua portuguesa, em:",
+  "alternativas": [
+   "A associação brasileira de mercados financeiros publicou uma diretriz de segurança, na qual mostra-SE a necessidade de adequação de proteção de dados.",
+   "A segurança da informação já transformou-SE em uma área estratégica para qualquer tipo de empresa.",
+   "Naquele evento, ninguém tinha-SE incomodado com o palestrante no início do debate a respeito de privacidade digital.",
+   "Apesar das dificuldades encontradas, sempre referimo-NOS com cuidado aos nossos dados pessoais, como CPF, RG, e-mail, para proteção da vida privada.",
+   "Quando a privacidade dos dados bancários é mantida, como NOS garantem as instituições, ficamos tranquilos."
+  ],
+  "correta": 4,
+  "comentario": "Em E, a conjunção \"como\" é palavra atrativa e exige a próclise: \"como nos garantem\" está correto. Nas demais, há palavra atrativa que também exigiria próclise, mas foi usada ênclise: pronome relativo em A (\"na qual se mostra\"), advérbio em B (\"já se transformou\"), pronome indefinido em C (\"ninguém se tinha incomodado\") e advérbio em D (\"sempre nos referimos\"). O erro típico é achar que a ênclise é sempre a forma \"mais correta\".",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-11",
+  "materia": "ingles",
+  "assunto": "Reading comprehension",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "According to the second paragraph, the concept of robotic soccer players emerged",
+  "texto_apoio": "Robots, the next generation of soccer players\n\n[1] If you think a robot will steal your job, you are not alone. Soccer players should be worried too. The next Messi probably won't be of flesh and blood but plastic and metal.\n\n[2] The concept emerged during the conference \"Workshop on grand challenges in artificial intelligence,\" held in Tokyo in 1992, and independently, in 1993, when Professor Alan Mackworth from the University of Bristol in Canada described an experiment with small soccer players in a scientific article.\n\n[3] Over 40 teams already participated in the first RoboCup tournament in 1997, and the competition is held every year. The RoboCup Federation wants to play and win a game against a real-world cup humans' team by 2050.\n\n[4] The idea behind artificially intelligent players is to investigate how robots perceive motion and communicate with each other. Physical abilities like walking, running, and kicking the ball while maintaining balance are crucial to improving robots for other tasks like rescue, home, industry, and education.\n\n[5] Designing robots for sports requires much more than experts in state-of-the-art technology. Humans and machines do not share the same skills. Engineers need to impose limitations on soccer robots to imitate soccer players as much as possible and ensure following the game's rules.\n\n[6] RoboCup Soccer Federation, the \"FIFA\" of robots, which supports five leagues, imposes restrictions on players' design and rules of the game. Each has its own robot design and game rules to give room for different scientific goals. The number of players, their size, the ball type, and the field dimensions are different for each league.\n\n[7] In the humanoid league the players are human-like robots with human-like senses. However, they are rather slow. Many of the skills needed to fully recreate actual soccer player movements are still in the early stages of research.\n\n[8] The game becomes exciting for middle and small size leagues. The models are much simpler; they are just boxes with a cyclopean eye. Their design focuses on team behavior: recognizing an opponent, cooperating with team members, receiving and giving a standard FIFA size ball.\n\n[9] Today, soccer robots are entirely autonomous. They wireless \"talk\" to each other, make decisions regarding strategy in real-time, replace an \"injured\" player, and shoot goals. The only person in a RoboCup game is the referee. The team coaches are engineers in charge of training the RoboCups' artificial intelligence for fair play: the robots don't smash against each other or pull their shirts.\n\n[10] The next RoboCup competition will soon be played, virtually, with rules that will allow teams to participate without establishing physical contact.\n\n(Available at: ua-magazine.com, 12/05/2021. Adapted.)",
+  "alternativas": [
+   "in 1997",
+   "in the 1990s",
+   "before the 1990s",
+   "in the beginning of the 20th century",
+   "in the beginning of the 21st century"
+  ],
+  "correta": 1,
+  "comentario": "O parágrafo 2 diz que o conceito surgiu em uma conferência em Tóquio em 1992 e, de forma independente, em 1993, ou seja, na década de 1990 (\"in the 1990s\"). 1997 (A) é o ano do primeiro torneio RoboCup, não o do surgimento do conceito, e essa é a pegadinha principal. As demais alternativas indicam épocas que não aparecem no texto.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-12",
+  "materia": "ingles",
+  "assunto": "Vocabulary",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "In the sentence fragment of the fifth paragraph \"DESIGNING robots for sports requires much more than EXPERTS in state-of-the-art technology\", the words in bold (in capital letters) can be replaced, without any change in meaning, by the following words:",
+  "texto_apoio": "Robots, the next generation of soccer players\n\n[1] If you think a robot will steal your job, you are not alone. Soccer players should be worried too. The next Messi probably won't be of flesh and blood but plastic and metal.\n\n[2] The concept emerged during the conference \"Workshop on grand challenges in artificial intelligence,\" held in Tokyo in 1992, and independently, in 1993, when Professor Alan Mackworth from the University of Bristol in Canada described an experiment with small soccer players in a scientific article.\n\n[3] Over 40 teams already participated in the first RoboCup tournament in 1997, and the competition is held every year. The RoboCup Federation wants to play and win a game against a real-world cup humans' team by 2050.\n\n[4] The idea behind artificially intelligent players is to investigate how robots perceive motion and communicate with each other. Physical abilities like walking, running, and kicking the ball while maintaining balance are crucial to improving robots for other tasks like rescue, home, industry, and education.\n\n[5] Designing robots for sports requires much more than experts in state-of-the-art technology. Humans and machines do not share the same skills. Engineers need to impose limitations on soccer robots to imitate soccer players as much as possible and ensure following the game's rules.\n\n[6] RoboCup Soccer Federation, the \"FIFA\" of robots, which supports five leagues, imposes restrictions on players' design and rules of the game. Each has its own robot design and game rules to give room for different scientific goals. The number of players, their size, the ball type, and the field dimensions are different for each league.\n\n[7] In the humanoid league the players are human-like robots with human-like senses. However, they are rather slow. Many of the skills needed to fully recreate actual soccer player movements are still in the early stages of research.\n\n[8] The game becomes exciting for middle and small size leagues. The models are much simpler; they are just boxes with a cyclopean eye. Their design focuses on team behavior: recognizing an opponent, cooperating with team members, receiving and giving a standard FIFA size ball.\n\n[9] Today, soccer robots are entirely autonomous. They wireless \"talk\" to each other, make decisions regarding strategy in real-time, replace an \"injured\" player, and shoot goals. The only person in a RoboCup game is the referee. The team coaches are engineers in charge of training the RoboCups' artificial intelligence for fair play: the robots don't smash against each other or pull their shirts.\n\n[10] The next RoboCup competition will soon be played, virtually, with rules that will allow teams to participate without establishing physical contact.\n\n(Available at: ua-magazine.com, 12/05/2021. Adapted.)",
+  "alternativas": [
+   "drawing / scholars",
+   "creating / amateurs",
+   "planning / specialists",
+   "finishing / professionals",
+   "manufacturing / engineers"
+  ],
+  "correta": 2,
+  "comentario": "\"Designing\", no sentido de projetar/conceber, equivale a \"planning\", e \"experts\" (especialistas) equivale a \"specialists\". \"Drawing\" é desenhar no sentido literal; \"amateurs\" (amadores) é o oposto de experts; \"finishing\" é terminar; \"manufacturing\" é fabricar, e \"engineers\" é uma profissão específica, não sinônimo de experts.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-13",
+  "materia": "ingles",
+  "assunto": "Reference words",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "In the text fragment of the sixth paragraph \"RoboCup Soccer Federation, the 'FIFA' of robots, WHICH supports five leagues, imposes restrictions on players' design and rules of the game\", the word WHICH refers to",
+  "texto_apoio": "Robots, the next generation of soccer players\n\n[1] If you think a robot will steal your job, you are not alone. Soccer players should be worried too. The next Messi probably won't be of flesh and blood but plastic and metal.\n\n[2] The concept emerged during the conference \"Workshop on grand challenges in artificial intelligence,\" held in Tokyo in 1992, and independently, in 1993, when Professor Alan Mackworth from the University of Bristol in Canada described an experiment with small soccer players in a scientific article.\n\n[3] Over 40 teams already participated in the first RoboCup tournament in 1997, and the competition is held every year. The RoboCup Federation wants to play and win a game against a real-world cup humans' team by 2050.\n\n[4] The idea behind artificially intelligent players is to investigate how robots perceive motion and communicate with each other. Physical abilities like walking, running, and kicking the ball while maintaining balance are crucial to improving robots for other tasks like rescue, home, industry, and education.\n\n[5] Designing robots for sports requires much more than experts in state-of-the-art technology. Humans and machines do not share the same skills. Engineers need to impose limitations on soccer robots to imitate soccer players as much as possible and ensure following the game's rules.\n\n[6] RoboCup Soccer Federation, the \"FIFA\" of robots, which supports five leagues, imposes restrictions on players' design and rules of the game. Each has its own robot design and game rules to give room for different scientific goals. The number of players, their size, the ball type, and the field dimensions are different for each league.\n\n[7] In the humanoid league the players are human-like robots with human-like senses. However, they are rather slow. Many of the skills needed to fully recreate actual soccer player movements are still in the early stages of research.\n\n[8] The game becomes exciting for middle and small size leagues. The models are much simpler; they are just boxes with a cyclopean eye. Their design focuses on team behavior: recognizing an opponent, cooperating with team members, receiving and giving a standard FIFA size ball.\n\n[9] Today, soccer robots are entirely autonomous. They wireless \"talk\" to each other, make decisions regarding strategy in real-time, replace an \"injured\" player, and shoot goals. The only person in a RoboCup game is the referee. The team coaches are engineers in charge of training the RoboCups' artificial intelligence for fair play: the robots don't smash against each other or pull their shirts.\n\n[10] The next RoboCup competition will soon be played, virtually, with rules that will allow teams to participate without establishing physical contact.\n\n(Available at: ua-magazine.com, 12/05/2021. Adapted.)",
+  "alternativas": [
+   "game",
+   "FIFA",
+   "players",
+   "leagues",
+   "RoboCup Soccer Federation"
+  ],
+  "correta": 4,
+  "comentario": "O pronome relativo \"which\" introduz uma oração explicativa sobre o sujeito da frase, \"RoboCup Soccer Federation\": é a federação que apoia cinco ligas e impõe restrições. \"The FIFA of robots\" é apenas um aposto que descreve a federação. Por isso a alternativa B é a pegadinha: \"which\" aparece logo depois dela, mas não a retoma.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-14",
+  "materia": "ingles",
+  "assunto": "Connectors",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "In paragraph 7, the word However in the fragment \"In the humanoid league, the players are human-like robots with human-like senses. However, they are rather slow\" can be replaced, without change in meaning, by",
+  "texto_apoio": "Robots, the next generation of soccer players\n\n[1] If you think a robot will steal your job, you are not alone. Soccer players should be worried too. The next Messi probably won't be of flesh and blood but plastic and metal.\n\n[2] The concept emerged during the conference \"Workshop on grand challenges in artificial intelligence,\" held in Tokyo in 1992, and independently, in 1993, when Professor Alan Mackworth from the University of Bristol in Canada described an experiment with small soccer players in a scientific article.\n\n[3] Over 40 teams already participated in the first RoboCup tournament in 1997, and the competition is held every year. The RoboCup Federation wants to play and win a game against a real-world cup humans' team by 2050.\n\n[4] The idea behind artificially intelligent players is to investigate how robots perceive motion and communicate with each other. Physical abilities like walking, running, and kicking the ball while maintaining balance are crucial to improving robots for other tasks like rescue, home, industry, and education.\n\n[5] Designing robots for sports requires much more than experts in state-of-the-art technology. Humans and machines do not share the same skills. Engineers need to impose limitations on soccer robots to imitate soccer players as much as possible and ensure following the game's rules.\n\n[6] RoboCup Soccer Federation, the \"FIFA\" of robots, which supports five leagues, imposes restrictions on players' design and rules of the game. Each has its own robot design and game rules to give room for different scientific goals. The number of players, their size, the ball type, and the field dimensions are different for each league.\n\n[7] In the humanoid league the players are human-like robots with human-like senses. However, they are rather slow. Many of the skills needed to fully recreate actual soccer player movements are still in the early stages of research.\n\n[8] The game becomes exciting for middle and small size leagues. The models are much simpler; they are just boxes with a cyclopean eye. Their design focuses on team behavior: recognizing an opponent, cooperating with team members, receiving and giving a standard FIFA size ball.\n\n[9] Today, soccer robots are entirely autonomous. They wireless \"talk\" to each other, make decisions regarding strategy in real-time, replace an \"injured\" player, and shoot goals. The only person in a RoboCup game is the referee. The team coaches are engineers in charge of training the RoboCups' artificial intelligence for fair play: the robots don't smash against each other or pull their shirts.\n\n[10] The next RoboCup competition will soon be played, virtually, with rules that will allow teams to participate without establishing physical contact.\n\n(Available at: ua-magazine.com, 12/05/2021. Adapted.)",
+  "alternativas": [
+   "unless",
+   "indeed",
+   "furthermore",
+   "nevertheless",
+   "consequently"
+  ],
+  "correta": 3,
+  "comentario": "\"However\" expressa contraste (no entanto), e o sinônimo é \"nevertheless\" (mesmo assim, contudo). \"Unless\" é condicional (a menos que); \"indeed\" confirma (de fato); \"furthermore\" acrescenta (além disso); \"consequently\" indica consequência (consequentemente).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-15",
+  "materia": "ingles",
+  "assunto": "Reading comprehension",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "In paragraph 9, there is the information that in RoboCup competitions the game referee and the team coaches are",
+  "texto_apoio": "Robots, the next generation of soccer players\n\n[1] If you think a robot will steal your job, you are not alone. Soccer players should be worried too. The next Messi probably won't be of flesh and blood but plastic and metal.\n\n[2] The concept emerged during the conference \"Workshop on grand challenges in artificial intelligence,\" held in Tokyo in 1992, and independently, in 1993, when Professor Alan Mackworth from the University of Bristol in Canada described an experiment with small soccer players in a scientific article.\n\n[3] Over 40 teams already participated in the first RoboCup tournament in 1997, and the competition is held every year. The RoboCup Federation wants to play and win a game against a real-world cup humans' team by 2050.\n\n[4] The idea behind artificially intelligent players is to investigate how robots perceive motion and communicate with each other. Physical abilities like walking, running, and kicking the ball while maintaining balance are crucial to improving robots for other tasks like rescue, home, industry, and education.\n\n[5] Designing robots for sports requires much more than experts in state-of-the-art technology. Humans and machines do not share the same skills. Engineers need to impose limitations on soccer robots to imitate soccer players as much as possible and ensure following the game's rules.\n\n[6] RoboCup Soccer Federation, the \"FIFA\" of robots, which supports five leagues, imposes restrictions on players' design and rules of the game. Each has its own robot design and game rules to give room for different scientific goals. The number of players, their size, the ball type, and the field dimensions are different for each league.\n\n[7] In the humanoid league the players are human-like robots with human-like senses. However, they are rather slow. Many of the skills needed to fully recreate actual soccer player movements are still in the early stages of research.\n\n[8] The game becomes exciting for middle and small size leagues. The models are much simpler; they are just boxes with a cyclopean eye. Their design focuses on team behavior: recognizing an opponent, cooperating with team members, receiving and giving a standard FIFA size ball.\n\n[9] Today, soccer robots are entirely autonomous. They wireless \"talk\" to each other, make decisions regarding strategy in real-time, replace an \"injured\" player, and shoot goals. The only person in a RoboCup game is the referee. The team coaches are engineers in charge of training the RoboCups' artificial intelligence for fair play: the robots don't smash against each other or pull their shirts.\n\n[10] The next RoboCup competition will soon be played, virtually, with rules that will allow teams to participate without establishing physical contact.\n\n(Available at: ua-magazine.com, 12/05/2021. Adapted.)",
+  "alternativas": [
+   "humanoids",
+   "computers",
+   "real people",
+   "robotic engineers",
+   "virtual mechanisms"
+  ],
+  "correta": 2,
+  "comentario": "O texto diz que a única pessoa em campo é o árbitro (\"The only person in a RoboCup game is the referee\") e que os técnicos são engenheiros (\"The team coaches are engineers\"). Portanto, ambos são pessoas reais. D é incompleta: só os técnicos são engenheiros, não o árbitro. A, B e E contrariam o texto.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-16",
+  "materia": "matematica",
+  "assunto": "Conjuntos (diagrama de Venn)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Antes de iniciar uma campanha publicitária, um banco fez uma pesquisa, entrevistando 1000 de seus clientes, sobre a intenção de adesão aos seus dois novos produtos. Dos clientes entrevistados, 430 disseram que não tinham interesse em nenhum dos dois produtos, 270 mostraram-se interessados no primeiro produto, e 400 mostraram-se interessados no segundo produto. Qual a porcentagem do total de clientes entrevistados que se mostrou interessada em ambos os produtos?",
+  "alternativas": [
+   "10%",
+   "15%",
+   "20%",
+   "25%",
+   "30%"
+  ],
+  "correta": 0,
+  "comentario": "Clientes interessados em pelo menos um produto: 1000 - 430 = 570. Pela fórmula da união, n(A∪B) = n(A) + n(B) - n(A∩B), então 570 = 270 + 400 - x, o que dá x = 100. Logo, 100/1000 = 10%. O erro comum é somar 270 + 400 = 670 e esquecer de descontar os que não têm interesse em nenhum.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-17",
+  "materia": "matematica",
+  "assunto": "Sequências (recorrência)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A sequência de Fibonacci é bastante utilizada para exemplificar sequências definidas por recorrência, ou seja, sequências em que se pode determinar um termo a partir do conhecimento de termos anteriores. No caso da sequência de Fibonacci, escreve-se que T(n+2) = T(n+1) + T(n) e, desse modo, pode-se obter um termo qualquer conhecendo-se os dois termos anteriores. Considerando o exposto acima, determine o termo T2021 da sequência de Fibonacci, sabendo que T2018 = m e T2020 = p.",
+  "alternativas": [
+   "(p + m)/2",
+   "(p - m)/2",
+   "p + 2m",
+   "2p - m",
+   "2m + 2p"
+  ],
+  "correta": 3,
+  "comentario": "Como T2020 = T2019 + T2018, temos T2019 = p - m. Então T2021 = T2020 + T2019 = p + (p - m) = 2p - m. O erro típico é somar diretamente T2020 + T2018 (p + m), esquecendo que o termo imediatamente anterior a T2020 é T2019, que precisa ser encontrado antes.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-18",
+  "materia": "matematica",
+  "assunto": "Função exponencial e logaritmos",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "J modelou um problema de matemática por uma função exponencial do tipo a(x) = 1000·e^(kx), e L, trabalhando no mesmo problema, chegou à modelagem b(x) = 10^(2x+3). Considerando-se que ambos modelaram o problema corretamente, e que ln x = log_e x, qual o valor de k?",
+  "alternativas": [
+   "ln 2",
+   "ln 3",
+   "ln 10",
+   "ln 30",
+   "ln 100"
+  ],
+  "correta": 4,
+  "comentario": "Reescrevendo b(x): 10^(2x+3) = 10^3 · (10^2)^x = 1000 · 100^x. Para que a(x) = b(x) para todo x, é preciso que e^(kx) = 100^x, ou seja, e^k = 100, logo k = ln 100. Quem marca ln 10 costuma esquecer o fator 2 do expoente 2x.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-19",
+  "materia": "matematica",
+  "assunto": "Potências e inequações",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O método da bisseção é um algoritmo usado para encontrar aproximações das raízes de uma equação. Começa-se com um intervalo [a,b], que contém uma raiz, e, em cada passo do algoritmo, reduz-se o intervalo pela metade, usando-se um teorema para determinar se a raiz está à esquerda ou à direita do ponto médio do intervalo anterior. Ou seja, após o passo 1, obtém-se um intervalo de comprimento (b - a)/2; após o passo 2, obtém-se um intervalo de comprimento (b - a)/4; e após o passo n, obtém-se um intervalo de comprimento (b - a)/2^n. Esse processo continua até que o intervalo obtido tenha comprimento menor que o erro máximo desejado para a aproximação. Para aplicar esse método no intervalo [1,5], quantos passos serão necessários para obter-se um intervalo de comprimento menor que 10^(-3)?",
+  "alternativas": [
+   "9",
+   "10",
+   "11",
+   "12",
+   "13"
+  ],
+  "correta": 3,
+  "comentario": "O comprimento inicial é 5 - 1 = 4. Queremos 4/2^n < 0,001, ou seja, 2^n > 4000. Como 2^11 = 2048 (insuficiente) e 2^12 = 4096 (> 4000), são necessários 12 passos. O erro comum é considerar b - a = 1 ou comparar com 1000 em vez de 4000, chegando a 10.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-20",
+  "materia": "matematica",
+  "assunto": "Sistemas lineares e porcentagem",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Uma loja vende um produto em dois tipos de embalagem: unitária (com uma unidade do produto) e dupla (com duas unidades do produto). Em certo mês, foram vendidas 16 embalagens duplas e 20 unitárias, gerando uma receita para a loja de R$ 488,00. No mês seguinte, foram vendidas 30 embalagens duplas e 25 unitárias, gerando uma receita de R$ 790,00. Qual foi a porcentagem do desconto dado em cada unidade do produto ao se comprar a embalagem dupla?",
+  "alternativas": [
+   "5%",
+   "8%",
+   "10%",
+   "12%",
+   "15%"
+  ],
+  "correta": 2,
+  "comentario": "Sejam d o preço da dupla e u o da unitária: 16d + 20u = 488 e 30d + 25u = 790. Multiplicando a 1ª por 5/4: 20d + 25u = 610; subtraindo da 2ª: 10d = 180, logo d = 18 e u = (488 - 288)/20 = 10. Na dupla, cada unidade sai por 9, contra 10 na unitária: desconto de 1/10 = 10%. Cuidado para não comparar 18 com 10 diretamente.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-21",
+  "materia": "atualidades",
+  "assunto": "Funções da moeda",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Uma das funções desempenhadas pela moeda é a de reserva de valor, no entanto, a moeda não é o único ativo que desempenha tal função. O motivo que faz com que os cidadãos retenham moeda como reserva de valor é o fato de ela",
+  "alternativas": [
+   "oferecer um rendimento a seu detentor.",
+   "possuir liquidez absoluta.",
+   "prestar algum serviço ao seu possuidor.",
+   "propiciar um aumento no seu valor.",
+   "ser protegida contra inflação."
+  ],
+  "correta": 1,
+  "comentario": "A moeda é o ativo de liquidez máxima: pode ser usada imediatamente para qualquer pagamento, sem custo de conversão. É isso que justifica guardá-la mesmo sem rendimento. As alternativas A e D estão erradas porque a moeda não rende nem se valoriza por si só; E está errada porque a inflação corrói justamente o poder de compra da moeda.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-22",
+  "materia": "atualidades",
+  "assunto": "Registrato (Banco Central)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O Registrato é um sistema criado em 2014 e administrado pelo Banco Central, que permite aos cidadãos terem acesso pela internet a relatórios contendo informações sobre",
+  "alternativas": [
+   "seus relacionamentos com as instituições financeiras, suas operações de crédito e operações de câmbio.",
+   "suas receitas e despesas realizadas em todas as instituições financeiras onde têm conta-corrente.",
+   "seus dados registrados junto aos serviços de proteção de crédito.",
+   "seus relacionamentos interpessoais com pessoas da mesma família (ex: pai, filho e irmão, entre outros) que também possuem contas-correntes.",
+   "seus contratos de prestação de serviço firmados na esfera cível."
+  ],
+  "correta": 0,
+  "comentario": "O Registrato reúne relatórios gratuitos sobre os relacionamentos do cidadão com instituições financeiras (contas e bancos onde tem vínculo), empréstimos e financiamentos (dados do SCR) e operações de câmbio; hoje inclui também chaves Pix e cheques sem fundo. Não mostra extrato de receitas e despesas (B), nem dados de birôs privados como SPC e Serasa (C). D e E não têm relação com o sistema.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-23",
+  "materia": "atualidades",
+  "assunto": "Segurança digital bancária (token)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um token físico, no contexto de transações bancárias, é um dispositivo eletrônico que possui um botão de ativação e um pequeno visor. O token permite gerar senhas aleatórias, temporárias e numéricas (por exemplo, de seis dígitos). Essa senha é utilizada para dar mais segurança às transações bancárias realizadas via internet. No passado, os bancos comerciais disponibilizavam esses pequenos dispositivos aos seus clientes, de modo que pudessem ser afixados a um chaveiro. Mais recentemente, nos últimos 10 anos, esses dispositivos foram sendo gradativamente substituídos para a grande maioria dos clientes, por um",
+  "alternativas": [
+   "dispositivo que continua com apenas essa funcionalidade, porém um pouco maior, mas que ainda assim cabe em um bolso de camisa.",
+   "aplicativo de cada banco, instalado e configurado no celular do correntista.",
+   "porta-moedas eletrônico, semelhante aos cartões que dão acesso a meios de transporte.",
+   "cartão de crédito que permite autorizar operações por aproximação.",
+   "sensor específico para captura de impressões digitais."
+  ],
+  "correta": 1,
+  "comentario": "O token físico foi substituído pelo token no aplicativo do banco (por exemplo, o \"BB Code\"/\"iToken\"), habilitado no celular do cliente, que gera as senhas temporárias ou autoriza transações. Pagamento por aproximação (D) e porta-moedas eletrônico (C) são meios de pagamento, não geradores de senha. A biometria (E) existe em alguns canais, mas não foi a substituta generalizada do token.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-24",
+  "materia": "atualidades",
+  "assunto": "Open Finance (open banking)",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A partir do início de 2021, começou a primeira fase de implantação do open banking (sistema financeiro aberto) no Brasil. As instituições financeiras participantes devem obedecer a regras definidas pelo Banco Central e pelo Conselho Monetário Nacional. O open banking tem, entre outros, o objetivo de",
+  "alternativas": [
+   "criar um mercado eletrônico exclusivo para operação das fintechs.",
+   "permitir que mais instituições participem como bancos comerciais do mercado brasileiro, abrindo esse mercado.",
+   "possibilitar o compartilhamento de informações, mediante autorização expressa de cada cliente, e a movimentação de suas respectivas contas bancárias, entre diferentes instituições financeiras.",
+   "controlar as operações de concessão de crédito de cada instituição financeira participante autorizada pelo Banco Central, dando mais transparência ao setor.",
+   "recomendar a utilização de um sistema de informações único, de código aberto, para gestão de contas-correntes e suas movimentações, de modo a ser adotado por todas as instituições financeiras em operação no Brasil."
+  ],
+  "correta": 2,
+  "comentario": "O open banking (hoje Open Finance) permite que o cliente, com consentimento expresso, compartilhe seus dados e inicie pagamentos/movimentações entre instituições diferentes, aumentando a concorrência. Não é um mercado exclusivo para fintechs (A) nem uma abertura para novos bancos comerciais (B). Também não é mecanismo de controle de crédito (D) nem sistema de código aberto único (E): o \"aberto\" refere-se ao compartilhamento padronizado de dados via APIs.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-25",
+  "materia": "atualidades",
+  "assunto": "Blockchain e criptomoedas",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Uma investidora está querendo saber a relação entre a blockchain e o bitcoin. Em sua pesquisa, ela esclareceu sua dúvida, ao descobrir que",
+  "alternativas": [
+   "blockchain é o meio utilizado para registrar e armazenar transações de bitcoin.",
+   "blockchain é a tecnologia de inteligência artificial aplicada na bitcoin.",
+   "bitcoin é uma moeda digital e blockchain é uma moeda em blocos.",
+   "bitcoin é tecnologia usada para implementar a blockchain.",
+   "bitcoin e blockchain são duas formas de implementar criptomoedas."
+  ],
+  "correta": 0,
+  "comentario": "Blockchain é um livro-razão distribuído, formado por blocos encadeados por criptografia, onde as transações do bitcoin são registradas de forma permanente. O bitcoin é a criptomoeda que usa essa tecnologia, e não o contrário (D). Blockchain não é inteligência artificial (B), não é moeda (C) e não é \"forma de implementar\" no mesmo nível do bitcoin (E).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-26",
+  "materia": "mat-financeira",
+  "assunto": "Taxas acumuladas (juros compostos)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um negociador de investimentos de uma instituição financeira pergunta ao gerente de tal instituição qual a taxa de juros anual máxima que pode oferecer a um cliente investidor, e o gerente afirma que ficará satisfeito com uma taxa anual máxima de 8,36%. O negociador entra em contato com o cliente que pretende investir um capital C1 e diz que, ao final de um ano, ele receberá C2, que corresponde a C1 acrescido de 5,00% de juros, mas não tem sucesso nessa negociação inicial. O negociador resolve aplicar uma nova taxa sobre C2, mas sem ultrapassar a taxa anual máxima que está autorizado a oferecer. Qual o valor máximo da taxa a ser aplicada sobre C2?",
+  "alternativas": [
+   "2,16%",
+   "2,24%",
+   "3,20%",
+   "7,96%",
+   "16,72%"
+  ],
+  "correta": 2,
+  "comentario": "As taxas se acumulam de forma multiplicativa: (1,05)·(1 + i) = 1,0836. Então 1 + i = 1,0836/1,05 = 1,032, ou seja, i = 3,20%. O erro típico é subtrair as taxas (8,36% - 5% = 3,36%, que nem está entre as opções) ou achar valores como 2,24% por contas mal feitas. Lembre: taxas sucessivas se compõem por produto de fatores.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-27",
+  "materia": "mat-financeira",
+  "assunto": "Montante de depósitos (juros compostos)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um cliente montou uma estratégia financeira, aplicando parte de seu décimo terceiro salário, sempre no início de janeiro, de 2018 a 2021, da seguinte forma: jan/2018: R$ 10.000,00; jan/2019: R$ 10.000,00; jan/2020: R$ 10.000,00; jan/2021: R$ 10.000,00. A partir da orientação financeira de um especialista, ele conseguiu obter nesse período, com essas aplicações, uma taxa de retorno de 10% ao ano, sempre na comparação com o ano anterior. Ele pretende atingir o valor total acumulado de 65 mil reais no início de jan/2023. Considerando-se que essa taxa de retorno se mantenha, o valor mínimo, em reais, que esse cliente precisará depositar em jan/2022, para atingir a meta em jan/2023, a partir das aproximações dadas, pertence ao intervalo: (Dados: 1,1^5 = 1,611; 1,1^4 = 1,464; 1,1^3 = 1,331.)",
+  "alternativas": [
+   "R$ 8.000,00 a R$ 8.199,00",
+   "R$ 8.200,00 a R$ 8.399,00",
+   "R$ 8.400,00 a R$ 8.599,00",
+   "R$ 8.600,00 a R$ 8.799,00",
+   "R$ 8.800,00 a R$ 8.999,00"
+  ],
+  "correta": 0,
+  "comentario": "Levando os depósitos a jan/2023: 10.000·(1,1^5 + 1,1^4 + 1,1^3 + 1,1^2) = 10.000·(1,611 + 1,464 + 1,331 + 1,21) = 56.160. O depósito x de jan/2022 rende um ano: 1,1x. Assim, 56.160 + 1,1x = 65.000, logo x = 8.840/1,1 ≈ 8.036,36, no intervalo de R$ 8.000 a R$ 8.199. O erro comum é esquecer que o depósito de jan/2022 também rende 10% até jan/2023 (daria 8.840, alternativa E).",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021a-28",
+  "materia": "mat-financeira",
+  "assunto": "Juros simples e multa",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Devido às oscilações de receita em seu negócio durante a pandemia, um cliente vai precisar pagar um boleto, cujo principal (até a data de vencimento) é de R$ 25.000,00, com 12 dias de atraso. Nesse caso, são cobrados adicionalmente, sobre o valor do principal, dois encargos: 2% de multa, mais juros simples de 0,2% ao dia. Por causa dos juros altos, o cliente procurou seu gerente, que não conseguiu uma solução menos custosa. Com isso, nas condições dadas, o cliente deverá pagar nessa operação um valor total de",
+  "alternativas": [
+   "R$ 25.600,00",
+   "R$ 25.800,00",
+   "R$ 26.100,00",
+   "R$ 26.300,00",
+   "R$ 26.500,00"
+  ],
+  "correta": 2,
+  "comentario": "Multa: 2% de 25.000 = 500. Juros simples: 0,2% × 12 dias = 2,4% de 25.000 = 600. Total: 25.000 + 500 + 600 = 26.100. Quem esquece a multa chega a 25.600 (A); quem esquece os juros chega a 25.500, que não está entre as opções.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-29",
+  "materia": "mat-financeira",
+  "assunto": "Taxa média equivalente (juros compostos)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um cliente fez um investimento de R$ 100.000,00 em janeiro de 2019, comprando cotas de um fundo imobiliário, o que lhe proporcionou uma taxa de retorno de 21%, ao final de 12 meses de aplicação. Em janeiro de 2020, buscando maior rentabilidade, procurou um especialista financeiro indicado pelo seu gerente, que lhe recomendou aplicar todo o montante da operação anterior em renda variável. O cliente fez conforme recomendado, o que lhe proporcionou um retorno de 96% em 12 meses, resgatando o novo montante em janeiro de 2021. Considerando-se um sistema de juros compostos, a taxa de retorno equivalente, obtida em cada período de 12 meses pelo cliente, de janeiro de 2019 a janeiro de 2021, foi igual a",
+  "alternativas": [
+   "54%",
+   "56%",
+   "58%",
+   "60%",
+   "62%"
+  ],
+  "correta": 0,
+  "comentario": "O fator acumulado nos dois anos é 1,21 × 1,96. A taxa anual equivalente i satisfaz (1 + i)^2 = 1,21 × 1,96, logo 1 + i = √1,21 × √1,96 = 1,1 × 1,4 = 1,54, ou seja, 54% ao ano. O erro típico é tirar a média aritmética (21 + 96)/2 = 58,5%, o que levaria a C.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-30",
+  "materia": "mat-financeira",
+  "assunto": "Sistema Price",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Devido à pandemia, um microempreendedor precisou tomar um empréstimo no valor de R$ 20.000,00, em dez/2020, a ser pago em 24 prestações mensais iguais e postecipadas no sistema PRICE, de modo que a primeira fosse paga em jan/21, e a última, em dez/22. Considere que o Banco cobre R$ 660,00 de taxas, que serão financiadas juntamente com o valor do empréstimo, por escolha do cliente, e que a taxa de juros cobrada, devido ao risco da operação, seja de 3% ao mês. Desconsiderando-se o IOF na operação e supondo-se que a primeira prestação foi paga na data de vencimento, o valor da segunda prestação, em sua respectiva data de vencimento será de, aproximadamente, (Dado: 1,03^24 = 2,033.)",
+  "alternativas": [
+   "R$ 1.120,00",
+   "R$ 1.220,00",
+   "R$ 1.320,00",
+   "R$ 1.420,00",
+   "R$ 1.520,00"
+  ],
+  "correta": 1,
+  "comentario": "No Price as prestações são iguais, então a 2ª é igual à 1ª. Valor financiado: 20.000 + 660 = 20.660. PMT = PV · i·(1,03)^24 / [(1,03)^24 - 1] = 20.660 × 0,03 × 2,033 / 1,033 ≈ 20.660 × 0,05904 ≈ R$ 1.219,8. Quem esquece de financiar as taxas de R$ 660 encontra cerca de R$ 1.181, e quem supõe que a 2ª prestação muda está confundindo Price com SAC.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021a-31",
+  "materia": "bancarios",
+  "assunto": "Sistema Financeiro Nacional",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "No Brasil, o órgão responsável pela fiscalização do Sistema Financeiro Nacional é o",
+  "alternativas": [
+   "Conselho Monetário Nacional",
+   "Ministério da Economia",
+   "Banco Central do Brasil",
+   "Banco do Brasil",
+   "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)"
+  ],
+  "correta": 2,
+  "comentario": "O Banco Central do Brasil é o órgão executor e supervisor: fiscaliza as instituições financeiras e aplica as normas. O CMN (A) é o órgão normativo, que define as regras, mas não fiscaliza. Banco do Brasil e BNDES são instituições operadoras, e o Ministério da Economia não exerce essa fiscalização.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-32",
+  "materia": "bancarios",
+  "assunto": "Fluxo de capitais e risco-país",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Considerando-se os efeitos sanitários, econômicos e sociais decorrentes da pandemia da Covid-19 na economia global, o principal fator que justifica tamanha fuga de capitais do Brasil no ano passado (2020) é o(a)",
+  "texto_apoio": "A crise econômica causada pela pandemia do novo coronavírus provocou a maior fuga de capitais da história do Brasil. Dados divulgados nesta quarta-feira (24/6) pelo Banco Central (BC) explicam que os investidores estrangeiros retiraram US$ 31,7 bilhões do mercado brasileiro de títulos e ações só em março, abril e maio deste ano. Por isso, as retiradas somam US$ 50,9 bilhões nos últimos 12 meses; o maior índice da série histórica do BC.\n\n(BARBOSA, M. Correio Braziliense, 24/6/2020.)",
+  "alternativas": [
+   "aumento desenfreado da dívida externa brasileira.",
+   "aumento das taxas de juros no mercado internacional.",
+   "necessidade de recursos, no estrangeiro, para financiar as pesquisas científicas de vacinas contra o coronavírus.",
+   "manipulação das taxas de câmbio nos mercados globais.",
+   "maior percepção de risco, por parte dos estrangeiros, em investir em ativos denominados em moeda brasileira."
+  ],
+  "correta": 4,
+  "comentario": "Em crises globais, investidores fogem de mercados emergentes para ativos considerados seguros (\"flight to quality\"), porque aumenta a percepção de risco sobre ativos em reais. Em 2020, os juros internacionais caíram (B está errada), e a dívida externa não explodiu (A). C e D não têm respaldo como causa principal da saída de capitais.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-33",
+  "materia": "bancarios",
+  "assunto": "Câmbio",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O principal impacto decorrente da enorme fuga de capitais do Brasil em 2020, descrita na reportagem, foi o(a)",
+  "texto_apoio": "A crise econômica causada pela pandemia do novo coronavírus provocou a maior fuga de capitais da história do Brasil. Dados divulgados nesta quarta-feira (24/6) pelo Banco Central (BC) explicam que os investidores estrangeiros retiraram US$ 31,7 bilhões do mercado brasileiro de títulos e ações só em março, abril e maio deste ano. Por isso, as retiradas somam US$ 50,9 bilhões nos últimos 12 meses; o maior índice da série histórica do BC.\n\n(BARBOSA, M. Correio Braziliense, 24/6/2020.)",
+  "alternativas": [
+   "expressiva desvalorização do real brasileiro",
+   "queda das taxas de juros internas",
+   "aumento do preço das ações na Bovespa",
+   "valorização dos ativos brasileiros",
+   "aumento da dívida interna do Tesouro"
+  ],
+  "correta": 0,
+  "comentario": "Quando estrangeiros retiram recursos, vendem reais e compram dólares; a maior demanda por dólar provoca a alta da moeda americana, isto é, a desvalorização do real (em 2020 o dólar passou de R$ 5). A saída de capital pressiona os preços dos ativos para baixo, então C e D estão invertidas. A queda da Selic em 2020 (B) foi decisão de política monetária, não efeito da fuga de capitais.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-34",
+  "materia": "bancarios",
+  "assunto": "Política monetária",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Matéria jornalística do início de agosto de 2020 (Valor Econômico) relatou que os juros futuros subiram, com maior prêmio de risco nos vencimentos longos: o DI para janeiro de 2021 passou de 1,87% para 1,88%; o de janeiro de 2022, de 2,65% para 2,67%; o de janeiro de 2023, de 3,76% para 3,79%; o de janeiro de 2025, de 5,40% para 5,47%; e o de janeiro de 2027, de 6,35% para 6,43%, evidenciando o descolamento entre juros de curto e de longo prazo. Para minorar os impactos da crise, a Emenda Constitucional nº 106, de 7 de maio de 2020, conhecida como \"Orçamento de Guerra\", instituiu medidas fiscais, financeiras e de contratações para enfrentar a calamidade pública decorrente da pandemia. Dentre as medidas aprovadas, o Banco Central do Brasil ficou autorizado, temporariamente, a operar com instrumentos de política monetária considerados não convencionais. A medida de política monetária não convencional, por parte do Banco Central do Brasil, que poderia ter estimulado a redução das taxas de juros de longo prazo no ano passado é a",
+  "alternativas": [
+   "redução da taxa de juros básica de curto prazo (Selic)",
+   "venda de títulos públicos e privados no mercado secundário",
+   "compra de títulos públicos e privados no mercado secundário",
+   "redução do percentual dos depósitos compulsórios",
+   "venda de títulos mediante operações compromissadas"
+  ],
+  "correta": 2,
+  "comentario": "A compra de títulos no mercado secundário (\"quantitative easing\") aumenta a demanda por esses papéis, eleva seus preços e reduz suas taxas de longo prazo. Essa foi a medida não convencional autorizada pela EC 106. Reduzir a Selic (A) e o compulsório (D) são instrumentos convencionais. Vender títulos (B e E) retira liquidez e tende a elevar os juros, o efeito oposto ao desejado.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021a-35",
+  "materia": "bancarios",
+  "assunto": "Produtos de investimento: renda fixa",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Dentre as escolhas mais populares de investimentos, a caderneta de poupança é uma das opções mais utilizadas pelos brasileiros, sendo considerada um investimento de renda fixa. São também investimentos de renda fixa",
+  "alternativas": [
+   "as Ações",
+   "as Opções",
+   "as Commodities",
+   "os CDB",
+   "os ETF de Ações"
+  ],
+  "correta": 3,
+  "comentario": "O CDB (Certificado de Depósito Bancário) é um título de renda fixa emitido por bancos, com regra de remuneração definida na aplicação (prefixada, pós-fixada ou híbrida). Ações, opções, commodities e ETFs de ações são de renda variável, pois seus preços oscilam no mercado sem retorno definido previamente.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-36",
+  "materia": "bancarios",
+  "assunto": "Crédito rural",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O Banco do Brasil (BB) oferece diversas linhas de crédito destinadas a custear os dispêndios realizados pelos produtores rurais. A modalidade de crédito rural, oferecida pelo BB, destinada ao beneficiamento, custeio e industrialização da produção é denominada",
+  "alternativas": [
+   "Funcafé Custeio",
+   "Custeio Agropecuário",
+   "Pronamp Custeio",
+   "Pronaf Agroindústria",
+   "Crédito Rural Pronaf Custeio"
+  ],
+  "correta": 3,
+  "comentario": "O Pronaf Agroindústria financia o beneficiamento, o armazenamento, o processamento e a industrialização da produção dos agricultores familiares, incluindo o custeio dessas atividades. As linhas de custeio (Custeio Agropecuário, Pronamp Custeio, Pronaf Custeio) financiam as despesas normais do ciclo produtivo (lavoura e criação), sem a etapa de industrialização. O Funcafé Custeio é específico para a cafeicultura. A palavra-chave do enunciado é \"industrialização\".",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021a-37",
+  "materia": "bancarios",
+  "assunto": "Garantias: alienação fiduciária",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um anúncio no site do Banco do Brasil (fevereiro de 2021) oferecia financiamento de veículos novos e seminovos com taxas reduzidas, contratado pelo App BB, com a observação: \"*Crédito sujeito à aprovação cadastral e demais condições do produto\". Uma dessas condições diz respeito à garantia do financiamento que, nesse caso, será o próprio veículo a ser comprado pelo devedor. Trata-se de uma forma de garantia denominada",
+  "alternativas": [
+   "alienação fiduciária",
+   "aval",
+   "penhor mercantil",
+   "fiança",
+   "hipoteca"
+  ],
+  "correta": 0,
+  "comentario": "Na alienação fiduciária, a propriedade do bem financiado fica com o credor até a quitação, e o devedor tem apenas a posse; é a garantia típica do financiamento de veículos. Aval (títulos de crédito) e fiança (contratos) são garantias pessoais, prestadas por terceiros. Hipoteca recai sobre imóveis, e o penhor exige, em regra, a entrega do bem móvel ao credor.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-38",
+  "materia": "bancarios",
+  "assunto": "Câmbio e paridade do poder de compra",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A revista inglesa The Economist publica periodicamente o famoso Índice do Big Mac, que consiste em avaliar os preços, em dólares, do conhecido sanduíche em diferentes países na economia global. Os resultados são frequentemente replicados pela imprensa internacional, incluindo a brasileira. A metodologia de apuração é simples: com base nas taxas de câmbio nominais das moedas nacionais em relação ao dólar, cotadas num mesmo dia, converte-se o preço do Big Mac avaliado nessas moedas para o seu respectivo valor em dólares. Considerando-se que na edição de 12 de janeiro de 2021, os cálculos da The Economist mostravam que o preço, em dólares, do Big Mac no Brasil estava cerca de 30% mais barato do que o sanduíche similar vendido e cotado, também em dólares, nos Estados Unidos, o resultado indicava que o real brasileiro estava",
+  "alternativas": [
+   "valorizado em relação ao dólar",
+   "sobrevalorizado em relação ao dólar",
+   "subvalorizado em relação ao dólar",
+   "com alinhamento nominal em relação ao dólar",
+   "na paridade real do poder de compra em relação ao dólar"
+  ],
+  "correta": 2,
+  "comentario": "Pela paridade do poder de compra, o Big Mac deveria custar o mesmo em dólares nos dois países. Se no Brasil ele sai 30% mais barato em dólares, cada dólar compra mais aqui do que \"deveria\": o real está subvalorizado (desvalorizado) frente ao dólar. Se o sanduíche brasileiro fosse mais caro, o real estaria sobrevalorizado (A e B). E estaria correta apenas se os preços fossem iguais.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-39",
+  "materia": "bancarios",
+  "assunto": "Prevenção à lavagem de dinheiro",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "H é correntista da instituição financeira XYZ e mantém com esta instituição relação estável, com movimentação de recursos monetários correspondente a cem salários mínimos por ano. A partir de 2019, sua movimentação anual passou a ser de mil e duzentos salários mínimos, com aportes mensais de cem salários mínimos. A partir das regras apresentadas na Carta-Circular nº 4.001/2020 do Banco Central do Brasil, nesse caso, as operações devem ser monitoradas como situações relacionadas com operações em espécie, em moeda nacional, com a utilização de contas de",
+  "alternativas": [
+   "aplicações",
+   "depósitos",
+   "fundos",
+   "garantia",
+   "preferência"
+  ],
+  "correta": 1,
+  "comentario": "A Carta-Circular 4.001/2020 lista operações e situações suspeitas de lavagem de dinheiro. Entre as \"situações relacionadas com operações em espécie em moeda nacional com a utilização de contas de depósitos\" está a movimentação incompatível com o patrimônio, a atividade ou a capacidade financeira do cliente, como o salto de 100 para 1.200 salários mínimos por ano. As demais expressões (contas de aplicações, fundos, garantia, preferência) não correspondem à categoria prevista no normativo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-40",
+  "materia": "bancarios",
+  "assunto": "Código de Ética do Banco do Brasil",
+  "cargo": "comum",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "B é gerente de determinada instituição financeira e recebe, como tarefa laboral, a responsabilidade de convencer os clientes a investirem na aquisição de ações de sociedade empresária que busca abrir seu capital em bolsa de valores. Após vários contatos, B consegue bater a sua meta pessoal, no sentido de ter conquistado um número significativo de novos clientes, decorrentes do desempenho da aludida tarefa, bem como auxiliar seus colegas de setor para que alcancem o mesmo objetivo. A esse respeito, e de acordo com o Código de Ética do Banco do Brasil, o oferecimento de serviços e produtos deve ocorrer com",
+  "alternativas": [
+   "individualidade",
+   "comedimento",
+   "parcialidade",
+   "limitação",
+   "diligência"
+  ],
+  "correta": 4,
+  "comentario": "O Código de Ética do BB orienta que os produtos e serviços sejam oferecidos com zelo, cuidado e eficiência, isto é, com diligência, adequados às necessidades do cliente. Parcialidade (C) contraria o princípio de tratamento imparcial; individualidade (A) contraria o espírito de cooperação que o próprio caso ilustra (ajudar os colegas). Comedimento e limitação não são os termos adotados pelo código para essa conduta.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-41",
+  "materia": "informatica",
+  "assunto": "Segurança da informação: firewall",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Existem soluções de hardware e software que buscam minimizar as chances de um ataque a sistemas computacionais ser bem-sucedido. Dentre tais soluções de segurança, há uma que monitora o tráfego de entrada e saída de rede, funcionando como um filtro de pacotes, permitindo ou não a sua liberação a partir de um conjunto de regras específicas. Essa solução é o",
+  "alternativas": [
+   "Antimalware",
+   "Dispositivo USB",
+   "Firewall",
+   "Phishing",
+   "SQL injection"
+  ],
+  "correta": 2,
+  "comentario": "O firewall filtra pacotes de rede com base em regras (portas, endereços, protocolos), liberando ou bloqueando o tráfego de entrada e saída. O antimalware detecta e remove códigos maliciosos em arquivos, não filtra tráfego por regras. Phishing e SQL injection são tipos de ataque, não soluções de segurança.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-42",
+  "materia": "informatica",
+  "assunto": "Arquivos e sistemas operacionais",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O armazenamento de dados ou informações em sistemas computacionais é possível com a utilização de arquivos, que servem como importante suporte tecnológico para o atendimento das diversas demandas dos usuários. Do ponto de vista técnico, esses arquivos podem ser considerados",
+  "alternativas": [
+   "abstrações feitas pelo sistema operacional das características lógicas das informações armazenadas.",
+   "coleções nomeadas de informações relacionadas que são gravadas em memória secundária do computador.",
+   "organizações físicas de pastas em um dispositivo de armazenamento volátil.",
+   "imagens construídas utilizando os formatos jpeg, png ou bmp para identificá-los.",
+   "sequências de caracteres organizados em linhas e possivelmente em páginas, quando forem arquivos de vídeo."
+  ],
+  "correta": 1,
+  "comentario": "A definição clássica (Silberschatz) é: arquivo é uma coleção nomeada de informações relacionadas, gravada em memória secundária (não volátil, como HD ou SSD). O SO abstrai as características FÍSICAS do armazenamento, não as lógicas, por isso A está trocada. C erra ao falar em armazenamento volátil; D e E descrevem apenas tipos específicos de arquivo, e E ainda mistura texto com vídeo.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-43",
+  "materia": "informatica",
+  "assunto": "Formatos e codecs de mídia",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A gravação de vídeos digitais gera, em boa parte das vezes, arquivos com tamanho aumentado, o que é um desafio para a sua transmissão ou armazenamento em disco. Para contornar esse problema, existem formas de compactação e descompactação de vídeos chamadas codecs. Um codec é baseado em um algoritmo que explora algum tipo de redundância no conteúdo do arquivo como forma de reduzir seu tamanho com a menor perda possível. Existem diversos tipos de codecs, com características variadas. Um dos tipos de codec de vídeo é o",
+  "alternativas": [
+   "BMP",
+   "JPEG",
+   "MP3",
+   "MPEG",
+   "UNICODE"
+  ],
+  "correta": 3,
+  "comentario": "MPEG (Moving Picture Experts Group) designa padrões de compressão de vídeo, como MPEG-2 e MPEG-4. BMP e JPEG são formatos de imagem estática; MP3 é compressão de áudio (apesar de derivar do MPEG-1 Layer 3, é só áudio); Unicode é um padrão de codificação de caracteres de texto.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-44",
+  "materia": "informatica",
+  "assunto": "Redes: VPN",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Devido à pandemia, muitos funcionários de um determinado banco precisaram trabalhar de casa. Percebendo que seria necessário um novo procedimento de acesso remoto que atendesse às necessidades de segurança, o setor de TI desse banco determinou o uso de um mecanismo seguro que conectasse, via internet pública, o computador do funcionário, em sua casa, com a rede privada da instituição financeira, bloqueando o acesso de terceiros ao trânsito de informações. Para garantir a segurança dessa conexão, essa instituição deve adotar a tecnologia de rede conhecida como",
+  "alternativas": [
+   "HTTP",
+   "PGP",
+   "VPN",
+   "WEK",
+   "WPA2"
+  ],
+  "correta": 2,
+  "comentario": "A VPN (Virtual Private Network) cria um túnel criptografado sobre a internet pública, ligando o computador remoto à rede privada da empresa. HTTP é protocolo de páginas web sem criptografia; PGP criptografa e-mails e arquivos, não conexões de rede; WPA2 protege redes Wi-Fi locais, não o trajeto pela internet; WEK não é tecnologia de rede usual.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-45",
+  "materia": "informatica",
+  "assunto": "Ferramentas colaborativas: Wiki",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "As informações sobre um processo essencial de determinado banco nunca foram documentadas, porém são conhecidas implicitamente por seus muitos funcionários. Responsável por recuperar e documentar esse conhecimento, um funcionário protagonizou uma iniciativa para que os próprios funcionários criassem a documentação, instalando e gerenciando um site baseado na tecnologia Wiki na intranet desse banco. Qual a principal característica dos Wikis?",
+  "alternativas": [
+   "Gerar documentação em PDF automaticamente, facilitando a criação de documentos distribuíveis.",
+   "Manter um fórum de discussões estruturado em forma de árvore e orientado a assuntos.",
+   "Transformar, rapidamente, documentos Word em páginas Web.",
+   "Permitir que o leitor de uma página Web edite seu conteúdo.",
+   "Gerenciar listas de discussão feitas por e-mail e guardar seu conteúdo."
+  ],
+  "correta": 3,
+  "comentario": "A essência de um Wiki (como a Wikipédia) é a edição colaborativa: o próprio leitor pode criar e alterar o conteúdo das páginas, normalmente com histórico de versões. Fórum em árvore (B) e listas de e-mail (E) são outras ferramentas colaborativas. Gerar PDF (A) e converter documentos Word (C) não são características definidoras de um Wiki.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-46",
+  "materia": "informatica",
+  "assunto": "Análise de dados: medidas de tendência central",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um funcionário de um banco foi incumbido de acompanhar o perfil dos clientes de um determinado produto por meio da Análise de Dados, de forma a aprimorar as atividades de marketing relativas a esse produto. Para isso, ele utilizou a variável classe social desses clientes, coletada pelo banco, que tem os valores A, B, C, D e E, sem referência a valores contínuos. Sabendo-se que essa é uma escala ordinal, qual é a medida de tendência central adequada para analisar essa variável?",
+  "alternativas": [
+   "média aritmética",
+   "média geométrica",
+   "mediana",
+   "quartis",
+   "variância"
+  ],
+  "correta": 2,
+  "comentario": "Em escala ordinal, as categorias têm ordem, mas não distância numérica definida; por isso não se calculam médias (A e B). A mediana, que só exige ordenação, é a medida de tendência central adequada (a moda também serviria). Quartis são medidas de posição/separatrizes, e variância é medida de dispersão, não de tendência central.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-47",
+  "materia": "informatica",
+  "assunto": "Pesquisa no Google",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O serviço de buscas do Google é um dos mais usados em todo o mundo. Para as pesquisas, o mais comum é a pessoa informar livremente algumas palavras e verificar se o resultado atende às suas expectativas. Como solicitar corretamente ao Google que seja pesquisada uma correspondência exata da frase \"Prédio mais alto do Brasil\"?",
+  "alternativas": [
+   "/Prédio mais alto do Brasil/",
+   "-Prédio -mais -alto -do -Brasil",
+   "#Prédio #mais #alto #do #Brasil",
+   "\"Prédio mais alto do Brasil\"",
+   "exato (\"Prédio mais alto do Brasil\")"
+  ],
+  "correta": 3,
+  "comentario": "Colocar a frase entre aspas faz o Google buscar a correspondência exata, com as palavras juntas e na mesma ordem. O sinal de menos (B) EXCLUI termos dos resultados, o oposto do desejado. A hashtag (C) busca hashtags em redes sociais. As barras (A) e o operador \"exato()\" (E) não existem na busca do Google.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-48",
+  "materia": "informatica",
+  "assunto": "Correio eletrônico",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O envio e o recebimento de mensagens de correio eletrônico são atividades corriqueiras, tanto nas organizações quanto no dia a dia da grande maioria da população brasileira. No entanto, há situações em que as mensagens enviadas são devolvidas com um aviso de que não puderam ser entregues ao destinatário. Um dos motivos que justificam a não entrega de uma mensagem de correio eletrônico ao destinatário é porque",
+  "alternativas": [
+   "a estação de trabalho que o destinatário utiliza está desligada.",
+   "a caixa postal de correio eletrônico do destinatário atingiu algum limite predeterminado de tamanho, como por exemplo, em bytes.",
+   "o destinatário possui muitos endereços de correio eletrônico cadastrados no domínio internet.",
+   "o destinatário não estava utilizando a sua estação de trabalho no momento do recebimento da mensagem de correio eletrônico.",
+   "o destinatário estava utilizando muitos programas ativos na estação de trabalho no momento do recebimento da mensagem de correio eletrônico."
+  ],
+  "correta": 1,
+  "comentario": "O e-mail é entregue a um servidor de correio, que guarda a mensagem na caixa postal do destinatário. Se essa caixa estiver cheia (cota excedida), o servidor devolve a mensagem ao remetente. O computador do destinatário estar desligado ou ocioso (A e D) não impede a entrega, pois a mensagem fica no servidor. Ter vários endereços (C) ou muitos programas abertos (E) também não interfere.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-49",
+  "materia": "informatica",
+  "assunto": "Segurança da informação: princípios",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A Segurança da Informação é uma preocupação permanente dos agentes comerciais, principalmente em relação a assuntos contratuais e financeiros e às facilidades advindas dos meios digitais. Os recursos providos pelas áreas de TI das empresas, no que se refere à segurança da informação, incluem a irretratabilidade, que deve garantir a",
+  "alternativas": [
+   "manutenção exata e completa do conteúdo das mensagens desde a origem até o destino.",
+   "impossibilidade de negar a autoria de uma mensagem.",
+   "possibilidade do acesso a qualquer mensagem quando necessário.",
+   "impossibilidade de os conteúdos das mensagens serem lidos e compreendidos por pessoas não autorizadas.",
+   "impossibilidade de o destinatário negar o recebimento de uma mensagem."
+  ],
+  "correta": 1,
+  "comentario": "Irretratabilidade (não repúdio) garante que o autor não possa negar ter enviado ou assinado uma mensagem, sendo obtida, por exemplo, com assinatura digital. A alternativa A descreve integridade; C, disponibilidade; D, confidencialidade. E é a pegadinha: o conceito cobrado pela banca refere-se à autoria (emissor), não à confirmação de recebimento.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-50",
+  "materia": "informatica",
+  "assunto": "Excel: validação de dados e formatação condicional",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O agente comercial de uma empresa elaborou uma planilha no software Microsoft Excel para lançar os débitos de seus clientes. Ele a configurou para controlar automaticamente as seguintes regras: a) admitir, apenas, débitos entre R$ 40.000,00 e R$ 110.000,00; e b) destacar, em cor diferente, os débitos entre R$ 90.000,00 e R$ 110.000,00. Quais são os recursos do Microsoft Excel que o agente comercial deverá utilizar, respectivamente, para obter esse controle?",
+  "alternativas": [
+   "Validação de dados; Formatação condicional",
+   "Formatação condicional; Gerenciador de cenários",
+   "Verificação de erros; Teste de hipóteses",
+   "Função de consolidação; Formatação condicional",
+   "Classificar e Filtrar; Validação de dados"
+  ],
+  "correta": 0,
+  "comentario": "A Validação de Dados restringe o que pode ser digitado na célula (por exemplo, decimal entre 40.000 e 110.000), bloqueando valores fora da faixa. A Formatação Condicional muda a aparência (cor) das células que atendem a uma condição. Gerenciador de cenários e Teste de hipóteses servem para simulações; Consolidação agrupa dados de várias áreas; Classificar e Filtrar apenas organiza e exibe dados.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-51",
+  "materia": "informatica",
+  "assunto": "Segurança da informação: tipos de controle",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um funcionário de um determinado banco, ao ser designado para trabalhar no data center da instituição, identificou problemas de segurança. Por essa razão, formulou duas propostas de melhoria: instalar um controle de acesso biométrico nas portas do data center, que estavam sempre abertas, e exigir que as senhas do servidor principal, que nunca expiravam, fossem trocadas a cada 30 dias. Pelo tipo de controle que implementam, as melhorias propostas pelo funcionário são classificadas, respectivamente, como",
+  "alternativas": [
+   "física e processual",
+   "física e tecnológica",
+   "processual e física",
+   "processual e tecnológica",
+   "tecnológica e processual"
+  ],
+  "correta": 0,
+  "comentario": "O controle biométrico nas portas restringe o acesso físico ao ambiente do data center, sendo um controle físico. Exigir troca de senha a cada 30 dias é uma política, uma regra de procedimento, sendo um controle processual (administrativo). O erro comum é classificar a biometria como \"tecnológica\" por usar equipamento eletrônico, mas o que ela protege é o acesso físico.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-52",
+  "materia": "informatica",
+  "assunto": "Windows 10: reprodução automática",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Muitos códigos maliciosos aproveitam-se de um recurso do Windows 10 que possibilita a execução de um programa presente em um dispositivo de armazenamento USB imediatamente após a sua conexão ao computador. Esse recurso, que pode ser desativado, é conhecido como",
+  "alternativas": [
+   "inicialização automática",
+   "execução automática",
+   "reprodução automática",
+   "atualização automática",
+   "configuração automática"
+  ],
+  "correta": 2,
+  "comentario": "No Windows 10, o recurso se chama Reprodução Automática (AutoPlay), configurável em Configurações > Dispositivos > Reprodução Automática; ele define a ação tomada ao conectar mídias e unidades removíveis. \"Execução automática\" (AutoRun) é a pegadinha: é o mecanismo antigo do autorun.inf, mas o nome do recurso no Windows 10, adotado pela banca, é Reprodução Automática. As demais opções não correspondem a esse recurso.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-53",
+  "materia": "informatica",
+  "assunto": "Navegadores: atalhos do Firefox",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O Mozilla Firefox apresentou uma página de resultado de uma pesquisa na Web na qual o usuário deseja procurar uma palavra específica. Para fazer isso, o usuário pode acessar a caixa de texto de procura na página, pressionando, em conjunto, as teclas",
+  "alternativas": [
+   "Ctrl e T",
+   "Ctrl e N",
+   "Ctrl e P",
+   "Ctrl e S",
+   "Ctrl e F"
+  ],
+  "correta": 4,
+  "comentario": "Ctrl+F (Find) abre a barra de localização de texto na página. Ctrl+T abre nova aba; Ctrl+N abre nova janela; Ctrl+P imprime; Ctrl+S salva a página. Esses atalhos são os mesmos na maioria dos navegadores.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-54",
+  "materia": "informatica",
+  "assunto": "Windows 10: atalhos de teclado",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "No código de práticas de segurança da informação, recomenda-se que o acesso ao ambiente operacional (área de trabalho) do computador seja bloqueado quando o usuário do sistema se ausentar do seu posto de trabalho. O atalho do teclado no Windows 10 para fazer esse bloqueio requer o pressionamento combinado das teclas",
+  "alternativas": [
+   "Ctrl e C",
+   "Ctrl e Z",
+   "Alt e F4",
+   "logotipo do Windows e D",
+   "logotipo do Windows e L"
+  ],
+  "correta": 4,
+  "comentario": "Windows + L (de Lock) bloqueia a sessão e exige a senha para voltar. Windows + D apenas mostra a área de trabalho, sem bloquear; Alt + F4 fecha a janela ativa; Ctrl + C copia e Ctrl + Z desfaz.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-55",
+  "materia": "informatica",
+  "assunto": "Assinatura digital",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A segurança da informação deve fazer parte da postura dos colaboradores da empresa no dia a dia de trabalho. Com o objetivo de garantir a autoria dos seus documentos digitais, o colaborador deve executar o processo de assinatura digital para cada documento criado. A assinatura digital é criada pelo signatário do documento com o uso da sua chave",
+  "alternativas": [
+   "pública",
+   "privada",
+   "simétrica",
+   "compartilhada",
+   "certificada"
+  ],
+  "correta": 1,
+  "comentario": "Na criptografia assimétrica, o signatário assina com sua chave PRIVADA, que só ele possui, e qualquer pessoa confere a assinatura com a chave PÚBLICA correspondente. O erro típico é confundir com o sigilo, em que se cifra com a chave pública do destinatário. Chaves simétricas ou compartilhadas não garantem autoria, pois mais de uma pessoa as conhece.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-56",
+  "materia": "vendas",
+  "assunto": "Marketing de relacionamento e personalização",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Atualmente, os sistemas de informação fornecem dados pormenorizados a respeito dos clientes em potencial, o que permite o planejamento de ações customizadas de vendas, tais como",
+  "alternativas": [
+   "apuração dos valores de divulgação em canais de rádio e tevê.",
+   "aumento do custo de aquisição pelos produtos adquiridos.",
+   "divulgação de ferramentas digitais como QR code e hot sites.",
+   "propostas de descontos em série para o público em geral.",
+   "postagens nas mídias sociais segundo os temas de interesse dos usuários"
+  ],
+  "correta": 4,
+  "comentario": "Ação customizada é aquela ajustada ao perfil de cada cliente; direcionar postagens conforme os interesses dos usuários é exatamente o uso de dados detalhados para personalizar. Rádio e TV (A) e descontos para o público em geral (D) são ações de massa, não customizadas. Aumentar o custo de aquisição (B) não é ação de vendas, e divulgar QR code (C) é genérico, sem relação com dados do cliente.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-57",
+  "materia": "vendas",
+  "assunto": "Características dos serviços",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Poucos clientes conhecem suficientemente o mercado financeiro, de modo a avaliar se o seu analista de investimentos conseguiu os melhores retornos para os seus fundos investidos. Sendo assim, verifica-se que este serviço é rico em atributos de",
+  "alternativas": [
+   "procura e resiliência",
+   "tangibilidade e variabilidade",
+   "confiança e experiência",
+   "risco sensorial e psicológico",
+   "risco social e temporal"
+  ],
+  "correta": 2,
+  "comentario": "Na classificação de atributos de serviços (procura, experiência e confiança/credibilidade), serviços cuja qualidade o cliente tem dificuldade de avaliar mesmo após o consumo, como gestão de investimentos, são ricos em atributos de experiência e, sobretudo, de confiança. Atributos de procura são avaliáveis antes da compra, o que não é o caso. Serviços são intangíveis, então B está errada, e D e E citam tipos de risco percebido, não atributos.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-58",
+  "materia": "vendas",
+  "assunto": "Qualidade em serviços (SERVQUAL)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Das cinco dimensões da qualidade do serviço - confiabilidade, tangibilidade, sensibilidade, segurança e empatia -, a confiabilidade tem constantemente se mostrado como o fator mais importante na avaliação da qualidade do serviço pelos clientes de um banco. Isso ocorre porque a confiabilidade é uma medida de",
+  "alternativas": [
+   "favorecimento da discrepância entre o desempenho de um fornecedor e as expectativas do cliente, já que evidencia a situação do momento.",
+   "resultado, já que os clientes a avaliam depois da experiência de serviço, diferentemente das outras dimensões, que são medidas de processo.",
+   "controle, que traça as mudanças quantitativas no desempenho do serviço em uma variável específica relativa a um padrão predefinido.",
+   "causa-efeito, que relaciona problemas específicos do serviço a diferentes categorias de causas subjacentes.",
+   "excedente do consumidor, que identifica a diferença entre o preço real pago e a percepção do cliente sobre o valor do produto."
+  ],
+  "correta": 1,
+  "comentario": "Confiabilidade é entregar o serviço prometido de forma correta e consistente; ela é avaliada pelo resultado, depois da experiência, enquanto tangibilidade, sensibilidade (responsividade), segurança e empatia são percebidas durante o processo de prestação do serviço. As alternativas C e D descrevem ferramentas da qualidade (gráfico de controle e diagrama de causa-efeito), e E descreve um conceito econômico. A distorce a ideia de lacuna (gap) entre expectativa e desempenho.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021a-59",
+  "materia": "vendas",
+  "assunto": "Segmentação de mercado",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Em 26 de março de 2021, o Banco do Brasil informou a seus clientes que, a partir dessa data, suas agências passariam a operar das 10h às 14h, seguindo determinação da Febraban, para proteger seus funcionários, clientes e a sociedade, diante do avanço da pandemia do novo coronavírus. O Banco do Brasil informou também, que, em algumas praças, o atendimento começaria mais cedo, às 9h, exclusivamente para idosos, gestantes, pessoas com deficiência e para pagamento de benefícios do INSS. Essa decisão de atender mais cedo alguns clientes está embasada na noção de",
+  "alternativas": [
+   "cenário de serviço",
+   "recuperação do serviço",
+   "promoção de vendas",
+   "segmentação de mercado",
+   "mapa de percepções"
+  ],
+  "correta": 3,
+  "comentario": "O banco dividiu os clientes em grupos com necessidades específicas (idosos, gestantes, pessoas com deficiência, beneficiários do INSS) e deu tratamento diferente a eles: isso é segmentação de mercado. Recuperação do serviço (B) é corrigir uma falha já ocorrida; promoção de vendas (C) é incentivo de curto prazo à compra; cenário de serviço (A) é o ambiente físico; mapa de percepções (E) é ferramenta de posicionamento.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-60",
+  "materia": "vendas",
+  "assunto": "Serviços de alto contato",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Sr. X precisava planejar a comercialização de um serviço para um cliente exigente, que demanda a personalização e o serviço de alto contato. Para isso, ele planejou em sua estratégia comercial",
+  "alternativas": [
+   "reduzir a variação nas operações e na entrega do serviço.",
+   "garantir a intangibilidade do processo do serviço.",
+   "encorajar o cliente a realizar operações por internet ou caixa automático.",
+   "introduzir sofisticada rede de canais de distribuição eletrônicos.",
+   "interagir pessoalmente com o cliente ao longo da prestação do serviço."
+  ],
+  "correta": 4,
+  "comentario": "Serviço de alto contato exige presença e interação pessoal com o cliente durante a prestação, o que também permite personalizar. Estimular canais eletrônicos e autoatendimento (C e D) caracteriza baixo contato. Reduzir a variação (A) é típico de serviços padronizados, o oposto da personalização. A intangibilidade (B) já é inerente a todo serviço, não algo a ser \"garantido\" como estratégia.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-61",
+  "materia": "vendas",
+  "assunto": "Código de Defesa do Consumidor",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "K é correntista do Banco S e possui cartões de crédito e de débito expedidos pela instituição financeira. Diante de dificuldades momentâneas, não conseguiu cobrir o total das despesas realizadas com o seu cartão de crédito. No dia do vencimento, o banco, mediante autorização contratual, retirou da conta corrente de K o valor mínimo para efeito de pagamento parcial da dívida. Houve contestação, que foi indeferida pelo órgão interno do banco. Segundo as regras do Código de Defesa do Consumidor, Lei nº 8.078/1990, essa norma contratual deve ser considerada",
+  "alternativas": [
+   "abusiva, por retirar o poder de controle das finanças do correntista.",
+   "regular, pois não se fundamenta em poder superior do banco.",
+   "questionável, pois quebra a isonomia entre os contratantes.",
+   "passível de impugnação administrativa.",
+   "ampla demais, por não conter previsão de valor a ser debitado."
+  ],
+  "correta": 1,
+  "comentario": "A cláusula que autoriza o débito em conta do valor mínimo da fatura, expressamente pactuada, é considerada válida pela jurisprudência (STJ): não coloca o consumidor em desvantagem exagerada, pois evita a inadimplência total e os encargos maiores, e não decorre de imposição arbitrária do banco. Por isso não é abusiva (A), nem fere a isonomia (C). O valor mínimo é previsível e definido na fatura, então E também está errada. O erro típico é presumir que todo débito automático é abusivo.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021a-62",
+  "materia": "vendas",
+  "assunto": "Qualidade em serviços (SERVQUAL)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um dos princípios básicos de um bom atendimento é que ele seja considerado parte integrante de um processo mais amplo e que gere a satisfação do cliente. Preocupada com os baixos índices de satisfação manifestados por seus clientes, a diretoria de um banco contratou uma consultoria para avaliar a qualidade dos serviços prestados nas agências. O relatório apresentado pelos consultores apontou problemas relacionados às instalações e aos equipamentos das agências. Considerando as cinco dimensões da qualidade de serviços, esses problemas apontados estão relacionados à dimensão",
+  "alternativas": [
+   "Empatia",
+   "Segurança",
+   "Tangibilidade",
+   "Confiabilidade",
+   "Responsividade"
+  ],
+  "correta": 2,
+  "comentario": "Tangibilidade é a dimensão ligada aos elementos físicos do serviço: instalações, equipamentos, aparência dos funcionários e materiais de comunicação. Empatia é a atenção individualizada; segurança, o conhecimento e a cortesia que inspiram confiança; confiabilidade, cumprir o prometido; responsividade, a presteza em atender.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-63",
+  "materia": "vendas",
+  "assunto": "Marketing digital: copywriting",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O Instagram é uma rede social baseada em imagens, e o Twitter limita a escrita a 280 caracteres. Talvez por isso, o marketing digital seja comumente associado ao uso de imagens e vídeos. No entanto, o uso de texto é muito importante e decisivo na atração de consumidores em plataformas como websites, blogs e e-mail. O uso de conteúdo textual informativo e atraente, otimizado para persuadir consumidores a comprarem os produtos de uma empresa é denominado",
+  "alternativas": [
+   "recall",
+   "ebooking",
+   "copyright",
+   "copywriting",
+   "cooperating"
+  ],
+  "correta": 3,
+  "comentario": "Copywriting é a técnica de escrever textos persuasivos voltados à venda ou à ação do leitor. A pegadinha é \"copyright\" (C), que significa direito autoral. Recall (A) é o chamado para corrigir defeitos em produtos (ou a lembrança de marca); ebooking e cooperating não designam essa técnica.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-64",
+  "materia": "vendas",
+  "assunto": "Inbound marketing",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "Um motorista estava preocupado com os pneus de seu carro. Como muitas pessoas costumam fazer, ele decidiu realizar uma busca na internet e, para isso, usou o termo \"pneus velhos\". Como resultado da pesquisa, o buscador trouxe várias opções de sites e vídeos. Ele escolheu o vídeo intitulado \"Qual a hora de trocar os pneus de seu carro?\" Esse vídeo mostrava um técnico das lojas XYZ, falando a respeito das características de pneus em condições ideais de segurança, tratando das medidas de conservação dos pneus e indicando a hora de trocá-los. O motorista utilizou as informações do vídeo e percebeu que deveria trocar os pneus dianteiros de seu automóvel. Inevitavelmente, ele pensou em procurar uma loja XYZ. Nesse caso, a ação da XYZ é um exemplo de",
+  "alternativas": [
+   "Inbound Marketing",
+   "Outbound Marketing",
+   "Promoção de Vendas",
+   "Programa de Fidelidade",
+   "Marketing de Criatividade"
+  ],
+  "correta": 0,
+  "comentario": "No inbound marketing, a empresa produz conteúdo útil que atrai o cliente quando ele procura informação, e a venda vem como consequência: foi o cliente que chegou à XYZ pela busca. No outbound marketing (B), a empresa vai atrás do cliente com anúncios e abordagens ativas. Não houve incentivo de preço (C) nem ação para clientes recorrentes (D).",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-65",
+  "materia": "vendas",
+  "assunto": "Sustentabilidade (Tripé da Sustentabilidade)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "As empresas, cada vez mais, procuram gerir seus negócios e suas atividades de forma que sua posição seja neutra ou positiva no atendimento ao Tripé da Sustentabilidade. Como a empresa YYZ não pensa de modo diferente, contratou consultores para levantarem os impactos gerados pelas atividades por ela desenvolvidas em sua prestação de serviços. Os consultores constataram os seguintes pontos: a política de capacitação da empresa ampliou a formação de 45% dos funcionários, a instalação de painéis fotovoltaicos fez com que toda a energia consumida pela empresa, naquele ano, fosse gerada a partir de fonte renovável, a taxa de reciclagem de resíduos cresceu 50% e, além disso, a empresa obteve lucro acima da média histórica e distribuiu bônus aos funcionários e fornecedores alinhados à preservação ambiental. Com base nesses dados, o diagnóstico dos consultores foi de que a empresa exerce impacto líquido positivo sobre o Tripé da Sustentabilidade. Dessa forma, em relação ao Tripé da Sustentabilidade, a YYZ é classificada como um negócio",
+  "alternativas": [
+   "neutro",
+   "reparador",
+   "sustentável",
+   "fundamental",
+   "insustentável"
+  ],
+  "correta": 1,
+  "comentario": "Na escala de impacto sobre o tripé (econômico, social e ambiental), o negócio \"sustentável\" ou \"neutro\" apenas não causa dano líquido, enquanto o negócio \"reparador\" (restaurativo/regenerativo) gera impacto líquido POSITIVO, devolvendo mais do que consome. Como o diagnóstico foi de impacto líquido positivo nas três dimensões, a YYZ é reparadora. A pegadinha é marcar \"sustentável\", que corresponde apenas a equilíbrio, não a saldo positivo.",
+  "dificuldade": 3
+ },
+ {
+  "id": "bb2021a-66",
+  "materia": "vendas",
+  "assunto": "Omnichannel",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O cliente da empresa W, procurando um produto no site dessa empresa, ficou em dúvida a respeito das suas especificações técnicas, entrou no chat online para conhecer mais a respeito do equipamento e teve suas dúvidas sanadas. Naquele momento, não efetuou a compra, mas uma semana depois baixou o aplicativo W e, mesmo sem voltar ao site da empresa, passou a receber informações a respeito das mudanças de preço do produto que tinha procurado anteriormente. No final do mês, com o recebimento de seu salário, decidiu novamente acionar o aplicativo e realizar a compra. Como queria economizar no frete, decidiu pela retirada do produto na loja física próxima de sua casa. Alguns dias depois, recebeu uma mensagem em seu smartphone indicando que já poderia ir à loja recolher sua encomenda. Na semana seguinte, o cliente recebeu uma mensagem com o pedido de avaliação de sua compra e respondeu dando nota 9 ao atendimento feito pela empresa. Nesse caso, identifica-se que a empresa W utiliza um modelo de negócios denominado",
+  "alternativas": [
+   "Rede",
+   "Multinível",
+   "Multicanal",
+   "Horizontal",
+   "Omnichannel"
+  ],
+  "correta": 4,
+  "comentario": "Omnichannel é a integração total dos canais: site, chat, aplicativo e loja física compartilham os dados do cliente, e a jornada flui entre eles (o app \"sabia\" o que ele pesquisou no site; comprou no app e retirou na loja). No multicanal (C), a empresa tem vários canais, mas eles funcionam de forma independente, sem essa continuidade. Multinível é um modelo de venda por redes de revendedores.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-67",
+  "materia": "vendas",
+  "assunto": "Resolução CMN 3.694/2009 (relacionamento com clientes)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "LL é aposentada pelo regime geral de previdência, recebendo o valor correspondente através de repasse do Instituto Nacional do Seguro Social (INSS). Três meses após receber a primeira parcela de sua aposentadoria, recebe, por telefone, várias ofertas de empréstimos mediante consignação em folha. Após consultar familiares, LL não aceita qualquer empréstimo. Para sua surpresa, dois meses após, o comprovante de pagamento de sua aposentadoria é remetido, constando desconto em decorrência de empréstimo consignado. Tendo em vista o fato, dirige-se à agência do INSS que lhe informa qual banco requereu a inscrição do empréstimo para pagamento mediante consignação. A aposentada apresenta requerimento ao banco para apresentar os documentos pertinentes ao empréstimo, sem qualquer resposta. Nos termos da Resolução CMN nº 3.694/2009, as instituições financeiras, na contratação de operações e na prestação de serviços, devem assegurar",
+  "alternativas": [
+   "fornecimento de contratos e documentos pertinentes aos atos praticados",
+   "composição dos danos causados, desde que por ordem judicial",
+   "declarações de idoneidade moral e financeira",
+   "divulgação de cadastros positivos ou negativos requeridos por fornecedores",
+   "recebimento de documentos de forma física, mesmo em dependência exclusivamente eletrônica"
+  ],
+  "correta": 0,
+  "comentario": "A Resolução 3.694/2009 exige que as instituições assegurem, entre outros pontos, o fornecimento tempestivo ao cliente de contratos, recibos, extratos e demais documentos relativos às operações e serviços. Por isso o banco deveria ter entregue os documentos do suposto empréstimo à aposentada. A reparação de danos não depende de ordem judicial (B), e as demais alternativas não constam da norma; E contraria a própria lógica das dependências eletrônicas.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-68",
+  "materia": "vendas",
+  "assunto": "Resolução CMN 4.539/2016 (relacionamento com clientes)",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "KO é gerente júnior de um banco e atua no contato direto com os clientes que têm pouca experiência na atividade de investimentos financeiros. Buscando promoção no quadro interno da instituição financeira, o gerente realiza vários cursos de atualização, inclusive de educação financeira. Munido desses conhecimentos, ele contata os correntistas sob sua responsabilidade e oferece indicações sobre como investir. Os clientes compõem diversos segmentos econômicos, e alguns não possuem renda para propiciar saldos destinados a investimentos no momento em que são contatados. O supervisor de KO identifica essa situação e o adverte da perda de tempo com clientes que não gerariam lucros imediatos ao banco. Nos termos da Resolução nº 4.539, de 24 de novembro de 2016, verifica-se que a instituição financeira",
+  "alternativas": [
+   "deve privilegiar os clientes que gerem recursos imediatos.",
+   "deve apresentar a todos os clientes os produtos financeiros disponíveis.",
+   "deve preocupar-se com a formação de clientela futura.",
+   "pode criar segmentos especiais para atendimento privilegiado e secreto.",
+   "pode discriminar seus clientes livremente, analisando sua renda como dado essencial para produzir lucro."
+  ],
+  "correta": 1,
+  "comentario": "A Resolução 4.539/2016 exige uma política de relacionamento com clientes pautada por ética, responsabilidade, transparência e diligência, com tratamento digno e equitativo. Assim, a instituição não pode selecionar a quem oferecer seus produtos apenas pelo lucro imediato: todos os clientes devem ter acesso à apresentação dos produtos disponíveis, cabendo verificar depois a adequação ao perfil de cada um. A e E defendem justamente a discriminação que a norma veda; D fala em atendimento \"secreto\", contrário à transparência. C soa bem, mas \"formação de clientela futura\" não é o dever que a norma estabelece.",
+  "dificuldade": 2
+ },
+ {
+  "id": "bb2021a-69",
+  "materia": "vendas",
+  "assunto": "Técnicas de vendas: venda sugestiva",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "A partir da análise do banco de dados da agência, o atendente bancário pode realizar vendas sugestivas, identificando as informações sobre o cliente para",
+  "alternativas": [
+   "diminuir os juros cobrados dos correntistas.",
+   "informar sobre a carga tributária dos investimentos.",
+   "propor o acesso a novos produtos do banco.",
+   "retirar os dados do mailing da companhia.",
+   "sugerir mudanças no horário das visitas à agência."
+  ],
+  "correta": 2,
+  "comentario": "Venda sugestiva (cross-selling/up-selling) é oferecer ao cliente produtos adicionais ou complementares que façam sentido para seu perfil, identificado a partir dos dados. As demais alternativas não envolvem venda: reduzir juros, informar tributação, excluir dados do mailing ou mudar horário de visitas não são oferta de novos produtos.",
+  "dificuldade": 1
+ },
+ {
+  "id": "bb2021a-70",
+  "materia": "vendas",
+  "assunto": "Ética e profissionalismo no atendimento",
+  "cargo": "comercial",
+  "origem": "BB 2021 - Cesgranrio - Agente Comercial (Prova A)",
+  "enunciado": "O profissionalismo em vendas e atendimento implica uma série de procedimentos por parte do bancário, entre os quais a",
+  "alternativas": [
+   "aprendizagem e a qualificação constantes",
+   "cobrança por privilégios no trabalho",
+   "exigência de maior remuneração",
+   "potencialidade do seu ego",
+   "prioridade a seus interesses pessoais"
+  ],
+  "correta": 0,
+  "comentario": "Ser profissional em vendas envolve atualização permanente sobre produtos, mercado e técnicas de atendimento, para orientar bem o cliente. As demais alternativas trazem posturas centradas no próprio interesse (privilégios, remuneração, ego, interesses pessoais), contrárias à orientação para o cliente que caracteriza o profissionalismo.",
+  "dificuldade": 1
+ }
+]

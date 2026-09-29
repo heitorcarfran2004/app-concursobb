@@ -1,0 +1,812 @@
+[
+  {
+    "id": "in-banc-01",
+    "materia": "bancarios",
+    "assunto": "CMN — composição",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Durante uma palestra de educação financeira promovida pela agência, um cliente pergunta ao escriturário quem integra o Conselho Monetário Nacional (CMN), órgão máximo normativo do Sistema Financeiro Nacional. A resposta correta é que o CMN é composto pelo",
+    "alternativas": [
+      "Presidente do Banco Central, pelos diretores do Banco Central e pelo Ministro do Planejamento e Orçamento",
+      "Presidente da República, que o preside, pelo Ministro da Fazenda e pelo Presidente do Banco Central",
+      "Presidente do Banco Central, que o preside, pelo Presidente da CVM e pelo Ministro da Fazenda",
+      "Ministro da Fazenda, que o preside, pelo Ministro do Planejamento e Orçamento e pelo Presidente do Banco Central do Brasil",
+      "Ministro da Fazenda, pelo Presidente do Banco do Brasil e pelo Presidente da Caixa Econômica Federal"
+    ],
+    "correta": 3,
+    "comentario": "O CMN tem composição enxuta: o Ministro da Fazenda (presidente do Conselho), o Ministro do Planejamento e Orçamento e o Presidente do Banco Central. O Presidente da CVM não é membro, embora a autarquia esteja subordinada às normas do Conselho. Bancos públicos, como BB e Caixa, são instituições operadoras e não têm assento no CMN. O Presidente da República não integra o Conselho, e o colegiado formado pelo Presidente e diretores do BC é o Copom, não o CMN.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-02",
+    "materia": "bancarios",
+    "assunto": "CMN — atribuições",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente comenta com o escriturário que leu no jornal que a meta para a inflação havia sido “definida pelo Banco Central”. O escriturário esclarece que, no Sistema Financeiro Nacional, o órgão competente para fixar a meta para a inflação é o(a)",
+    "alternativas": [
+      "Diretoria Colegiada do Banco Central",
+      "Comissão de Valores Mobiliários",
+      "Comitê de Política Monetária (Copom)",
+      "Conselho Monetário Nacional",
+      "Secretaria do Tesouro Nacional"
+    ],
+    "correta": 3,
+    "comentario": "A fixação da meta para a inflação é atribuição do Conselho Monetário Nacional, órgão normativo do SFN. Ao Copom, colegiado do Banco Central, cabe definir a meta da taxa Selic para perseguir a meta fixada pelo CMN; ou seja, o Copom executa, não fixa a meta. O Tesouro cuida da dívida pública e do caixa da União, e a CVM regula o mercado de valores mobiliários. A confusão é comum porque é o BC quem presta contas quando a meta é descumprida.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-03",
+    "materia": "bancarios",
+    "assunto": "Banco Central — autonomia e objetivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um estudante de economia, cliente da agência, pergunta ao escriturário quais são os objetivos do Banco Central do Brasil após a Lei Complementar nº 179/2021, que tratou de sua autonomia. De acordo com essa lei, o Banco Central tem por objetivo fundamental",
+    "alternativas": [
+      "regular e fiscalizar o mercado de valores mobiliários e as companhias abertas",
+      "fixar a meta de inflação e as diretrizes da política cambial, cabendo ao CMN apenas executá-las",
+      "assegurar a estabilidade de preços e, sem prejuízo desse objetivo, zelar pela estabilidade e eficiência do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego",
+      "financiar o Tesouro Nacional sempre que houver déficit primário, de modo a preservar a solvência da União",
+      "garantir o pleno emprego, ficando a estabilidade de preços como objetivo secundário, subordinado à política fiscal"
+    ],
+    "correta": 2,
+    "comentario": "O art. 1º da LC 179/2021 estabelece que o objetivo fundamental do BC é assegurar a estabilidade de preços e, sem prejuízo dele, zelar pela estabilidade e eficiência do sistema financeiro, suavizar as flutuações da atividade econômica e fomentar o pleno emprego. O pleno emprego aparece como objetivo acessório, não como principal. O financiamento direto do Tesouro pelo BC é vedado pela Constituição (art. 164, § 1º). Fixar a meta de inflação é tarefa do CMN, e regular valores mobiliários é tarefa da CVM.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-04",
+    "materia": "bancarios",
+    "assunto": "Banco Central — atribuições",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao explicar a estrutura do Sistema Financeiro Nacional a um novo cliente, o escriturário listou atribuições do Banco Central do Brasil. Entre as opções a seguir, NÃO é atribuição do Banco Central",
+    "alternativas": [
+      "regular e fiscalizar as sociedades seguradoras e de capitalização",
+      "autorizar o funcionamento das instituições financeiras",
+      "receber os recolhimentos compulsórios dos bancos",
+      "emitir papel-moeda e moeda metálica",
+      "exercer a fiscalização das instituições financeiras"
+    ],
+    "correta": 0,
+    "comentario": "Seguradoras e sociedades de capitalização são supervisionadas pela Susep, seguindo normas do CNSP, e não pelo Banco Central. As demais atribuições constam da Lei nº 4.595/1964: emitir moeda, autorizar o funcionamento e fiscalizar as instituições financeiras e receber os recolhimentos compulsórios, função típica de “banco dos bancos”. A questão explora a divisão entre os supervisores do SFN: BC (moeda, crédito e instituições financeiras), CVM (valores mobiliários), Susep (seguros privados) e Previc (previdência fechada).",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-05",
+    "materia": "bancarios",
+    "assunto": "CVM — competência",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente informa ao escriturário que suspeita de irregularidades na divulgação de informações por uma companhia aberta cujas ações ele comprou na bolsa. Para registrar uma denúncia junto ao órgão supervisor competente, o escriturário deve orientá-lo a procurar a",
+    "alternativas": [
+      "Comissão de Valores Mobiliários (CVM)",
+      "Conselho de Controle de Atividades Financeiras (Coaf)",
+      "Superintendência de Seguros Privados (Susep)",
+      "Superintendência Nacional de Previdência Complementar (Previc)",
+      "Secretaria do Tesouro Nacional"
+    ],
+    "correta": 0,
+    "comentario": "A CVM, criada pela Lei nº 6.385/1976, é a autarquia que regula e fiscaliza o mercado de valores mobiliários, incluindo as companhias abertas e suas obrigações de divulgação de informações. A Susep cuida de seguros, previdência aberta e capitalização, e a Previc supervisiona as entidades fechadas de previdência complementar. O Coaf é a unidade de inteligência financeira voltada à prevenção da lavagem de dinheiro, e não recebe denúncias sobre informações de companhias abertas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-06",
+    "materia": "bancarios",
+    "assunto": "Susep e Previc",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Dois clientes procuram o escriturário. O primeiro tem um plano VGBL contratado por meio do banco; o segundo participa do fundo de pensão patrocinado pela empresa em que trabalha, acessível apenas aos empregados. Os órgãos responsáveis pela supervisão de cada um desses planos são, respectivamente,",
+    "alternativas": [
+      "CVM e Previc",
+      "Previc e Susep",
+      "Susep e CVM",
+      "Susep e Previc",
+      "Banco Central e Previc"
+    ],
+    "correta": 3,
+    "comentario": "O VGBL é plano de previdência complementar aberta, comercializado por seguradoras ou entidades abertas, e por isso fica sob supervisão da Susep. Já o fundo de pensão patrocinado por empresa e restrito aos seus empregados é entidade fechada de previdência complementar, supervisionada pela Previc. Inverter os órgãos é o erro mais comum. A CVM e o Banco Central não supervisionam planos de previdência, embora a CVM regule fundos de investimento em geral.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-07",
+    "materia": "bancarios",
+    "assunto": "Cooperativas de crédito",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente conta ao escriturário que foi convidado a se associar a uma cooperativa de crédito e pergunta como ela se diferencia de um banco. A informação correta sobre as cooperativas de crédito é que elas",
+    "alternativas": [
+      "visam ao lucro para distribuição de dividendos a acionistas, como as sociedades anônimas bancárias",
+      "não são instituições financeiras e, por isso, não se submetem à fiscalização do Banco Central",
+      "têm os depósitos de seus associados cobertos pelo Fundo Garantidor de Créditos (FGC), nas mesmas condições dos bancos",
+      "são instituições financeiras autorizadas e fiscalizadas pelo Banco Central, cujos associados são ao mesmo tempo donos e usuários, contando com fundo garantidor próprio do cooperativismo de crédito",
+      "só podem conceder crédito rural, não podendo oferecer conta ou cartão aos associados"
+    ],
+    "correta": 3,
+    "comentario": "As cooperativas de crédito são instituições financeiras sob autorização e fiscalização do Banco Central, e nelas o associado é simultaneamente dono e usuário dos serviços. Os depósitos dos cooperados são protegidos pelo FGCoop, fundo garantidor específico do cooperativismo, e não pelo FGC. Elas não são sociedades anônimas voltadas a dividendos: as sobras do exercício são distribuídas aos cooperados conforme deliberação da assembleia. E também não se limitam ao crédito rural, pois podem oferecer conta, cartão e outros serviços.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-08",
+    "materia": "bancarios",
+    "assunto": "Bancos comerciais e de investimento",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em conversa com um cliente empresário, o escriturário compara os tipos de instituição que compõem o Sistema Financeiro Nacional. A característica que diferencia corretamente o banco comercial do banco de investimento é que",
+    "alternativas": [
+      "somente o banco de investimento pode conceder empréstimos a pessoas jurídicas",
+      "o banco de investimento capta depósitos à vista, enquanto o banco comercial não pode fazê-lo",
+      "o banco comercial capta depósitos à vista, enquanto o banco de investimento não capta depósitos à vista",
+      "o banco comercial é supervisionado pela CVM, e o banco de investimento pelo Banco Central",
+      "o banco de investimento é instituição não bancária e, por isso, não precisa de autorização do Banco Central"
+    ],
+    "correta": 2,
+    "comentario": "A captação de depósitos à vista, movimentáveis por cheque ou meios eletrônicos, é a marca do banco comercial, por isso considerado instituição monetária, capaz de criar moeda escritural. O banco de investimento não capta depósitos à vista. Ele atua em financiamento de médio e longo prazo, estruturação de operações e mercado de capitais, e capta por depósitos a prazo, por exemplo. Ambos dependem de autorização e fiscalização do Banco Central, e ambos podem emprestar a empresas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-09",
+    "materia": "bancarios",
+    "assunto": "Conta de pagamento — patrimônio separado",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente mantém saldo em conta de pagamento pré-paga de uma instituição de pagamento (IP) e pergunta ao escriturário o que aconteceria com seus recursos se essa IP quebrasse. Nos termos da Lei nº 12.865/2013, os recursos mantidos em contas de pagamento",
+    "alternativas": [
+      "são cobertos pelo FGC até o mesmo limite aplicável aos depósitos à vista em bancos",
+      "são automaticamente convertidos em depósitos de poupança em banco indicado pelo Banco Central",
+      "integram o patrimônio da instituição de pagamento e podem ser usados para pagar os credores dela",
+      "constituem patrimônio separado, que não se confunde com o da instituição de pagamento nem responde por suas obrigações, embora não contem com a cobertura do FGC",
+      "podem ser penhorados por dívidas da própria instituição de pagamento"
+    ],
+    "correta": 3,
+    "comentario": "O art. 12 da Lei nº 12.865/2013 estabelece que os recursos mantidos em contas de pagamento constituem patrimônio separado, que não se confunde com o da instituição de pagamento, não responde direta ou indiretamente por suas obrigações e não pode ser objeto de arresto, sequestro, busca e apreensão ou outro ato de constrição judicial por dívidas dela. Por isso, a ideia de que o saldo integra o patrimônio da IP ou pode ser penhorado por dívidas dela está errada. A conta de pagamento, porém, não é depósito bancário e não tem cobertura do FGC, que protege créditos contra instituições associadas, como os bancos. A proteção vem da segregação dos recursos, não de um fundo garantidor.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-banc-10",
+    "materia": "bancarios",
+    "assunto": "Cheque — prazo de apresentação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente recebeu um cheque emitido em outro município (praça diferente daquela onde o cheque deve ser pago) e pergunta ao escriturário qual é o prazo legal de apresentação. Segundo a Lei nº 7.357/1985, esse prazo é de",
+    "alternativas": [
+      "30 dias, contados da data em que o cheque foi recebido pelo beneficiário",
+      "60 dias, contados da data de emissão",
+      "90 dias, contados da data de emissão",
+      "30 dias, contados da data de emissão",
+      "6 meses, contados da data de emissão"
+    ],
+    "correta": 1,
+    "comentario": "O art. 33 da Lei do Cheque fixa o prazo de apresentação em 30 dias quando o cheque é emitido no lugar onde deve ser pago (mesma praça) e em 60 dias quando emitido em outro lugar, contados sempre da data de emissão. Por isso, 30 dias vale para a mesma praça, e a contagem não começa no recebimento pelo beneficiário. O prazo de 6 meses é o da prescrição da ação de execução, contado do fim do prazo de apresentação (art. 59). Perder o prazo de apresentação não impede o pagamento pelo banco enquanto houver fundos e o cheque não estiver prescrito.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-11",
+    "materia": "bancarios",
+    "assunto": "Cheque pré-datado",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente emitiu um cheque com data futura combinada com o vendedor (cheque “pré-datado”), mas ele o apresentou ao banco antes da data acordada. Ela pergunta ao escriturário se o banco poderia ter pago o cheque. A orientação correta é que",
+    "alternativas": [
+      "o cheque pré-datado é nulo, por isso não poderia ser pago em nenhuma hipótese",
+      "o cheque é ordem de pagamento à vista, e o banco deve pagá-lo quando apresentado, havendo fundos; a apresentação antecipada, porém, pode gerar dano moral a ser cobrado de quem descumpriu o acordo",
+      "a apresentação antecipada torna o cheque automaticamente prescrito",
+      "o banco deveria ter recusado o pagamento, pois a data futura vincula a instituição sacada",
+      "o banco só poderia pagar se o emitente autorizasse por escrito a antecipação"
+    ],
+    "correta": 1,
+    "comentario": "Pelo art. 32 da Lei nº 7.357/1985, o cheque é pagável à vista, e considera-se não escrita qualquer menção em contrário. Assim, apresentado antes da data combinada, o banco o paga se houver fundos. O acordo de pré-datação vale entre emitente e beneficiário, e a Súmula 370 do STJ reconhece que a apresentação antecipada do cheque pré-datado caracteriza dano moral. O banco não fica vinculado à data futura, e o cheque não se torna nulo nem prescrito pela antecipação.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-12",
+    "materia": "bancarios",
+    "assunto": "Cheque — prescrição",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente guarda um cheque recebido de terceiro, emitido na mesma praça de pagamento, e pergunta ao escriturário até quando pode propor a ação de execução contra o emitente. Segundo a Lei do Cheque, a ação de execução prescreve em",
+    "alternativas": [
+      "2 anos, contados da expiração do prazo de apresentação",
+      "5 anos, contados da data de emissão",
+      "6 meses, contados da data de emissão",
+      "1 ano, contado da data de emissão",
+      "6 meses, contados da expiração do prazo de apresentação"
+    ],
+    "correta": 4,
+    "comentario": "O art. 59 da Lei nº 7.357/1985 estabelece que a ação de execução prescreve em 6 meses, contados da expiração do prazo de apresentação. Para um cheque da mesma praça, portanto, o prazo total é de cerca de 30 dias mais 6 meses, contados da emissão. A contagem a partir da emissão ignora o prazo de apresentação. Prescrita a execução, o credor ainda pode usar a ação de enriquecimento (em 2 anos, art. 61) ou a ação monitória, mas elas não se confundem com a execução.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-13",
+    "materia": "bancarios",
+    "assunto": "Cartão de crédito — rotativo",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente está usando o crédito rotativo do cartão e teme que a dívida “cresça sem fim”. O escriturário explica a regra introduzida pela Lei nº 14.690/2023 para o rotativo e o parcelamento da fatura. Segundo essa regra, o total cobrado a título de juros e encargos financeiros",
+    "alternativas": [
+      "não pode ultrapassar o valor original da dívida",
+      "não pode ultrapassar duas vezes o valor original da dívida",
+      "fica limitado à taxa Selic vigente na data da compra",
+      "não pode ultrapassar 50% do valor original da dívida",
+      "é livre, desde que informado no Custo Efetivo Total (CET)"
+    ],
+    "correta": 0,
+    "comentario": "A Lei nº 14.690/2023, do programa Desenrola, previu que, sem autorregulação aprovada, os juros e encargos do rotativo e do parcelamento da fatura não poderiam exceder o valor original da dívida, o que equivale a um teto de 100%. A regra passou a valer em janeiro de 2024. Assim, uma dívida de R$ 1.000 pode chegar, no máximo, a R$ 2.000 somando principal e encargos, o que desfaz a confusão entre o total devido (até o dobro) e o limite dos encargos (até o valor original). Informar o CET é obrigatório, mas não libera a cobrança acima do teto, e não há vinculação à Selic.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-14",
+    "materia": "bancarios",
+    "assunto": "CDB",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente com recursos parados na conta corrente pergunta ao escriturário sobre o CDB oferecido pelo banco. A descrição correta desse produto é:",
+    "alternativas": [
+      "título lastreado em créditos imobiliários, isento de imposto de renda para pessoa física",
+      "cota de fundo de investimento, regulada pela CVM e sem prazo de vencimento",
+      "título público federal emitido pelo Tesouro Nacional e custodiado na B3",
+      "título de renda variável emitido por companhias abertas, negociado exclusivamente em bolsa",
+      "título de renda fixa emitido por bancos para captar recursos, que pode ter remuneração prefixada, pós-fixada ou híbrida e conta com a garantia do FGC, observados os limites"
+    ],
+    "correta": 4,
+    "comentario": "O Certificado de Depósito Bancário é título de renda fixa emitido por bancos para captar recursos a prazo. Pode ser prefixado, pós-fixado (em geral atrelado ao CDI) ou híbrido, e é coberto pelo FGC até o limite vigente. Ações são renda variável emitidas por sociedades anônimas, e a cota de fundo é outro produto, sem garantia do FGC. Título público é emitido pelo Tesouro. O título lastreado em crédito imobiliário descrito é a LCI, não o CDB.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-15",
+    "materia": "bancarios",
+    "assunto": "LCI e LCA",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente compara uma LCI e uma LCA oferecidas pelo banco e pergunta ao escriturário o que as diferencia. A resposta correta é que",
+    "alternativas": [
+      "ambas são cotas de fundos de investimento reguladas pela CVM",
+      "a LCI tem lastro em créditos imobiliários e a LCA em créditos do agronegócio, e ambas contam com a garantia do FGC, observados os limites",
+      "a LCA é garantida pelo Tesouro Nacional, enquanto a LCI é garantida pelo FGC",
+      "a LCI é emitida por construtoras e a LCA por cooperativas rurais, sem garantia do FGC",
+      "ambas são títulos de renda variável negociados em bolsa, com lastro em ações do setor imobiliário e do agronegócio"
+    ],
+    "correta": 1,
+    "comentario": "LCI e LCA são títulos de renda fixa emitidos por instituições financeiras. A diferença está no lastro: créditos imobiliários na LCI e créditos do agronegócio na LCA. As duas estão entre os instrumentos garantidos pelo FGC, até o limite por CPF/CNPJ e por conglomerado. Não são emitidas por construtoras ou cooperativas rurais como empresas comuns, não são renda variável nem cotas de fundos, e o Tesouro não garante nenhuma delas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-16",
+    "materia": "bancarios",
+    "assunto": "Poupança — remuneração",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pergunta ao escriturário como é calculado o rendimento dos depósitos de poupança feitos atualmente. Pela regra da Lei nº 8.177/1991, com a redação dada pela Lei nº 12.703/2012, a remuneração básica é a TR, acrescida de remuneração adicional de",
+    "alternativas": [
+      "IPCA mais 6% ao ano, para preservar o poder de compra",
+      "100% do CDI, apurado diariamente",
+      "0,5% ao mês em qualquer cenário, independentemente da taxa Selic",
+      "70% da meta da Selic em qualquer cenário, sem acréscimo da TR",
+      "0,5% ao mês, enquanto a meta da taxa Selic for superior a 8,5% ao ano, ou de 70% da meta da Selic, mensalizada, quando ela for igual ou inferior a 8,5% ao ano"
+    ],
+    "correta": 4,
+    "comentario": "Desde a Lei nº 12.703/2012, a remuneração adicional da poupança depende da meta da Selic: 0,5% ao mês quando a meta é superior a 8,5% ao ano; 70% da meta da Selic, mensalizada, quando é igual ou inferior a 8,5%. Em ambos os casos soma-se a TR. A regra fixa de 0,5% ao mês ainda existe, mas só se aplica a depósitos feitos até 3 de maio de 2012. A poupança não rende 100% do CDI nem IPCA mais taxa fixa.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-17",
+    "materia": "bancarios",
+    "assunto": "Custo Efetivo Total",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Antes de contratar um empréstimo pessoal, um cliente quer comparar propostas de diferentes bancos. O escriturário recomenda comparar o Custo Efetivo Total (CET), porque esse indicador",
+    "alternativas": [
+      "indica o valor máximo de parcela que o cliente pode assumir em relação à renda",
+      "expressa o custo total da operação, incluindo juros, tarifas, tributos, seguros e outras despesas cobradas do cliente",
+      "representa a taxa básica de juros da economia definida pelo Copom",
+      "considera apenas a taxa de juros nominal, desconsiderando tarifas e tributos",
+      "é calculado apenas para operações de financiamento imobiliário"
+    ],
+    "correta": 1,
+    "comentario": "O CET reúne, em uma taxa percentual, todos os encargos e despesas da operação de crédito: juros, tarifas, tributos (como o IOF), seguros e outras despesas. Por isso, é o indicador adequado para comparar propostas. Olhar só a taxa de juros subestima o custo real. O CET não se confunde com a Selic, é exigido nas operações de crédito em geral e não se limita ao financiamento imobiliário. A relação entre parcela e renda é análise de capacidade de pagamento, outra coisa.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-18",
+    "materia": "bancarios",
+    "assunto": "Sistemas de amortização",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente em dúvida entre dois financiamentos imobiliários pergunta ao escriturário a diferença entre o Sistema de Amortização Constante (SAC) e a Tabela Price. A explicação correta é que",
+    "alternativas": [
+      "no SAC o total de juros pagos é sempre maior que na Price, para a mesma taxa e prazo",
+      "no SAC a amortização é constante e as prestações são decrescentes, enquanto na Price as prestações são constantes, com amortização crescente ao longo do tempo",
+      "em ambos os sistemas as prestações são crescentes, variando apenas a taxa de juros",
+      "no SAC as prestações são constantes, e na Price a amortização é constante",
+      "na Price os juros são pagos somente ao final do contrato, junto com o principal"
+    ],
+    "correta": 1,
+    "comentario": "No SAC, a parcela de amortização é fixa; como os juros incidem sobre um saldo devedor cada vez menor, as prestações caem ao longo do contrato. Na Tabela Price, as prestações são iguais, e a composição muda: no início predominam os juros e, com o tempo, a amortização cresce. Para a mesma taxa e prazo, o SAC tende a gerar total de juros menor, porque o saldo devedor cai mais rápido. Pagar juros só no final é característica do sistema americano, não da Price.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-19",
+    "materia": "bancarios",
+    "assunto": "Consórcio",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente quer comprar um automóvel sem pagar juros e o escriturário lhe apresenta o consórcio. Sobre esse produto, regulado pela Lei nº 11.795/2008, é correto afirmar que",
+    "alternativas": [
+      "garante a entrega imediata do bem no momento da adesão ao grupo",
+      "impede o consorciado de ofertar lance para antecipar a contemplação",
+      "tem os valores pagos pelo consorciado cobertos pelo FGC",
+      "é administrado por seguradoras supervisionadas pela Susep",
+      "reúne pessoas em grupo com prazo e número de cotas previamente determinados, e a contemplação ocorre por sorteio ou lance; o consorciado paga taxa de administração, e não juros"
+    ],
+    "correta": 4,
+    "comentario": "O consórcio reúne pessoas em grupo fechado, administrado por administradora autorizada e fiscalizada pelo Banco Central, para formar poupança comum destinada à aquisição de bens ou serviços. A contemplação ocorre por sorteio ou lance, e o custo do consorciado é a taxa de administração, além de fundo de reserva e seguro quando previstos, sem cobrança de juros. Não há entrega imediata garantida, a supervisão não é da Susep, e os valores pagos não são depósitos cobertos pelo FGC.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-20",
+    "materia": "bancarios",
+    "assunto": "Leasing",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa cliente precisa renovar a frota de veículos e o escriturário sugere o arrendamento mercantil (leasing). Ao final do contrato de leasing financeiro, a arrendatária, em regra, pode",
+    "alternativas": [
+      "adquirir o bem pelo valor residual, devolvê-lo à arrendadora ou renovar o contrato",
+      "adquirir o bem apenas se pagar novamente o valor integral de mercado",
+      "transferir o contrato a terceiros sem anuência da arrendadora",
+      "somente devolver o bem, sendo vedada a sua aquisição",
+      "exigir a restituição de todas as contraprestações pagas"
+    ],
+    "correta": 0,
+    "comentario": "No arrendamento mercantil, a arrendadora adquire o bem e o cede em uso à arrendatária mediante contraprestações. Ao final, a arrendatária tem, em regra, três opções: comprar o bem pelo valor residual previsto, devolvê-lo ou renovar o contrato. Proibir a aquisição contraria a própria natureza do leasing financeiro, e a compra não exige pagar de novo o valor de mercado. As contraprestações remuneram o uso do bem e não são restituídas, e a cessão do contrato depende de anuência da arrendadora.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-21",
+    "materia": "bancarios",
+    "assunto": "Câmbio — compra de moeda para viagem",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente vai viajar ao exterior e quer comparar o custo de comprar moeda estrangeira em diferentes instituições autorizadas. O escriturário indica o Valor Efetivo Total (VET), que corresponde",
+    "alternativas": [
+      "ao custo total da operação em reais por unidade de moeda estrangeira, incluindo a taxa de câmbio, as tarifas e os tributos incidentes",
+      "à diferença entre a taxa de compra e a taxa de venda da moeda, chamada spread",
+      "apenas à taxa de câmbio comercial divulgada pelo Banco Central, sem tarifas",
+      "à taxa Ptax, que é obrigatória para todas as operações de varejo",
+      "ao limite máximo de moeda que o viajante pode portar sem declarar à Receita Federal"
+    ],
+    "correta": 0,
+    "comentario": "O VET funciona para o câmbio como o CET funciona para o crédito: expressa em reais o custo total por unidade de moeda estrangeira, somando taxa de câmbio, tarifas e tributos como o IOF. Por isso, é o parâmetro correto de comparação entre instituições autorizadas pelo Banco Central. A taxa comercial e a Ptax são referências, mas não refletem o custo final do varejo, e o spread é só uma parte desse custo. O limite de porte de valores é regra de declaração aduaneira, sem relação com o VET.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-22",
+    "materia": "bancarios",
+    "assunto": "Ações — ordinárias e preferenciais",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente que começa a investir em bolsa pergunta ao escriturário a diferença entre ações ordinárias (ON) e preferenciais (PN). Nos termos da Lei nº 6.404/1976, é correto afirmar que",
+    "alternativas": [
+      "as preferenciais sempre conferem direito de voto em dobro",
+      "as ordinárias conferem direito de voto, enquanto as preferenciais conferem vantagens, como prioridade na distribuição de dividendos, podendo ter o voto restringido ou suprimido",
+      "somente as ordinárias podem ser negociadas em bolsa de valores",
+      "as ordinárias garantem rendimento fixo, como os títulos de renda fixa",
+      "as preferenciais são títulos de dívida da companhia, e não participação no capital"
+    ],
+    "correta": 1,
+    "comentario": "A ação ordinária confere ao acionista o direito de voto nas assembleias. A preferencial confere vantagens, como prioridade na distribuição de dividendos ou no reembolso de capital, e o estatuto pode restringir ou suprimir seu direito de voto (arts. 15 a 17 da Lei das S.A.). Nenhuma das duas garante rendimento fixo, pois ambas são renda variável e participação no capital. Título de dívida é a debênture, e os dois tipos de ação podem ser negociados em bolsa.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-23",
+    "materia": "bancarios",
+    "assunto": "Debêntures",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente recebeu oferta de debêntures de uma concessionária de rodovias com taxa atrativa e pergunta ao escriturário se o investimento tem a mesma proteção de um CDB. A resposta correta é que as debêntures",
+    "alternativas": [
+      "são garantidas pelo FGC até o mesmo limite aplicável ao CDB",
+      "tornam o investidor sócio da companhia, com direito a voto nas assembleias",
+      "são emitidas exclusivamente por bancos, para captação de depósitos a prazo",
+      "são títulos de dívida emitidos por sociedades por ações e não contam com a garantia do FGC, de modo que o risco de crédito depende do emissor e das garantias da emissão",
+      "são títulos públicos, com risco equivalente ao do Tesouro Nacional"
+    ],
+    "correta": 3,
+    "comentario": "Debêntures são valores mobiliários representativos de dívida, emitidos por sociedades por ações. Quem as compra é credor da companhia, não sócio. Não contam com a cobertura do FGC, que protege depósitos e certos títulos de instituições financeiras associadas, como CDB, LCI e LCA. O risco depende da saúde financeira do emissor e das garantias previstas na escritura. Não são emissões bancárias típicas de captação de depósitos nem títulos públicos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-24",
+    "materia": "bancarios",
+    "assunto": "IPO — oferta primária e secundária",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao comentar a abertura de capital (IPO) de uma empresa, um cliente pergunta ao escriturário para onde vai o dinheiro pago pelos investidores. O escriturário explica corretamente que",
+    "alternativas": [
+      "na oferta secundária a companhia emite novas ações para quitar dívidas",
+      "em qualquer oferta os recursos vão para a companhia, pois as ações sempre são novas",
+      "na oferta primária os recursos vão para a bolsa de valores, e na secundária, para a CVM",
+      "na oferta primária os recursos vão para a companhia, que emite novas ações, e na oferta secundária os recursos vão para os acionistas que vendem ações já existentes",
+      "o IPO é realizado exclusivamente no mercado secundário, entre investidores"
+    ],
+    "correta": 3,
+    "comentario": "Na oferta primária, a companhia emite novas ações e recebe os recursos, o que capitaliza a empresa. Na oferta secundária, acionistas existentes vendem ações que já possuíam, e o dinheiro vai para eles, não para a companhia. Um IPO pode combinar as duas modalidades. A bolsa e a CVM não recebem os recursos da oferta, e, por definição, o IPO é a primeira oferta pública, não uma negociação entre investidores.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-25",
+    "materia": "bancarios",
+    "assunto": "Fundos de investimento",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pergunta ao escriturário se as cotas de um fundo de investimento multimercado oferecido pelo banco têm a mesma garantia da poupança. A resposta correta é que os fundos de investimento",
+    "alternativas": [
+      "são comunhões de recursos constituídas sob a forma de condomínio, divididas em cotas, reguladas e fiscalizadas pela CVM, e não contam com a garantia do FGC",
+      "são depósitos a prazo emitidos pelo banco administrador, com rentabilidade garantida",
+      "garantem ao cotista, por lei, rentabilidade mínima igual à da poupança",
+      "são regulados pela Susep, por se tratar de produto de acumulação de longo prazo",
+      "são garantidos pelo FGC, desde que administrados por banco"
+    ],
+    "correta": 0,
+    "comentario": "O fundo de investimento é uma comunhão de recursos sob a forma de condomínio, dividida em cotas, e está sujeito à regulação e à fiscalização da CVM. As cotas não são depósitos do banco e não têm cobertura do FGC, mesmo quando o administrador é uma instituição financeira. A rentabilidade depende da carteira e não é garantida por lei. A Susep supervisiona seguros e previdência aberta, não fundos de investimento.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-26",
+    "materia": "bancarios",
+    "assunto": "Aval e fiança",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente será garantidor em duas operações: em uma, prestará aval em uma nota promissória; em outra, será fiador em um contrato de locação. Ele pergunta ao escriturário a diferença entre as garantias. É correto afirmar que",
+    "alternativas": [
+      "a fiança dispensa a autorização do cônjuge em qualquer regime de bens, ao contrário do aval",
+      "o avalista responde apenas se o devedor principal falecer",
+      "o aval pode ser prestado em qualquer contrato, enquanto a fiança só pode ser dada em títulos de crédito",
+      "no aval o avalista sempre goza de benefício de ordem, e na fiança não",
+      "na fiança o fiador pode, em regra, exigir que primeiro sejam executados os bens do devedor (benefício de ordem), salvo renúncia, ao passo que o aval é garantia cambial autônoma, sem benefício de ordem"
+    ],
+    "correta": 4,
+    "comentario": "A fiança é contrato acessório, e o art. 827 do Código Civil assegura ao fiador o benefício de ordem, salvo se a ele renunciar ou se obrigar como principal pagador. O aval é garantia típica dos títulos de crédito, autônoma e solidária, e o credor pode cobrar diretamente o avalista, sem benefício de ordem. Assim, a inversão entre as duas garantias está errada, e a fiança não se restringe a títulos de crédito. Quanto ao cônjuge, o art. 1.647, III, do Código Civil exige outorga tanto para a fiança quanto para o aval, salvo no regime de separação absoluta.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-banc-27",
+    "materia": "bancarios",
+    "assunto": "Alienação fiduciária",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente financiou um veículo com garantia de alienação fiduciária e pergunta ao escriturário quem é o dono do carro enquanto o financiamento não for quitado. A resposta correta é que",
+    "alternativas": [
+      "a propriedade é dividida em partes iguais entre banco e cliente até a quitação",
+      "o devedor é proprietário pleno do veículo desde a assinatura do contrato, e o banco tem apenas penhor",
+      "o banco fica com a posse direta do veículo até a quitação, e o cliente só o recebe ao final",
+      "o veículo passa a pertencer ao FGC até que o financiamento seja quitado",
+      "o credor fiduciário detém a propriedade resolúvel e a posse indireta do bem, enquanto o devedor fica com a posse direta e o uso, recuperando a propriedade plena ao quitar a dívida"
+    ],
+    "correta": 4,
+    "comentario": "Na alienação fiduciária em garantia, o devedor transfere ao credor a propriedade resolúvel do bem, que se extingue com o pagamento integral da dívida. O credor fica com a posse indireta, e o devedor mantém a posse direta, podendo usar o bem. Quitado o financiamento, a propriedade plena volta ao devedor. Por isso, a garantia não é penhor, o banco não retém o veículo e não existe condomínio entre as partes. O FGC não tem relação com garantias de operações de crédito.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-28",
+    "materia": "bancarios",
+    "assunto": "FGC — cálculo da garantia",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente tem R$ 180 mil em CDB e R$ 120 mil em LCI emitidos por dois bancos que pertencem ao mesmo conglomerado financeiro, e nenhum outro investimento garantido. Ele pergunta ao escriturário quanto receberia do FGC em caso de intervenção nesse conglomerado. Considerando o limite de R$ 250 mil por CPF e por conglomerado, a resposta correta é",
+    "alternativas": [
+      "R$ 250 mil, pois os créditos em instituições do mesmo conglomerado são somados para fins do limite",
+      "R$ 1 milhão, que é o teto global aplicável a cada conglomerado",
+      "R$ 180 mil, pois a LCI não é coberta pelo FGC",
+      "R$ 300 mil, pois cada banco do conglomerado tem limite próprio de R$ 250 mil",
+      "R$ 120 mil, pois o FGC cobre apenas o menor dos investimentos"
+    ],
+    "correta": 0,
+    "comentario": "O FGC garante até R$ 250 mil por CPF/CNPJ e por conglomerado financeiro, somando os créditos em todas as instituições do mesmo conglomerado. Como o total é de R$ 300 mil, a garantia fica limitada a R$ 250 mil. A LCI é instrumento coberto, assim como o CDB. O valor de R$ 1 milhão é o teto global por CPF/CNPJ a cada período de 4 anos, somando pagamentos de diferentes conglomerados, e não um limite por conglomerado.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-29",
+    "materia": "bancarios",
+    "assunto": "FGC — produtos cobertos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente conservadora quer que seus investimentos tenham a proteção do Fundo Garantidor de Créditos (FGC). Entre os produtos abaixo, o que conta com essa garantia, observados os limites, é a(o)",
+    "alternativas": [
+      "debênture emitida por companhia de energia",
+      "plano de previdência VGBL",
+      "Letra de Crédito do Agronegócio (LCA)",
+      "cota de fundo de investimento em renda fixa",
+      "Certificado de Recebíveis Imobiliários (CRI)"
+    ],
+    "correta": 2,
+    "comentario": "A LCA está entre os instrumentos garantidos pelo FGC, ao lado de depósitos à vista, poupança, CDB, LCI e outros títulos de instituições associadas. Debêntures e CRIs são emitidos por empresas não financeiras ou securitizadoras e não têm cobertura do FGC. Cotas de fundos são patrimônio do cotista em condomínio, fora da garantia. O VGBL é plano de previdência/seguro supervisionado pela Susep e também não é coberto pelo FGC.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-30",
+    "materia": "bancarios",
+    "assunto": "Lavagem de dinheiro — fases",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O escriturário percebe que um cliente realiza, em dias seguidos, vários depósitos em espécie de valores pouco inferiores aos limites que acionam controles internos, sem justificativa econômica aparente. Essa conduta é típica da fase de lavagem de dinheiro denominada",
+    "alternativas": [
+      "integração",
+      "reinserção",
+      "ocultação",
+      "colocação",
+      "dissimulação patrimonial final"
+    ],
+    "correta": 3,
+    "comentario": "A colocação é a primeira etapa: o dinheiro ilícito entra no sistema financeiro. Fracionar depósitos em espécie para escapar dos controles, técnica chamada de smurfing, é exemplo clássico dessa fase. A ocultação (ou estratificação) vem depois e consiste em movimentar os recursos para dificultar o rastreamento da origem. A integração é a fase final, em que os recursos retornam à economia com aparência de licitude, por exemplo em investimentos e compra de bens. As demais expressões não correspondem às fases descritas na doutrina.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-31",
+    "materia": "bancarios",
+    "assunto": "Coaf — comunicação de operações suspeitas",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Após identificar operação com fortes indícios de lavagem de dinheiro, o escriturário pergunta ao gerente como proceder. Nos termos da Lei nº 9.613/1998, a instituição deve comunicar a operação ao Coaf",
+    "alternativas": [
+      "somente após notificar o cliente e lhe dar prazo para apresentar justificativa",
+      "somente após obter autorização judicial para a quebra do sigilo bancário",
+      "por meio do próprio cliente, que deve entregar a declaração pessoalmente",
+      "apenas se o valor da operação superar o limite de cobertura do FGC",
+      "abstendo-se de dar ciência do fato a qualquer pessoa, inclusive ao cliente a quem a informação se refere"
+    ],
+    "correta": 4,
+    "comentario": "O art. 11, II, da Lei nº 9.613/1998 determina que as pessoas obrigadas comuniquem ao Coaf as operações suspeitas, abstendo-se de dar ciência do ato a qualquer pessoa, inclusive àquela a quem se refira a informação. Essa comunicação não depende de autorização judicial: a LC 105/2001 prevê que a comunicação às autoridades competentes de ilícitos não constitui quebra de sigilo. Avisar o cliente frustraria a finalidade preventiva. Não há relação com o limite do FGC, porque a suspeita decorre das características da operação, não de um valor fixo.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-32",
+    "materia": "bancarios",
+    "assunto": "PLD — deveres das instituições",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em treinamento sobre prevenção à lavagem de dinheiro, o escriturário foi questionado sobre os deveres das instituições financeiras previstos na Lei nº 9.613/1998. Está de acordo com essa lei afirmar que",
+    "alternativas": [
+      "os cadastros e registros de operações devem ser conservados por, no mínimo, cinco anos, e as comunicações feitas de boa-fé não acarretam responsabilidade civil ou administrativa",
+      "a comunicação ao Coaf, mesmo de boa-fé, sujeita a instituição a indenizar o cliente se a suspeita não se confirmar",
+      "os registros podem ser descartados assim que a conta do cliente for encerrada",
+      "o Coaf é órgão vinculado à CVM, responsável por julgar os crimes de lavagem",
+      "as instituições só precisam identificar clientes que movimentem valores em moeda estrangeira"
+    ],
+    "correta": 0,
+    "comentario": "O art. 10, § 2º, da Lei nº 9.613/1998 exige a conservação de cadastros e registros por no mínimo cinco anos, contados do encerramento da conta ou da conclusão da transação. O art. 11, § 2º, dispõe que as comunicações de boa-fé não acarretam responsabilidade civil ou administrativa. Descartar registros no encerramento da conta ou responsabilizar a instituição por comunicação de boa-fé contraria a lei. A identificação de clientes é dever geral, não restrito ao câmbio. E o Coaf, unidade de inteligência financeira hoje vinculada administrativamente ao Banco Central, não julga crimes: essa competência é do Poder Judiciário.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-banc-33",
+    "materia": "bancarios",
+    "assunto": "Pessoa exposta politicamente",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Na abertura de conta, o escriturário verifica que o cliente exerce cargo de alto escalão no governo federal e, portanto, é pessoa exposta politicamente (PEP). Diante disso, a conduta adequada da instituição é",
+    "alternativas": [
+      "recusar a abertura da conta, pois a legislação proíbe PEPs de manter contas em bancos",
+      "comunicar imediatamente o cliente ao Coaf como suspeito de lavagem de dinheiro",
+      "aceitar o cliente, aplicando procedimentos reforçados de diligência e monitoramento de suas operações, conforme a política de prevenção à lavagem de dinheiro",
+      "exigir autorização prévia do Ministério Público para a abertura da conta",
+      "abrir a conta sem qualquer procedimento adicional, para não caracterizar discriminação"
+    ],
+    "correta": 2,
+    "comentario": "Ser PEP não impede o relacionamento bancário, mas eleva o risco de lavagem e corrupção. Por isso, as normas de PLD exigem diligência reforçada: identificação da origem dos recursos, aprovação em nível adequado e monitoramento mais rigoroso. A lei não proíbe PEPs de ter conta, e abrir a conta sem nenhum procedimento adicional contraria a abordagem baseada em risco. A condição de PEP, por si só, não é indício de crime a comunicar ao Coaf, e não há exigência de autorização do Ministério Público.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-34",
+    "materia": "bancarios",
+    "assunto": "Sigilo bancário — LC 105/2001",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um homem comparece à agência e pede ao escriturário o extrato da conta da esposa, alegando que são casados em comunhão universal de bens. Ela não é cotitular da conta e não deu autorização. Considerando a Lei Complementar nº 105/2001, o escriturário deve",
+    "alternativas": [
+      "fornecer apenas o saldo, já que o saldo não é protegido pelo sigilo bancário",
+      "fornecer o extrato mediante requerimento verbal registrado pelo gerente",
+      "recusar o fornecimento, pois a revelação de informações sigilosas depende, entre outras hipóteses legais, do consentimento expresso da titular",
+      "fornecer o extrato, pois o regime de comunhão universal torna o cônjuge cotitular de todas as contas",
+      "fornecer o extrato, desde que o solicitante apresente a certidão de casamento"
+    ],
+    "correta": 2,
+    "comentario": "A LC 105/2001 impõe às instituições financeiras o sigilo em suas operações ativas e passivas e nos serviços prestados. Entre as hipóteses em que a revelação não caracteriza violação está a feita com o consentimento expresso dos interessados (art. 1º, § 3º, V), que aqui não existe. O regime de bens do casamento não torna o cônjuge titular da conta, e a certidão de casamento não supre o consentimento. O saldo também é informação protegida, e um requerimento verbal não autoriza a quebra.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-35",
+    "materia": "bancarios",
+    "assunto": "Sigilo bancário — Fisco",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente questiona o escriturário sobre notícia de que a Receita Federal teria acesso a dados bancários sem ordem judicial. De acordo com a Lei Complementar nº 105/2001 e a jurisprudência do STF, as autoridades e os agentes fiscais tributários da União",
+    "alternativas": [
+      "podem acessar livremente os dados bancários de qualquer contribuinte, sem necessidade de procedimento fiscal",
+      "dependem sempre de autorização judicial prévia para acessar qualquer informação bancária",
+      "só podem acessar dados bancários de pessoas jurídicas, nunca de pessoas físicas",
+      "podem examinar documentos, livros e registros de instituições financeiras, incluindo os de contas de depósitos, quando houver processo administrativo instaurado ou procedimento fiscal em curso e tais exames forem considerados indispensáveis",
+      "podem divulgar publicamente as informações obtidas, já que o sigilo cessa com a transferência ao Fisco"
+    ],
+    "correta": 3,
+    "comentario": "O art. 6º da LC 105/2001 permite às autoridades fiscais examinar documentos, livros e registros de instituições financeiras quando houver processo administrativo instaurado ou procedimento fiscal em curso e o exame for indispensável. O STF declarou a norma constitucional (RE 601.314, com repercussão geral), entendendo que há transferência do sigilo bancário ao Fisco, e não quebra. Por isso, não se exige ordem judicial, mas também não há acesso livre sem procedimento. A regra alcança pessoas físicas e jurídicas, e as informações continuam protegidas pelo sigilo fiscal, sem possibilidade de divulgação.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-banc-36",
+    "materia": "bancarios",
+    "assunto": "LGPD — eliminação de dados",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente encerra sua conta e, com base na Lei Geral de Proteção de Dados (Lei nº 13.709/2018), pede ao escriturário que o banco elimine imediatamente todos os seus dados pessoais. A orientação correta é que",
+    "alternativas": [
+      "o direito à eliminação não se aplica a instituições financeiras, que estão fora do alcance da LGPD",
+      "o banco deve atender ao pedido, mas pode conservar os dados necessários ao cumprimento de obrigação legal ou regulatória, como a guarda de registros exigida pelas normas de prevenção à lavagem de dinheiro",
+      "o banco deve eliminar todos os dados imediatamente, sem exceção, sob pena de sanção da ANPD",
+      "o banco pode manter e usar os dados livremente para fins de marketing, pois a cliente já foi correntista",
+      "a eliminação só pode ser determinada por ordem judicial"
+    ],
+    "correta": 1,
+    "comentario": "A LGPD garante ao titular o direito de pedir a eliminação de seus dados, mas o art. 16, I, autoriza a conservação para cumprimento de obrigação legal ou regulatória pelo controlador. É o caso da guarda de cadastros e registros exigida pela Lei nº 9.613/1998. Por isso, a eliminação total e imediata, sem exceção, está errada. Os bancos estão plenamente sujeitos à LGPD, e manter dados para marketing após o pedido não tem base legal. O pedido é feito diretamente ao controlador, sem necessidade de ordem judicial.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-banc-37",
+    "materia": "bancarios",
+    "assunto": "CDC — responsabilidade por fraudes",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente descobre que um fraudador abriu, em seu nome, uma conta na agência usando documentos falsos e contratou um empréstimo, o que levou à inclusão do nome do cliente em cadastro de inadimplentes. Segundo o entendimento consolidado do STJ, o banco",
+    "alternativas": [
+      "não responde, pois o Código de Defesa do Consumidor não se aplica às instituições financeiras",
+      "responde objetivamente pelos danos, pois fraudes praticadas por terceiros em operações bancárias caracterizam fortuito interno",
+      "responde apenas se o fraudador for identificado e condenado criminalmente",
+      "só responde se o cliente provar que o funcionário agiu com dolo",
+      "não responde, pois a culpa é exclusiva do fraudador, o que rompe o nexo causal"
+    ],
+    "correta": 1,
+    "comentario": "A Súmula 297 do STJ afirma que o CDC é aplicável às instituições financeiras, e a Súmula 479 estabelece que elas respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. A abertura de conta com documentos falsos é risco inerente à atividade, e por isso não se aplica a excludente de culpa exclusiva de terceiro. A responsabilidade objetiva dispensa a prova de dolo ou culpa do funcionário e não depende da condenação criminal do fraudador.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-38",
+    "materia": "bancarios",
+    "assunto": "CDC — venda casada",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente relata ao escriturário que, em outra agência, só conseguiu aprovar um empréstimo depois de ser obrigado a contratar um título de capitalização. Segundo o Código de Defesa do Consumidor, essa conduta configura",
+    "alternativas": [
+      "venda casada, prática abusiva vedada pelo CDC",
+      "garantia adicional obrigatória em operações de crédito pessoal",
+      "reciprocidade bancária, permitida quando informada no contrato",
+      "exercício regular do direito de cobrança",
+      "prática lícita, pois o banco é livre para definir as condições do crédito"
+    ],
+    "correta": 0,
+    "comentario": "O art. 39, I, do CDC proíbe condicionar o fornecimento de produto ou serviço ao fornecimento de outro produto ou serviço, o que se chama venda casada. Exigir a compra de título de capitalização, seguro ou outro produto para liberar o crédito é exemplo típico. A liberdade contratual do banco não autoriza práticas abusivas, e informar a exigência no contrato não a torna lícita. Título de capitalização não é garantia de crédito, e a situação não guarda relação com cobrança de dívidas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-39",
+    "materia": "bancarios",
+    "assunto": "CDC — direito de arrependimento",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente contratou pelo aplicativo do banco um seguro residencial e, três dias depois, desistiu. Ele pergunta ao escriturário se pode cancelar sem ônus. Considerando o art. 49 do Código de Defesa do Consumidor, a resposta correta é que",
+    "alternativas": [
+      "sim, mas apenas se a desistência ocorrer em até 24 horas",
+      "não, pois contratos firmados por aplicativo são irrevogáveis",
+      "sim, pois a contratação fora do estabelecimento comercial, como pela internet, permite a desistência em até 7 dias, com devolução dos valores pagos",
+      "sim, desde que ele pague multa de 20% sobre o valor do contrato",
+      "não, pois o direito de arrependimento só vale para compras de produtos físicos"
+    ],
+    "correta": 2,
+    "comentario": "O art. 49 do CDC assegura ao consumidor o direito de desistir do contrato em até 7 dias, contados da assinatura ou do recebimento do produto ou serviço, quando a contratação ocorrer fora do estabelecimento comercial, como por telefone, internet ou aplicativo. Os valores pagos devem ser devolvidos de imediato e atualizados, sem multa. O dispositivo alcança produtos e serviços, inclusive os financeiros. O prazo é de 7 dias, e não de 24 horas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-40",
+    "materia": "bancarios",
+    "assunto": "Pix Saque e Pix Troco",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma cliente mora em cidade sem agência bancária e pergunta ao escriturário como obter dinheiro em espécie usando o Pix. O escriturário explica que, no Pix Saque,",
+    "alternativas": [
+      "o valor é sacado em qualquer caixa eletrônico mediante uso da chave aleatória",
+      "o cliente faz um Pix para um estabelecimento ou ponto participante e recebe o valor correspondente em espécie",
+      "o cliente recebe crédito pré-aprovado vinculado à sua chave Pix",
+      "o cliente recebe dinheiro em espécie ao realizar uma compra com cartão de crédito",
+      "o estabelecimento transfere via Pix o troco de uma compra em dinheiro"
+    ],
+    "correta": 1,
+    "comentario": "No Pix Saque, o usuário faz um Pix para o agente de saque, como um estabelecimento comercial ou ponto participante, e recebe o mesmo valor em dinheiro vivo. No Pix Troco, o cliente faz um Pix de valor superior ao da compra e recebe a diferença em espécie; a descrição inversa, com o estabelecimento enviando o troco por Pix, não corresponde a nenhuma das modalidades. O serviço não depende de cartão de crédito nem funciona com a chave em caixas eletrônicos. Também não tem relação com crédito pré-aprovado.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-41",
+    "materia": "bancarios",
+    "assunto": "Open Finance — consentimento",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente recebe, em outro banco, oferta de crédito mais barata condicionada ao compartilhamento de seus dados via Open Finance e pergunta ao escriturário se isso é seguro e como funciona. A resposta correta é que o compartilhamento",
+    "alternativas": [
+      "permite que a instituição receptora movimente livremente a conta do cliente na instituição de origem",
+      "é irrevogável depois de autorizado, pelo prazo mínimo de cinco anos",
+      "depende de consentimento do cliente, dado para finalidade e prazo determinados, podendo ser revogado a qualquer momento",
+      "abrange obrigatoriamente as senhas de acesso do cliente aos aplicativos",
+      "ocorre automaticamente entre todas as instituições, sem necessidade de autorização do cliente"
+    ],
+    "correta": 2,
+    "comentario": "No Open Finance, regulado pelo CMN e pelo Banco Central, o compartilhamento de dados só ocorre com o consentimento do cliente. Esse consentimento é dado para finalidades e prazo determinados e pode ser revogado a qualquer momento. Não há compartilhamento automático nem consentimento irrevogável. Compartilhar dados não dá à instituição receptora poder de movimentar a conta: a iniciação de pagamentos é serviço distinto, e cada transação exige autorização. Senhas nunca são compartilhadas, porque a autenticação ocorre no ambiente da instituição de origem.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-42",
+    "materia": "bancarios",
+    "assunto": "Correspondentes bancários",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente pergunta ao escriturário se é seguro pagar contas e solicitar um empréstimo consignado em uma casa lotérica que atua como correspondente de um banco. A informação correta sobre os correspondentes no país é que",
+    "alternativas": [
+      "podem cobrar tarifas próprias, fixadas livremente, além das tarifas do banco",
+      "respondem sozinhos pelos danos causados aos clientes, sem qualquer responsabilidade da instituição contratante",
+      "são instituições financeiras autônomas, autorizadas a captar depósitos em nome próprio",
+      "não podem receber propostas de operações de crédito, limitando-se a pagamentos de contas",
+      "são empresas contratadas por instituições financeiras para prestar determinados serviços em seu nome, e a instituição contratante responde pelos serviços prestados por meio deles"
+    ],
+    "correta": 4,
+    "comentario": "Correspondentes no país são empresas, como lotéricas, farmácias e redes de varejo, contratadas por instituições financeiras para prestar serviços em nome delas, conforme regulamentação do CMN. A instituição contratante responde pelo atendimento prestado por meio do correspondente, inclusive perante o consumidor. Os correspondentes não são instituições financeiras e não captam recursos em nome próprio. Podem receber e encaminhar propostas de crédito, o que é uma de suas atividades mais comuns, e não podem cobrar tarifas próprias do cliente pelos serviços prestados em nome da contratante.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-43",
+    "materia": "bancarios",
+    "assunto": "Compliance",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma reunião, o gerente explica aos escriturários o papel da área de conformidade (compliance) em uma instituição financeira. De acordo com as boas práticas e a regulamentação do setor, essa função",
+    "alternativas": [
+      "restringe-se a auditar as demonstrações contábeis publicadas anualmente",
+      "é facultativa para os bancos, sendo exigida apenas de companhias abertas não financeiras",
+      "deve atuar com independência e ter acesso às informações necessárias, verificando a aderência da instituição às leis, regulamentações e políticas internas e reportando-se à alta administração",
+      "substitui a responsabilidade dos gestores pelo cumprimento das normas em suas áreas",
+      "deve ficar subordinada à área comercial, para que suas recomendações não prejudiquem o cumprimento de metas"
+    ],
+    "correta": 2,
+    "comentario": "A função de conformidade verifica e testa a aderência da instituição ao arcabouço legal, à regulamentação, aos códigos de conduta e às políticas internas, e dissemina a cultura de controle. Para isso, precisa de independência, acesso às informações e canal com a alta administração e o conselho. Subordiná-la à área comercial criaria conflito de interesses. Ela não se confunde com a auditoria contábil, é exigida das instituições financeiras e não exime os gestores de responder pelo cumprimento das normas em suas áreas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-banc-44",
+    "materia": "bancarios",
+    "assunto": "Ética — conflito de interesses",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um escriturário descobre, no exercício de suas funções, que determinado cliente pretende vender um imóvel abaixo do valor de mercado para quitar dívidas. Um parente do escriturário tem interesse em comprar imóveis na região. A conduta ética adequada é",
+    "alternativas": [
+      "usar a informação apenas se o cliente não fechar negócio em trinta dias",
+      "repassar a informação ao parente, já que não houve prejuízo ao banco",
+      "oferecer ao cliente a intermediação da venda mediante comissão pessoal",
+      "divulgar a oportunidade aos colegas, para que o imóvel seja vendido rapidamente",
+      "manter a informação em sigilo e não utilizá-la em benefício próprio ou de terceiros"
+    ],
+    "correta": 4,
+    "comentario": "Informações obtidas em razão do cargo são protegidas pelo dever de sigilo e não podem ser usadas em proveito próprio ou de terceiros. Repassá-las a um parente configura conflito de interesses e violação ética, ainda que o banco não sofra prejuízo direto, e pode também violar o sigilo bancário da LC 105/2001. Cobrar comissão pessoal pela intermediação ou divulgar a situação do cliente a colegas é igualmente inadequado. Um prazo arbitrário não torna lícito o uso da informação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-banc-45",
+    "materia": "bancarios",
+    "assunto": "Ouvidoria",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente registrou reclamação no SAC do banco, mas não ficou satisfeito com a solução apresentada. Ele pergunta ao escriturário qual é o próximo passo dentro da instituição. A orientação correta é que ele",
+    "alternativas": [
+      "registre a reclamação no Coaf, que fiscaliza o atendimento bancário",
+      "procure diretamente a CVM, que é o órgão responsável por mediar reclamações contra bancos",
+      "recorra à ouvidoria, componente organizacional que atua como última instância interna de tratamento das demandas não solucionadas nos canais primários de atendimento",
+      "ajuíze ação judicial, pois não há outra instância interna após o SAC",
+      "aguarde que o próprio SAC reabra automaticamente a reclamação após 90 dias"
+    ],
+    "correta": 2,
+    "comentario": "A ouvidoria é a última instância interna para demandas não solucionadas nos canais primários, como agências e SAC, conforme a regulamentação do CMN. Ela deve responder ao cliente em prazo regulamentar e atua como canal de mediação. Reclamações contra bancos podem ser registradas no Banco Central e em órgãos de defesa do consumidor, mas a CVM cuida do mercado de valores mobiliários, e o Coaf trata de inteligência financeira. A via judicial é sempre possível, mas não é o próximo passo interno, e o SAC não reabre reclamações automaticamente.",
+    "dificuldade": 2
+  }
+]

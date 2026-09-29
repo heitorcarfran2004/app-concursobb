@@ -1,0 +1,904 @@
+[
+  {
+    "id": "basa2022-1",
+    "materia": "portugues",
+    "assunto": "Interpretação de texto",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "De acordo com o texto, para atender às exigências internacionais, o país deve",
+    "texto_apoio": "“Maior fronteira agrícola do mundo está no bioma amazônico”, diz pesquisador da Embrapa\n\n[1] O Brasil é um dos poucos países no mundo com a possibilidade de ampliar áreas com a agropecuária. De fato, um estudo da ONU mostra que o país será o grande responsável por produzir os alimentos necessários para atender os mais de 9 bilhões de pessoas que habitarão o planeta em 2050. De acordo com pesquisadores da Embrapa, a região possui potencial e áreas para ampliação sustentável da agricultura. Portanto, a responsabilidade do agricultor brasileiro é muito grande.\n\n[2] A região amazônica se mostra promissora para a agricultura, pois ela é rica em um insumo fundamental, a água. Estados como Rondônia e Acre têm municípios que recebem até 2.800 milímetros de chuvas por ano. E isso proporciona a qualidade e a possibilidade de semear mais de uma cultura por ano.\n\n[3] Entretanto, as críticas internacionais, quanto ao uso e à ampliação da agricultura na região amazônica, são um limitante para a exploração dessas áreas. Para cada nova área aberta para a agricultura, parte deveria ser obrigatoriamente destinada à preservação ambiental, segundo as exigências dos países que compram nossos produtos agrícolas.\n\nPOPOV, Daniel. Canal Rural, 19 set. 2019. Adaptado.",
+    "alternativas": [
+      "conscientizar os agricultores da necessidade de ampliar seus negócios.",
+      "diversificar os tipos de culturas que exigem a utilização de muita água.",
+      "garantir a destinação de terras a atividades de preservação ambiental.",
+      "liberar as áreas de cultivo de produtos agrícolas na região amazônica.",
+      "restringir as terras amazônicas ao desenvolvimento da pecuária."
+    ],
+    "correta": 2,
+    "comentario": "O parágrafo 3 diz que, 'para cada nova área aberta para a agricultura, parte deveria ser obrigatoriamente destinada à preservação ambiental, segundo as exigências dos países que compram nossos produtos'. Isso corresponde a C. A e D vão contra a ideia de limitar a expansão. B distorce a menção à água no parágrafo 2, que é uma vantagem da região, e não uma exigência externa. E não tem apoio no texto.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-2",
+    "materia": "portugues",
+    "assunto": "Conectivos - sentido",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "No trecho “Portanto, a responsabilidade do agricultor brasileiro é muito grande.” (parágrafo 1), a palavra Portanto pode ser substituída, sem prejuízo do sentido, por",
+    "texto_apoio": "“Maior fronteira agrícola do mundo está no bioma amazônico”, diz pesquisador da Embrapa\n\n[1] O Brasil é um dos poucos países no mundo com a possibilidade de ampliar áreas com a agropecuária. De fato, um estudo da ONU mostra que o país será o grande responsável por produzir os alimentos necessários para atender os mais de 9 bilhões de pessoas que habitarão o planeta em 2050. De acordo com pesquisadores da Embrapa, a região possui potencial e áreas para ampliação sustentável da agricultura. Portanto, a responsabilidade do agricultor brasileiro é muito grande.\n\n[2] A região amazônica se mostra promissora para a agricultura, pois ela é rica em um insumo fundamental, a água. Estados como Rondônia e Acre têm municípios que recebem até 2.800 milímetros de chuvas por ano. E isso proporciona a qualidade e a possibilidade de semear mais de uma cultura por ano.\n\n[3] Entretanto, as críticas internacionais, quanto ao uso e à ampliação da agricultura na região amazônica, são um limitante para a exploração dessas áreas. Para cada nova área aberta para a agricultura, parte deveria ser obrigatoriamente destinada à preservação ambiental, segundo as exigências dos países que compram nossos produtos agrícolas.\n\nPOPOV, Daniel. Canal Rural, 19 set. 2019. Adaptado.",
+    "alternativas": [
+      "com o fim de",
+      "dessa forma",
+      "apesar de",
+      "porque",
+      "quando"
+    ],
+    "correta": 1,
+    "comentario": "'Portanto' é conjunção conclusiva, com o mesmo valor de 'logo', 'assim', 'por isso' e 'dessa forma' (B). 'Com o fim de' (A) indica finalidade. 'Apesar de' (C) indica concessão. 'Porque' (D) indica causa, o sentido oposto ao de conclusão e o erro mais comum. 'Quando' (E) indica tempo.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-3",
+    "materia": "portugues",
+    "assunto": "Concordância nominal",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "De acordo com a norma-padrão da língua portuguesa, a concordância nominal está correta na palavra destacada em: (a palavra destacada é o adjetivo/particípio que qualifica os termos citados)",
+    "alternativas": [
+      "A agricultura sustentável e os cuidados com o meio ambiente são extremamente proveitosas para a preservação do planeta.",
+      "O desmatamento generalizado e a monocultura são inadequadas do ponto de vista ambiental.",
+      "O uso predatório do solo pode acarretar consequências como a desertificação e a arenização, que são considerados prejudiciais à natureza.",
+      "A região amazônica e o pantanal mato-grossense são conhecidas internacionalmente como patrimônios ambientais.",
+      "Os cuidados com o solo e as pesquisas em técnicas de plantio são necessários para que a produção de alimentos seja sustentável."
+    ],
+    "correta": 4,
+    "comentario": "Quando um predicativo se refere a substantivos de gêneros diferentes, vai para o masculino plural: 'os cuidados e as pesquisas são necessários' (E). Pela mesma regra, A pediria 'proveitosos', B 'inadequados' e D 'conhecidos'. Em C, o 'que' retoma dois substantivos femininos (desertificação e arenização), então o correto seria 'consideradas'.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-4",
+    "materia": "portugues",
+    "assunto": "Pontuação (vírgula)",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "De acordo com a norma-padrão da língua portuguesa, o emprego adequado da vírgula está plenamente atendido em:",
+    "alternativas": [
+      "A criação de animais para a produção de alimentos, é de grande importância para o sustento de milhares de famílias.",
+      "A floresta Amazônica, apesar de parecer homogênea, possui muitas diferenças na sua vegetação.",
+      "A melhor maneira de proteger as povoações situadas nas margens dos rios, é procurar soluções que impeçam o comércio ilegal.",
+      "O estado do Amazonas apresenta, a maior população indígena do Brasil com aproximadamente trinta mil habitantes.",
+      "O número de estudiosos preocupados com o futuro do planeta, aumentou devido ao aquecimento global."
+    ],
+    "correta": 1,
+    "comentario": "Em B, a oração concessiva 'apesar de parecer homogênea' está intercalada entre o sujeito e o verbo e, por isso, vem entre duas vírgulas, como deve ser. Em A, C e E, uma vírgula separa o sujeito do verbo, que é o erro clássico. Em D, a vírgula separa o verbo 'apresenta' do seu objeto direto.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-5",
+    "materia": "portugues",
+    "assunto": "Redação oficial",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "De acordo com as normas explicitadas no Manual de Redação da Presidência da República, as comunicações oficiais devem",
+    "alternativas": [
+      "empregar o cabeçalho em todas as páginas do documento.",
+      "escrever os pronomes de tratamento sempre por extenso.",
+      "explicitar o significado de uma sigla todas as vezes em que ela for empregada.",
+      "utilizar linguagem informal para transmitir informações relevantes.",
+      "usar o título do cargo no gênero feminino para a identificação de signatárias do sexo feminino."
+    ],
+    "correta": 4,
+    "comentario": "O Manual de Redação da Presidência (3ª ed.) orienta usar o cargo no feminino quando quem assina é mulher, por exemplo 'Ministra', 'Diretora' (E). O cabeçalho vai só na primeira página (A). Pronomes de tratamento podem ser abreviados em muitos casos (B). A sigla é explicada apenas na primeira vez em que aparece (C). A linguagem é formal e impessoal, e não informal (D).",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-6",
+    "materia": "matematica",
+    "assunto": "Porcentagem",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Em outubro de 2021, segundo dados do Banco Central, os saques nas cadernetas de poupança superaram os depósitos em cerca de R$ 7,4 bilhões. Foram R$ 278 bilhões em depósitos e R$ 285,4 bilhões em saques, aproximadamente, no período. Tomando-se como base o valor total dos depósitos, a diferença percentual entre os totais de retirada e de depósitos, no mês de outubro de 2021,",
+    "alternativas": [
+      "foi de menos de 2%.",
+      "ficou entre 2% e 8%.",
+      "ficou entre 8% e 14%.",
+      "ficou entre 14% e 20%.",
+      "foi superior a 20%."
+    ],
+    "correta": 1,
+    "comentario": "A diferença é de 7,4 bilhões, e a base pedida são os depósitos, 278 bilhões. A conta é 7,4/278 ≈ 0,0266 = 2,66%, que fica entre 2% e 8% (B). Usar os saques como base daria 7,4/285,4 ≈ 2,59%, na mesma faixa. O erro típico é comparar 7,4 com 100 ou confundir bilhões com milhões.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-7",
+    "materia": "matematica",
+    "assunto": "Razão e proporção",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "No dia 18 de novembro de 2021, as cotações, em dólares americanos, de 6 criptomoedas eram: Bitcoin (BTC) $58.685,62; Ethereum (ETH) $4.111,28; Binance Coin (BNB) $553,42; Tether (USDT) $1,00; Solana (SOL) $197,32; Cardano (ADA) $1,80. O valor de 1 Bitcoin corresponde a",
+    "alternativas": [
+      "mais de 10 Ethereums",
+      "menos de 100 Binance Coins",
+      "aproximadamente 58 Tethers",
+      "mais de 400 Solanas",
+      "menos de 30.000 Cardanos"
+    ],
+    "correta": 0,
+    "comentario": "58.685,62/4.111,28 ≈ 14,3, então 1 BTC vale mais de 10 ETH (A). As demais falham: 58.685/553 ≈ 106 BNB, mais de 100 (B); 1 BTC equivale a cerca de 58.686 Tethers, e não 58 (C); 58.685/197 ≈ 297 SOL, menos de 400 (D); 58.685/1,80 ≈ 32.603 ADA, mais de 30.000 (E). A alternativa C pega quem lê o ponto de milhar como vírgula decimal.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-8",
+    "materia": "mat-financeira",
+    "assunto": "Série uniforme antecipada",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma loja anuncia uma geladeira cujo preço à vista é de R$ 3.500,00. Não dispondo deste capital, um cliente se propõe a pagar a geladeira, com juros compostos de 4% a.m., em quatro prestações mensais, de mesmo valor, sendo a primeira no ato da compra. Qual o valor aproximado da prestação que o cliente está se propondo a pagar em reais?",
+    "alternativas": [
+      "875,00",
+      "910,00",
+      "927,13",
+      "964,22",
+      "1.023,63"
+    ],
+    "correta": 2,
+    "comentario": "Com entrada, a série é antecipada: 3.500 = P × (1 + 1/1,04 + 1/1,04² + 1/1,04³) = P × (1 + 0,9615 + 0,9246 + 0,8890) = P × 3,7751. Daí P ≈ 927,13 (C). A alternativa A (875) divide 3.500 por 4 sem juros. D (964,22) sai de tratar a série como postecipada, sem entrada, e é o erro mais comum: 3.500/3,6299.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-9",
+    "materia": "mat-financeira",
+    "assunto": "Juros simples - taxas proporcionais",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um banco oferece um financiamento utilizando uma taxa de juros simples de 6% a.a. Qual a taxa trimestral equivalente à taxa oferecida pelo banco?",
+    "alternativas": [
+      "0,0147 a.t.",
+      "0,15 a.t.",
+      "0,50% a.t.",
+      "1,47% a.t.",
+      "1,50% a.t."
+    ],
+    "correta": 4,
+    "comentario": "Em juros simples, taxa equivalente é o mesmo que taxa proporcional. Um ano tem 4 trimestres, então 6%/4 = 1,5% a.t. (E). A alternativa D (1,47%) seria a equivalente em juros COMPOSTOS, (1,06)^(1/4) − 1, o erro de quem ignora que o regime é simples. A e B misturam a forma decimal com a percentual, e C (0,5%) é a taxa mensal.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-10",
+    "materia": "estatistica",
+    "assunto": "Média de dados agrupados",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A Tabela a seguir representa as frequências referentes aos resultados de alcatrão (mg) encontrados em cigarros sem filtro, a partir de uma amostra de 30 cigarros: classe [10, 14) frequência 2; [14, 18) frequência 4; [18, 22) frequência x; [22, 26) frequência y; [26, 30] frequência 2. Se a média de alcatrão na amostra foi de 20,4 mg, qual o valor de x − y?",
+    "alternativas": [
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correta": 1,
+    "comentario": "O total é 2 + 4 + x + y + 2 = 30, logo x + y = 22. Com os pontos médios 12, 16, 20, 24 e 28, a soma é 24 + 64 + 20x + 24y + 56 = 20,4 × 30 = 612, o que dá 20x + 24y = 468. Substituindo x = 22 − y: 440 + 4y = 468, y = 7 e x = 15. Então x − y = 8 (B). O erro comum é usar os limites das classes no lugar dos pontos médios.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-21",
+    "materia": "informatica",
+    "assunto": "Windows 10 - Histórico de arquivos",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A versão 10 do Windows oferece aos seus usuários um importante recurso que permite que seus arquivos sejam salvos para posterior recuperação em caso de eventuais falhas. Qual é a denominação desse recurso na versão em português do Windows 10?",
+    "alternativas": [
+      "Estrutura Ribbon",
+      "Histórico de arquivos",
+      "MSE – Microsoft Security Essentials",
+      "Provedor de serviços TAPI",
+      "Windows Media Player"
+    ],
+    "correta": 1,
+    "comentario": "O Histórico de Arquivos do Windows 10 faz cópias automáticas e periódicas das pastas do usuário em uma unidade externa ou de rede e permite restaurar versões anteriores (B). A Ribbon (A) é a faixa de opções da interface. O MSE (C) era um antivírus. A TAPI (D) é uma API de telefonia, e o Media Player (E) reproduz mídia.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-22",
+    "materia": "informatica",
+    "assunto": "Navegadores - servidor proxy",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Nas configurações de conexão do navegador Mozilla Firefox, pode-se definir um servidor proxy, recurso utilizado para a redução do tráfego em rede. O mecanismo de funcionamento de um servidor proxy",
+    "alternativas": [
+      "implementa o padrão IrDA, que estabelece conexão direta via fibra ótica.",
+      "utiliza uma área intermediária entre servidores de uma rede interna e usuários da internet.",
+      "especifica um equipamento que atua como uma cache entre o navegador Firefox e o servidor web.",
+      "transmite dados por arquiteturas que privilegiam a topologia de rede de campo ou metropolitana.",
+      "roteia o processamento para redes que utilizam tecnologias sem fio, impondo um padrão de segurança adicional."
+    ],
+    "correta": 2,
+    "comentario": "O proxy fica entre o navegador e o servidor web: recebe as requisições, repassa-as e guarda em cache o conteúdo já buscado, o que reduz o tráfego (C). B descreve a DMZ, zona intermediária entre a rede interna e a internet, e é o distrator mais forte. IrDA (A) é comunicação por infravermelho, e não fibra. D e E não têm relação com proxy.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-23",
+    "materia": "informatica",
+    "assunto": "Correio eletrônico - Gmail e spoofing",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Evitar ataques aos sistemas de correio eletrônico é um dos objetivos dos especialistas em segurança. Um conhecido ataque que pode ser feito por e-mail é o spoofing. Como o usuário sinaliza ao Gmail que um determinado e-mail é suspeito de ser spoofing?",
+    "alternativas": [
+      "Denunciando-o como spam.",
+      "Gerenciando marcadores.",
+      "Marcando-o como estrela.",
+      "Movendo-o para a lixeira.",
+      "Solicitando uma confirmação de leitura."
+    ],
+    "correta": 0,
+    "comentario": "No Gmail, a forma de sinalizar ao provedor que uma mensagem é maliciosa ou fraudulenta é denunciá-la, com a opção 'Denunciar spam' ou, dependendo da versão, 'Denunciar phishing' (A). Isso alimenta os filtros do Google. Marcadores (B) e estrela (C) só organizam as mensagens. Apagar (D) não informa nada ao Gmail, e a confirmação de leitura (E) não tem relação com segurança.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-24",
+    "materia": "informatica",
+    "assunto": "Backup - boas práticas",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A gravação de cópias de segurança (backup) é um dos procedimentos mais importantes na garantia da operação de um ambiente computacional. Políticas de backup devem ser desenhadas pelos administradores de suporte com vistas a manter a disponibilidade e a integridade do sistema computacional. Uma providência importante referente à política de backup é",
+    "alternativas": [
+      "armazenar todos os volumes de backup em um só local.",
+      "automatizar backups de arquivos no formato Manchester Diferencial.",
+      "evitar a utilização de gerenciadores de backup de código aberto.",
+      "monitorar os volumes de backup gerados manualmente.",
+      "testar todos os volumes de backups gerados."
+    ],
+    "correta": 4,
+    "comentario": "Um backup só vale se puder ser restaurado, por isso é essencial testar as cópias geradas (E). Guardar tudo em um só local (A) contraria a boa prática de manter cópias fora do local, como na regra 3-2-1. Manchester Diferencial (B) é uma codificação de sinal na camada física, e não um formato de backup. Não há motivo para evitar ferramentas de código aberto (C), e o monitoramento não deve se limitar aos backups manuais (D).",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-25",
+    "materia": "informatica",
+    "assunto": "Malware - worm",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Códigos maliciosos (malware) são programas desenvolvidos para executar ações danosas e atividades maliciosas. Dentre os vários tipos de malware, há um programa capaz de se propagar automaticamente pelas redes, explorando vulnerabilidades nos programas instalados e enviando cópias de si mesmo de equipamento para equipamento. Esse programa é o",
+    "alternativas": [
+      "backdoor",
+      "spyware",
+      "rootkit",
+      "keylogger",
+      "worm"
+    ],
+    "correta": 4,
+    "comentario": "O worm se autopropaga pela rede explorando vulnerabilidades e não precisa de um arquivo hospedeiro nem de ação do usuário (E). O backdoor (A) abre acesso remoto escondido. O spyware (B) espiona e envia dados. O rootkit (C) esconde a presença do invasor, e o keylogger (D) captura o que é digitado. A diferença mais cobrada é que o vírus precisa de um hospedeiro, e o worm não.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-26",
+    "materia": "vendas",
+    "assunto": "Qualidade no atendimento",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um estudo de campo em uma agência bancária revelou que, na percepção dos clientes, alguns bancários eram muito atenciosos, outros nem tanto. Para equilibrar a qualidade do atendimento aos clientes nessa agência, deve-se",
+    "alternativas": [
+      "ampliar a vigilância sobre os bancários e o controle dos clientes.",
+      "reforçar as campanhas promocionais do banco perante o público.",
+      "treinar a equipe com base em protocolos e padrões de atendimento.",
+      "aumentar a divulgação dos diferenciais do banco nas mídias sociais.",
+      "usar a verba gasta em pesquisas de satisfação dos clientes em outras ações mercadológicas."
+    ],
+    "correta": 2,
+    "comentario": "O problema é a variabilidade, típica dos serviços, que dependem de quem os presta. A forma de reduzi-la é padronizar, com treinamento, protocolos e padrões de atendimento (C). Vigiar mais (A) não ensina o comportamento esperado. Propaganda (B e D) não muda o atendimento. Cortar as pesquisas de satisfação (E) eliminaria justamente o instrumento que revelou o problema.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-27",
+    "materia": "vendas",
+    "assunto": "Triângulo de serviços - marketing interativo",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "As propagandas de um determinado banco falam de atendimento de alta qualidade e produtos financeiros que atendem a todas as necessidades dos clientes. O banco investiu muito em equipamentos e no treinamento dos funcionários, de forma que a entrega do serviço de alta qualidade é esperada por todos os diretores. Com base no triângulo de serviços, o momento da verdade, quando ocorre a interação entre cliente e organização, e o serviço é produzido e consumido, está relacionado ao marketing",
+    "alternativas": [
+      "interno",
+      "externo",
+      "dimensional",
+      "hierárquico",
+      "interativo"
+    ],
+    "correta": 4,
+    "comentario": "O triângulo de serviços liga empresa, funcionários e clientes. O marketing externo, entre empresa e clientes, faz promessas. O interno, entre empresa e funcionários, capacita a equipe a cumpri-las. O interativo, entre funcionários e clientes, é onde as promessas são cumpridas no momento da verdade (E). A propaganda do enunciado seria marketing externo, e o treinamento seria marketing interno, e esses são os distratores. 'Dimensional' e 'hierárquico' não fazem parte do modelo.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-28",
+    "materia": "vendas",
+    "assunto": "Retenção de clientes - laços financeiros",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma vez que o banco identificou seu segmento de mercado e desenvolveu serviços de qualidade, o gerente criou um programa de fidelidade que estimula os clientes a contratarem mais serviços do banco. A cada serviço contratado, uma quantidade de pontos é creditada ao cliente, que pode trocar esses pontos por descontos em tarifas ou compras em um site de vendas. Essa estratégia de retenção de clientes é denominada estratégia de laços",
+    "alternativas": [
+      "sociais",
+      "afetivos",
+      "financeiros",
+      "interpessoais",
+      "de Customização"
+    ],
+    "correta": 2,
+    "comentario": "Na classificação de Zeithaml e Bitner, os laços financeiros são o primeiro nível de retenção e usam incentivos econômicos, como pontos, descontos e tarifas menores (C). Os laços sociais (A) se apoiam em relacionamento pessoal. Os de customização (E) oferecem soluções sob medida. Os laços estruturais integram sistemas do cliente e da empresa. 'Afetivos' e 'interpessoais' não são categorias desse modelo.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-29",
+    "materia": "vendas",
+    "assunto": "Dimensões da qualidade (SERVQUAL)",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O consultor de um banco verificou que os funcionários trabalhavam em sintonia, o atendimento era cordial e atencioso, clientes com necessidades específicas eram tratados de maneira individualizada e as promessas dos anúncios eram entregues. Entretanto, o estado de conservação de todas as agências era ruim, a climatização era inadequada, e os equipamentos de autoatendimento apresentavam defeitos constantemente. Nesse caso, o consultor aponta problemas com a dimensão da qualidade de serviços denominada",
+    "alternativas": [
+      "empatia",
+      "tangíveis",
+      "segurança",
+      "confiabilidade",
+      "responsividade"
+    ],
+    "correta": 1,
+    "comentario": "No modelo SERVQUAL, a dimensão 'tangíveis' abrange instalações, equipamentos, aparência física e materiais. É onde estão os problemas citados: agências malconservadas, climatização ruim e equipamentos com defeito (B). O enunciado elogia justamente as outras dimensões: empatia (A), no atendimento individualizado; confiabilidade (D), nas promessas cumpridas; e cortesia e competência, ligadas a segurança (C) e responsividade (E).",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-30",
+    "materia": "vendas",
+    "assunto": "Ouvidoria - Resolução CMN 4.860/2020",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um cliente foi vítima de fraude digital em sua conta, contestou as operações na agência e comunicou o serviço de atendimento, que informou que analisaria as contestações em trinta dias. Inconformado, apresentou reclamação à Ouvidoria. Nos termos da Resolução CMN nº 4.860/2020, é atribuição da Ouvidoria, quando as demandas dos clientes e usuários de produtos e serviços não tiverem sido solucionadas nos canais de atendimento primário da instituição, prestar atendimento de",
+    "alternativas": [
+      "urgência",
+      "recurso",
+      "última instância",
+      "previsibilidade",
+      "excepcionalidade"
+    ],
+    "correta": 2,
+    "comentario": "A Resolução CMN 4.860/2020 diz que a ouvidoria presta atendimento de última instância às demandas não resolvidas nos canais primários, como SAC, agências e correspondentes (C). Por isso o cliente deve primeiro procurar os canais comuns. As demais expressões não constam na norma. 'Recurso' (B) é o distrator mais forte, porque lembra uma segunda instância, mas não é o termo legal.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-31",
+    "materia": "bancarios",
+    "assunto": "SFN - Conselho Monetário Nacional",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Na composição do Sistema Financeiro Nacional no Brasil, o órgão normativo responsável pela fixação das metas para a inflação, pelas diretrizes da política cambial e pelas normas inerentes ao funcionamento das instituições financeiras é o(a)",
+    "alternativas": [
+      "Banco Central do Brasil",
+      "Banco do Brasil",
+      "Conselho Monetário Nacional",
+      "Caixa Econômica Federal",
+      "Comissão de Valores Mobiliários"
+    ],
+    "correta": 2,
+    "comentario": "O CMN é o órgão normativo máximo do SFN. Ele fixa a meta de inflação, define as diretrizes das políticas monetária, creditícia e cambial e regula o funcionamento das instituições (C). O Banco Central (A) EXECUTA essas políticas e supervisiona o sistema, e a confusão entre os dois é o erro típico. BB e Caixa (B e D) são operadores, e a CVM (E) supervisiona o mercado de valores mobiliários.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-32",
+    "materia": "bancarios",
+    "assunto": "Mercado de capitais",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O Sistema Financeiro Nacional abarca diferentes tipos de mercado, definidos pelos objetivos e características de cada um deles. O tipo de mercado que permite às empresas em geral captar recursos de terceiros e compartilhar os ganhos e riscos envolvidos nos negócios é denominado mercado",
+    "alternativas": [
+      "de capitais",
+      "de trabalho",
+      "de crédito",
+      "de câmbio",
+      "monetário"
+    ],
+    "correta": 0,
+    "comentario": "No mercado de capitais, as empresas captam recursos direto com investidores, por exemplo emitindo ações, e os ganhos e riscos do negócio passam a ser compartilhados com os acionistas (A). No mercado de crédito (C), o banco intermedeia e assume o risco, sem essa partilha. O mercado monetário (E) trata da liquidez de curtíssimo prazo, e o de câmbio (D) da troca de moedas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-33",
+    "materia": "bancarios",
+    "assunto": "CVM - natureza jurídica",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A Comissão de Valores Mobiliários (CVM) detém personalidade jurídica e patrimônio próprios, é dotada de autoridade administrativa independente, conta com mandato fixo, estabilidade de seus dirigentes e autonomia financeira e orçamentária. A CVM funciona como",
+    "alternativas": [
+      "empresa de economia mista",
+      "autarquia em regime especial",
+      "entidade sem vínculo governamental",
+      "entidade governamental com fins lucrativos",
+      "entidade privada"
+    ],
+    "correta": 1,
+    "comentario": "A Lei 6.385/1976, alterada pela Lei 10.411/2002, define a CVM como entidade autárquica em regime especial, vinculada ao Ministério da Fazenda (B). As características do enunciado (autonomia, mandato fixo e estabilidade dos dirigentes) são exatamente as do 'regime especial'. A CVM é pública e não tem fins lucrativos, o que descarta A, C, D e E.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-34",
+    "materia": "bancarios",
+    "assunto": "Câmbio - taxas cruzadas",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O mercado de câmbio brasileiro registrou, no fechamento do dia 09/12/2021, as seguintes cotações de venda do Euro (€): 1 € = US$ 1,1286 e 1 € = R$ 6,2710. As taxas de câmbio cruzadas indicam que a cotação de venda do Dólar, medida em Reais, naquele mesmo dia, foi de",
+    "alternativas": [
+      "1 US$ = R$ 7,0775",
+      "1 US$ = R$ 6,2710",
+      "1 US$ = R$ 5,5564",
+      "1 US$ = R$ 5,4585",
+      "1 US$ = R$ 0,1799"
+    ],
+    "correta": 2,
+    "comentario": "Como 1,1286 dólar vale o mesmo que 6,2710 reais, 1 dólar = 6,2710/1,1286 ≈ R$ 5,5564 (C). A alternativa A (7,0775) sai de multiplicar em vez de dividir, que é o erro clássico. B apenas repete a cotação do euro. E (0,1799) é o inverso da cotação, em dólares por real, e ainda com a conta errada.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-35",
+    "materia": "bancarios",
+    "assunto": "Bancos comerciais",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Na estrutura do Sistema Financeiro Nacional, algumas instituições funcionam com o objetivo principal de prover recursos necessários para financiar, a curto e a médio prazos, o comércio, a indústria, as empresas prestadoras de serviços, as pessoas físicas e terceiros em geral. Tal objetivo envolve tarefas típicas dos bancos",
+    "alternativas": [
+      "de investimento",
+      "de desenvolvimento",
+      "centrais",
+      "múltiplos",
+      "comerciais"
+    ],
+    "correta": 4,
+    "comentario": "Essa é a definição normativa do banco comercial: financiar a curto e médio prazos o comércio, a indústria, os serviços e as pessoas físicas, captando principalmente depósitos à vista (E). Os bancos de investimento (A) fazem operações de médio e longo prazo e participação societária. Os de desenvolvimento (B) financiam projetos de longo prazo. O banco múltiplo (D) reúne carteiras, mas a tarefa descrita é típica da carteira comercial.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-36",
+    "materia": "bancarios",
+    "assunto": "Câmbio - arbitragem",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Admita que, num mesmo dia, dólares sejam negociados para venda à taxa de câmbio de R$ 4,45/US$, em São Paulo, e de R$ 4,55/US$, em Recife. Um operador de câmbio que comprasse, naquele dia, determinada quantia de dólares em São Paulo para vender em Recife estaria fazendo uma operação denominada",
+    "alternativas": [
+      "arbitragem",
+      "especulação",
+      "triangulação",
+      "swap",
+      "hedging"
+    ],
+    "correta": 0,
+    "comentario": "Arbitragem é comprar e vender o mesmo ativo ao mesmo tempo em mercados com preços diferentes para lucrar com a diferença, quase sem risco (A). A especulação (B) aposta em variação FUTURA de preço e assume risco. O hedge (E) busca proteção. O swap (D) troca indexadores ou fluxos. A triangulação (C) envolve três moedas.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-37",
+    "materia": "bancarios",
+    "assunto": "Câmbio real de equilíbrio",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Admita que a taxa de câmbio real de equilíbrio no Brasil seja estimada, num determinado dia, em R$ 4,20/US$. Se, nesse mesmo dia, o Dólar for cotado a uma taxa de câmbio nominal de R$ 5,40/US$, é indicativo de que o Real brasileiro está",
+    "alternativas": [
+      "sobrevalorizado",
+      "subvalorizado",
+      "nem subvalorizado nem sobrevalorizado",
+      "em paridade real do poder de compra com o Dólar",
+      "menos competitivo que o Dólar"
+    ],
+    "correta": 1,
+    "comentario": "Se o mercado cobra R$ 5,40 por um dólar que 'deveria' valer R$ 4,20, é preciso mais reais do que o equilíbrio indica, então o real está desvalorizado, ou subvalorizado (B). A alternativa A, sobrevalorizado, é o erro de quem inverte o raciocínio. Um real subvalorizado deixa os produtos brasileiros mais baratos lá fora, ou seja, MAIS competitivos, o que torna E errada. C e D só valeriam se a cotação nominal fosse igual à de equilíbrio.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-38",
+    "materia": "bancarios",
+    "assunto": "Selic - mercado de títulos públicos",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O trecho seguinte alude a importante mercado em que são transacionados os títulos públicos no Brasil: “Todas as transações com títulos públicos se dão em seu âmbito. Ele é o mercado de dívida pública brasileiro e nele se encontram tanto o Banco Central do Brasil realizando a política monetária, quanto o Tesouro, responsável pela gestão da dívida pública e financiamento do governo.” O trecho se refere ao mercado",
+    "alternativas": [
+      "cambial",
+      "acionário",
+      "CETIP",
+      "SELIC",
+      "PTAX"
+    ],
+    "correta": 3,
+    "comentario": "O Selic (Sistema Especial de Liquidação e de Custódia), administrado pelo Banco Central, registra, custodia e liquida os títulos públicos federais. É por ele que o BCB faz operações de mercado aberto e o Tesouro emite dívida (D). A CETIP (C), hoje parte da B3, cuidava principalmente de títulos privados, como CDB e debêntures. A PTAX (E) é a taxa de câmbio de referência.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-39",
+    "materia": "bancarios",
+    "assunto": "Derivativos - cupom cambial",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Na bolsa de valores brasileira (B3), os investidores interessados em negociar contratos futuros de cupom cambial, relativos a depósitos interfinanceiros, objetivam, fundamentalmente, buscar proteção contra flutuações dos(as)",
+    "alternativas": [
+      "preços das ações negociadas em balcão",
+      "preços das commodities negociadas em balcão",
+      "preços dos títulos negociados no Tesouro direto",
+      "taxas de juros referenciadas ao Dólar",
+      "taxas de juros referenciadas ao Real"
+    ],
+    "correta": 3,
+    "comentario": "O cupom cambial (DDI/FRC) é a taxa de juros em dólar paga no Brasil, ou seja, a diferença entre o DI e a variação cambial. O futuro de cupom cambial protege contra oscilações dessa taxa de juros em dólar (D). A alternativa E descreve o futuro de DI, que é juros em reais. A, B e C tratam de outros ativos.",
+    "dificuldade": 3
+  },
+  {
+    "id": "basa2022-40",
+    "materia": "bancarios",
+    "assunto": "Bancos de investimento",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "De acordo com a legislação brasileira, os bancos de investimento",
+    "alternativas": [
+      "podem financiar a compra de bens de consumo duráveis.",
+      "podem abrir contas-correntes para seus clientes.",
+      "podem captar recursos via depósitos a prazo.",
+      "não podem funcionar como instituições financeiras privadas.",
+      "não podem administrar recursos de terceiros."
+    ],
+    "correta": 2,
+    "comentario": "Os bancos de investimento são instituições privadas que captam por depósitos a prazo, como o CDB, e não podem manter contas-correntes, ou seja, depósitos à vista (C certa, B errada). Eles podem administrar recursos de terceiros, como fundos, o que torna E errada, e são justamente instituições privadas, o que torna D errada. Financiar bens de consumo duráveis (A) é atividade típica das financeiras (SCFI).",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-41",
+    "materia": "bancarios",
+    "assunto": "Câmbio - conversão de moedas",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma casa de câmbio no Brasil apresentava a seguinte relação entre o real e diversas moedas estrangeiras (valor em R$ de uma unidade da moeda): Dólar americano 5,5627; Euro 6,4477; Libra esterlina 7,5207; Yuan chinês 0,8673. Com base nestas informações, conclui-se que com um real pode-se comprar, aproximadamente",
+    "alternativas": [
+      "0,1330 euro",
+      "0,1327 dólar americano",
+      "1,1530 yuan chinês",
+      "0,1551 libra esterlina",
+      "0,1798 euro"
+    ],
+    "correta": 2,
+    "comentario": "Com R$ 1 compra-se 1/cotação da moeda: 1/0,8673 ≈ 1,1530 yuan (C). As outras não conferem: 1/6,4477 ≈ 0,1551 euro, e não 0,1330 ou 0,1798 (A e E); 1/5,5627 ≈ 0,1798 dólar, e não 0,1327 (B); 1/7,5207 ≈ 0,1330 libra, e não 0,1551 (D). A banca embaralhou os valores certos entre as moedas, então é preciso conferir cada par.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-42",
+    "materia": "vendas",
+    "assunto": "Marketing de relacionamento",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O técnico bancário pode participar das ações de marketing de relacionamento do banco em que trabalha. Para isso, ele deve ser capaz de",
+    "alternativas": [
+      "bater as metas definidas e incrementar suas comissões de vendas.",
+      "induzir os clientes a investir em produtos de que não precisam.",
+      "redigir mensagens publicitárias e criativas para os clientes.",
+      "reduzir os custos operacionais da agência em que trabalha.",
+      "satisfazer as necessidades dos clientes no longo prazo."
+    ],
+    "correta": 4,
+    "comentario": "O marketing de relacionamento busca criar e manter relações duradouras e lucrativas, satisfazendo o cliente ao longo do tempo (E). Priorizar metas e comissões (A) é visão transacional, de curto prazo. Empurrar produtos desnecessários (B) destrói a confiança e contraria a ética. C e D são tarefas de outras áreas, como publicidade e gestão de custos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-43",
+    "materia": "vendas",
+    "assunto": "Preço - percepção de valor",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A percepção dos clientes em relação ao preço praticado para um determinado produto depende de uma série de fatores. Um fator que influencia essa percepção é o",
+    "alternativas": [
+      "conjunto de produtos em estoque",
+      "custo fixo que incide sobre a lucratividade",
+      "número de funcionários da empresa",
+      "perfil econômico e político da diretoria",
+      "valor dado ao produto pelo mercado"
+    ],
+    "correta": 4,
+    "comentario": "O cliente julga o preço comparando-o com o valor que percebe no produto, isto é, com o benefício que o mercado atribui a ele (E). Custos, estoque, número de funcionários e perfil da diretoria (A a D) são fatores internos da empresa. Eles podem influenciar a formação do preço, mas não a percepção do cliente, que normalmente nem os conhece.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-44",
+    "materia": "vendas",
+    "assunto": "Composto de marketing - praça",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "A localização, a disponibilidade e a acessibilidade das agências bancárias se relacionam com qual elemento do composto de marketing de um banco?",
+    "alternativas": [
+      "Distribuição",
+      "Posicionamento",
+      "Preço",
+      "Produto",
+      "Promoção"
+    ],
+    "correta": 0,
+    "comentario": "Nos 4Ps, 'Praça' (Place), também chamada de distribuição, trata de onde e como o serviço chega ao cliente: pontos de atendimento, canais, localização e acessibilidade (A). O posicionamento (B) não é um dos 4Ps, e sim a imagem desejada na mente do cliente. Preço, produto e promoção tratam de valor cobrado, oferta e comunicação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-45",
+    "materia": "vendas",
+    "assunto": "Composto de marketing de serviços (7Ps)",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um banco comercial lançou uma campanha publicitária com desenhos animados. Os vídeos falam da gentileza e da competência dos gerentes, da adequação do valor das taxas de juros, do programa de Redução de Tarifas, das diversas opções para interagir com o banco (Agências, Internet Banking, Telefone de Atendimento e Caixas Automáticos), da confiabilidade dos serviços de Telefone de Atendimento, e fornecem todas as informações sobre os produtos de Investimento (Poupança, Fundos e CDB's). Fazendo um paralelo dessas mensagens com os “P” do composto de marketing de serviços, identifica-se que se enfatiza a importância",
+    "alternativas": [
+      "do preço, quando se apresenta a confiabilidade dos serviços de telefone de atendimento.",
+      "das praças, quando se apresentam as diversas opções para interagir com o banco (Agências, Internet Banking, Telefone de Atendimento e Caixas Automáticos).",
+      "dos processos, quando se ressalta a gentileza e a competência dos gerentes, que conhecem as necessidades do cliente.",
+      "dos pedidos, quando se fornecem todas as informações sobre os produtos de Investimento (Poupança, Fundos e CDB's).",
+      "do posicionamento, quando se enfatiza a adequação do valor das taxas de juros e do programa de Redução de Tarifas."
+    ],
+    "correta": 1,
+    "comentario": "Os canais de acesso ao banco (agências, internet banking, telefone e caixas automáticos) correspondem ao P de Praça, ou distribuição (B). Nas demais, o conceito está trocado: a confiabilidade do telefone não é preço (A); a gentileza e a competência dos gerentes são o P de Pessoas, e não Processos (C); 'Pedidos' não é um dos Ps (D); e taxas e tarifas são Preço, e não posicionamento (E). Lembre os 7Ps de serviços: produto, preço, praça, promoção, pessoas, processos e evidência física.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-46",
+    "materia": "vendas",
+    "assunto": "Motivação da força de vendas - teoria da expectativa",
+    "cargo": "comercial",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O gerente de vendas de um banco tem sustentado que, para que as recompensas e os incentivos da empresa tenham impacto sobre a motivação, os profissionais de vendas precisam valorizar essas recompensas, isto é, sentir que as recompensas valem o esforço. Essa afirmação está embasada na teoria",
+    "alternativas": [
+      "do conflito de papéis",
+      "dos dois fatores",
+      "da expectativa",
+      "da ambiguidade de papéis",
+      "do enriquecimento do trabalho"
+    ],
+    "correta": 2,
+    "comentario": "A teoria da expectativa, de Vroom, diz que a motivação depende de três coisas: a crença de que o esforço gera desempenho (expectativa), de que o desempenho gera recompensa (instrumentalidade) e do quanto a recompensa é desejada (valência). A valência é exatamente o 'valer o esforço' do enunciado (C). A teoria dos dois fatores (B), de Herzberg, separa fatores higiênicos de motivadores. Conflito e ambiguidade de papéis (A e D) são problemas de definição de função.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-47",
+    "materia": "bancarios",
+    "assunto": "Lavagem de dinheiro - Lei 9.613/1998",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma pessoa é submetida a processo criminal, acusada de realizar atos de lavagem de dinheiro. Nos termos da Lei nº 9.613/1998, a pena será aumentada de um a dois terços se os crimes forem cometidos de forma",
+    "alternativas": [
+      "concreta",
+      "continuada",
+      "instantânea",
+      "produzida",
+      "reiterada"
+    ],
+    "correta": 4,
+    "comentario": "O art. 1º, §4º, da Lei 9.613/1998 prevê aumento de 1/3 a 2/3 'se os crimes definidos nesta Lei forem cometidos de forma reiterada ou por intermédio de organização criminosa' (E). 'Continuada' (B) é o distrator mais forte, porque o crime continuado existe no Código Penal, mas não é o termo usado nessa causa de aumento. As outras opções não aparecem na lei.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-48",
+    "materia": "bancarios",
+    "assunto": "Caixa Econômica Federal - natureza jurídica",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um servidor público federal deseja mudar os rumos de sua carreira para integrar instituição financeira pública e inicia seu preparo estudando as características das instituições. Nos termos das normas em vigor, a Caixa Econômica Federal é uma instituição financeira sob a forma de",
+    "alternativas": [
+      "sociedade de economia mista com capital público",
+      "empresa pública, de natureza jurídica de direito privado",
+      "autarquia sob regime de sociedade anônima",
+      "fundação especial para prestação de serviços financeiros",
+      "organização social para implementação de políticas públicas"
+    ],
+    "correta": 1,
+    "comentario": "A Caixa é empresa pública de direito privado, com capital 100% da União (B). O Banco do Brasil é que é sociedade de economia mista (A), com ações negociadas em bolsa, e essa é a troca mais cobrada. 'Autarquia sob regime de S.A.' (C) mistura conceitos incompatíveis. Fundação (D) e organização social (E) não se aplicam.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-49",
+    "materia": "bancarios",
+    "assunto": "PLD - operações suspeitas (Carta Circular 4.001/2020)",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um correntista do Banco J recebe, além do salário, diversos depósitos decorrentes de atividades negociais privadas. Em determinado período, a conta-corrente passou a receber saques desproporcionais ao movimento normal. Nos termos da Carta-Circular Bacen nº 4.001/2020, tais operações passam a ser consideradas suspeitas, tendo em vista sua",
+    "alternativas": [
+      "atipicidade",
+      "conveniência",
+      "imprevisibilidade",
+      "organicidade",
+      "solvência"
+    ],
+    "correta": 0,
+    "comentario": "O que torna a operação suspeita é fugir do padrão de movimentação do cliente, ou seja, ser atípica (A). A Carta Circular 4.001/2020 lista situações com movimentação incompatível com a renda, o patrimônio ou a atividade do cliente. Imprevisibilidade (C) é o distrator, mas o critério da norma é a incompatibilidade com o perfil, e não a surpresa. Os demais termos não têm relação com PLD.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-50",
+    "materia": "bancarios",
+    "assunto": "CDC - venda casada",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma pessoa realiza contrato de financiamento bancário no qual consta cláusula que obriga o mutuário a celebrar seguro com determinada companhia seguradora. Nos termos da adequada interpretação do Código de Defesa do Consumidor, a cláusula",
+    "alternativas": [
+      "deve ser cumprida se houver sanção.",
+      "deve ser considerada abusiva.",
+      "deve ser lida como facultativa.",
+      "é tradicional e deve ser mantida.",
+      "é considerada essencial para o financiamento."
+    ],
+    "correta": 1,
+    "comentario": "Obrigar o cliente a contratar seguro com uma seguradora específica é venda casada, prática abusiva pelo art. 39, I, do CDC. Por isso a cláusula é abusiva (B). O STJ firmou no Tema 972 que o mutuário não pode ser obrigado a contratar seguro com o próprio banco ou com seguradora indicada por ele. Ler a cláusula como 'facultativa' (C) não é a solução legal: cláusulas abusivas são nulas. A tradição (D) ou a essencialidade (E) não a legitimam.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-51",
+    "materia": "bancarios",
+    "assunto": "Cooperativas de crédito",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O presidente de associação de funcionários da Universidade V pretende fornecer serviços financeiros aos associados. Nos termos das normas de regência, as cooperativas de crédito estão submetidas à autorização do",
+    "alternativas": [
+      "Banco Central",
+      "Banco Cooperativo",
+      "Congresso Nacional",
+      "Conselho Monetário",
+      "Mercado financeiro"
+    ],
+    "correta": 0,
+    "comentario": "As cooperativas de crédito são instituições financeiras e dependem de autorização do Banco Central para funcionar, como previsto na LC 130/2009 e na Lei 4.595/1964 (A). O CMN (D) edita as normas, mas quem autoriza e fiscaliza é o BCB, e essa é a confusão típica. Bancos cooperativos (B) são instituições do sistema, e não órgãos que autorizam.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-52",
+    "materia": "bancarios",
+    "assunto": "Arrendamento mercantil (leasing)",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "N negocia determinado bem através de contrato de leasing. Nos termos dessa espécie contratual, é possível a aquisição do referido bem no final do contrato pelo",
+    "alternativas": [
+      "custo médio calculado pelo credor",
+      "percentual de prestações previsto",
+      "preço residual avençado",
+      "prêmio acordado pelas partes",
+      "valor total do bem"
+    ],
+    "correta": 2,
+    "comentario": "No leasing, o arrendatário usa o bem pagando contraprestações e, no fim, pode devolvê-lo, renovar o contrato ou comprá-lo pelo Valor Residual Garantido (VRG), o preço residual combinado no contrato (C). Pagar o valor total do bem (E) contraria a lógica do arrendamento. 'Prêmio' (D) é termo de seguros.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-53",
+    "materia": "bancarios",
+    "assunto": "Garantias - aval",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma pessoa realiza operação mercantil que redunda na emissão de título de crédito que, além do emitente, possui avalista. Nos termos do Código Civil, para a validade do aval dado no anverso do título, é suficiente a simples",
+    "alternativas": [
+      "assinatura do avalista",
+      "emissão pelo avalista",
+      "comunicação pelo avalista",
+      "confirmação do avalista",
+      "referência pelo avalista"
+    ],
+    "correta": 0,
+    "comentario": "O art. 898, §1º, do Código Civil diz que, para a validade do aval dado no anverso (na frente) do título, basta a simples assinatura do avalista (A). No verso, a assinatura precisa vir acompanhada de expressão que identifique o aval, como 'por aval', para não ser confundida com endosso. Essa diferença entre anverso e verso é o ponto mais cobrado.",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-54",
+    "materia": "bancarios",
+    "assunto": "Garantias - hipoteca",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O titular da propriedade de inúmeros bens desenvolve também várias atividades mercantis e tem necessidade de garantir por hipoteca um determinado contrato. Nos termos do Código Civil, podem ser objeto de hipoteca",
+    "alternativas": [
+      "animais de estimação",
+      "criações exóticas",
+      "gado de corte",
+      "navios",
+      "obras de arte"
+    ],
+    "correta": 3,
+    "comentario": "O art. 1.473 do Código Civil admite hipoteca sobre imóveis e também sobre navios e aeronaves, que são móveis tratados como imóveis para fins de garantia (D). Animais, gado e obras de arte (A, B, C e E) são bens móveis comuns e se garantem por penhor, inclusive o pecuário, e não por hipoteca.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-55",
+    "materia": "bancarios",
+    "assunto": "Sistema Financeiro da Habitação",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um gerente de instituição financeira é responsável por gerir os financiamentos imobiliários realizados durante longo período. Após realizar treinamento no Banco Central, fica curioso com a atuação das Sociedades de Crédito que, nos termos das normas aplicáveis, integram o",
+    "alternativas": [
+      "Sistema de Apoio Popular",
+      "Sistema Minha Casa Minha Vida",
+      "Sistema Financeiro de Habitação",
+      "Sistema de Poupança Nacional",
+      "Sistema Garantidor de Crédito"
+    ],
+    "correta": 2,
+    "comentario": "As sociedades de crédito imobiliário integram o Sistema Financeiro de Habitação (SFH), criado pela Lei 4.380/1964, junto com as associações de poupança e empréstimo e as caixas econômicas (C). O Minha Casa Minha Vida (B) é um programa habitacional, e não um sistema de instituições. As demais opções não existem com esse nome ou não se relacionam ao tema.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-56",
+    "materia": "bancarios",
+    "assunto": "Fundo Garantidor de Crédito",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um banco sofreu intervenção do Banco Central e teve os ativos indisponibilizados. Um de seus correntistas, preocupado com os valores dos seus depósitos, constata que o sistema possui o denominado Fundo Garantidor de Crédito (FGC). A natureza do FGC é de",
+    "alternativas": [
+      "cooperativa econômica",
+      "entidade privada sem fins lucrativos",
+      "organização múltipla",
+      "pessoa confessional",
+      "sociedade empresarial"
+    ],
+    "correta": 1,
+    "comentario": "O FGC é uma associação civil privada, sem fins lucrativos, mantida por contribuições das instituições associadas. Ele garante até R$ 250 mil por CPF e por instituição (B). Não é órgão público, e essa é a crença mais comum, nem sociedade empresarial com fins lucrativos (E). As demais naturezas não se aplicam.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-57",
+    "materia": "bancarios",
+    "assunto": "PLD - Circular Bacen 3.978/2020",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "O gerente de recursos humanos de uma instituição financeira foi aconselhado pelo Departamento Jurídico a realizar treinamentos para evitar litígios de variada natureza. Nos termos da Circular Bacen nº 3.978/2020, as instituições devem contemplar, dentre as diretrizes, a promoção de cultura organizacional de",
+    "alternativas": [
+      "adequação à lavagem de dinheiro",
+      "ambientação à lavagem de dinheiro",
+      "financiamento à lavagem de dinheiro",
+      "prevenção de lavagem de dinheiro",
+      "previsão de lavagem de dinheiro"
+    ],
+    "correta": 3,
+    "comentario": "A Circular 3.978/2020 exige que a política de PLD/FT preveja diretrizes para promover uma cultura organizacional de PREVENÇÃO à lavagem de dinheiro e ao financiamento do terrorismo, alcançando funcionários, parceiros e terceirizados (D). As outras opções trocam 'prevenção' por palavras parecidas e sem sentido jurídico, como adequação, ambientação e previsão, ou até absurdas, como financiamento. A mesma circular exige programas de treinamento e capacitação dos funcionários em PLD/FT, o que conecta o caso do enunciado à norma.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-58",
+    "materia": "bancarios",
+    "assunto": "Factoring",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma pessoa que atua em pequeno comércio necessita de capital de giro, tendo em vista que seus clientes são responsáveis por valores pagos a prazo. Nos termos do contrato de factoring, uma de suas características principais consiste na",
+    "alternativas": [
+      "cessão de créditos",
+      "existência de direito de regresso",
+      "fiscalização por Associação Comercial",
+      "inclusão como ato financeiro",
+      "regulação pelo Banco Central"
+    ],
+    "correta": 0,
+    "comentario": "No factoring, a empresa cede à faturizadora os créditos que tem a receber, como duplicatas e cheques, e recebe à vista com deságio (A). Em regra, a faturizadora assume o risco, sem direito de regresso contra o cedente (B). Empresas de factoring não são instituições financeiras, por isso não são reguladas pelo Banco Central (E) e sua atividade não é ato financeiro (D).",
+    "dificuldade": 2
+  },
+  {
+    "id": "basa2022-59",
+    "materia": "bancarios",
+    "assunto": "Mercado de capitais - renda variável",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Uma advogada resolveu realizar mestrado em Mercado de Capitais. Em uma das disciplinas cursadas, ela estuda o funcionamento das bolsas de valores. Segundo a interpretação adequada, as ações negociadas em bolsa são consideradas títulos de renda",
+    "alternativas": [
+      "especial",
+      "fixa",
+      "privada",
+      "tabulada",
+      "variável"
+    ],
+    "correta": 4,
+    "comentario": "As ações são renda variável: o retorno, com dividendos e valorização, não é conhecido na hora da compra (E). Renda fixa (B) tem remuneração definida por taxa ou indexador, como CDB, debêntures e títulos públicos. 'Privada' (C) indica quem emite, e não o tipo de rendimento.",
+    "dificuldade": 1
+  },
+  {
+    "id": "basa2022-60",
+    "materia": "bancarios",
+    "assunto": "Bancos de desenvolvimento",
+    "cargo": "comum",
+    "origem": "Basa 2022 - Cesgranrio - Técnico Bancário",
+    "enunciado": "Um engenheiro pretende enveredar pela carreira bancária, sendo seu foco bancos de desenvolvimento. Nos termos das normas aplicáveis ao tema, originadas do Banco Central e do Conselho Monetário Nacional, os Bancos de Desenvolvimento são instituições financeiras",
+    "alternativas": [
+      "internacionais",
+      "mistas",
+      "privadas",
+      "públicas",
+      "sociais"
+    ],
+    "correta": 3,
+    "comentario": "Pela Resolução CMN 394/1976, os bancos de desenvolvimento são instituições financeiras públicas, controladas pelos governos estaduais, que financiam projetos de longo prazo para o desenvolvimento econômico e social do estado (D). O BNDES é uma empresa pública federal com papel semelhante, mas não se enquadra nessa categoria normativa. Não existem bancos de desenvolvimento privados nessa classificação, o que descarta C.",
+    "dificuldade": 2
+  }
+]

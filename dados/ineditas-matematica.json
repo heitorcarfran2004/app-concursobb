@@ -1,0 +1,452 @@
+[
+  {
+    "id": "in-mat-01",
+    "materia": "matematica",
+    "assunto": "Divisão proporcional",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Três sócios abriram uma consultoria financeira investindo, respectivamente, R$ 60.000,00, R$ 100.000,00 e R$ 120.000,00. Ao final do primeiro ano, o lucro de R$ 84.000,00 foi repartido em partes diretamente proporcionais ao capital investido por cada um. Quanto recebeu o sócio que investiu mais?",
+    "alternativas": [
+      "R$ 18.000,00",
+      "R$ 28.000,00",
+      "R$ 30.000,00",
+      "R$ 36.000,00",
+      "R$ 42.000,00"
+    ],
+    "correta": 3,
+    "comentario": "O capital total é R$ 280.000,00, e a constante de proporcionalidade é 84.000/280.000 = 0,3. O sócio que investiu R$ 120.000,00 recebe 0,3 × 120.000 = R$ 36.000,00. R$ 28.000,00 sai da divisão em partes iguais, erro de quem ignora a proporcionalidade. R$ 30.000,00 e R$ 18.000,00 são as partes dos outros dois sócios, e R$ 42.000,00 é metade do lucro, atribuída sem cálculo.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-mat-02",
+    "materia": "matematica",
+    "assunto": "Divisão inversamente proporcional",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma agência vai distribuir um bônus de R$ 13.000,00 entre três caixas, em partes inversamente proporcionais ao número de faltas de cada um no semestre: 2, 3 e 4 faltas. Quanto receberá o caixa que teve 2 faltas?",
+    "alternativas": [
+      "R$ 2.888,89",
+      "R$ 3.000,00",
+      "R$ 4.000,00",
+      "R$ 4.333,33",
+      "R$ 6.000,00"
+    ],
+    "correta": 4,
+    "comentario": "Inversamente proporcional a 2, 3 e 4 equivale a diretamente proporcional a 1/2, 1/3 e 1/4, ou, multiplicando por 12, a 6, 4 e 3. A soma dos pesos é 13, então cada parte vale 13.000/13 = 1.000 e o caixa com 2 faltas recebe 6 × 1.000 = R$ 6.000,00. Quem divide diretamente proporcional às faltas encontra 13.000 × 2/9 ≈ R$ 2.888,89, e quem divide igualmente chega a R$ 4.333,33. R$ 4.000,00 e R$ 3.000,00 são as partes de quem teve 3 e 4 faltas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-03",
+    "materia": "matematica",
+    "assunto": "Porcentagem - aumentos sucessivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A tarifa de um pacote de serviços bancários sofreu dois reajustes sucessivos: o primeiro de 10% e o segundo de 20%, este aplicado sobre o valor já reajustado. O aumento acumulado da tarifa foi de",
+    "alternativas": [
+      "24%",
+      "28%",
+      "30%",
+      "31%",
+      "32%"
+    ],
+    "correta": 4,
+    "comentario": "Reajustes sucessivos se multiplicam: 1,10 × 1,20 = 1,32, o que corresponde a um aumento acumulado de 32%. O distrator de 30% vem de somar as taxas, erro clássico que ignora que o segundo reajuste incide sobre o valor já aumentado. Os demais valores não correspondem a nenhuma composição correta dos dois fatores.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-mat-04",
+    "materia": "matematica",
+    "assunto": "Porcentagem - descontos sucessivos",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um notebook anunciado por R$ 2.500,00 foi vendido a um correntista com dois descontos sucessivos: 20% na promoção da loja e mais 15% por pagamento com o cartão do banco, este calculado sobre o preço já com o primeiro desconto. Quanto o cliente pagou?",
+    "alternativas": [
+      "R$ 1.625,00",
+      "R$ 1.650,00",
+      "R$ 1.700,00",
+      "R$ 1.750,00",
+      "R$ 1.800,00"
+    ],
+    "correta": 2,
+    "comentario": "Descontos sucessivos também se multiplicam: 2.500 × 0,80 × 0,85 = 2.500 × 0,68 = R$ 1.700,00, ou seja, um desconto efetivo de 32%. Quem soma os descontos (35%) chega a R$ 1.625,00, valor abaixo do correto. R$ 1.750,00 corresponde a um desconto único de 30%, e os demais valores não refletem a composição correta.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-mat-05",
+    "materia": "matematica",
+    "assunto": "Porcentagem - valor original",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Após obter um desconto de 12% sobre o preço de tabela, uma cliente pagou R$ 1.936,00 por um seguro residencial. O preço de tabela desse seguro era",
+    "alternativas": [
+      "R$ 2.168,32",
+      "R$ 2.200,00",
+      "R$ 2.250,00",
+      "R$ 2.300,00",
+      "R$ 2.400,00"
+    ],
+    "correta": 1,
+    "comentario": "Se houve desconto de 12%, o valor pago corresponde a 88% do preço de tabela: 0,88 × P = 1.936, logo P = 1.936/0,88 = R$ 2.200,00. O erro mais comum é acrescentar 12% ao valor pago (1.936 × 1,12 = R$ 2.168,32), esquecendo que a porcentagem incide sobre o preço original, não sobre o preço final. Os outros valores não satisfazem a equação.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-06",
+    "materia": "matematica",
+    "assunto": "Regra de três inversa",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma agência, com 6 caixas em funcionamento, uma fila é totalmente atendida em 45 minutos. Mantido o mesmo ritmo de atendimento por caixa, em quanto tempo a mesma fila seria atendida com 9 caixas em funcionamento?",
+    "alternativas": [
+      "25,0 minutos",
+      "30,0 minutos",
+      "35,0 minutos",
+      "40,0 minutos",
+      "67,5 minutos"
+    ],
+    "correta": 1,
+    "comentario": "Mais caixas significa menos tempo: as grandezas são inversamente proporcionais. Assim, 6 × 45 = 9 × t, e t = 270/9 = 30 minutos. Quem monta a regra de três como direta obtém 45 × 9/6 = 67,5 minutos, resultado absurdo, pois aumentar o número de caixas não pode aumentar o tempo.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-mat-07",
+    "materia": "matematica",
+    "assunto": "Regra de três composta",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma equipe de 8 funcionários, trabalhando 6 horas por dia, digitaliza 4.800 contratos em 5 dias. Mantida a mesma produtividade individual, quantos dias serão necessários para que 10 funcionários, trabalhando 8 horas por dia, digitalizem 9.600 contratos?",
+    "alternativas": [
+      "6 dias",
+      "8 dias",
+      "9 dias",
+      "10 dias",
+      "12 dias"
+    ],
+    "correta": 0,
+    "comentario": "O número de dias é diretamente proporcional à quantidade de contratos e inversamente proporcional ao número de funcionários e às horas por dia. Logo, dias = 5 × (9.600/4.800) × (8/10) × (6/8) = 5 × 2 × 0,8 × 0,75 = 6 dias. Quem trata todas as grandezas como diretas (5 × 2 × 1,25 × 1,333...) chega a cerca de 17 dias; quem acerta só a quantidade de contratos e esquece as demais obtém 10 dias.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-08",
+    "materia": "matematica",
+    "assunto": "Regra de três composta",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma gráfica que imprime cartões para um banco, 12 máquinas, operando 8 horas por dia durante 10 dias, produzem 3.000 lotes de cartões. Quantos lotes serão produzidos por 15 máquinas idênticas operando 6 horas por dia durante 12 dias?",
+    "alternativas": [
+      "2.700 lotes",
+      "3.000 lotes",
+      "3.375 lotes",
+      "3.600 lotes",
+      "4.500 lotes"
+    ],
+    "correta": 2,
+    "comentario": "A produção é diretamente proporcional ao número de máquinas, às horas por dia e ao número de dias. Assim: 3.000 × (15/12) × (12/10) × (6/8) = 3.000 × 1,25 × 1,2 × 0,75 = 3.375 lotes. Quem esquece a redução de 8 para 6 horas por dia obtém 3.000 × 1,25 × 1,2 = 4.500 lotes. Inverter alguma razão leva a valores como 2.700 lotes.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-09",
+    "materia": "matematica",
+    "assunto": "Equação do 1º grau - frações",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um cliente quitou 1/3 de uma dívida no primeiro mês. No segundo mês, pagou 2/5 do que restava. Após esses dois pagamentos, ainda restam R$ 3.600,00 a pagar. O valor total da dívida era",
+    "alternativas": [
+      "R$ 6.000,00",
+      "R$ 9.000,00",
+      "R$ 10.800,00",
+      "R$ 12.000,00",
+      "R$ 13.500,00"
+    ],
+    "correta": 1,
+    "comentario": "Após pagar 1/3, restam 2/3 da dívida D. No segundo mês ele paga 2/5 desse restante e sobram 3/5 de 2/3 D, ou seja, 2/5 D. Então 2/5 D = 3.600 e D = R$ 9.000,00. O erro típico é calcular os 2/5 sobre a dívida total: D − D/3 − 2D/5 = 4D/15 = 3.600, o que dá R$ 13.500,00.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-10",
+    "materia": "matematica",
+    "assunto": "Sistema de equações",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Ao abastecer um caixa eletrônico, um funcionário colocou apenas cédulas de R$ 20,00 e de R$ 50,00, num total de 64 cédulas e R$ 2.180,00. Quantas cédulas de R$ 50,00 foram colocadas?",
+    "alternativas": [
+      "30 cédulas",
+      "32 cédulas",
+      "34 cédulas",
+      "36 cédulas",
+      "38 cédulas"
+    ],
+    "correta": 0,
+    "comentario": "Sendo x as cédulas de R$ 20,00 e y as de R$ 50,00: x + y = 64 e 20x + 50y = 2.180. Substituindo x = 64 − y: 1.280 − 20y + 50y = 2.180, logo 30y = 900 e y = 30. Há então 34 cédulas de R$ 20,00; marcar 34 é confundir as incógnitas. Vale conferir: 34 × 20 + 30 × 50 = 680 + 1.500 = 2.180.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-11",
+    "materia": "matematica",
+    "assunto": "Sistema de equações",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma empresa contratou pacotes de serviços dos tipos A e B. Três pacotes A e dois pacotes B custam, juntos, R$ 86,00 por mês, enquanto dois pacotes A e cinco pacotes B custam R$ 127,00 por mês. Qual é o custo mensal de um pacote A mais um pacote B?",
+    "alternativas": [
+      "R$ 27,00",
+      "R$ 29,00",
+      "R$ 31,00",
+      "R$ 33,00",
+      "R$ 35,00"
+    ],
+    "correta": 4,
+    "comentario": "O sistema é 3A + 2B = 86 e 2A + 5B = 127. Multiplicando a primeira equação por 2 e a segunda por 3: 6A + 4B = 172 e 6A + 15B = 381. Subtraindo, 11B = 209, então B = 19; substituindo, 3A = 86 − 38 = 48 e A = 16. Portanto A + B = R$ 35,00. Erros de sinal na eliminação levam aos valores vizinhos.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-12",
+    "materia": "matematica",
+    "assunto": "Função do 1º grau",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um banco cobra, por um pacote de conta empresarial, uma tarifa fixa mensal de R$ 18,00 mais R$ 2,50 por transação que exceder a franquia. Em determinado mês, uma empresa pagou R$ 63,00 por esse pacote. Quantas transações excedentes ela realizou nesse mês?",
+    "alternativas": [
+      "15 transações",
+      "18 transações",
+      "20 transações",
+      "21 transações",
+      "24 transações"
+    ],
+    "correta": 1,
+    "comentario": "O custo é dado por f(x) = 18 + 2,5x, em que x é o número de transações excedentes. Fazendo 18 + 2,5x = 63, obtém-se 2,5x = 45 e x = 18. Quem esquece a parcela fixa divide 63 por 2,5 e encontra 25,2, o que não é um número inteiro de transações; os demais valores não satisfazem a equação.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-mat-13",
+    "materia": "matematica",
+    "assunto": "Função do 1º grau",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O saldo de uma conta de investimento cresce linearmente com o tempo. No 2º mês, o saldo era de R$ 5.400,00 e, no 5º mês, de R$ 6.300,00. Mantido esse comportamento, qual será o saldo no 12º mês?",
+    "alternativas": [
+      "R$ 7.800,00",
+      "R$ 8.100,00",
+      "R$ 8.400,00",
+      "R$ 8.700,00",
+      "R$ 9.000,00"
+    ],
+    "correta": 2,
+    "comentario": "A taxa de variação é (6.300 − 5.400)/(5 − 2) = 300 reais por mês, e o valor inicial é b = 5.400 − 2 × 300 = 4.800. Logo S(t) = 4.800 + 300t e S(12) = 4.800 + 3.600 = R$ 8.400,00. Os distratores surgem de contar mal os intervalos: 5.400 + 300 × 9 = R$ 8.100,00, por exemplo, esquece que do 2º ao 12º mês há 10 intervalos, não 9.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-14",
+    "materia": "matematica",
+    "assunto": "Função do 2º grau - máximo",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O lucro mensal, em milhares de reais, de uma correspondente bancária é dado por L(x) = −2x² + 160x − 1.800, em que x é o número de contratos fechados no mês. Qual é o lucro mensal máximo, em milhares de reais?",
+    "alternativas": [
+      "1.400",
+      "1.500",
+      "1.600",
+      "1.800",
+      "3.200"
+    ],
+    "correta": 0,
+    "comentario": "O máximo de uma parábola com a < 0 ocorre no vértice: x_v = −b/(2a) = −160/(−4) = 40 contratos. Substituindo, L(40) = −2 × 1.600 + 6.400 − 1.800 = 1.400 mil reais. Quem calcula só −2x² + 160x no vértice, esquecendo o custo fixo de 1.800, obtém 3.200; os demais valores vêm de erros no cálculo do vértice ou de sinal.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-15",
+    "materia": "matematica",
+    "assunto": "Função do 2º grau - receita máxima",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma administradora de consórcios estima que, cobrando uma taxa de p reais por cota, venderá (200 − 4p) cotas por mês. A receita mensal máxima que ela pode obter com essa taxa é de",
+    "alternativas": [
+      "R$ 2.000,00",
+      "R$ 2.400,00",
+      "R$ 2.500,00",
+      "R$ 2.750,00",
+      "R$ 5.000,00"
+    ],
+    "correta": 2,
+    "comentario": "A receita é R(p) = p(200 − 4p) = −4p² + 200p, uma parábola voltada para baixo. O vértice fica em p = −200/(−8) = 25, e a receita máxima é R(25) = 25 × 100 = R$ 2.500,00. Um erro comum é tomar p = 50 (a raiz, não o vértice) ou calcular 200 × 25 = 5.000, esquecendo a redução das vendas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-16",
+    "materia": "matematica",
+    "assunto": "Equação do 2º grau",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um grupo de colegas de agência dividiria igualmente uma conta de R$ 360,00. Como dois outros colegas se juntaram ao grupo, e a conta continuou sendo dividida igualmente, cada um pagou R$ 6,00 a menos. Quantas pessoas havia no grupo original?",
+    "alternativas": [
+      "10 pessoas",
+      "11 pessoas",
+      "12 pessoas",
+      "15 pessoas",
+      "20 pessoas"
+    ],
+    "correta": 0,
+    "comentario": "Com n pessoas, cada uma pagaria 360/n; com n + 2, pagaria 360/(n + 2). A condição é 360/n − 360/(n + 2) = 6, o que leva a 720 = 6n(n + 2), ou seja, n² + 2n − 120 = 0. As raízes são 10 e −12, e só a positiva serve: 10 pessoas. Marcar 12 é responder o número final de pessoas, e não o do grupo original.",
+    "dificuldade": 3
+  },
+  {
+    "id": "in-mat-17",
+    "materia": "matematica",
+    "assunto": "Progressão aritmética - soma",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um poupador fez depósitos mensais em uma conta: R$ 150,00 no 1º mês e, a cada mês seguinte, R$ 25,00 a mais que no mês anterior. Desconsiderando qualquer rendimento, quanto ele terá depositado ao final de 24 meses?",
+    "alternativas": [
+      "R$ 10.500,00",
+      "R$ 10.800,00",
+      "R$ 11.100,00",
+      "R$ 11.400,00",
+      "R$ 12.000,00"
+    ],
+    "correta": 0,
+    "comentario": "Os depósitos formam uma PA com a1 = 150 e r = 25. O 24º termo é a24 = 150 + 23 × 25 = 725, e a soma é S = (150 + 725) × 24/2 = 875 × 12 = R$ 10.500,00. O erro mais frequente é usar n em vez de n − 1 no termo geral (a24 = 150 + 24 × 25 = 750), o que leva a (150 + 750) × 12 = R$ 10.800,00.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-18",
+    "materia": "matematica",
+    "assunto": "Progressão aritmética - termo geral",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Um acordo de renegociação prevê parcelas mensais decrescentes em progressão aritmética. A 1ª parcela é de R$ 1.200,00 e a 10ª é de R$ 660,00. O valor da 15ª parcela será de",
+    "alternativas": [
+      "R$ 300,00",
+      "R$ 320,00",
+      "R$ 330,00",
+      "R$ 340,00",
+      "R$ 360,00"
+    ],
+    "correta": 4,
+    "comentario": "Pelo termo geral, a10 = a1 + 9r, então 660 = 1.200 + 9r e r = −60. Assim, a15 = 1.200 + 14 × (−60) = 1.200 − 840 = R$ 360,00. Quem usa 15 em vez de 14 no termo geral encontra 1.200 − 900 = R$ 300,00; e quem calcula a razão dividindo por 10 obtém r = −54, o que leva a valores diferentes.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-19",
+    "materia": "matematica",
+    "assunto": "Progressão geométrica - soma",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "O número de novos usuários do aplicativo de um banco dobrou a cada trimestre desde o lançamento. No 1º trimestre foram 1.500 novos usuários. Qual é o total de novos usuários acumulado nos 6 primeiros trimestres?",
+    "alternativas": [
+      "45.000 usuários",
+      "48.000 usuários",
+      "90.000 usuários",
+      "94.500 usuários",
+      "96.000 usuários"
+    ],
+    "correta": 3,
+    "comentario": "Os novos usuários formam uma PG com a1 = 1.500 e q = 2. A soma dos 6 primeiros termos é S6 = a1(q^6 − 1)/(q − 1) = 1.500 × 63 = 94.500. O valor 48.000 é apenas o 6º termo (1.500 × 2^5), e 96.000 surge ao usar q^6 sem subtrair 1. Os demais resultam de somas incompletas.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-20",
+    "materia": "matematica",
+    "assunto": "Progressão geométrica - termo geral",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A emissão de cartões de crédito de uma agência cresceu 50% ao mês, de forma composta, a partir de janeiro, quando foram emitidos 6.400 cartões. Mantido esse ritmo, quantos cartões terão sido emitidos no mês de maio do mesmo ano?",
+    "alternativas": [
+      "19.200 cartões",
+      "21.600 cartões",
+      "25.600 cartões",
+      "32.400 cartões",
+      "48.600 cartões"
+    ],
+    "correta": 3,
+    "comentario": "De janeiro a maio há 4 intervalos mensais, portanto a5 = 6.400 × 1,5^4 = 6.400 × 5,0625 = 32.400 cartões. Quem trata o crescimento como linear soma 4 × 3.200 e obtém 19.200. Usar o expoente 3 (esquecendo que janeiro é o termo inicial) dá 21.600, e o expoente 5 dá 48.600.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-21",
+    "materia": "matematica",
+    "assunto": "Análise combinatória - arranjo",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "A senha numérica de acesso ao internet banking de um cliente tem 6 dígitos, escolhidos entre 0 e 9, e o sistema exige que todos os dígitos sejam distintos. Quantas senhas diferentes podem ser formadas?",
+    "alternativas": [
+      "210 senhas",
+      "5.040 senhas",
+      "60.480 senhas",
+      "151.200 senhas",
+      "1.000.000 senhas"
+    ],
+    "correta": 3,
+    "comentario": "Como a ordem importa e não há repetição, trata-se de arranjo: 10 × 9 × 8 × 7 × 6 × 5 = 151.200 senhas. O valor 1.000.000 (10^6) ignora a restrição de dígitos distintos, e 210 = C(10,6) trata a senha como combinação, desconsiderando a ordem dos dígitos.",
+    "dificuldade": 1
+  },
+  {
+    "id": "in-mat-22",
+    "materia": "matematica",
+    "assunto": "Análise combinatória - combinação",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Uma superintendência precisa formar um comitê com 3 gerentes e 2 analistas, escolhidos entre 6 gerentes e 5 analistas disponíveis. De quantas maneiras distintas esse comitê pode ser formado?",
+    "alternativas": [
+      "30 maneiras",
+      "120 maneiras",
+      "200 maneiras",
+      "462 maneiras",
+      "2.400 maneiras"
+    ],
+    "correta": 2,
+    "comentario": "A ordem de escolha não importa, então usam-se combinações: C(6,3) = 20 e C(5,2) = 10. Pelo princípio multiplicativo, são 20 × 10 = 200 comitês. Somar as combinações (20 + 10 = 30) é erro, pois as escolhas são simultâneas; 462 = C(11,5) ignora a exigência de 3 gerentes e 2 analistas, e 2.400 usa arranjos, contando a ordem.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-23",
+    "materia": "matematica",
+    "assunto": "Análise combinatória - permutação com restrição",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Cinco clientes, entre eles um casal, serão atendidos em sequência por um mesmo gerente. Se o casal deve ser atendido em posições consecutivas, em qualquer ordem entre os dois, quantas ordens de atendimento são possíveis?",
+    "alternativas": [
+      "24 ordens",
+      "48 ordens",
+      "72 ordens",
+      "96 ordens",
+      "120 ordens"
+    ],
+    "correta": 1,
+    "comentario": "Tratando o casal como um único bloco, há 4 elementos para permutar: 4! = 24. Dentro do bloco, os dois podem trocar de posição, o que multiplica por 2: 24 × 2 = 48 ordens. Esquecer a troca interna dá 24, e ignorar a restrição dá 5! = 120.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-24",
+    "materia": "matematica",
+    "assunto": "Princípio fundamental da contagem",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Os códigos de identificação de terminais de autoatendimento de um banco são formados por 3 letras distintas (escolhidas entre as 26 do alfabeto) seguidas de 2 algarismos quaisquer (de 0 a 9, podendo repetir). Quantos códigos diferentes podem ser formados?",
+    "alternativas": [
+      "15.600 códigos",
+      "260.000 códigos",
+      "1.404.000 códigos",
+      "1.560.000 códigos",
+      "1.757.600 códigos"
+    ],
+    "correta": 3,
+    "comentario": "Para as letras distintas há 26 × 25 × 24 = 15.600 possibilidades; para os dois algarismos com repetição, 10 × 10 = 100. Pelo princípio multiplicativo, são 15.600 × 100 = 1.560.000 códigos. Permitir repetição de letras dá 26^3 × 100 = 1.757.600; impedir repetição de algarismos dá 15.600 × 90 = 1.404.000; e usar combinação de letras (C(26,3) = 2.600) dá 260.000.",
+    "dificuldade": 2
+  },
+  {
+    "id": "in-mat-25",
+    "materia": "matematica",
+    "assunto": "Razão",
+    "cargo": "comum",
+    "origem": "inedita",
+    "enunciado": "Em uma agência, a razão entre o número de contas de pessoa física e o de contas de pessoa jurídica é de 7 para 2, num total de 4.500 contas. Quantas novas contas de pessoa jurídica devem ser abertas, sem alteração no número de contas de pessoa física, para que essa razão passe a ser de 5 para 2?",
+    "alternativas": [
+      "200 contas",
+      "250 contas",
+      "300 contas",
+      "350 contas",
+      "400 contas"
+    ],
+    "correta": 4,
+    "comentario": "Dividindo 4.500 na razão 7:2, cada parte vale 4.500/9 = 500, e há 3.500 contas PF e 1.000 contas PJ. Para PF/PJ = 5/2 com 3.500 contas PF, é preciso PJ = 3.500 × 2/5 = 1.400. Portanto devem ser abertas 1.400 − 1.000 = 400 novas contas PJ. Um erro comum é recalcular a divisão sobre o total, como se as contas PF também mudassem.",
+    "dificuldade": 2
+  }
+]

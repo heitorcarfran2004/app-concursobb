@@ -1,0 +1,102 @@
+[
+  {
+    "materia": "estatistica",
+    "frente": "Média aritmética ponderada",
+    "verso": "x̄ = Σ(xi·pi)/Σpi."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Mediana",
+    "verso": "Valor central dos dados ORDENADOS. n ímpar: termo (n + 1)/2. n par: média dos termos n/2 e n/2 + 1."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Moda",
+    "verso": "Valor de maior frequência. Pode haver mais de uma (bimodal) ou nenhuma (amodal)."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Variância populacional x amostral",
+    "verso": "População: σ² = Σ(xi − μ)²/N. Amostra: s² = Σ(xi − x̄)²/(n − 1)."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Desvio-padrão",
+    "verso": "É a raiz quadrada da variância; tem a mesma unidade dos dados."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Efeito de somar uma constante k a todos os dados",
+    "verso": "Média aumenta k; variância e desvio-padrão não mudam."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Efeito de multiplicar todos os dados por k",
+    "verso": "Média e desvio-padrão ficam multiplicados por |k|; variância, por k²."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Coeficiente de variação",
+    "verso": "CV = desvio-padrão/média. Mede a dispersão relativa; permite comparar conjuntos com médias diferentes."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Mediana de dados agrupados em classes",
+    "verso": "Md = Li + [(n/2 − Fant)/fmd]·h, em que Li é o limite inferior da classe mediana, Fant a frequência acumulada anterior, fmd a frequência da classe e h a amplitude."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Probabilidade clássica",
+    "verso": "P(A) = casos favoráveis/casos possíveis, com resultados equiprováveis."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Probabilidade do complementar",
+    "verso": "P(não A) = 1 − P(A). Útil em \"pelo menos um\": P(pelo menos um) = 1 − P(nenhum)."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Probabilidade da união",
+    "verso": "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Probabilidade condicional",
+    "verso": "P(A | B) = P(A ∩ B)/P(B). Restringe o espaço amostral ao evento B."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Eventos independentes",
+    "verso": "A e B são independentes se P(A ∩ B) = P(A)·P(B), ou seja, P(A | B) = P(A)."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Eventos mutuamente exclusivos x independentes",
+    "verso": "Exclusivos: P(A ∩ B) = 0 (não ocorrem juntos). Independentes: P(A ∩ B) = P(A)·P(B). Eventos exclusivos com probabilidade positiva nunca são independentes."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Teorema da probabilidade total",
+    "verso": "P(E) = Σ P(Ai)·P(E | Ai), para uma partição A1, A2, ... do espaço amostral."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Teorema de Bayes",
+    "verso": "P(Ai | E) = P(Ai)·P(E | Ai)/Σ P(Aj)·P(E | Aj)."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Distribuição binomial: probabilidade",
+    "verso": "P(X = k) = C(n,k)·p^k·(1 − p)^(n − k), para n ensaios independentes com probabilidade de sucesso p."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Binomial: média e variância",
+    "verso": "E(X) = n·p; Var(X) = n·p·(1 − p); desvio-padrão = √[n·p·(1 − p)]."
+  },
+  {
+    "materia": "estatistica",
+    "frente": "Esperança matemática (valor esperado)",
+    "verso": "E(X) = Σ xi·P(xi). Ex.: lucro esperado = receita − Σ(perda × probabilidade)."
+  }
+]
