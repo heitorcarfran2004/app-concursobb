@@ -1,0 +1,12 @@
+{
+  "name": "Kit do Escriturário · Banco do Brasil",
+  "short_name": "Kit BB",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#003882",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    { "src": "assets/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icone-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

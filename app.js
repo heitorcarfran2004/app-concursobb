@@ -4,17 +4,19 @@
 (function () {
   'use strict';
 
+  // grupo = como a prova divide (Conhecimentos Básicos x Específicos); barra = cor da
+  // barra de progresso, uma por matéria como no app de referência
   var MATERIAS = [
-    { id: 'portugues',      nome: 'Língua Portuguesa',                 ic: '📖', cor: '#EAF0FF' },
-    { id: 'ingles',         nome: 'Língua Inglesa',                    ic: '🌎', cor: '#E6F6FB' },
-    { id: 'matematica',     nome: 'Matemática',                        ic: '➗', cor: '#FFF3D6' },
-    { id: 'mat-financeira', nome: 'Matemática Financeira',             ic: '💰', cor: '#E3F6EB' },
-    { id: 'estatistica',    nome: 'Probabilidade e Estatística',       ic: '📊', cor: '#F1EAFF' },
-    { id: 'bancarios',      nome: 'Conhecimentos Bancários',           ic: '🏦', cor: '#FFF7D1' },
-    { id: 'atualidades',    nome: 'Atualidades do Mercado Financeiro', ic: '📰', cor: '#FDEBE4' },
-    { id: 'informatica',    nome: 'Informática',                       ic: '💻', cor: '#E8EEF6' },
-    { id: 'vendas',         nome: 'Vendas e Negociação',               ic: '🤝', cor: '#FDE8F0' },
-    { id: 'ti',             nome: 'Tecnologia da Informação',          ic: '🧠', cor: '#E4F3F1' }
+    { id: 'portugues',      nome: 'Língua Portuguesa',                 ic: '📖', cor: '#EAF0FF', grupo: 'BÁSICOS',     barra: '#17A35B' },
+    { id: 'ingles',         nome: 'Língua Inglesa',                    ic: '🌎', cor: '#E6F6FB', grupo: 'BÁSICOS',     barra: '#0A45B8' },
+    { id: 'matematica',     nome: 'Matemática',                        ic: '➗', cor: '#FFF3D6', grupo: 'BÁSICOS',     barra: '#E8A200' },
+    { id: 'atualidades',    nome: 'Atualidades do Mercado Financeiro', ic: '📰', cor: '#FDEBE4', grupo: 'BÁSICOS',     barra: '#E0434B' },
+    { id: 'mat-financeira', nome: 'Matemática Financeira',             ic: '💰', cor: '#E3F6EB', grupo: 'ESPECÍFICOS', barra: '#17A35B' },
+    { id: 'estatistica',    nome: 'Probabilidade e Estatística',       ic: '📊', cor: '#F1EAFF', grupo: 'ESPECÍFICOS', barra: '#7B4FE0' },
+    { id: 'bancarios',      nome: 'Conhecimentos Bancários',           ic: '🏦', cor: '#FFF7D1', grupo: 'ESPECÍFICOS', barra: '#0A45B8' },
+    { id: 'informatica',    nome: 'Informática',                       ic: '💻', cor: '#E8EEF6', grupo: 'ESPECÍFICOS', barra: '#0E9AA7' },
+    { id: 'vendas',         nome: 'Vendas e Negociação',               ic: '🤝', cor: '#FDE8F0', grupo: 'ESPECÍFICOS', barra: '#E8A200' },
+    { id: 'ti',             nome: 'Tecnologia da Informação',          ic: '🧠', cor: '#E4F3F1', grupo: 'ESPECÍFICOS', barra: '#17A35B' }
   ];
   var MAT = {};
   MATERIAS.forEach(function (m) { MAT[m.id] = m; });
@@ -45,6 +47,14 @@
     st.flash = st.flash || {};    // índice → 1 (já sei)
     st.sims = st.sims || [];      // histórico de simulados
     st.dias = st.dias || [];      // datas AAAA-MM-DD em que estudou
+    st.meta = st.meta || 20;      // questões por dia
+    st.hoje = st.hoje || { d: '', n: 0 };
+  }
+  function feitasHoje() { return st.hoje.d === hoje() ? st.hoje.n : 0; }
+  function contarHoje(n) {
+    var antes = feitasHoje();
+    st.hoje = { d: hoje(), n: antes + n };
+    if (antes < st.meta && st.hoje.n >= st.meta) setTimeout(function () { confete(); aviso('Meta de hoje batida! 🎉'); }, 400);
   }
   function salvar() { try { localStorage.setItem(CHAVE, JSON.stringify(st)); } catch (e) {} }
   function hoje() { var d = new Date(); return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2); }
@@ -59,7 +69,35 @@
   }
   function responder(q, marcada) {
     st.resp[q.id] = { m: marcada, ok: marcada === q.c };
-    marcarDia(); salvar();
+    contarHoje(1); marcarDia(); salvar();
+  }
+
+  // ─────────── retorno ao responder ───────────
+  var seguidas = 0, tCombo;
+  function vibrar(p) { try { if (navigator.vibrate) navigator.vibrate(p); } catch (e) {} }
+  function reagir(ok) {
+    if (!ok) { seguidas = 0; vibrar([50, 40, 50]); return; }
+    seguidas++; vibrar(25);
+    if (seguidas >= 3) {
+      var c = $('combo');
+      c.textContent = '🔥 ' + seguidas + ' acertos seguidos!';
+      c.classList.add('on'); clearTimeout(tCombo);
+      tCombo = setTimeout(function () { c.classList.remove('on'); }, 1600);
+      if (seguidas % 5 === 0) confete();
+    }
+  }
+  function confete() {
+    var cores = ['#FDE100', '#0A45B8', '#17A35B', '#E0434B', '#FFB800'];
+    for (var i = 0; i < 70; i++) {
+      var s = document.createElement('span');
+      s.className = 'confete';
+      s.style.left = Math.random() * 100 + 'vw';
+      s.style.background = cores[i % cores.length];
+      s.style.animationDuration = (1.6 + Math.random() * 1.6) + 's';
+      s.style.animationDelay = Math.random() * .4 + 's';
+      document.body.appendChild(s);
+      setTimeout(function (x) { x.remove(); }.bind(null, s), 3800);
+    }
   }
 
   // ─────────── utilidades ───────────
@@ -86,16 +124,41 @@
   // Por enquanto só confere o formato do e-mail (igual aos outros apps de membros).
   // Para travar por compra, ligar no ACESSO da Miçanga (webhook Wiapy → Supabase).
   function logado() { try { return !!localStorage.getItem('kitbb-membro'); } catch (e) { return true; } }
+  function nome() { try { return localStorage.getItem('kitbb-nome') || ''; } catch (e) { return ''; } }
   $('form-login').addEventListener('submit', function (e) {
     e.preventDefault();
+    var n = $('nome').value.trim().split(/\s+/)[0] || '';
     var v = $('email').value.trim().toLowerCase();
+    if (!n) { $('erro-login').textContent = 'Como podemos te chamar?'; return; }
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)) { $('erro-login').textContent = 'Digite o e-mail que você usou na compra.'; return; }
-    try { localStorage.setItem('kitbb-membro', v); } catch (x) {}
+    n = n.charAt(0).toUpperCase() + n.slice(1).toLowerCase();
+    try { localStorage.setItem('kitbb-membro', v); localStorage.setItem('kitbb-nome', n); } catch (x) {}
     $('login').classList.add('oculto');
+    render();
+    aviso('Bem-vindo(a), ' + n + '! Bora rumo à aprovação 💛');
   });
-  $('btn-sair').addEventListener('click', function () {
-    try { localStorage.removeItem('kitbb-membro'); } catch (x) {}
-    $('login').classList.remove('oculto');
+
+  // ─────────── perfil ───────────
+  $('btn-perfil').addEventListener('click', function () {
+    var email = ''; try { email = localStorage.getItem('kitbb-membro') || ''; } catch (e) {}
+    var metas = [10, 20, 30, 50];
+    modal('<h3>' + esc(nome() || 'Meu perfil') + '</h3><p>' + esc(email) + '</p>' +
+      '<div style="margin-top:10px"><div class="perfil-l"><span>Meta diária</span><span class="opcoes" id="m-metas">' +
+      metas.map(function (m) { return '<button class="' + (st.meta === m ? 'on' : '') + '" data-meta="' + m + '">' + m + '</button>'; }).join('') + '</span></div>' +
+      '<div class="perfil-l"><span>Questões respondidas</span><b>' + Object.keys(st.resp).length + '</b></div>' +
+      '<div class="perfil-l"><span>Simulados feitos</span><b>' + st.sims.length + '</b></div></div>' +
+      '<div class="modal-acoes"><button class="btn btn-sec toque" id="btn-zerar" style="flex:1">Zerar progresso</button><button class="btn toque" style="background:var(--fundo)" id="btn-sair">Sair</button></div>');
+    $('m-metas').querySelectorAll('button').forEach(function (b) {
+      b.onclick = function () {
+        st.meta = +b.dataset.meta; salvar(); render();
+        $('m-metas').querySelectorAll('button').forEach(function (x) { x.classList.toggle('on', x === b); });
+      };
+    });
+    $('btn-sair').onclick = function () {
+      try { localStorage.removeItem('kitbb-membro'); } catch (x) {}
+      fecharModal(); $('login').classList.remove('oculto');
+    };
+    $('btn-zerar').onclick = confirmarZerar;
   });
 
   // ─────────── abas ───────────
@@ -111,15 +174,24 @@
   function linhaMateria(m, extra) {
     var s = stats(daMateria(m.id));
     var pct = s.total ? Math.round(s.feitas / s.total * 100) : 0;
-    var sub = extra || (s.feitas + ' de ' + s.total + ' questões' + (s.pct !== null ? ' · ' + s.pct + '% de acerto' : ''));
-    return '<button class="mat toque" data-mat="' + m.id + '"><span class="mat-ic" style="background:' + m.cor + '">' + m.ic + '</span>' +
-      '<span class="mat-meio"><b>' + esc(m.nome) + '</b><small>' + sub + '</small><span class="trilho" style="display:block"><i style="width:' + pct + '%"></i></span></span>' + SETA + '</button>';
+    var sub = extra || (s.feitas + '/' + s.total + ' questões · ' + (s.pct !== null ? s.pct + '% de acerto' : pct + '%') + ' · <em>' + m.grupo + '</em>');
+    return '<button class="mat toque" data-mat="' + m.id + '"><span class="mat-ic" style="background:' + m.cor + '">' + m.ic +
+      '<img src="assets/m-' + m.id + '.webp" alt="" loading="lazy" onerror="this.remove()"></span>' +
+      '<span class="mat-meio"><b>' + esc(m.nome) + '</b><span class="trilho" style="display:block"><i style="background:' + m.barra + ';width:' + Math.max(pct, s.feitas ? 3 : 0) + '%"></i></span><small>' + sub + '</small></span>' + SETA + '</button>';
   }
   function materiasComQuestoes() { return MATERIAS.filter(function (m) { return daMateria(m.id).length; }); }
 
   function render() {
     var h = new Date().getHours();
-    $('saudacao').textContent = h < 12 ? 'Bom dia' : h < 18 ? 'Boa tarde' : 'Boa noite';
+    var n = nome();
+    $('saudacao').textContent = (h < 12 ? 'Bom dia' : h < 18 ? 'Boa tarde' : 'Boa noite') + (n ? ', ' + n : '');
+    $('btn-perfil').textContent = (n || 'E').charAt(0).toUpperCase();
+    var fh = feitasHoje(), batida = fh >= st.meta;
+    $('meta').classList.toggle('batida', batida);
+    $('meta-tit').textContent = batida ? 'Meta de hoje batida! 🎉' : 'Meta de hoje';
+    $('meta-sub').textContent = Math.min(fh, st.meta) + ' de ' + st.meta + ' questões' + (batida ? ' · continue assim' : '');
+    $('meta-barra').style.width = Math.min(100, fh / st.meta * 100) + '%';
+    $('meta-btn').textContent = fh ? 'Continuar' : 'Começar';
     var geral = stats(Q);
     var pct = Q.length ? Math.round(geral.feitas / Q.length * 100) : 0;
     $('anel-pct').textContent = pct + '%';
@@ -127,10 +199,9 @@
     $('n-feitas').textContent = geral.feitas;
     $('n-acerto').textContent = geral.pct === null ? '–' : geral.pct + '%';
     var dias = ofensiva();
-    $('chip-ofensiva').textContent = '🔥 ' + dias + (dias === 1 ? ' dia' : ' dias');
+    $('chip-ofensiva').textContent = '🔥 ' + dias + (dias === 1 ? ' dia seguido' : ' dias seguidos');
     var erros = Q.filter(function (q) { var r = st.resp[q.id]; return r && !r.ok; }).length;
     $('sub-erros').textContent = erros ? erros + ' para refazer' : 'Nenhum erro ainda';
-    $('total-q').textContent = Q.length + ' questões';
 
     var lista = materiasComQuestoes().map(function (m) { return linhaMateria(m); }).join('');
     $('lista-inicio').innerHTML = lista;
@@ -242,6 +313,7 @@
         var k = +b.dataset.k;
         sessao.feitasAgora[q.id] = k;
         responder(q, k);
+        reagir(k === q.c);
         revelar(q, k, true);
       });
     });
@@ -381,7 +453,7 @@
       if (k !== undefined) st.resp[q.id] = { m: k, ok: ok };
     });
     var r = { data: hoje(), certas: certas, total: sim.ids.length, tempo: SIM_SEGUNDOS - Math.max(0, sim.restante), porMat: porMat };
-    st.sims.push(r); marcarDia(); salvar();
+    st.sims.push(r); contarHoje(Object.keys(sim.marc).length); marcarDia(); salvar();
     try { localStorage.removeItem('kitbb-sim'); } catch (e) {}
     var ids = sim.ids; sim = null;
     fecharTela('tela-sim');
@@ -389,6 +461,7 @@
   }
   function mostrarResultado(r, ids, revisao) {
     var p = Math.round(r.certas / r.total * 100);
+    if (p >= 70) setTimeout(confete, 300);
     var html = '<div class="cartao res-top"><div class="nota-g" style="color:' + corPct(p) + '">' + r.certas + '<span style="font-size:24px;color:var(--cinza)">/' + r.total + '</span></div>' +
       '<p>' + p + '% de acerto · ' + fmtTempo(r.tempo) + ' de prova</p></div>' +
       '<div class="titulo-sec"><h2>Por matéria</h2></div><div class="cartao">';
@@ -451,7 +524,7 @@
   $('flash-rev').addEventListener('click', function () { proximoFlash(false); });
 
   // ─────────── zerar ───────────
-  $('btn-zerar').addEventListener('click', function () {
+  function confirmarZerar() {
     modal('<h3>Zerar seu progresso?</h3><p>Apaga as respostas, os simulados e os flashcards marcados neste aparelho. Não dá para desfazer.</p>' +
       '<div class="modal-acoes"><button class="btn btn-sec toque" id="m-nao">Cancelar</button><button class="btn toque" style="background:var(--verm);color:#fff" id="m-sim">Zerar</button></div>');
     $('m-nao').onclick = fecharModal;
@@ -459,7 +532,7 @@
       try { localStorage.removeItem(CHAVE); localStorage.removeItem('kitbb-sim'); } catch (e) {}
       carregar(); fecharModal(); render(); aviso('Progresso zerado.');
     };
-  });
+  }
 
   carregar();
   if (!logado()) $('login').classList.remove('oculto');

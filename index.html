@@ -6,15 +6,18 @@
 <meta name="theme-color" content="#FFFFFF">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<title>Kit do Escriturário</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%231D3FBF'/%3E%3Cpath d='M18 44V20h8l6 12 6-12h8v24h-7V31l-7 13-7-13v13z' fill='%23FFD21F'/%3E%3C/svg%3E">
+<title>Kit do Escriturário · Banco do Brasil</title>
+<link rel="icon" href="assets/icone-192.png">
+<link rel="apple-touch-icon" href="assets/icone-180.png">
+<link rel="manifest" href="manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap">
 <style>
 :root{
-  --az:#1D3FBF; --az-esc:#132C8F; --az-nevoa:#EAF0FF; --az-claro:#C9D6FF;
-  --am:#FFD21F; --am-esc:#E0B400; --am-nevoa:#FFF7D1;
+  /* cores do logo do BB: azul #003882 e amarelo #FDE100 */
+  --az:#0A45B8; --az-esc:#003882; --az-nevoa:#EAF0FF; --az-claro:#C9D6FF;
+  --am:#FDE100; --am-esc:#D9B800; --am-nevoa:#FFF9CC;
   --verde:#17A35B; --verde-esc:#0E8547; --verde-nevoa:#E3F6EB;
   --verm:#E0434B; --verm-nevoa:#FDE8E9;
   --tinta:#16213A; --cinza:#65708A; --cinza-claro:#9AA3B8;
@@ -39,11 +42,31 @@ input{font-family:inherit}
 .topo{position:sticky; top:0; z-index:40; background:var(--branco);
   padding:calc(env(safe-area-inset-top) + 10px) 16px 10px;
   display:flex; align-items:center; gap:10px; box-shadow:0 1px 0 var(--linha)}
-.marca{width:38px; height:38px; border-radius:11px; background:var(--az); display:grid; place-items:center; flex:none}
-.marca svg{width:24px; height:24px}
-.topo-txt{flex:1; min-width:0; text-align:center; margin-right:48px}
-.topo-txt b{display:block; font-size:15px; font-weight:800; letter-spacing:-.01em}
-.topo-txt small{display:block; font-size:9.5px; font-weight:700; letter-spacing:.14em; color:var(--cinza); text-transform:uppercase; margin-top:1px}
+.marca{width:40px; height:40px; border-radius:12px; background:var(--am); display:grid; place-items:center; flex:none; box-shadow:0 2px 8px rgba(0,56,130,.18)}
+.marca img{width:27px; height:27px}
+.topo-txt{flex:1; min-width:0; text-align:center}
+.topo-txt b{display:block; font-size:16px; font-weight:800; letter-spacing:-.01em}
+.topo-txt small{display:block; font-size:9.5px; font-weight:800; letter-spacing:.2em; color:var(--az-esc); text-transform:uppercase; margin-top:1px}
+.avatar{width:40px; height:40px; border-radius:50%; background:var(--az-nevoa); color:var(--az-esc); font-weight:900; font-size:15px; display:grid; place-items:center; flex:none; border:2px solid var(--am)}
+.aviso-legal{font-size:10.5px; color:var(--cinza-claro); text-align:center; line-height:1.45; margin:22px 8px 0}
+
+/* ─────────── meta do dia ─────────── */
+.meta{margin-top:12px; padding:14px 16px; display:flex; align-items:center; gap:13px}
+.meta-ic{width:44px; height:44px; border-radius:13px; background:var(--am-nevoa); display:grid; place-items:center; font-size:22px; flex:none}
+.meta-meio{flex:1; min-width:0}
+.meta-meio b{font-size:14px; font-weight:800; display:block}
+.meta-meio small{font-size:12px; color:var(--cinza); display:block; margin-top:1px}
+.meta .trilho i{background:linear-gradient(90deg,var(--am-esc),#FFB800)}
+.meta button{background:var(--az); color:#fff; font-weight:800; font-size:12.5px; padding:9px 13px; border-radius:11px; flex:none}
+.meta.batida{background:linear-gradient(135deg,#FFFBE0,#FFF3A8)}
+
+/* combo e confete */
+.combo{position:fixed; top:calc(env(safe-area-inset-top) + 70px); left:50%; transform:translate(-50%,-10px) scale(.9); opacity:0; z-index:80;
+  background:linear-gradient(135deg,#FFE54D,#FFB800); color:#3A2A00; font-weight:900; font-size:15px; padding:10px 18px; border-radius:999px;
+  box-shadow:0 8px 24px rgba(255,184,0,.4); transition:.3s cubic-bezier(.2,.9,.3,1.3); pointer-events:none; white-space:nowrap}
+.combo.on{opacity:1; transform:translate(-50%,0) scale(1)}
+.confete{position:fixed; top:-12px; width:9px; height:14px; z-index:99; pointer-events:none; border-radius:2px; animation:cai linear forwards}
+@keyframes cai{to{transform:translateY(105vh) rotate(720deg); opacity:.9}}
 .aba{display:none; padding:14px 16px calc(var(--barra) + 28px + env(safe-area-inset-bottom))}
 .aba.on{display:block}
 
@@ -61,8 +84,8 @@ input{font-family:inherit}
 .cartao{background:var(--branco); border-radius:18px; box-shadow:var(--sombra)}
 
 /* ─────────── início ─────────── */
-.hero{border-radius:20px; overflow:hidden; aspect-ratio:16/8.4; box-shadow:var(--sombra)}
-.hero svg{width:100%; height:100%; display:block}
+.hero{border-radius:20px; overflow:hidden; aspect-ratio:16/9; box-shadow:var(--sombra); position:relative; background:#1B2F8F}
+.hero svg, .hero img{width:100%; height:100%; display:block; object-fit:cover; position:absolute; inset:0}
 .painel{margin-top:14px; border-radius:22px; padding:18px 18px 16px; color:#fff;
   background:linear-gradient(145deg,#2A52E0 0%,var(--az) 45%,var(--az-esc) 100%); box-shadow:0 12px 30px rgba(29,63,191,.28)}
 .painel-topo{display:flex; justify-content:space-between; align-items:flex-start}
@@ -82,7 +105,8 @@ input{font-family:inherit}
 .treino{border-radius:18px; padding:14px; text-align:left; color:#fff; min-height:104px; display:flex; flex-direction:column; justify-content:space-between; position:relative; overflow:hidden}
 .treino b{font-size:14.5px; font-weight:800; display:block}
 .treino small{font-size:11.5px; opacity:.88; font-weight:500}
-.treino .ic{width:34px; height:34px; border-radius:10px; background:rgba(255,255,255,.2); display:grid; place-items:center; font-size:18px}
+.treino .ic{width:40px; height:40px; border-radius:12px; background:rgba(255,255,255,.2); display:grid; place-items:center; font-size:19px; position:relative; overflow:hidden}
+.ic img, .mat-ic img{position:absolute; inset:0; width:100%; height:100%; object-fit:cover}
 .t-rapido{background:linear-gradient(145deg,#3A63F0,#1D3FBF)}
 .t-sim{background:linear-gradient(145deg,#1FB566,#0E8547)}
 .t-erros{background:linear-gradient(145deg,#F05A62,#C62F37)}
@@ -92,10 +116,12 @@ input{font-family:inherit}
 .materias{padding:4px 0}
 .mat{display:flex; align-items:center; gap:12px; width:100%; padding:12px 14px; text-align:left; border-bottom:1px solid var(--linha)}
 .mat:last-child{border-bottom:0}
-.mat-ic{width:44px; height:44px; border-radius:13px; display:grid; place-items:center; font-size:21px; flex:none}
+.mat-ic{width:58px; height:58px; border-radius:14px; display:grid; place-items:center; font-size:24px; flex:none; position:relative; overflow:hidden; box-shadow:0 2px 6px rgba(22,33,58,.12)}
 .mat-meio{flex:1; min-width:0}
-.mat-meio b{display:block; font-size:14px; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
-.mat-meio small{display:block; font-size:11.5px; color:var(--cinza); margin-top:2px}
+.mat-meio b{display:block; font-size:14.5px; font-weight:700; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.mat-meio small{display:block; font-size:11.5px; color:var(--cinza); margin-top:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.mat-meio small em{font-style:normal; font-size:9.5px; font-weight:800; letter-spacing:.08em; color:var(--cinza-claro)}
+.mat-meio .trilho{margin-top:6px}
 .trilho{height:6px; border-radius:6px; background:var(--linha); margin-top:7px; overflow:hidden}
 .trilho i{display:block; height:100%; border-radius:6px; background:var(--verde); transition:width .4s}
 .seta{color:var(--cinza-claro); flex:none}
@@ -213,16 +239,29 @@ input{font-family:inherit}
 .zerar{display:block; margin:26px auto 0; font-size:12.5px; color:var(--cinza); text-decoration:underline; font-weight:600}
 
 /* ─────────── login ─────────── */
-.login{position:fixed; inset:0; z-index:90; background:linear-gradient(170deg,#2A52E0 0%,var(--az) 40%,var(--az-esc) 100%); display:flex; flex-direction:column; justify-content:center; padding:24px}
-.login-in{max-width:400px; width:100%; margin:0 auto; color:#fff}
-.login .marca{width:64px; height:64px; border-radius:18px; background:var(--am); margin-bottom:18px}
-.login .marca svg{width:38px; height:38px}
-.login h1{font-size:28px; font-weight:900; letter-spacing:-.02em; line-height:1.15}
-.login p{opacity:.85; font-size:14.5px; line-height:1.5; margin-top:8px}
-.login form{margin-top:26px; display:flex; flex-direction:column; gap:10px}
+.login{position:fixed; inset:0; z-index:90; background:var(--az-esc); overflow-y:auto; display:flex; flex-direction:column}
+.login-capa{position:relative; flex:1 0 46vh; min-height:300px; background:linear-gradient(170deg,#1747C9,var(--az-esc)); overflow:hidden}
+.login-capa img.foto{position:absolute; inset:0; width:100%; height:100%; object-fit:cover}
+.login-capa::after{content:""; position:absolute; inset:0; background:linear-gradient(to bottom,rgba(0,40,100,.1) 40%,var(--az-esc) 100%)}
+.login-faixa{position:absolute; z-index:2; top:calc(env(safe-area-inset-top) + 18px); left:50%; transform:translateX(-50%); width:min(78%,330px);
+  box-shadow:0 8px 24px rgba(0,0,0,.25); border-radius:4px}
+.login-faixa img{display:block; width:100%}
+.login-in{max-width:420px; width:100%; margin:-40px auto 0; color:#fff; padding:0 24px calc(28px + env(safe-area-inset-bottom)); position:relative; z-index:3}
+.login h1{font-size:30px; font-weight:900; letter-spacing:-.02em; line-height:1.1}
+.login h1 span{color:var(--am)}
+.login p{opacity:.88; font-size:14.5px; line-height:1.5; margin-top:8px}
+.login-selos{display:flex; gap:6px; flex-wrap:wrap; margin-top:12px}
+.login-selos span{background:rgba(255,255,255,.12); border-radius:999px; padding:5px 10px; font-size:11.5px; font-weight:700}
+.login form{margin-top:18px; display:flex; flex-direction:column; gap:10px}
 .login input{height:54px; border-radius:14px; border:0; padding:0 16px; font-size:16px; color:var(--tinta)}
-.login button{height:54px; border-radius:14px; background:var(--am); color:#2B2000; font-size:16px; font-weight:900}
+.login button{height:56px; border-radius:14px; background:var(--am); color:var(--az-esc); font-size:16.5px; font-weight:900; box-shadow:0 8px 20px rgba(253,225,0,.25)}
 .login .erro{color:#FFD7D9; font-size:13px; min-height:18px}
+.login .aviso-legal{color:rgba(255,255,255,.5); margin-top:14px}
+.perfil-l{display:flex; justify-content:space-between; align-items:center; padding:12px 0; border-bottom:1px solid var(--linha); font-size:14px}
+.perfil-l:last-child{border-bottom:0}
+.opcoes{display:flex; gap:6px}
+.opcoes button{padding:7px 11px; border-radius:10px; background:var(--fundo); font-weight:800; font-size:13px; color:var(--cinza)}
+.opcoes button.on{background:var(--az); color:#fff}
 
 .aviso{position:fixed; left:50%; bottom:calc(var(--barra) + 20px + env(safe-area-inset-bottom)); transform:translateX(-50%) translateY(20px); opacity:0;
   background:var(--tinta); color:#fff; padding:11px 16px; border-radius:12px; font-size:13.5px; font-weight:600; z-index:100; transition:.25s; pointer-events:none; max-width:90vw}
@@ -239,22 +278,31 @@ input{font-family:inherit}
 
 <!-- ═══════════ login ═══════════ -->
 <div class="login oculto" id="login">
+  <div class="login-capa">
+    <img class="foto" src="assets/capa-login.webp" alt="" onerror="this.remove()">
+    <div class="login-faixa"><img src="assets/bb-logo.svg" alt="Banco do Brasil"></div>
+  </div>
   <div class="login-in">
-    <div class="marca"><svg viewBox="0 0 64 64"><path d="M14 48V16h10l8 16 8-16h10v32h-9V31l-9 17-9-17v17z" fill="#1D3FBF"/></svg></div>
-    <h1>Kit do Escriturário</h1>
-    <p>Questões comentadas, simulado no formato da prova e flashcards para o concurso do Banco do Brasil.</p>
+    <h1>Kit do <span>Escriturário</span></h1>
+    <p>Mais de 1.000 questões da Cesgranrio comentadas, simulado no formato da prova e flashcards para o concurso do Banco do Brasil.</p>
+    <div class="login-selos"><span>📚 1.003 questões</span><span>⏱️ Simulado 5h</span><span>🃏 205 flashcards</span></div>
     <form id="form-login" novalidate>
+      <input type="text" id="nome" placeholder="Seu primeiro nome" autocomplete="given-name" maxlength="30">
       <input type="email" id="email" placeholder="Seu e-mail de compra" autocomplete="email" inputmode="email">
       <div class="erro" id="erro-login"></div>
       <button type="submit" class="toque">Entrar no Kit</button>
     </form>
+    <p class="aviso-legal">App de estudos independente, sem vínculo oficial com o Banco do Brasil ou com a Fundação Cesgranrio.</p>
   </div>
 </div>
 
+<div class="combo" id="combo"></div>
+
 <div class="app">
   <header class="topo">
-    <div class="marca"><svg viewBox="0 0 64 64"><path d="M14 48V16h10l8 16 8-16h10v32h-9V31l-9 17-9-17v17z" fill="#FFD21F"/></svg></div>
-    <div class="topo-txt"><b>Kit do Escriturário</b><small>Concurso Banco do Brasil</small></div>
+    <div class="marca"><img src="assets/bb-simbolo.svg" alt=""></div>
+    <div class="topo-txt"><b>Kit do Escriturário</b><small>Banco do Brasil</small></div>
+    <button class="avatar toque" id="btn-perfil" aria-label="Meu perfil">E</button>
   </header>
 
   <!-- ═══════════ início ═══════════ -->
@@ -298,17 +346,18 @@ input{font-family:inherit}
         <rect x="0" y="304" width="640" height="32" fill="#17214F"/>
         <g stroke="#FFD21F" stroke-width="3" opacity=".6"><path d="M20 320h40M110 320h40M200 320h40M290 320h40M380 320h40M470 320h40M560 320h40"/></g>
       </svg>
+      <img src="assets/hero.webp" alt="" onerror="this.remove()">
     </div>
 
     <div class="painel">
       <div class="painel-topo">
-        <div><h3 id="saudacao">Boa noite</h3><p>Futuro escriturário do BB</p></div>
+        <div><h3 id="saudacao">Boa noite</h3><p>Futuro escriturário do Banco do Brasil</p></div>
         <div class="chip-ofensiva" id="chip-ofensiva">🔥 0 dias</div>
       </div>
       <div class="anel">
         <svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="50" fill="none" stroke="rgba(255,255,255,.18)" stroke-width="11"/>
-          <circle id="anel-arco" cx="60" cy="60" r="50" fill="none" stroke="#FFD21F" stroke-width="11" stroke-linecap="round" stroke-dasharray="314.16" stroke-dashoffset="314.16" style="transition:stroke-dashoffset .8s"/></svg>
-        <div class="anel-txt"><b id="anel-pct">0%</b><small>do kit feito</small></div>
+          <circle id="anel-arco" cx="60" cy="60" r="50" fill="none" stroke="#FDE100" stroke-width="11" stroke-linecap="round" stroke-dasharray="314.16" stroke-dashoffset="314.16" style="transition:stroke-dashoffset .8s"/></svg>
+        <div class="anel-txt"><b id="anel-pct">0%</b><small>pronto</small></div>
       </div>
       <div class="painel-rodape">
         <div>✅ <span><b id="n-feitas">0</b> questões</span></div>
@@ -316,16 +365,23 @@ input{font-family:inherit}
       </div>
     </div>
 
-    <div class="titulo-sec"><h2>Treinos de Banca</h2></div>
-    <div class="treinos">
-      <button class="treino t-rapido toque" data-acao="rapido"><span class="ic">⚡</span><span><b>Treino Rápido</b><small>10 questões sorteadas</small></span></button>
-      <button class="treino t-sim toque" data-acao="simulado"><span class="ic">⏱️</span><span><b>Simulado</b><small>70 questões · 5 horas</small></span></button>
-      <button class="treino t-erros toque" data-acao="erros"><span class="ic">🔁</span><span><b>Revisar Erros</b><small id="sub-erros">Refaça o que errou</small></span></button>
-      <button class="treino t-flash toque" data-acao="flash"><span class="ic">🃏</span><span><b>Flashcards</b><small>Revisão rápida</small></span></button>
+    <div class="cartao meta" id="meta">
+      <span class="meta-ic">🎯</span>
+      <span class="meta-meio"><b id="meta-tit">Meta de hoje</b><small id="meta-sub">0 de 20 questões</small><span class="trilho" style="display:block"><i id="meta-barra" style="width:0"></i></span></span>
+      <button class="toque" data-acao="rapido" id="meta-btn">Treinar</button>
     </div>
 
-    <div class="titulo-sec"><h2>Matérias</h2><span id="total-q"></span></div>
+    <div class="titulo-sec"><h2>Treinos de Banca</h2></div>
+    <div class="treinos">
+      <button class="treino t-rapido toque" data-acao="rapido"><span class="ic">⚡<img src="assets/t-rapido.webp" alt="" onerror="this.remove()"></span><span><b>Treino Rápido</b><small>10 questões sorteadas</small></span></button>
+      <button class="treino t-sim toque" data-acao="simulado"><span class="ic">⏱️<img src="assets/t-simulado.webp" alt="" onerror="this.remove()"></span><span><b>Simulado</b><small>70 questões · 5 horas</small></span></button>
+      <button class="treino t-erros toque" data-acao="erros"><span class="ic">🔁<img src="assets/t-erros.webp" alt="" onerror="this.remove()"></span><span><b>Revisar Erros</b><small id="sub-erros">Refaça o que errou</small></span></button>
+      <button class="treino t-flash toque" data-acao="flash"><span class="ic">🃏<img src="assets/t-flash.webp" alt="" onerror="this.remove()"></span><span><b>Flashcards</b><small>205 cartões</small></span></button>
+    </div>
+
+    <div class="titulo-sec"><h2>Ferramentas do Kit</h2><span>Uma ferramenta por matéria</span></div>
     <div class="cartao materias" id="lista-inicio"></div>
+    <p class="aviso-legal">App de estudos independente, sem vínculo oficial com o Banco do Brasil ou com a Fundação Cesgranrio. Questões de provas públicas, com gabarito oficial.</p>
   </section>
 
   <!-- ═══════════ matérias ═══════════ -->
@@ -361,8 +417,6 @@ input{font-family:inherit}
     <div id="p-fraco"></div>
     <div class="titulo-sec"><h2>Desempenho por matéria</h2><span>do pior ao melhor</span></div>
     <div class="cartao materias" id="p-lista"></div>
-    <button class="zerar" id="btn-zerar">Zerar meu progresso</button>
-    <button class="zerar" id="btn-sair" style="margin-top:10px">Sair da conta</button>
   </section>
 </div>
 
